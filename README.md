@@ -1,9 +1,3 @@
-# <a name="1AC68818C17C11E69768003EE1B763F8"></a>Summary
-
-**This repository's only purpose is for testing how GitHub's version of
-MarkDown works.  The contents of the repository will change arbitrarily.  It
-is unlikely that it will ever contain material of importance to you.**
-
 # <p align="center">The U.S. Army Research Laboratory (ARL) Software Release Process for Unrestricted Public Release</p>
 <p align="center">Version 1.0</p>
 <p align="center">14 December 2016</p>

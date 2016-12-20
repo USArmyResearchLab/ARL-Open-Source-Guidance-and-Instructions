@@ -37,8 +37,8 @@ to uniquely identify particular releases of software.
 
 <a name="866BCDF6C17C11E69285003EE1B763F8"></a>**Export Administration
 Regulations (EAR)** Regulations controlling the release of "dual use" items.
-See https://www.bis.doc.gov/index.php/regulations/export-administration-
-regulations-ear for more information.
+See https://www.bis.doc.gov/index.php/regulations/export-administration-regulations-ear
+for more information.
 
 <a name="8809AA14C17C11E691FC003EE1B763F8"></a>**Freedom of Information Action
 (FOIA)** The law that governs which Government records MUST be made available

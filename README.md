@@ -9,6 +9,36 @@ when releasing software source code and software-related material to the
 public, and for accepting software-related contributions from the general
 public.
 
+* Table of Contents
+* (Definitions)[#20721692C17C11E69585003EE1B763F8]
+* (Goals and Rationale)[#21147298C17C11E6BA7B003EE1B763F8]
+    * (Why Releasing Software is Important)[#22AFD814C17C11E6BAC9003EE1B763F8]
+        * (Issues Related to Releasing Source Code)[#25060DEEC17C11E6B53F003EE1B763F8]
+            * (OPSEC and Security)[#267B9930C17C11E6AAEE003EE1B763F8]
+            * (Intellectual Property Issues)[#29EF7A14C17C11E69F71003EE1B763F8]
+            * (Liability and Fitness for Purpose)[#2D0B7162C17C11E6BD34003EE1B763F8]
+        * (The CC0 License and the ARL Contributor License Agreement (ARL CLA))[#2DF49A4AC17C11E69E3A003EE1B763F8]
+        * (Release Rights)[#2FA38FF4C17C11E6A781003EE1B763F8]
+* (Release Instructions)[#32B21988C17C11E687F7003EE1B763F8]
+    * (Major Reviews)[#3449D4BEC17C11E68DD1003EE1B763F8]
+        * (Informal Approval)[#37D9C8B4C17C11E6AE38003EE1B763F8]
+        * (Code Cleanup and Release Preparation)[#3981656EC17C11E6B2AE003EE1B763F8]
+        * (File an ARL Form 1)[#4066B47EC17C11E6BFC7003EE1B763F8]
+        * (Obtain Invention Evaluation Committee (IEC) Approval)[#433214A2C17C11E6952E003EE1B763F8]
+        * (Intellectual Property Review)[#45A6CE62C17C11E6A6C0003EE1B763F8]
+        * (Distribution Methods)[#476F65D4C17C11E69E2F003EE1B763F8]
+        * (Final Release and Principal Developer Responsibilities)[#49715508C17C11E69019003EE1B763F8]
+    * (Minor Reviews)[#4ADBEADCC17C11E6B9BC003EE1B763F8]
+    * (Incorporating External Contributions)[#4D5F4B34C17C11E6ADBB003EE1B763F8]
+    * (A Note on Impact and Metrics)[#A_Note_on_Impact_and_Metrics]
+        * (Evidence of Impact)[#5092761CC17C11E6B23A003EE1B763F8]
+        * (Software Maturity and Software Engineering)[#53A23266C17C11E6BEEE003EE1B763F8]
+* (CC0 1.0 Universal (CC0 1.0) Public Domain Dedication)[#55B06322C17C11E6920E003EE1B763F8]
+* (Contributor License Agreement (CLA))[#D3DC705AC3C411E6BBB4003EE1B763F8]
+* (Legal Analysis - Software Protection & Release Mechanisms)[#D18EB61EC23E11E692E5003EE1B763F8]
+* (Glossary)[#CDCCBA76C23E11E6AB7D003EE1B763F8]
+* (Footnotes)[#93338EDCC17C11E6B720003EE1B763F8]
+
 # <a name="20721692C17C11E69585003EE1B763F8"></a>Definitions
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD",

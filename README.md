@@ -1,5 +1,5 @@
 # <p align="center">The U.S. Army Research Laboratory (ARL) Software Release Process for Unrestricted Public Release</p>
-<p align="center">Version 1.0</p>
+<p align="center">Version 1.0.1</p>
 <p align="center">19 December 2016</p>
 
 # <a name="1FF58AF8C17C11E6B7FC003EE1B763F8"></a>Summary

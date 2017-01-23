@@ -1,6 +1,6 @@
 # <p align="center">The U.S. Army Research Laboratory (ARL) Software Release Process for Unrestricted Public Release</p>
-<p align="center">Version 1.0.1</p>
-<p align="center">19 December 2016</p>
+<p align="center">Version 1.0.2</p>
+<p align="center">23 January 2017</p>
 
 # <a name="1FF58AF8C17C11E6B7FC003EE1B763F8"></a>Summary
 
@@ -729,13 +729,12 @@ A local copy of the license is in the file [LICENSE.txt](LICENSE.txt).
 
 # <a name="D3DC705AC3C411E6BBB4003EE1B763F8"></a>Contributor License Agreement (CLA)
 
-The ARL Contributor License Agreement is currently undergoing legal review to
-ensure that it meets all requirements of the Privacy Act (5 U.S.C. 552a).
-Until the review is complete, ARL projects cannot accept contributions from
-external contributors.  Some contractors and others have already signed the
-appropriate paperwork regarding IP rights and may contribute to ARL-controlled
-projects.  If you have questions regarding this, consult the ARL Chief
-Counsel's Office.
+The ARL Contributor License Agreement (ARL Form 266) can be found
+[here](ARL Form - 266.pdf). Each external contributor must execute and return
+a copy for each project that he or she intends to contribute to.  Once ARL
+receives the executed form, it will remain in force permanently.  Thus,
+external contributors need only execute the form once for each project that
+they plan on contributing to.
 
 # <a name="D18EB61EC23E11E692E5003EE1B763F8"></a>Legal Analysis - Software Protection & Release Mechanisms
 

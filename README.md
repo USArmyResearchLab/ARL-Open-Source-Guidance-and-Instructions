@@ -1,13 +1,15 @@
 # <p align="center">The U.S. Army Research Laboratory (ARL) Software Release Process for Unrestricted Public Release</p>
-<p align="center">Version 1.0.2</p>
-<p align="center">23 January 2017</p>
+<p align="center">Version 1.0.3</p>
+<p align="center">28 February 2017</p>
 
 # <a name="1FF58AF8C17C11E6B7FC003EE1B763F8"></a>Summary
 
 This document provides procedures that ARL Government personnel MUST follow
 when releasing software source code and software-related material to the
 public, and for accepting software-related contributions from the general
-public.
+public.  The `master` branch of this repository is the only official document;
+all other branches are for discussion and development only, and may or may not
+become part of a future official policy.
 
 # Table of Contents
 

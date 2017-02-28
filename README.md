@@ -384,6 +384,10 @@ least the following in it:
 
 The "README" file MUST be a plain-text file in either ASCII or UTF-8 encoding.
 
+The "README" SHOULD describe what valuable contributions the principal
+developers would welcome from the community.  This will help the public focus
+on efforts that are most likely to be accepted into the project.
+
 While only the "README" file is mandatory, other documentation is highly
 desirable.  This can include comments in the source code, high-level design
 documentation, etc.  There are many methods and tools to support this type of

@@ -1,0 +1,36 @@
+{
+    "version": "0.0.1",
+    "agency": "DOD",
+    "projects": [
+        {
+            "name": "This is the name of your project",
+            "organization": "US Army Research Laboratory",
+            "description": "This is a short description of your project",
+            "license": "The URL where your license can be found.",
+            "openSourceProject": 0,
+            "governmentWideReuseProject": 1,
+            "tags": [
+              "policy"
+            ],
+            "contact": {
+              "email": "Your email address"
+            },
+            "status": "Production",
+            "vcs": "git",
+            "repository": "The public URL where your repository can be found.",
+            "homepage": "Your project's public URL",
+            "downloadURL": "Your project's public download URL",
+            "languages": [
+            ],
+            "partners": [
+            ],
+            "exemption": null,
+            "exemptionText": "No exemption requested",
+            "updated": {
+                "lastCommit": "2017-01-23",
+                "metadataLastUpdated": "2017-01-23",
+                "lastModified": "2017-01-23"
+            }
+        }
+    ]
+}

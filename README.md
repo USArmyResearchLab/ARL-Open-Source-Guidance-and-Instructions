@@ -41,6 +41,7 @@ become part of a future official policy.
 * [Legal Analysis - Software Protection & Release Mechanisms](#D18EB61EC23E11E692E5003EE1B763F8)
 * [Glossary](#CDCCBA76C23E11E6AB7D003EE1B763F8)
 * [Footnotes](#93338EDCC17C11E6B720003EE1B763F8)
+* [Example Project](#7494B638FECE11E69868003EE1B763F8)
 
 # <a name="20721692C17C11E69585003EE1B763F8"></a>Definitions
 
@@ -802,4 +803,8 @@ from within ARL; it MUST NOT be publically accessible!
 used within the Linux kernel, it will have been used by very few projects, but
 will have an extraordinary impact.
 
+# <a name="7494B638FECE11E69868003EE1B763F8"></a> Example Project
 
+[SampleProject](SampleProject) contains a simple example project that may
+serve as a starting point for your projects.  Modify the contents as needed to
+suit your needs.

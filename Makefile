@@ -4,7 +4,7 @@ BUILD=bin
 
 all: clean
 	mkdir -p $(BUILD)
-	pdftex arl-form-266.tex --output-directory $(BUILD)
+	pdflatex -output-directory=$(BUILD) arl-form-266.tex
 
 clean:
 	mkdir -p $(BUILD)

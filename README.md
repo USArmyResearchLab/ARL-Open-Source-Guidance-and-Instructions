@@ -118,7 +118,13 @@ it is possible to accidentally violate various laws with even a seemingly
 trivial change<sup>[1](#Footnote_1)</sup>, it is critical that all changes be
 reviewed by a competent Operational Security (OPSEC) officer before release.
 This step is intended to protect ARL personnel from the repercussions of such
-a release by reducing the chances of it occurring in the first place.
+a release by reducing the chances of it occurring in the first place.  Some
+common types of sensitive information include:
+
+* Passwords
+* Usernames
+* DSN phone numbers
+* Links to NIPRNet/SIPRNet
 
 Moreover, just as aggregating unclassified information may raise its
 classification level, combining a set of changes into a whole may also raise

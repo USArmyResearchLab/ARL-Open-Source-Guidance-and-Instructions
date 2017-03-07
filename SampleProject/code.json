@@ -1,9 +1,9 @@
 {
-    "version": "0.0.1",
-    "agency": "DOD",
+    "version": "1.0.0",
+    "agency": "ARL",
     "projects": [
         {
-            "name": "This is the name of your project",
+            "name": "WhizBang",
             "organization": "US Army Research Laboratory",
             "description": "This is a short description of your project",
             "license": "The URL where your license can be found.",

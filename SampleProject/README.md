@@ -4,22 +4,22 @@ Use this template as a starting point for any new U.S. Army Research Laboratory 
 
 **THIS LIST IS EASY, CHECK IT OFF ONE-BY-ONE!**
 
-- [ ] Copy [this `SampleProject` folder](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/archive/master.zip), this is the starting point for your software release
+- [ ] Copy [this `SampleProject` folder](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/archive/master.zip), this is the starting point for your software release.
 - [ ] Identify the major parties that will be responsible for this release process:
-  - [ ] Principal developer (PD) or principal developers
-  - [ ] PD's supervisor(s)
-  - [ ] Level 1 OPSEC officer (no one is permitted to OPSEC-approve material that he or she created)
-  - [ ] The current chair of the Invention Evaluation Committee, or chair's delegate
-  - [ ] ARL Legal
-  - [ ] ARL Public Affairs Office
-  - [ ] Technology Transfer and Outreach Office (T2O2)
-- [ ] Complete a [Major Review](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/README.md#major-reviews) because this is a new unrestricted public software release
-  - [ ] Obtain [informal approval](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/README.md#informal-approval) from the PD's supervisor
-    - [ ] The PD and supervisor work together to determine if adequate [release rights](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/README.md#release-rights) are held by Government.  This will be checked by ARL's Chief Counsel's Office (below in this checklist)
-  - [ ] PD is responsible to [clean up code and prepare for release](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/README.md#code-cleanup-and-release-preparation)
+  - [ ] Principal developer (PD) or principal developers.
+  - [ ] PD's supervisor(s).
+  - [ ] Level 1 OPSEC officer (no one is permitted to OPSEC-approve material that he or she created).
+  - [ ] The current chair of the Invention Evaluation Committee, or chair's delegate.
+  - [ ] ARL Legal.
+  - [ ] ARL Public Affairs Office.
+  - [ ] Technology Transfer and Outreach Office (T2O2).
+- [ ] Complete a [Major Review](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/README.md#major-reviews) because this is a new unrestricted public software release.
+  - [ ] Obtain [informal approval](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/README.md#informal-approval) from the PD's supervisor.
+    - [ ] The PD and supervisor work together to determine if adequate [release rights](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/README.md#release-rights) are held by Government.  This will be checked by ARL's Chief Counsel's Office (below in this checklist).
+  - [ ] PD is responsible to [clean up code and prepare for release](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/README.md#code-cleanup-and-release-preparation).
     * If a project is being formulated, but does not yet have any release products, use the below as a guide for writing the software.
-    * If your code includes a repository with history, consider this checklist for *every* commit in the history
-    - [ ] Remove any embarrassing, disparaging, sensitive or otherwise unprofessional content
+    * If your code includes a repository with history, consider this checklist for *every* commit in the history:
+    - [ ] Remove any embarrassing, disparaging, sensitive or otherwise unprofessional content.
       * Language that would not be used in a professional journal MUST not be used in software.
       * Pay particular attention to: passwords, usernames, DSN phone numbers, links to NIPRNet/SIPRNet.
       * Direct any questions about this to the ARL Public Affairs Office.
@@ -34,18 +34,18 @@ Use this template as a starting point for any new U.S. Army Research Laboratory 
       - [ ] Point to the license or contract covering the software.
       - [ ] Include basic documentation on how to build and use the software.
       - [ ] Use plain-text ASCII or UTF-8 encoding for this `README` file.
-    - [ ] Ensure `README` and all mentions of the project say "ARL `WhizBang`" or the "ARL `WhizBang` project", this adds trademark protection to your project and helps protect ARL interests (replace `WhizBang` with the actual name of your project)
+    - [ ] Ensure `README` and all mentions of the project say "ARL `WhizBang`" or the "ARL `WhizBang` project", this adds trademark protection to your project and helps protect ARL interests (replace `WhizBang` with the actual name of your project).
     - [ ] Explain in the `README` file that external contributors must execute a [Contributor License Agreement](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/README.md#D3DC705AC3C411E6BBB4003EE1B763F8) before their contributions will be accepted.
     - [ ] Add unit tests to your software, to increase assurance of code quality for yourself and users.
-  - [ ] File an [ARL Form 1](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/README.md#file-an-arl-form-1)
+  - [ ] File an [ARL Form 1](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/README.md#file-an-arl-form-1).
     * Note: properly filling in the ARL Form 1, especially [evidence of impact](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/README.md#evidence-of-impact), will maximize the benefit to your metrics.
     - [ ] Write a short abstract describing the software, including the project name, description, and intended purpose.
     - [ ] Submit this abstract and all planned release products (software, source code, documentation, etc.) to the Level 1 OPSEC officer.
       - [ ] OPSEC will review all planned release products and also consider [release rights](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/README.md#release-rights).
       - [ ] Receive "approved for public release; distribution unlimited" response.
-  - [ ] Obtain [Invention Evaluation Committee (IEC) Approval](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/README.md#obtain-invention-evaluation-committee-iec-approval)
+  - [ ] Obtain [Invention Evaluation Committee (IEC) Approval](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/README.md#obtain-invention-evaluation-committee-iec-approval).
     - [ ] PD will send to IEC chair (or chair's delegate) a digitally-signed email containing:
-      - [ ] The abstract that was submitted as a part of the ARL Form 1 process above. (Do not send related software unless the chair requests it.)
+      - [ ] The abstract that was submitted as a part of the ARL Form 1 process above. (Do not send related software unless the chair requests it.).
       - [ ] A list of all software-related inventions that the PD and his or her supervisor believe are contained in the work.
       - [ ] A statement that, in the opinion of the PD and his or her supervisor, all intellectual property, including the listed inventions, should be irrevocably placed in the public domain.
     - [ ] Receive digitally-signed email response stating approximately:
@@ -58,8 +58,8 @@ Use this template as a starting point for any new U.S. Army Research Laboratory 
       * Don't forget to consider software copied off of blogs, sites like http://stackoverflow.com/, and any other sources.
     - [ ] Consider: if not, is there permission from every other rights holder to release all of the other parts under the project's license?
     - [ ] ARL Legal sends digitally-signed email response to PD confirming that there are no IP impediments to releasing the software.
-  - [ ] T2O2 will generate a project on the [ARL GitHub organization](https://github.com/USArmyResearchLab)
-    * If you do not want to use GitHub, or want to use other distribution methods, see further details in the [ARL Release Process](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/README.md#obtain-invention-evaluation-committee-iec-approval)
+  - [ ] T2O2 will generate a project on the [ARL GitHub organization](https://github.com/USArmyResearchLab).
+    * If you do not want to use GitHub, or want to use other distribution methods, see further details in the [ARL Release Process](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/README.md#obtain-invention-evaluation-committee-iec-approval).
     - [ ] PD is responsible for creating their own GitHub account, use your government email address, secure your password and private keys, report your account to supervisor.
     - [ ] Consult with T2O2 when your upload is complete, they will help you publicize your project :-)
     - [ ] PD is responsible for [generating a digital object identifier](https://guides.github.com/activities/citable-code/) (DOI) for this release.

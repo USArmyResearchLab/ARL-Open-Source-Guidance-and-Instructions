@@ -568,8 +568,8 @@ and by a supervisor, which will impact performance metrics.
 
 If the software is approved for final release and there is not yet a project
 for it on GitHub, then the T2O2 will generate a project on the [ARL GitHub
-organization](https://github.com/USArmyResearchLab).  If there is already a
-project on the ARL GitHub organization for the software, then the T2O2 will
+organization site](https://github.com/USArmyResearchLab).  If there is already
+a project on the ARL GitHub organization for the software, then the T2O2 will
 note the release for metrics purposes, but will take no other action.  If an
 author chooses not to use the ARL GitHub organization, he or she MAY request
 that the T2O2 not create a project.  However, as mentioned in Distribution

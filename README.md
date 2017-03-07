@@ -593,9 +593,9 @@ https://guides.github.com/activities/citable-code/.
 
 Minor releases include all releases that the PD, the PD's OPSEC officer, and
 the PD's supervisor do not believe require a major review.  These include bug
-fixes and minor updates.  A minor release only requires review by a level-1
-OPSEC officer before being published.  These reviews are called "minor
-reviews" and are subject to the following:
+fixes and minor updates.  A level-1 OPSEC officer must review the release
+before being published.  These reviews are called "minor reviews" and are
+subject to the following:
 
 * The OPSEC officer MAY also be the technical reviewer for the release.
 * Only if the project as a whole, including the minor changes being proposed
@@ -630,11 +630,10 @@ These steps are REQUIRED for audit purposes.  Without them, ARL cannot prove
 to the Department of the Army that it is properly reviewing material before it
 is released.
 
-If a release appears to be a major release in the opinions of any of the PDs,
-the OPSEC officer, or any of their superiors, then a new ARL Form 1 MUST be
-filed and the full release process described above re-executed.  A major
-release is any release that significantly changes the scope of the project or
-may violate any of the checks described in this document.
+If the PDs, the OPSEC officer, or any of their superiors determine that
+significant changes to the scope of the project or violation of any of the
+checks described in this document have occurred or are about to occur, then
+that person MUST demand that a MAJOR REVIEW occur.
 
 ## <a name="4D5F4B34C17C11E6ADBB003EE1B763F8"></a>Incorporating External Contributions
 

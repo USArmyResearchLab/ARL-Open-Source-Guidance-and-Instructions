@@ -1,13 +1,13 @@
 # ARL NEW UNRESTRICTED SOFTWARE RELEASE TEMPLATE
 
-Use this template as a starting point for any new U.S. Army Research Laboratory (ARL) unrestricted public software release. This template follows the [The U.S. Army Research Laboratory (ARL) Software Release Process for Unrestricted Public Release](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions), version 1.0.3 ("ARL Release Process"). All absolute requirements and many recommendations, noted, are included below. If you are not able to complete a step listed below, read the full ARL Release Process to determine if you may continue with the process or if you must stop.
+Use this template as a starting point for any new U.S. Army Research Laboratory (ARL) unrestricted public software release. This template follows the [The U.S. Army Research Laboratory (ARL) Software Release Process for Unrestricted Public Release](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions), version 1.0.3 ("ARL Release Process"). All absolute requirements, and many recommendations, are included below. If you are not able to complete a step listed below, read the full ARL Release Process to determine if you may continue with the process or if you must stop.
 
 **THIS LIST IS EASY, CHECK IT OFF ONE-BY-ONE!**
 
 - [ ] Copy [this `SampleProject` folder](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/archive/master.zip), this is the starting point for your software release
 - [ ] Identify the major parties that will be responsible for this release process:
-  - [ ] Principal developer (PD)
-  - [ ] PD's supervisor
+  - [ ] Principal developer (PD) or principal developers
+  - [ ] PD's supervisor(s)
   - [ ] Level 1 OPSEC officer (no one is permitted to OPSEC-approve material that he or she created)
   - [ ] The current chair of the Invention Evaluation Committee, or chair's delegate
   - [ ] ARL Legal
@@ -15,7 +15,7 @@ Use this template as a starting point for any new U.S. Army Research Laboratory 
   - [ ] Technology Transfer and Outreach Office (T2O2)
 - [ ] Complete a [Major Review](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/README.md#major-reviews) because this is a new unrestricted public software release
   - [ ] Obtain [informal approval](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/README.md#informal-approval) from the PD's supervisor
-    - [ ] The supervisor will consider if adequate [release rights](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/README.md#release-rights) are held by Government
+    - [ ] The PD and supervisor work together to determine if adequate [release rights](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/README.md#release-rights) are held by Government.  This will be checked by ARL's Chief Counsel's Office (below in this checklist)
   - [ ] PD is responsible to [clean up code and prepare for release](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/README.md#code-cleanup-and-release-preparation)
     * If a project is being formulated, but does not yet have any release products, use the below as a guide for writing the software.
     * If your code includes a repository with history, consider this checklist for *every* commit in the history

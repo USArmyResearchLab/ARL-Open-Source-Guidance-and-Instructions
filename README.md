@@ -567,13 +567,14 @@ and by a supervisor, which will impact performance metrics.
 ### <a name="49715508C17C11E69019003EE1B763F8"></a>Final Release and Principal Developer Responsibilities
 
 If the software is approved for final release and there is not yet a project
-for it on GitHub, then the T2O2 will generate a project on the ARL GitHub
-site.  If there is already a project on the ARL GitHub site for the software,
-then the T2O2 will note the release for metrics purposes, but will take no
-other action.  If an author chooses not to use the ARL GitHub site, he or she
-MAY request that the T2O2 not create a project.  However, as mentioned in
-Distribution Methods, it is strongly RECOMMENDED that GitHub be used to
-distribute software.
+for it on GitHub, then the T2O2 will generate a project on the [ARL GitHub
+organization site](https://github.com/USArmyResearchLab).  If there is already
+a project on the ARL GitHub organization for the software, then the T2O2 will
+note the release for metrics purposes, but will take no other action.  If an
+author chooses not to use the ARL GitHub organization, he or she MAY request
+that the T2O2 not create a project.  However, as mentioned in Distribution
+Methods, it is strongly RECOMMENDED that GitHub be used to distribute
+software.
 
 The PDs SHOULD put their software on their project's site.  The T2O2 will
 publicize this site on behalf of the PDs. The software MAY also be distributed

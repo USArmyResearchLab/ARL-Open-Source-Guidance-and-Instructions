@@ -464,7 +464,7 @@ be cleared for release, then the changes are not cleared for release either.
 To be cleared for release, the project as a whole MUST receive an "Approved
 for public release; distribution unlimited" statement.  Finally, no one is
 permitted to OPSEC-approve material that he or she created.  Review [RELEASE
-RIGHTS](#release-rights) for what needs to be considered.
+RIGHTS](#2FA38FF4C17C11E6A781003EE1B763F8) for what needs to be considered.
 
 ### <a name="433214A2C17C11E6952E003EE1B763F8"></a>Obtain Invention Evaluation Committee (IEC) Approval
 

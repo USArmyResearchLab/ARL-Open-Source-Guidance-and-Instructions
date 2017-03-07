@@ -303,8 +303,9 @@ Before developer(s) release software, they MUST obtain informal approval from
 their supervisor(s).  If their supervisors do not approve release of the
 software, then the software MUST NOT be released.  Do not continue with this
 process.  When deciding if a project can be released, review the requirements
-of RELEASE RIGHTS.  The requirements in that chapter MUST be met before any
-software or related materials are released.
+of [RELEASE RIGHTS](#2FA38FF4C17C11E6A781003EE1B763F8).  The requirements in
+that chapter MUST be met before any software or related materials are
+released.
 
 ### <a name="3981656EC17C11E6B2AE003EE1B763F8"></a>Code Cleanup and Release Preparation
 
@@ -462,8 +463,8 @@ the changes are cleared for public release, if the release as a whole cannot
 be cleared for release, then the changes are not cleared for release either.
 To be cleared for release, the project as a whole MUST receive an "Approved
 for public release; distribution unlimited" statement.  Finally, no one is
-permitted to OPSEC-approve material that he or she created.  Review RELEASE
-RIGHTS for what needs to be considered.
+permitted to OPSEC-approve material that he or she created.  Review [RELEASE
+RIGHTS](#2FA38FF4C17C11E6A781003EE1B763F8) for what needs to be considered.
 
 ### <a name="433214A2C17C11E6952E003EE1B763F8"></a>Obtain Invention Evaluation Committee (IEC) Approval
 

@@ -337,7 +337,7 @@ Because of the wide variety of programming languages in use, project goals,
 etc., ARL wants to avoid forcing a single process on any developers or group.
 For this reason, ARL has chosen a minimal set of requirements and provides
 some best practice suggestions.  Individual implementation of the voluntary
-portions is recommended as they may have an effect on impact and metrics.  See
+portions is RECOMMENDED as they may have an effect on impact and metrics.  See
 [A Note on Impact and Metrics](#A_Note_on_Impact_and_Metrics) for details on
 metrics.
 

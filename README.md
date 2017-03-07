@@ -304,8 +304,9 @@ Before developer(s) release software, they MUST obtain informal approval from
 their supervisor(s).  If their supervisors do not approve release of the
 software, then the software MUST NOT be released.  Do not continue with this
 process.  When deciding if a project can be released, review the requirements
-of RELEASE RIGHTS.  The requirements in that chapter MUST be met before any
-software or related materials are released.
+of [RELEASE RIGHTS](#2FA38FF4C17C11E6A781003EE1B763F8).  The requirements in
+that chapter MUST be met before any software or related materials are
+released.
 
 ### <a name="3981656EC17C11E6B2AE003EE1B763F8"></a>Code Cleanup and Release Preparation
 
@@ -337,7 +338,7 @@ Because of the wide variety of programming languages in use, project goals,
 etc., ARL wants to avoid forcing a single process on any developers or group.
 For this reason, ARL has chosen a minimal set of requirements and provides
 some best practice suggestions.  Individual implementation of the voluntary
-portions is recommended as they may have an effect on impact and metrics.  See
+portions is RECOMMENDED as they may have an effect on impact and metrics.  See
 [A Note on Impact and Metrics](#A_Note_on_Impact_and_Metrics) for details on
 metrics.
 
@@ -463,8 +464,8 @@ the changes are cleared for public release, if the release as a whole cannot
 be cleared for release, then the changes are not cleared for release either.
 To be cleared for release, the project as a whole MUST receive an "Approved
 for public release; distribution unlimited" statement.  Finally, no one is
-permitted to OPSEC-approve material that he or she created.  Review RELEASE
-RIGHTS for what needs to be considered.
+permitted to OPSEC-approve material that he or she created.  Review [RELEASE
+RIGHTS](#2FA38FF4C17C11E6A781003EE1B763F8) for what needs to be considered.
 
 ### <a name="433214A2C17C11E6952E003EE1B763F8"></a>Obtain Invention Evaluation Committee (IEC) Approval
 
@@ -567,13 +568,14 @@ and by a supervisor, which will impact performance metrics.
 ### <a name="49715508C17C11E69019003EE1B763F8"></a>Final Release and Principal Developer Responsibilities
 
 If the software is approved for final release and there is not yet a project
-for it on GitHub, then the T2O2 will generate a project on the ARL GitHub
-site.  If there is already a project on the ARL GitHub site for the software,
-then the T2O2 will note the release for metrics purposes, but will take no
-other action.  If an author chooses not to use the ARL GitHub site, he or she
-MAY request that the T2O2 not create a project.  However, as mentioned in
-Distribution Methods, it is strongly RECOMMENDED that GitHub be used to
-distribute software.
+for it on GitHub, then the T2O2 will generate a project on the [ARL GitHub
+organization site](https://github.com/USArmyResearchLab).  If there is already
+a project on the ARL GitHub organization for the software, then the T2O2 will
+note the release for metrics purposes, but will take no other action.  If an
+author chooses not to use the ARL GitHub organization, he or she MAY request
+that the T2O2 not create a project.  However, as mentioned in Distribution
+Methods, it is strongly RECOMMENDED that GitHub be used to distribute
+software.
 
 The PDs SHOULD put their software on their project's site.  The T2O2 will
 publicize this site on behalf of the PDs. The software MAY also be distributed

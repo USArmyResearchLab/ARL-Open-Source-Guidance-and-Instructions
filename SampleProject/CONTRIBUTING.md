@@ -9,7 +9,9 @@ Any contributions to this project must be subject to [this project's license](LI
 
 This project follows [The U.S. Army Research Laboratory (ARL) Software Release Process for Unrestricted Public Release](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions) ("ARL Release Process").
 
-* Every release of this project (incremental version) must undergo a MINOR REVIEW or MAJOR REVIEW. MAJOR REVIEWS must occur at least annually.
+* Every release of this project must undergo a MINOR REVIEW or MAJOR REVIEW. MAJOR REVIEWS must occur at least annually. The definition of a release is:
+
+   > A release is any publication of code and related artifacts to an externally visible site such as GitHub. Publications to locations that are only accessible to cleared personnel are not considered to be releases under this definition.
 * ARL Release Process defines criteria for selection MINOR or MAJOR review.
 * MAJOR REVIEWS (other than the initial MAJOR REVIEW) must document the impact of the software since the last major review for this project.
 * The principal developer and OPSEC officer are both responsible for releases of this software.

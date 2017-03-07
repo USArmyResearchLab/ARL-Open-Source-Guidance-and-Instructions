@@ -385,8 +385,7 @@ least the following in it:
 
 * The intended purpose of the software.
 * A note pointing to the license or contract covering the software.
-* If there is no "VERSION" file, the version number of the release SHOULD be
-  included.
+* Include the version number if there is no "VERSION" file.
 * At least some basic documentation on how to build and use the software.
 
 The "README" file MUST be a plain-text file in either ASCII or UTF-8 encoding.

@@ -1,5 +1,6 @@
 BUILD=bin
-IN=arl-form-266.tex
+FORM=arl-form-266
+IN=$(FORM).tex
 
 .PHONY: all
 
@@ -13,7 +14,7 @@ pdf-out:
 	pdflatex -output-directory=$(BUILD) $(IN)
 
 md-out:
-	pandoc $(IN) -o $(BUILD)/form.md
+	pandoc $(IN) -o $(BUILD)/$(FORM).md
 
 clean:
 	mkdir -p $(BUILD)

@@ -11,8 +11,9 @@ make sure texlive is installed and pandoc
 sudo pacman -S texlive-core texlive-most pandoc
 ```
 
-install the AUR package for [acrotex](https://aur.archlinux.org/packages/texlive-acrotex/) to get eforms
-install the AUR package for [conv-xkv](https://aur.archlinux.org/packages/texlive-conv-xkv/) to get conv-xkv
+required texlive aur packages
+* install the AUR package for [acrotex](https://aur.archlinux.org/packages/texlive-acrotex/) to get eforms
+* install the AUR package for [conv-xkv](https://aur.archlinux.org/packages/texlive-conv-xkv/) to get conv-xkv
 
 # producing outputs
 

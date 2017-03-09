@@ -2,7 +2,7 @@ BUILD
 ===
 Information on requirements to build and produce the various outputs supported
 
-[![Build Status](https://travis-ci.org/enckse/ARL-Open-Source-Guidance-and-Instructions.svg?branch=master)](https://travis-ci.org/enckse/ARL-Open-Source-Guidance-and-Instructions)
+[![Build Status](https://travis-ci.org/enckse/ARL-Open-Source-Guidance-and-Instructions.svg?branch=travisci)](https://travis-ci.org/enckse/ARL-Open-Source-Guidance-and-Instructions)
 
 # requirements
 

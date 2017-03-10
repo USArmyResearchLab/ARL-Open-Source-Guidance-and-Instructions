@@ -77,3 +77,8 @@ release under this process.
 PD or PDs that serve as contacts for questions regarding the project.  In
 general, all persons listed on the ARL Form 1 as authors will also be POCs for
 the project.
+
+<a name="BEA2CBDA037011E78D93003EE1B763F8"></a>**Release** A release is any
+publication of code and related artifacts to an externally visible site such
+as GitHub.  Publications to locations that are only accessible to cleared
+personnel are not considered to be releases under this definition.

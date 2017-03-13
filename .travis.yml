@@ -1,0 +1,17 @@
+sudo: required
+branches:
+  only:
+  - travisci
+
+arch:
+  packages:
+    - texlive-core
+    - texlive-most
+    - pandoc
+    - texlive-acrotex
+    - texlive-conv-xkv
+  script:
+    - "make"
+
+script:
+  - "curl -s https://raw.githubusercontent.com/mikkeloscar/arch-travis/master/arch-travis.sh | bash"

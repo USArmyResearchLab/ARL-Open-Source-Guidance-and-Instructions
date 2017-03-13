@@ -2,8 +2,6 @@ BUILD
 ===
 Information on requirements to build and produce the various outputs supported
 
-[![Build Status](https://travis-ci.org/enckse/ARL-Open-Source-Guidance-and-Instructions.svg?branch=form266)](https://travis-ci.org/enckse/ARL-Open-Source-Guidance-and-Instructions)
-
 # requirements
 
 ## arch

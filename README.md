@@ -435,9 +435,10 @@ information:
   intended purpose is.  This SHOULD be as complete as is reasonably possible.
   Portions of the "README" file MAY be copied here.
 
-This information will be used both for publicity purposes, and by a supervisor
-and others to decide if it is time for a project to be subjected to another
-major review.
+A supervisor will use the filed ARL Form 1 to decide if the major review
+process is necessary or if, instead, the minor review process will be
+followed.  Also, the Public Affairs Office (PAO) may use information from the
+ARL Form 1 for publicity purposes.
 
 If this is not the first major review of the software, then the abstract MUST
 also include the following information:

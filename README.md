@@ -732,11 +732,11 @@ A local copy of the license is in the file [LICENSE.txt](LICENSE.txt).
 # <a name="D3DC705AC3C411E6BBB4003EE1B763F8"></a>Contributor License Agreement (CLA)
 
 The ARL Contributor License Agreement (ARL Form 266) can be found
-[here](ARL%20Form%20-%20266.pdf). Each external contributor must execute and return
-a copy for each project that he or she intends to contribute to.  Once ARL
-receives the executed form, it will remain in force permanently.  Thus,
-external contributors need only execute the form once for each project that
-they plan on contributing to.
+[here](ARL%20Form%20-%20266.pdf)<sup>[1](#Footnote_11)</sup>. Each external
+contributor must execute and return a copy for each project that he or she
+intends to contribute to.  Once ARL receives the executed form, it will remain
+in force permanently.  Thus, external contributors need only execute the form
+once for each project that they plan on contributing to.
 
 # <a name="D18EB61EC23E11E692E5003EE1B763F8"></a>Legal Analysis - Software Protection & Release Mechanisms
 
@@ -792,4 +792,9 @@ from within ARL; it MUST NOT be publically accessible!
 used within the Linux kernel, it will have been used by very few projects, but
 will have an extraordinary impact.
 
-
+<sup><a name="Footnote_11">11</a></sup> This form may not preview correctly in
+your browser.  If you have trouble opening the file, or if the file has a
+phrase similar to "Please wait... If this message is not eventually replaced
+by...", then try downloading the form and opening it in the latest version of
+Adobe® Acrobat Reader.  ARL is aware of the issue, and is working to correct
+the problem.

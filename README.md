@@ -732,7 +732,7 @@ A local copy of the license is in the file [LICENSE.txt](LICENSE.txt).
 # <a name="D3DC705AC3C411E6BBB4003EE1B763F8"></a>Contributor License Agreement (CLA)
 
 The ARL Contributor License Agreement (ARL Form 266) can be found
-[here](ARL%20Form%20-%20266.pdf)<sup>[1](#Footnote_11)</sup>. Each external
+[here](ARL%20Form%20-%20266.pdf)<sup>[11](#Footnote_11)</sup>. Each external
 contributor must execute and return a copy for each project that he or she
 intends to contribute to.  Once ARL receives the executed form, it will remain
 in force permanently.  Thus, external contributors need only execute the form

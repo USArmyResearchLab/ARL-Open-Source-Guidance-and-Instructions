@@ -1,4 +1,4 @@
-BUILD=bin
+BUILD=build
 FORM=arl-form-266
 IN=$(FORM).tex
 

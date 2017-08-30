@@ -489,9 +489,9 @@ or other IP interests ARL may have and that the software should be put into
 the public domain, then the chair (or the chair's delegate) will reply back
 with a digitally signed email with a statement similar to the following:
 
-`<<Software name>> is to be released to the public in the manner (open source 
-and/or public domain) proposed for promoting its commercial and non-commercial 
-use. It is in the best interest of the government to waive any and all patent 
+`<<Software name>> is to be released to the public in the manner (open source
+and/or public domain) proposed for promoting its commercial and non-commercial
+use. It is in the best interest of the government to waive any and all patent
 rights ARL may be able to assert or establish in the software.`
 
 If the PD has received approval from IEC chair (or the chair's delegate), then

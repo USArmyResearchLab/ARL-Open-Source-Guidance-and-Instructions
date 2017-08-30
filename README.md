@@ -27,8 +27,8 @@ become part of a future official policy.
         * [Informal Approval](#37D9C8B4C17C11E6AE38003EE1B763F8)
         * [Code Cleanup and Release Preparation](#3981656EC17C11E6B2AE003EE1B763F8)
         * [File an ARL Form 1](#4066B47EC17C11E6BFC7003EE1B763F8)
-        * [Obtain Invention Evaluation Committee (IEC) Approval](#433214A2C17C11E6952E003EE1B763F8)
         * [Intellectual Property Review](#45A6CE62C17C11E6A6C0003EE1B763F8)
+        * [Obtain Invention Evaluation Committee (IEC) Approval](#433214A2C17C11E6952E003EE1B763F8)
         * [Distribution Methods](#476F65D4C17C11E69E2F003EE1B763F8)
         * [Final Release and Principal Developer Responsibilities](#49715508C17C11E69019003EE1B763F8)
     * [Minor Reviews](#4ADBEADCC17C11E6B9BC003EE1B763F8)
@@ -361,7 +361,9 @@ license to use.
 
 If the project does not have copyright, the Creative Commons Zero 1.0
 Universal (CC0 1.0) Public Domain Dedication MUST be used.  Follow the
-instructions in that section for how to use it.
+instructions at
+[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](#55B06322C17C11E6920E003EE1B763F8)
+for how to do this.
 
 If the project has copyright, any license that ARL Legal approves of MAY be
 used.  It is RECOMMENDED that the Apache 2.0 license

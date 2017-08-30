@@ -16,12 +16,11 @@ become part of a future official policy.
 * [Definitions](#20721692C17C11E69585003EE1B763F8)
 * [Goals and Rationale](#21147298C17C11E6BA7B003EE1B763F8)
     * [Why Releasing Software is Important](#22AFD814C17C11E6BAC9003EE1B763F8)
-        * [Issues Related to Releasing Source Code](#25060DEEC17C11E6B53F003EE1B763F8)
-            * [OPSEC and Security](#267B9930C17C11E6AAEE003EE1B763F8)
-            * [Intellectual Property Issues](#29EF7A14C17C11E69F71003EE1B763F8)
-            * [Liability and Fitness for Purpose](#2D0B7162C17C11E6BD34003EE1B763F8)
-        * [The CC0 License and the ARL Contributor License Agreement (ARL CLA)](#2DF49A4AC17C11E69E3A003EE1B763F8)
-        * [Release Rights](#2FA38FF4C17C11E6A781003EE1B763F8)
+    * [Issues Related to Releasing Source Code](#25060DEEC17C11E6B53F003EE1B763F8)
+        * [OPSEC and Security](#267B9930C17C11E6AAEE003EE1B763F8)
+        * [Intellectual Property Issues](#29EF7A14C17C11E69F71003EE1B763F8)
+        * [Liability and Fitness for Purpose](#2D0B7162C17C11E6BD34003EE1B763F8)
+        * [Licensing and the ARL Contributor License Agreement (ARL CLA)](#2DF49A4AC17C11E69E3A003EE1B763F8)
 * [Release Instructions](#32B21988C17C11E687F7003EE1B763F8)
     * [Major Reviews](#3449D4BEC17C11E68DD1003EE1B763F8)
         * [Informal Approval](#37D9C8B4C17C11E6AE38003EE1B763F8)
@@ -53,15 +52,16 @@ the complete definitions.
 
 # <a name="21147298C17C11E6BA7B003EE1B763F8"></a>Goals and Rationale
 
-The goal of this memorandum is to both clarify how software developed by ARL
+The goal of this policy is to both clarify how software developed by ARL
 personnel may be released to the public and encourage ARL personnel to do so,
 while remaining firmly within the legal and regulatory requirements of the
 United States and the Army.  These goals are in some ways conflicting, which
 is why the process described in this document may seem bureaucratic and
-onerous.  This chapter explains why publishing software is important and some
-of the legal and regulatory constraints on doing so.  Reading it is OPTIONAL,
-but doing so may give the reader some insight into the reasons for the
-process.
+onerous.  This chapter explains why publishing software is important, along
+with some of the legal and regulatory constraints on doing so.  Reading it is
+OPTIONAL, but doing so may give the reader some insight into the reasons for
+why the process is necessary, as well as some of the design choices that went
+into creating the process.
 
 ## <a name="22AFD814C17C11E6BAC9003EE1B763F8"></a>Why Releasing Software is Important
 
@@ -79,8 +79,8 @@ code accomplishes the following:
 * Reduces the barrier to entry for others to join in on the research.  As a
   result, collaborations are formed as others want to learn more and build on
   an organization's work.
-* If the software becomes dominant, then the organization that owns it becomes
-  the de-facto leader in the field, and all others follow their lead.
+* If the software becomes dominant, then the organization that develops it
+  becomes the de-facto leader in the field, and all others follow their lead.
 
 Conversely, when software is not published, the following are true:
 
@@ -99,21 +99,21 @@ a social networking website focused on sharing code, to publish ARL software
 to the world as a part of Open Campus.  However, ARL is not a private entity
 and MUST obey numerous laws and regulations when releasing any material to the
 public.  These protocols are intended to protect sensitive material from
-inadvertent release, protect the Intellectual Property (IP) rights of ARL, and
-prevent ARL from accidentally trespassing on the rights of others.
+inadvertent release, prevent ARL from accidentally trespassing on the rights
+of others, and protect the Intellectual Property (IP) rights of ARL.
 
-### <a name="25060DEEC17C11E6B53F003EE1B763F8"></a>Issues Related to Releasing Source Code
+## <a name="25060DEEC17C11E6B53F003EE1B763F8"></a>Issues Related to Releasing Source Code
 
 The ARL faces a number of issues when defining a software release process.
 Legal and regulatory issues are fully outlined in [Legal Analysis - Software
 Protection & Release Mechanisms](#D18EB61EC23E11E692E5003EE1B763F8), while
 other issues are summarized here.
 
-#### <a name="267B9930C17C11E6AAEE003EE1B763F8"></a>OPSEC and Security
+### <a name="267B9930C17C11E6AAEE003EE1B763F8"></a>OPSEC and Security
 
 As an organization within the Department of Defense (DOD), ARL MUST be able to
 properly evaluate information that is proposed for publication to ensure no
-sensitive information is accidentally released.  This includes software. Since
+sensitive information is accidentally released. This includes software. Since
 it is possible to accidentally violate various laws with even a seemingly
 trivial change<sup>[1](#Footnote_1)</sup>, it is critical that all changes be
 reviewed by a competent Operational Security (OPSEC) officer before release.
@@ -125,46 +125,59 @@ common types of sensitive information include:
 * Usernames
 * DSN phone numbers
 * Links to NIPRNet/SIPRNet
+* Internal network configurations
 
 Moreover, just as aggregating unclassified information may raise its
 classification level, combining a set of changes into a whole may also raise
-its classification level.  This is why any review MUST consider the software
-as a whole, not just the portion that changed.
+its classification level.  This is why any review MUST consider the material
+being released as a whole, not just the portion that changed.
 
-#### <a name="29EF7A14C17C11E69F71003EE1B763F8"></a>Intellectual Property Issues
+### <a name="29EF7A14C17C11E69F71003EE1B763F8"></a>Intellectual Property Issues
 
-For most publications, once an ARL Form 1 is completed, the publication is
-approved for public release.  However, the ARL Form 1 process was designed
-primarily for OPSEC and quality control purposes, and does not address IP
-concerns.  This can cause significant legal challenges if not correctly
-addressed, both when ARL accidentally releases valuable IP without protecting
-it and when ARL accidentally trespasses on the rights of others.  There are
-three main types of IP rights that ARL MUST be considered for software
-release: trademark, copyright, and patent rights.
+The most complicated aspect of a software release is usually determining if
+there are adequate rights held by the Government to perform a release to the
+public.  For most publications, once an ARL Form 1 is completed, the
+publication is approved for public release.  However, the ARL Form 1 process
+was designed primarily for OPSEC and quality control purposes, and does not
+address IP concerns.  This can cause significant legal challenges if not
+correctly addressed, both when ARL accidentally releases valuable IP without
+protecting it, and when ARL accidentally trespasses on the rights of others.
+There are three main types of IP rights that MUST be considered when a release
+of material is contemplated: trademark, copyright, and patent rights.
+
+#### Trademarks
 
 Trademarks are intended to prevent consumer confusion over who is the source
-of goods and services.  Thus, the name given to software can become a valuable
-piece of IP, particularly as the user community starts to associate the
-software with ARL.  Trademark misuse can take a number of forms.  Improper or
-unauthorized use can imply to a consumer that a trademark owner is providing
-or endorsing a product when they are not.  Provided no such implication is
-made when using trademarks owned by others, ARL should be relatively safe.
-More on this can be found in [Legal Analysis - Software Protection & Release
-Mechanisms](#D18EB61EC23E11E692E5003EE1B763F8).  To help protect ARL IP, all
-ARL-developed software SHOULD use "ARL" in its name.
+of goods and services.  By registering a trademark, it is possible to prevent
+others from from offering the goods or services under the same trademark. This
+can be invaluable for trademark owners as they can build a reputation that
+consumers will know and trust as they will know precisely who is offering the
+good or service.  ARL has registered the ARL logo as a trademark in part for
+this reason.  For this and other reasons, all ARL-developed software SHOULD
+have  "ARL" as a part of its name; it gives ARL options when trying to protect
+its reputation.
+
+Conversely, ARL, must be aware of and avoid misusing trademarks owned by
+others. Trademark misuse can take a number of forms.  Improper or unauthorized
+use can imply to a consumer that a trademark owner is providing or endorsing a
+product when they are not.  Provided no such implication is made when using
+trademarks owned by others, ARL should be relatively safe.  More on various
+trademark issues can be found in [Legal Analysis - Software Protection &
+Release Mechanisms](#D18EB61EC23E11E692E5003EE1B763F8).
+
+#### Copyright
 
 Copyright is another form of IP that can give owners a method of control over
 their works.  Works generated by non-Governmental persons or Government
 employees acting outside of their official duties automatically have copyright
-attached to them.  This means that any outside contribution to a Government
-software project will not be owned by the Government unless the copyright is
-assigned to the Government.  Because of this, unless a contract exists between
-the Government and the outside entity, the outside entity can claim at least
-part ownership of the project and make additional demands of the Government,
-which may lead to a project being shut down.
+attached to them.  If such works are contributed to Government-controlled
+projects without a valid license or assignment of copyright, then the
+contributor could make additional demands of the Government after the
+contribution is  accepted.  This could force the Government to shut down a
+given project.
 
 Thus far, the Government has had the following options to protect itself
-against these problems:
+against this problem:
 
 * Refuse to share software with entities not covered by a Cooperative Research
   and Development Agreement (CRADA), Cooperative Agreement (CA), or another
@@ -176,15 +189,17 @@ against these problems:
 The process in this document outlines a new option, and as such, requires
 careful consideration of copyright implications.
 
+#### Patents
+
 Patents are another method of protecting IP rights.  If software is released
-by ARL without adequate review, ARL's patent rights may be impacted.  For
-instance, if contractors or other collaborators have co-invented a
-"software-related invention"<sup>[2](#Footnote_2)</sup>, they have the right
-to pursue a patent first. Contractors may be legally permitted to patent the
-software, preventing others from using it.  In this case, ARL SHOULD NOT
-release the software to the public under this process.  If a project will
-eventually be released under this process, developers SHOULD consult with ARL
-Legal to determine the best course of action to take with regard to any
+by ARL without adequate review, the inventor's patent rights may be impacted.
+For instance, if contractors or other collaborators have co-invented a
+"software-related invention"<sup>[2](#Footnote_2)</sup> with ARL, they may
+have the right to pursue a patent first.  If the contractors or collaborators
+have that right and wish to exercise it, ARL SHOULD NOT release the software
+to the public under this process.  If a project will eventually be released
+under this process, developers SHOULD consult with the ARL Chief Counsel's
+Office to determine the best course of action to take with regard to any
 contractors or outside contributors.  If this is not done, then at some later
 date, developers may find that there are patents that effectively prevent ARL
 from releasing the software to the public<sup>[3](#Footnote_3)</sup>.
@@ -195,7 +210,7 @@ the inventors (i.e., ARL employees who have created a "software-related
 invention").  This can lead to legal complications that ARL would rather
 avoid.
 
-#### <a name="2D0B7162C17C11E6BD34003EE1B763F8"></a>Liability and Fitness for Purpose
+### <a name="2D0B7162C17C11E6BD34003EE1B763F8"></a>Liability and Fitness for Purpose
 
 A major difference between software and a journal paper or other presentation
 is that software is effectively a machine.  As such, there are concerns about
@@ -204,76 +219,46 @@ not meet its stated capabilities.  Releasing software without an adequate
 license or contract may leave both the authors of the software and ARL open to
 liability issues that could be avoided.
 
-### <a name="2DF49A4AC17C11E69E3A003EE1B763F8"></a>The CC0 License and the ARL Contributor License Agreement (ARL CLA)
+### <a name="2DF49A4AC17C11E69E3A003EE1B763F8"></a>Licensing and the ARL Contributor License Agreement (ARL CLA)
 
 With few exceptions, U.S. Government works do not enjoy copyright protection.
 Because of this, licenses that rely on copyright for their protection
 mechanism may be declared invalid under U.S. Law<sup>[4](#Footnote_4)</sup>.
-For this reason, for works that do not have copyright attached, ARL relies on
-a combination of the Creative Commons Zero (CC0) license
+For this reason ARL releases software that does not have copyright attached
+under the Creative Commons Zero (CC0) license
 (https://creativecommons.org/publicdomain/zero/1.0/legalcode and reproduced at
 [CC0 1.0 Universal (CC0 1.0) Public Domain
-Dedication](#55B06322C17C11E6920E003EE1B763F8)) and the contributor license
-agreement shown in [Contributor License Agreement
-(CLA)](#D3DC705AC3C411E6BBB4003EE1B763F8).  All external contributors MUST
-execute and return a CLA to the project owners before their contributions can
-be accepted to ensure that all IP issues are settled.
+Dedication](#55B06322C17C11E6920E003EE1B763F8)).
 
-## <a name="2FA38FF4C17C11E6A781003EE1B763F8"></a>Release Rights
+Material that does have copyright attached is generally released under a
+license that is approved by both the ARL Chief Counsel's Office and by the
+[Open Source Initiative (OSI)](https://opensource.org/).  A list of OSI-
+approved licenses can be found [here](https://opensource.org/licenses).
 
-The most complicated aspect of a software release is usually determining if
-there are adequate rights held by the Government to perform a release to the
-public.  If the software does not yet exist but there is public release
-intention, it is advantageous to establish adequate rights in advance,
-particularly for works developed with contractor involvement.
+If what is being released consists of a mixture of material that has copyright
+attached and material that doesn't have copyright attached, then the project
+will list both the CC0 license and some OSI-approved license along with a
+notice that the  portions of the work that do not have copyright attached
+within US jurisdiction are licensed world-wide under the CC0 license, and all
+other portions are licensed under the OSI-approved license.
 
-The first question to consider is whether the software or related material
-should be released to the public.  While there are considerable collaborative
-benefits that have the potential to reduce acquisition costs for the
-Government, there are also potential new costs to consider and risks to
-mitigate.  For example, ARL software in active use that is converted into an
-open-source project can reasonably expect to receive externally developed
-software improvements, but there will be additional information assurance (IA)
-requirements to review before integrating those contributions.  To release
-software, a supervisor MUST decide that there is an overall expected benefit
-to the Government to perform the release.
+While this licensing scheme covers works generated by ARL, it doesn't cover
+works generated by external contributors.  They may have patent, copyright, or
+other rights in any contribution they provide to ARL.  This is problematic
+because ARL does not wish to trespass on the rights of others.  Moreover,
+because ARL is a governmental entity, it is subject to the [Antideficiency
+Act](https://www.gao.gov/legal/anti-deficiency-act/about); this requires ARL
+to negotiate all payment terms with contributors before any contributions are
+accepted.  Finally, without a contract in place, it is  theoretically possible
+for ARL to hold contributors to account for any contribution they give to ARL;
+this include liability, warranty, and support for their contribution.
 
-The second question to consider is whether or not the software can be released
-under the ARL Form 1 process with a distribution statement of Distribution A,
-"Approved for public release; distribution unlimited."  If this is not
-possible, then the software cannot be released under the process in this
-document.  Contact ARL Legal and ARL Security with the specifics of the
-project to see if there are changes that can be made that will allow it to
-have a Distribution A, "Approved for public release; distribution unlimited"
-statement.  The following is a non-exhaustive list illustrating why some
-software and related material face complications in releasing it to the public
-due to law, regulation, or policy.  Software that falls into these categories
-will require further scrutiny.  Consult with ARL Legal to determine if it is
-possible to release the software.
-
-The third question involves the rights of others.  Copyright attaches to works
-when they are created<sup>[5](#Footnote_5)</sup>; if ARL does not own the
-copyright to a work, it MUST obtain the rights to release the material before
-it may do so.  If a software project does not yet exist, then there are no
-copyright, authorship or licensing issues preventing release.  However, if
-what is being prepared for release already exists, a thorough review to
-ascertain origination, provenance, and licensing MUST be conducted to ensure
-that the rights of others are not trespassed.
-
-If the work was developed solely by Government employees as part of their
-official duties, then there are no copyright concerns and the Government has
-the right to release the work.  If there are any contractors or other external
-parties involved, they may have rights that prevent the Government from
-releasing and/or redistributing their contributions without their permission.
-If there are any third-party libraries, applications, or data that are
-incorporated into the work, there MUST be appropriate license and/or rights to
-distribute them.
-
-When works are developed by a mixture of Government employees and Government
-contractors, determining who has the right to release the software to the
-public as open source depends on what contract clauses are in effect.  Consult
-with ARL Legal to determine what clauses are in effect and what options there
-are to release the software.
+For this reason, ARL has created ARL Form 266, the ARL [ARL Contributor
+License Agreement (CLA)](#D3DC705AC3C411E6BBB4003EE1B763F8).  This form both
+settles all IP and payment questions regarding contributions from external
+contributors, and releases external contributors from having to support their
+contributions.  All external contributors MUST execute and return a CLA to ARL
+before their contributions can be accepted by any project.
 
 # <a name="32B21988C17C11E687F7003EE1B763F8"></a>Release Instructions
 
@@ -293,19 +278,19 @@ The major review process MUST be followed if any of the following are true:
   believe a new one ought to be filed.
 * It has been more than 1 year since the last time a major review has been
   done and the project is still active (material is being published to the
-  public).
+  public by ARL employees).
 * The PDs feel they have accomplished something of note and wish to get credit
   for it in their performance metrics.
 
 ### <a name="37D9C8B4C17C11E6AE38003EE1B763F8"></a>Informal Approval
 
 Before developer(s) release software, they MUST obtain informal approval from
-their supervisor(s).  If their supervisors do not approve release of the
+their supervisor(s).  If their supervisor(s) do not approve release of the
 software, then the software MUST NOT be released.  Do not continue with this
-process.  When deciding if a project can be released, review the requirements
-of [RELEASE RIGHTS](#2FA38FF4C17C11E6A781003EE1B763F8).  The requirements in
-that chapter MUST be met before any software or related materials are
-released.
+process.  When deciding if a project can be released, review the section
+[Issues Related to Releasing Source Code](#25060DEEC17C11E6B53F003EE1B763F8)
+to decide if it will be possible to release the code.  If you have questions,
+consult ARL's Chief Counsel's Office for help.
 
 ### <a name="3981656EC17C11E6B2AE003EE1B763F8"></a>Code Cleanup and Release Preparation
 
@@ -328,7 +313,7 @@ scrubbed before the material is reviewed for release.
 Software that is released to the public is similar to a publication and SHOULD
 be treated like one.  The author(s) MUST ensure that there is no embarrassing,
 disparaging, or otherwise unprofessional language in what is released.
-Language that would not be used in a professional journal MUST not be used in
+Language that would not be used in a professional journal MUST NOT be used in
 software.  Direct any questions about this to the ARL Public Affairs Office
 (PAO).
 
@@ -465,8 +450,7 @@ the changes are cleared for public release, if the release as a whole cannot
 be cleared for release, then the changes are not cleared for release either.
 To be cleared for release, the project as a whole MUST receive an "Approved
 for public release; distribution unlimited" statement.  Finally, no one is
-permitted to OPSEC-approve material that he or she created.  Review [RELEASE
-RIGHTS](#2FA38FF4C17C11E6A781003EE1B763F8) for what needs to be considered.
+permitted to OPSEC-approve material that he or she created.
 
 ### <a name="45A6CE62C17C11E6A6C0003EE1B763F8"></a>Intellectual Property Review
 

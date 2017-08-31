@@ -424,25 +424,60 @@ information:
 * A description of the project.  This includes what it does and what its
   intended purpose is.  This SHOULD be as complete as is reasonably possible.
   Portions of the "README" file MAY be copied here.
+* If this is not the first time that this project has undergone a major
+  review, list what necessitated the current review.  Reasons might be simple
+  such as "annual review", or may be more complicated, such as the scope of a
+  project changing sufficiently that a security review is warranted.  Major
+  accomplishments are also a good reason for a review as a major review is the
+  only way to document performance for performance metrics (see
+  [A Note on Impact and Metrics](#A_Note_on_Impact_and_Metrics) for more
+  information).
+* Answers to the following questions so that the ARL Chief Counsel's Office
+  can do an intellectual property review:
+    * A list of all contributors and their employment affiliation at the time
+      of their contribution.  Note that a contribution is material given to
+      the project directly; it doesn't include code copied by the project's
+      owners from external sources.
+      * If there is more than one contributor, did they each intend to merge
+        their contributions at the time they made them into a unified joint
+        work? (yes/no).  If you have questions about this, consult the ARL
+        Chief Counsel's office.
+    * Does the software contain, or is it based on, code not owned by the U.S.
+      Government?  (e.g., an ARL contractor, an Open Source contributor, code
+      copied from external sites).  If the project does contain code not owned
+      by the US Government, list out the code and code's owner.  If the code
+      was downloaded under a license (e.g., the Linux kernel, which is
+      distributed under the GPL version 2), list the code and the license
+      instead of the contributors.  If the software was provided by an ARL
+      contractor, provide the contract number.  In general, provide enough
+      information so that the ownership and licensing of all code not owned by
+      the US Government can be determined.
+    * Has any version of the software been previously distributed outside of
+      ARL?  If yes, please explain the circumstances.
+    * Which OSI-approved license is the code being released under.
+* A list of all software-related inventions that the authors believe patents
+  could be pursued for, and reasons for why ARL should waive its rights to
+  pursue a patent on each.  This will help the Invention Evaluation Committee
+  decide whether it would be better to pursue patents, or waive ARL's rights.
 
-A supervisor will use the filed ARL Form 1 to decide if the major review
-process is necessary or if, instead, the minor review process will be
-followed.  Also, the Public Affairs Office (PAO) may use information from the
-ARL Form 1 for publicity purposes.
+Examples of how to write abstracts are provided in the files
+[sample_abstract1.md](sample_abstract1.md) and
+[sample_abstract2.md](sample_abstract2.md).  Note that the examples
+deliberately include information that would cause ARL's Legal Counsel or the
+IEC to ask further questions.  Do not obfuscate or hide information in the
+abstract.
 
-If this is not the first major review of the software, then the abstract MUST
-also include the following information:
+The information in the abstract will be used throughout the rest of this
+process, so it MUST be as accurate and complete as possible.
 
-* The change or changes that caused this review to become necessary.
-* What the impact of the software has been since the last major review for
-  this project.  See
-  [A Note on Impact and Metrics](#A_Note_on_Impact_and_Metrics) for examples
-  of how impact is measured and for what to include.
-
-Note that while ARL wants to credit an author for the impact the software has
-made, it will not "double count" what authors have done by including the
-impact from earlier major reviews.  Only the impact made since the last time
-the major review process was completed SHOULD be included.
+As noted above, if this is not the first major review of this project then
+authors should document the major accomplishments of this project since the
+last major review was done.  This documentation provides supervisors the
+information they need to give proper credit on performance reviews.   Note
+that while ARL wants to credit authors for the impact the software has made,
+it will not "double count" what authors have done by including the impact from
+earlier major reviews.  Only the impact made since the last time the major
+review process was completed MAY be included.
 
 This abstract, along with everything planned on being released (software,
 source code, documentation, etc.), MUST be fully reviewed by a level 1 OPSEC

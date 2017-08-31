@@ -290,7 +290,9 @@ software, then the software MUST NOT be released.  Do not continue with this
 process.  When deciding if a project can be released, review the section
 [Issues Related to Releasing Source Code](#25060DEEC17C11E6B53F003EE1B763F8)
 to decide if it will be possible to release the code.  If you have questions,
-consult ARL's Chief Counsel's Office for help.
+consult ARL's Chief Counsel's Office for help.  Projects that cannot be given
+a release statement of "Approved for public release; distribution unlimited"
+MUST NOT go through this process.
 
 ### <a name="3981656EC17C11E6B2AE003EE1B763F8"></a>Code Cleanup and Release Preparation
 

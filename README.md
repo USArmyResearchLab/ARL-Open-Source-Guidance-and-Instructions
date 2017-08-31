@@ -326,56 +326,51 @@ portions is RECOMMENDED as they may have an effect on impact and metrics.  See
 [A Note on Impact and Metrics](#A_Note_on_Impact_and_Metrics) for details on
 metrics.
 
-Unless a project is required to follow other guidelines, the guidelines
-described in the latest Semantic Versioning guidelines (http://semver.org/)
-SHOULD be followed when setting the version number for any release.  A file
-MAY be created in the top-level directory called "VERSION."  If the "VERSION"
-file is created, then it MUST be a plain-text file in either ASCII or UTF-8
-encodings.  The file MUST contain the version number of the release and MUST
-NOT contain anything else.  By following this guideline, automated systems are
-more likely to be able to determine if the project has been updated and how
-significant those updates are simply by parsing the "VERSION" file.
+As discussed at [Licensing and the ARL Contributor License Agreement (ARL
+CLA)](#2DF49A4AC17C11E69E3A003EE1B763F8), all projects will have their
+material licensed under both the CC0 license, and a license that is both
+approved by OSI and the ARL Chief Counsel's Office. The author(s) MUST consult
+with the ARL Chief Counsel's Office when selecting an OSI-approved license.
+All contributions that have copyright attached MUST be licensed to ARL under
+the OSI-approved license chosen by the project's author(s), and they MUST be
+redistributed under the same license when the software is redistributed.
+Works that do not have copyright attached MUST be accepted and redistributed
+under the CC0 license. All contributions MUST be irrevocable under the given
+license.  Questions about this can be directed to ARL Legal for clarification.
 
-The license to be used depends on whether or not the project has copyright
-attached to it.  Works generated solely by Government employees in the course
-of their duties do not have any copyright attached to them.  Works produced
-with non-Government persons or organizations may have copyright attached.  If
-there is uncertainty about the copyright status of a project, ARL Legal SHOULD
-be consulted to determine the legal state of the project and determine which
-license to use.
+Once the license is chosen, the author(s) MUST provide copies of the license
+text in a file named `LICENSE.txt` at the root of the project's repository.
+This MUST contain both the text of the OSI-approved license and the CC0
+license.  The `LICENSE.txt` MUST also contain a notice that those portions of
+the material that do not have copyright attached within the jurisdiction of
+the United States of America are distributed under the terms of the CC0
+license, and that all other portions of the work are distributed under the
+terms of the OSI-approved license in the `LICENSE.txt` file.  An example of
+how this can be done for the CC0 license and the [Apache
+2.0](http://apache.org/licenses/LICENSE-2.0) license is given in the
+[LICENSE.txt](LICENSE.txt) file.
 
-If the project does not have copyright, the Creative Commons Zero 1.0
-Universal (CC0 1.0) Public Domain Dedication MUST be used.  Follow the
-instructions at
-[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](#55B06322C17C11E6920E003EE1B763F8)
-for how to do this.
-
-If the project has copyright, any license that ARL Legal approves of MAY be
-used.  It is RECOMMENDED that the Apache 2.0 license
-(http://www.apache.org/licenses/LICENSE-2.0) be used.
-
-Unless the guidelines the project is following require otherwise, the long
-form of any license used SHOULD be in a file called LICENSE in the top-level
-of the project directory.  For any LICENSE file, the file MUST be a plain-text
-file in either ASCII or UTF-8 encoding.  The README file (described below)
-MUST state the name of the file that contains the complete
-license<sup>[6](#Footnote_6)</sup>.  If the project has a webpage, the license
-being used MUST be stated somewhere on the webpage, with a link pointing to
-where the file containing the license can be found.
-
-All contributions to the project MUST be done under the license and the
-contributions MUST be irrevocable.  Questions about this can be directed to
-ARL Legal for clarification.
+The `LICENSE.txt` file MUST be a plain-text file in either ASCII or UTF-8
+encoding.  The README file (described below) MUST state the name of the file
+that contains the complete license<sup>[6](#Footnote_6)</sup>.  If the project
+has a webpage, the licenses being used MUST be stated somewhere on the
+webpage, with a link pointing to where the project's `LICENSE.txt` file.
 
 A "README" file MUST be created at the top level of the directory with at
 least the following in it:
 
 * The intended purpose of the software.
 * A note pointing to the license or contract covering the software.
-* Include the version number if there is no "VERSION" file.
 * At least some basic documentation on how to build and use the software.
 
 The "README" file MUST be a plain-text file in either ASCII or UTF-8 encoding.
+The file may be named "README", "README.txt", or "README.md".  As a note, if
+the authors choose to use [GitHub](https://github.com) as the distribution
+method, it is RECOMMENDED that the file be named "README.md", and that the
+file be written in [GitHub-flavored
+Markdown](https://guides.github.com/features/mastering-markdown/).  Throughout
+this document the file will be called "README" regardless of what suffix is
+used on the actual file.
 
 The "README" SHOULD describe what valuable contributions the principal
 developers would welcome from the community.  This will help the public focus
@@ -398,13 +393,13 @@ Unit tests are strongly RECOMMENDED.  They can not only increase confidence
 that the code was written correctly, but they can also convince a user that
 the code is behaving as expected on the system on which it is installed.  This
 will increase the likelihood that others will be willing to use the code,
-making it wise to include unit tests in the project. In addition, unit tests
+which can increase the overall impact of the project . In addition, unit tests
 can serve as examples of how to use the code; this can be invaluable when a
 user is trying to understand the documentation.
 
 For legal reasons, all language talking about the project MUST be prefixed
 with "ARL".  For example, if a project is named WhizBang, then all literature
-in the package SHOULD refer to it as "ARL WhizBang" or the "ARL WhizBang
+in the package MUST refer to it as "ARL WhizBang" or the "ARL WhizBang
 project." "ARL" is a federally registered trademark and using it in this
 manner adds some degree of trademark protection to a project.
 

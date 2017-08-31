@@ -403,6 +403,12 @@ in the package MUST refer to it as "ARL WhizBang" or the "ARL WhizBang
 project." "ARL" is a federally registered trademark and using it in this
 manner adds some degree of trademark protection to a project.
 
+Create a file called `code.json` in the root directory of your project.  This
+file MUST follow the schema described
+[here](https://code.gov/#/policy-guide/docs/compliance/inventory-code). An
+example of a correctly formatted `code.json` file is provided
+[here](code.json).  Download and modify it to fit your project.
+
 ### <a name="4066B47EC17C11E6BFC7003EE1B763F8"></a>File an ARL Form 1
 
 An ARL Form 1 MUST be filed.  In the process described in this document, the

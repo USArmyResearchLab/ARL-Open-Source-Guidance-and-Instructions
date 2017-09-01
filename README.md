@@ -433,7 +433,9 @@ information:
   [A Note on Impact and Metrics](#A_Note_on_Impact_and_Metrics) for more
   information).
 * Answers to the following questions so that the ARL Chief Counsel's Office
-  can do an intellectual property review:
+  can do an intellectual property review (see
+  [Intellectual Property Review](#45A6CE62C17C11E6A6C0003EE1B763F8) for more
+  information):
     * A list of all contributors and their employment affiliation at the time
       of their contribution.  Note that a contribution is material given to
       the project directly; it doesn't include code copied by the project's
@@ -530,26 +532,27 @@ This step MAY be done in parallel with the steps described below.
 
 ### <a name="433214A2C17C11E6952E003EE1B763F8"></a>Obtain Invention Evaluation Committee (IEC) Approval
 
-The ARL may have IP interests in the software.  Before it can be released, the
-IEC MUST determine that it is in the best interest of the Government and ARL
-to waive any IP rights that ARL might have and release it to the public.  To
-do so, the PD MUST inform the current chair of the IEC (or the chair's
-delegate) of the intention to release the software by sending the chair a
-digitally signed email that contains the following:
+The ARL may have IP interests in the software.  Before the software can be
+released, the IEC MUST determine that it is in the best interest of the
+Government and ARL to waive any IP rights that ARL might have and release them
+to the public.  To do so, the PD MUST inform the current chair of the IEC (or
+the chair's delegate) of the intention to release the software by sending the
+chair a digitally signed email that contains the following:
 
 * The abstract that was submitted as a part of the ARL Form 1 process above.
   The related software is not sent to the IEC chair (or the chair's delegate)
-  unless he or she requests it.
-* A list of all software-related inventions that the PD and his or her
+  unless he or she requests it. As explained in the section
+  [File an ARL Form 1](#4066B47EC17C11E6BFC7003EE1B763F8) This SHOULD contain
+  list of all software-related inventions that the PD and his or her
   supervisor believe are contained in the work<sup>[7](#Footnote_7)</sup>.
-* A statement that, in the opinion of the PD and his or her supervisor, all
-  IP, including the listed inventions, should be irrevocably placed in the
-  public domain.
+* For each invention, an explanation of why the PD(s) and their supervisor(s)
+  believe that it is in the best interest of the ARL and Government to waive
+  ARL's IP rights and place the inventions irrevocably into the public domain.
 
 If the chair (or the chair's delegate) agrees that ARL should waive any patent
-or other IP interests ARL may have and that the software should be put into
-the public domain, then the chair (or the chair's delegate) will reply back
-with a digitally signed email with a statement similar to the following:
+or other IP interests ARL may have, then the chair (or the chair's delegate)
+will reply back with a digitally signed email with a statement similar to the
+following:
 
 `<<Software name>> is to be released to the public in the manner (open source
 and/or public domain) proposed for promoting its commercial and non-commercial
@@ -588,7 +591,9 @@ treated like passwords and kept secret.
 Where possible, it is strongly RECOMMENDED that projects be distributed via
 the ARL GitHub site.  This will make it significantly easier to gauge the
 impact of the project by the Technology Transfer and Outreach Office (T2O2)
-and by a supervisor, which will impact performance metrics.
+and by a supervisor, which will impact performance metrics.  This will also
+simplify compliance with
+[M-16-21 MEMORANDUM FOR THE HEADS OF DEPARTMENTS AND AGENCIES](https://code.gov/#/policy-guide/policy/introduction).
 
 ### <a name="49715508C17C11E69019003EE1B763F8"></a>Final Release and Principal Developer Responsibilities
 
@@ -612,7 +617,9 @@ duplication of effort.
 If the PDs choose to use GitHub as a distribution method for their software,
 then the PDs are responsible for generating a digital object identifier (DOI)
 for the release.  The instructions to do so are at
-https://guides.github.com/activities/citable-code/.
+https://guides.github.com/activities/citable-code/.  It is RECOMMENDED that
+all releases have a DOI associated with them to facilitate citations of the
+software.
 
 ## <a name="4ADBEADCC17C11E6B9BC003EE1B763F8"></a>Minor Reviews
 

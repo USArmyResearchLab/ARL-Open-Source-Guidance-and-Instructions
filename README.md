@@ -483,13 +483,14 @@ review process was completed MAY be included.
 This abstract, along with everything planned on being released (software,
 source code, documentation, etc.), MUST be fully reviewed by a level 1 OPSEC
 officer.  If this is not an initial review, the OPSEC officer MAY choose to
-only review what has changed since the last review, but both the author and
+only review what has changed since the last review, but both the author(s) and
 the OPSEC officer are responsible for the release as a whole.  Thus, even if
 the changes are cleared for public release, if the release as a whole cannot
 be cleared for release, then the changes are not cleared for release either.
 To be cleared for release, the project as a whole MUST receive an "Approved
-for public release; distribution unlimited" statement.  Finally, no one is
-permitted to OPSEC-approve material that he or she created.
+for public release; distribution unlimited" statement.
+
+No one is permitted to OPSEC-approve material that he or she created.
 
 ### <a name="45A6CE62C17C11E6A6C0003EE1B763F8"></a>Intellectual Property Review
 

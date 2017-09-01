@@ -467,10 +467,9 @@ Examples of how to write abstracts are provided in the files
 deliberately include information that would cause ARL's Legal Counsel or the
 IEC to ask further questions.  When you write your abstract, be as complete as
 possible; omitting, obfuscating, or hiding information about the origins of
-contributions could expose ARL to litigation.
-
-The information in the abstract will be used throughout the rest of this
-process, so it MUST be as accurate and complete as possible.
+contributions could expose ARL to litigation.  The information in the abstract
+will be used throughout the rest of this process, so it MUST be as accurate
+and complete as possible.
 
 As noted above, if this is not the first major review of this project then
 authors should document the major accomplishments of this project since the

@@ -461,11 +461,13 @@ information:
   decide whether it would be better to pursue patents, or waive ARL's rights.
 
 Examples of how to write abstracts are provided in the files
-[sample_abstract1.md](sample_abstract1.md) and
-[sample_abstract2.md](sample_abstract2.md).  Note that the examples
+[sample_abstract1.md](sample_abstract1.md),
+[sample_abstract2.md](sample_abstract2.md), and
+[sample_abstract3.md](sample_abstract3.md).  Note that the examples
 deliberately include information that would cause ARL's Legal Counsel or the
-IEC to ask further questions.  Do not obfuscate or hide information in the
-abstract.
+IEC to ask further questions.  When you write your abstract, be as complete as
+possible; omitting, obfuscating, or hiding information about the origins of
+contributions could expose ARL to litigation.
 
 The information in the abstract will be used throughout the rest of this
 process, so it MUST be as accurate and complete as possible.

@@ -47,7 +47,7 @@ Douglas E. Fraunhofer, douglas.e.fraunhofer@some.company.com, Some Company, Inc.
     Army Research Laboratory.  Contract number 12345.  Some Company has
     executed the DFARS Special Works Clause and assigned all copyright to all
     of their work associated with ARL_libmobile_network_simulator to the
-    Government.  Patent and other rights are currently unknown
+    Government.  Patent and other rights are currently unknown.
 
 Grant H. Incredible, grant.h.incredible@university.edu, postdoctoral researcher.
     Algorithm design.  Worked as a postdoctoral researcher under ORAU

@@ -626,7 +626,7 @@ software.
 Minor releases include all releases that the PD, the PD's OPSEC officer, and
 the PD's supervisor do not believe require a major review.  These include bug
 fixes and minor updates.  A level-1 OPSEC officer must review the release
-before being published.  These reviews are called "minor reviews" and are
+before it is published.  These reviews are called "minor reviews" and are
 subject to the following:
 
 * The OPSEC officer MAY also be the technical reviewer for the release.

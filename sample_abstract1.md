@@ -14,6 +14,15 @@ have a number of advantages:
 
 This is the first time this library has been proposed for release.
 
+Primary accomplishment of this release
+--------------------------------------
+
+The library has been separated from the ARL_libmobile_network_simulator
+project, and converted into a stand-alone library.  There is no new research
+in this library, nor are there any inventions, but the authors believe that it
+could be useful to the general community, and they believe that the community
+could provide useful contributions in the terms of new datastructures.
+
 List of contributors:
 ---------------------
 

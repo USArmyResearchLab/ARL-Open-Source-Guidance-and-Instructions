@@ -37,6 +37,12 @@ transparent to the end user.  This would allow "Individual" and "Person name"
 to be fused as "Person name", while marking "Child name" as unfuseable,
 keeping the distinction between parents and children.
 
+Reason for review
+-----------------
+
+Significant engineering work has been done since the last major review that
+the authors want documented for their performance metrics.
+
 Primary accomplishment of this release
 --------------------------------------
 

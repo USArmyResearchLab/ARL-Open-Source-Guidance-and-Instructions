@@ -12,7 +12,11 @@ have a number of advantages:
   constant time lookups to transition from one data structure to the other.
   This requires significant effort when using extrusive data structures.
 
-This is the first time this library has been proposed for release.
+Reason for review
+-----------------
+
+This is the first time this library has been proposed for release, and needs
+to be reviewed to be released.
 
 Primary accomplishment of this release
 --------------------------------------

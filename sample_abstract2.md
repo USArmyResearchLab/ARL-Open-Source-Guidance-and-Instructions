@@ -6,6 +6,12 @@ communications between swarms of robots as they move through a dynamically
 changing environment.  This review is for the third major release of the
 library.
 
+Reason for review
+-----------------
+
+Numerous new features have been added that the authors believe are major
+accomplishments that should be documented.
+
 Primary accomplishment of this release
 --------------------------------------
 

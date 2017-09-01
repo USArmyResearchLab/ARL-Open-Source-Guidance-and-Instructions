@@ -40,7 +40,7 @@ List of contributors:
 
 Alice B. Chandler, alice.b.chandler.civ@mail.mil, US Army Research Laboratory
     Lead developer.  Was a US Government employee during all development of
-    ARL_libintrusive.
+    ARL_libmobile_network_simulator.
 
 Douglas E. Fraunhofer, douglas.e.fraunhofer@some.company.com, Some Company, Inc.
     Test and documentation.  Worked for Some Company, a contractor for US
@@ -90,7 +90,7 @@ OSI-approved license:
 
 ARL_libmobile_network_simulator is distributed under the Apache 2.0 license,
 which can be found at
-https://github.com/USArmyResearchLab/ARL_libintrusive/blob/master/LICENSE.txt.
+https://github.com/USArmyResearchLab/ARL_libmobile_network_simulator/blob/master/LICENSE.txt.
 
 List of inventions:
 -------------------

@@ -54,6 +54,10 @@ Grant H. Incredible, grant.h.incredible@university.edu, postdoctoral researcher.
     contract 54321.  Signed an addendum to his contract to assign all
     copyright in his contributions to ARL.
 
+Jacob K. Lang, jacob.k.lang@gmail.com, employer unknown.  Bug fixes,
+    documentation fixes, etc. Executed ARL Form 266 before his contributions
+    were allowed into the project.
+
 List of external code:
 ----------------------
 
@@ -65,20 +69,28 @@ states that all subscriber generated content can be reused under the terms of
 the [Creative Commons Attribution Share Alike](https://creativecommons.org/licenses/by-sa/3.0/)
 license.
 
-* TCP server in rust - https://stackoverflow.com/questions/17445485/example-tcp-server-written-in-rust/17689618#17689618
+* TCP server in rust -
+  https://stackoverflow.com/questions/17445485/example-tcp-server-written-in-rust/17689618#17689618
 
 The following libraries are included with the distribution
 
-* OpenDDS version 3.11 - http://opendds.org/. The license can be found at https://github.com/objectcomputing/OpenDDS/blob/master/LICENSE.
+* OpenDDS version 3.11 - http://opendds.org/. The license can be found at
+  https://github.com/objectcomputing/OpenDDS/blob/master/LICENSE.
+
+* libyaml - https://github.com/yaml/libyaml.  MIT License.
+  https://github.com/yaml/libyaml/blob/master/LICENSE
+
+* ARL_libintrusive - https://github.com/USArmyResearchLab/ARL_libintrusive.
+  Distributed under the Apache 2.0 license, which can be found at
+  https://github.com/USArmyResearchLab/ARL_libintrusive/blob/master/LICENSE.txt
 
 
 OSI-approved license:
 ---------------------
 
-The authors all agree that all works related to
-ARL_libmobile_network_simulator that have copyright attached should be
-licensed under the Apache 2.0 license, and that all contributions that have
-copyright attached should be licensed to ARL under the Apache 2.0 license.
+ARL_libmobile_network_simulator is distributed under the Apache 2.0 license,
+which can be found at
+https://github.com/USArmyResearchLab/ARL_libintrusive/blob/master/LICENSE.txt.
 
 List of inventions:
 -------------------

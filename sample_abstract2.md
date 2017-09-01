@@ -4,7 +4,12 @@ ARL_libmobile_network_simulator
 ARL_libmobile_network_simulator is an event-based simulator for simulating the
 communications between swarms of robots as they move through a dynamically
 changing environment.  This review is for the third major release of the
-library.  Since the last major review, the following features have been added:
+library.
+
+Primary accomplishment of this release
+--------------------------------------
+
+Since the last major review, the following features have been added:
 
 * Dynamically distributed to heterogeneous computational assets. Version 2 of
   ARL_libmobile_network_simulator introduced distributed  simulation, but

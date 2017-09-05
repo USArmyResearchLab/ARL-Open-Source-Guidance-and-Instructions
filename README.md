@@ -287,13 +287,13 @@ The major review process MUST be followed if any of the following are true:
 
 * This is the first release of the project.
 * The project's scope has changed sufficiently that any of the principal
-  developers (PDs), their OPSEC officers, or anyone in their chains of command
+  developers, their OPSEC officers, or anyone in their chains of command
   believe a new one ought to be filed.
 * It has been more than 1 year since the last time a major review has been
   done and the project is still active (material is being published to the
   public by ARL employees).
-* The PDs feel they have accomplished something of note and wish to get credit
-  for it in their performance metrics.
+* The principal developer(s) feel they have accomplished something of note and
+  wish to get credit for it in their performance metrics.
 
 ### <a name="37D9C8B4C17C11E6AE38003EE1B763F8"></a>Informal Approval
 
@@ -522,19 +522,20 @@ the following questions MUST be addressed:
 * If not, is there permission from every other rights holder to release all of
   the other parts under the project's license?
 
-The PD MUST consult with ARL Legal to perform an IP review (this review MAY be
-done by email or any other convenient and legal means).  If there are external
-contributions that were not contributed under the project's license, then the
-PD MUST determine the license and copyright information for each contribution.
-Provide these to ARL Legal for review and final determination if the licenses
-are compatible with the license or contract under which the software is being
-released.  If ARL Legal determines that there are impediments to releasing the
-software, whatever permissions are necessary MUST be obtained before the
-software is released.  If it is not possible to obtain the necessary
-permissions, then the software MUST NOT be released.  Do not continue with the
-rest of this process.  If ARL Legal agrees that there are no IP impediments to
-releasing the software, then ARL Legal MUST send a digitally signed email to
-the PD stating so.
+The principal developer(s) MUST consult with ARL Legal to perform an IP review
+(this review MAY be done by email or any other convenient and legal means).
+If there are external contributions that were not contributed under the
+project's license, then the principal developer(s) MUST determine the license
+and copyright information for each contribution. Provide these to ARL Legal
+for review and final determination if the licenses are compatible with the
+license or contract under which the software is being released.  If ARL Legal
+determines that there are impediments to releasing the software, whatever
+permissions are necessary MUST be obtained before the software is released.
+If it is not possible to obtain the necessary permissions, then the software
+MUST NOT be released.  Do not continue with the rest of this process.  If ARL
+Legal agrees that there are no IP impediments to releasing the software, then
+ARL Legal MUST send a digitally signed email to the principal developer(s)
+stating so.
 
 Note that copyright protection attaches to all literary works, including
 software, when they are created<sup>[8](#Footnote_8)</sup>.  This includes
@@ -550,9 +551,10 @@ This step MAY be done in parallel with the steps described below.
 ARL may have IP interests in the software.  Before the software can be
 released, the IEC MUST determine that it is in the best interest of the
 Government and ARL to waive any IP rights that ARL might have and release them
-to the public.  To do so, the PD MUST inform the current chair of the IEC (or
-the chair's delegate) of the intention to release the software by sending the
-chair a digitally signed email that contains the following:
+to the public.  To do so, the principal developer(s) MUST inform the current
+chair of the IEC (or the chair's delegate) of the intention to release the
+software by sending the chair a digitally signed email that contains the
+following:
 
 * The abstract that was submitted as a part of the ARL Form 1 process above.
   The related software is not sent to the IEC chair (or the chair's delegate)
@@ -574,17 +576,18 @@ and/or public domain) proposed for promoting its commercial and non-commercial
 use. It is in the best interest of the government to waive any and all patent
 rights ARL may be able to assert or establish in the software.`
 
-If the PD has received approval from IEC chair (or the chair's delegate), then
-the PD MAY continue with the rest of this process.
+If the principal developer(s) has received approval from IEC chair (or the
+chair's delegate), then the principal developer(s) MAY continue with the rest
+of this process.
 
 If the IEC chair (or the chair's delegate) believes that ARL has IP interests
-that ARL wants protected, then the PD and the chair (or the chair's delegate)
-MUST discuss the issues to determine how to move forward.  This discussion MAY
-be performed by email, telephone, or any other convenient and legal means.
-Records of the final determination MUST be kept by the PD.  If it is
-determined to be in the best interests of ARL and the Government to seek
-patent protection, then the rest of this process does not apply.  Do not
-continue with the rest of this process.
+that ARL wants protected, then the principal developer(s) and the chair (or
+the chair's delegate) MUST discuss the issues to determine how to move
+forward.  This discussion MAY be performed by email, telephone, or any other
+convenient and legal means. Records of the final determination MUST be kept by
+the principal developer(s).  If it is determined to be in the best interests
+of ARL and the Government to seek patent protection, then the rest of this
+process does not apply.  Do not continue with the rest of this process.
 
 To determine the appropriate person to contact within the IEC, consult ARL
 Legal.
@@ -592,16 +595,17 @@ Legal.
 ### <a name="476F65D4C17C11E69E2F003EE1B763F8"></a>Distribution Methods
 
 There are many different ways of distributing software.  The ARL GitHub site
-is the RECOMMENDED method, but is not the only method.  The PDs MAY choose to
-distribute by FTP, email, another website, or other means, in addition to or
-in place of GitHub.  For any and all distribution methods chosen, the PDs are
-responsible for creating their own accounts.  If the distribution method uses
-email addresses as part of the sign up process, then the PDs MUST use their
-Government email addresses.  All login accounts MUST be reported to the PDs'
-supervisors.  Passwords MUST be kept secret.  If a site uses cryptographic
-authentication such as public/private key pairs, PDs MAY choose to use this
-facility in addition to, or instead of, passwords.  Private keys MUST be
-treated like passwords and kept secret.
+is the RECOMMENDED method, but is not the only method.  The principal
+developers MAY choose to distribute by FTP, email, another website, or other
+means, in addition to or in place of GitHub.  For any and all distribution
+methods chosen, the principal developer(s) are responsible for creating their
+own accounts.  If the distribution method uses email addresses as part of the
+sign up process, then the principal developer(s) MUST use their Government
+email addresses.  All login accounts MUST be reported to the principal
+developer(s)' supervisors.  Passwords MUST be kept secret.  If a site uses
+cryptographic authentication such as public/private key pairs, principal
+developer(s) MAY choose to use this facility in addition to, or instead of,
+passwords.  Private keys MUST be treated like passwords and kept secret.
 
 Where possible, it is strongly RECOMMENDED that projects be distributed via
 the ARL GitHub site.  This will make it significantly easier to gauge the
@@ -622,27 +626,28 @@ request that the T2O2 not create a project.  However, as mentioned in
 Distribution Methods, it is strongly RECOMMENDED that GitHub be used to
 distribute software.
 
-The PDs SHOULD put their software on their project's site.  The T2O2 will
-publicize this site on behalf of the PDs. The software MAY also be distributed
-by any and all other methods the PDs see fit.  The PD (or PDs) MAY promote
-their projects on their own, but SHOULD do so in consultation with the T2O2,
-to both ensure that all promotions are professional in nature and minimize any
-duplication of effort.
+The principal developer(s) SHOULD put their software on their project's site.
+The T2O2 will publicize this site on behalf of the principal developer(s). The
+software MAY also be distributed by any and all other methods the principal
+developer(s) see fit.  The principal developer(s) MAY promote their projects
+on their own, but SHOULD do so in consultation with the T2O2, to both ensure
+that all promotions are professional in nature and minimize any duplication of
+effort.
 
-If the PDs choose to use GitHub as a distribution method for their software,
-then the PDs are responsible for generating a digital object identifier (DOI)
-for the release.  The instructions to do so are at
-https://guides.github.com/activities/citable-code/.  It is RECOMMENDED that
-all releases have a DOI associated with them to facilitate citations of the
-software.
+If the principal developer(s) choose to use GitHub as a distribution method
+for their software, then the principal developer(s) are responsible for
+generating a digital object identifier (DOI) for the release.  The
+instructions to do so are at https://guides.github.com/activities/citable-code/.
+It is RECOMMENDED that all releases have a DOI associated with them to
+facilitate citations of the software.
 
 ## <a name="4ADBEADCC17C11E6B9BC003EE1B763F8"></a>Minor Reviews
 
-Minor releases include all releases that the PD, the PD's OPSEC officer, and
-the PD's supervisor do not believe require a major review.  These include bug
-fixes and minor updates.  A level-1 OPSEC officer must review the release
-before it is published.  These reviews are called "minor reviews" and are
-subject to the following:
+Minor releases include all releases that the principal developer(s), their
+OPSEC officer(s), and their supervisor(s) do not believe require a major
+review.  These include bug fixes and minor updates.  A level-1 OPSEC officer
+must review the release before it is published.  These reviews are called
+"minor reviews" and are subject to the following:
 
 * The OPSEC officer MAY also be the technical reviewer for the release.
 * Only if the project as a whole, including the minor changes being proposed
@@ -677,10 +682,10 @@ These steps are REQUIRED for audit purposes.  Without them, ARL cannot prove
 to the Department of the Army that it is properly reviewing material before it
 is released.
 
-If the PDs, the OPSEC officer, or any of their superiors determine that
-significant changes to the scope of the project or violation of any of the
-checks described in this document have occurred or are about to occur, then
-that person MUST demand that a MAJOR REVIEW occur.
+If the principal developer(s), the OPSEC officer, or any of their superiors
+determine that significant changes to the scope of the project or violation of
+any of the checks described in this document have occurred or are about to
+occur, then that person MUST demand that a MAJOR REVIEW occur.
 
 ## <a name="4D5F4B34C17C11E6ADBB003EE1B763F8"></a>Incorporating External Contributions
 
@@ -705,23 +710,23 @@ and how to measure a project's impact on the general public is still a matter
 for debate.  While GitHub gathers numerous statistics on projects, from the
 number of downloads, to the number of followers, etc., these are, at best,
 suggestions of what a project's true impact is.  For the sake of metrics, a
-project's PDs MUST create a short report (at most one page) describing what
-they think the impact is and providing evidence to back up this claim.  The
-greater impact a project has had, the better it is for metrics and performance
-evaluation.
+project's principal developer(s) MUST create a short report (at most one page)
+describing what they think the impact is and providing evidence to back up
+this claim.  The greater impact a project has had, the better it is for
+metrics and performance evaluation.
 
 To be absolutely clear, impact is based on major reviews (releases that follow
 the procedure outlined in [Major Reviews](#3449D4BEC17C11E68DD1003EE1B763F8)).
 [Minor Reviews](#4ADBEADCC17C11E6B9BC003EE1B763F8) might lead toward a major
-review, but will not count toward a PDs performance metrics. If a PD wants
-releases to count toward his or her metrics, the procedures outlined in Major
-Reviews MUST be followed.
+review, but will not count toward a principal developer(s) performance
+metrics. If the principal developer(s) want releases to count toward his or
+her metrics, the procedures outlined in Major Reviews MUST be followed.
 
 For performance metric purposes, supervisors MAY treat a major review as being
 up to the equivalent of a major accomplishment for the year, similar to the
 publication of a paper in a high-impact peer-reviewed journal.  To obtain
-recognition, PDs MUST provide evidence of impact as explained in
-[Evidence of Impact](#5092761CC17C11E6B23A003EE1B763F8) and
+recognition, principal developer(s) MUST provide evidence of impact as
+explained in [Evidence of Impact](#5092761CC17C11E6B23A003EE1B763F8) and
 [Software Maturity and Software Engineering](#53A23266C17C11E6BEEE003EE1B763F8).
 The greater impact the software has had since the last major review, the more
 credit MAY be given (up to the equivalent of a major accomplishment).  If a
@@ -730,16 +735,16 @@ performance metric purposes.
 
 ### <a name="5092761CC17C11E6B23A003EE1B763F8"></a>Evidence of Impact
 
-It is up to the PD to decide what types of evidence to use when describing the
-impact of a project.  As noted in
+It is up to the principal developer(s) to decide what types of evidence to use
+when describing the impact of a project.  As noted in
 [File an ARL Form 1](#4066B47EC17C11E6BFC7003EE1B763F8), ARL will not "double
 count" the impact; ARL is primarily interested in the impact since the last
 major review.  That said, some forms of evidence are difficult to express as a
-difference from a prior major review.  In that case, a PD MAY wish to express
-both the current absolute numbers and the changes since the project was last
-filed.
+difference from a prior major review.  In that case, the principal
+developer(s) MAY wish to express both the current absolute numbers and the
+changes since the project was last filed.
 
-Below are some examples of evidence PDs MAY wish to consider giving:
+Below are some examples of evidence principal developer(s) MAY wish to consider giving:
 
 * The number of citations of different releases.  It is possible to cite
   releases on GitHub just as papers might be cited.  See
@@ -751,22 +756,22 @@ Below are some examples of evidence PDs MAY wish to consider giving:
 * Customers that are using the software, provided they permit their names to
   be listed.
 * The number of followers, including the level of interest as measured by
-  issues opened and persons contacting the PDs.
+  issues opened and persons contacting the principal developer(s).
 * The number of forks.
 * The number of contributions from outside (non-ARL) sources.
 * Letters of acknowledgment, thanks, or other forms of recognition.
 * Software maturity.
 
-The PDs should not feel that they are limited to these pieces of evidence, nor
-should they feel the need to include all of these examples.  ARL is still
-learning which metrics to use when determining the impact of a project. The
-PDs should feel free to use any metric they wish, but should note that
-supervisors and others will make the final decision on how heavily to weight
-the chosen metrics.  For example, the number of citations for a software
-project is more important than the number of downloads it has. If a project is
-a library, then the number and importance of projects using the library will
-have greater weight than the number of people that have forked the
-project<sup>[10](#Footnote_10)</sup>.
+The principal developer(s) should not feel that they are limited to these
+pieces of evidence, nor should they feel the need to include all of these
+examples.  ARL is still learning which metrics to use when determining the
+impact of a project. The principal developer(s) should feel free to use any
+metric they wish, but should note that supervisors and others will make the
+final decision on how heavily to weight the chosen metrics.  For example, the
+number of citations for a software project is more important than the number
+of downloads it has. If a project is a library, then the number and importance
+of projects using the library will have greater weight than the number of
+people that have forked the project<sup>[10](#Footnote_10)</sup>.
 
 In general, supervisors will want to know how a project has made a difference
 in the world and how important that difference has been since its last major
@@ -794,9 +799,10 @@ limited to, the following:
 * Simplifying building and installation of software.
 
 These are just some examples of mature software.  If there is other evidence
-of the maturity or quality of software, a PD should feel free to use it when
-describing the impact of the software.  Supervisors MUST consider improvements
-in software engineering when considering the impact of software.
+of the maturity or quality of software, principal developer(s) should feel
+free to use it when describing the impact of the software.  Supervisors MUST
+consider improvements in software engineering when considering the impact of
+software.
 
 # <a name="55B06322C17C11E6920E003EE1B763F8"></a>CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
 

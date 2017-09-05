@@ -1,6 +1,6 @@
 # <p align="center">The U.S. Army Research Laboratory (ARL) Software Release Process for Unrestricted Public Release</p>
-<p align="center">Version 1.0.4</p>
-<p align="center">28 July 2017</p>
+<p align="center">Version 2.0.0</p>
+<p align="center">TBD</p>
 
 # <a name="1FF58AF8C17C11E6B7FC003EE1B763F8"></a>Summary
 

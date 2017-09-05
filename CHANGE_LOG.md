@@ -19,6 +19,8 @@ document changes to projects as they happen.  This is a breaking change from
 the 1.x version of this policy, and is a reason why the policy number was
 incremented to 2.0.
 
+In addition, the VERSION file for the policy was deleted.
+
 ## Clarified licensing so that both CC0 and an OSI-approved license may be used at the same time.
 
 Whether or not a work has copyright attached depends on it source; works

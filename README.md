@@ -96,21 +96,21 @@ Conversely, when software is not published, the following are true:
     * Published research may be ignored, because external researchers do not
       fully understand it.
     * New researchers must "reinvent the wheel" by writing their own software.
-* The ARL may lose its leadership position to others solely due to others
+* ARL may lose its leadership position to others solely due to others
   having published their code first.
 
-The ARL leadership has recognized these facts and, to ensure that ARL remains
-a leader rather than a follower, has created an organizational site on GitHub,
-a social networking website focused on sharing code, to publish ARL software
-to the world as a part of Open Campus.  However, ARL is not a private entity
-and MUST obey numerous laws and regulations when releasing any material to the
+ARL leadership has recognized these facts and, to ensure that ARL remains a
+leader rather than a follower, has created an organizational site on GitHub, a
+social networking website focused on sharing code, to publish ARL software to
+the world as a part of Open Campus.  However, ARL is not a private entity and
+MUST obey numerous laws and regulations when releasing any material to the
 public.  These protocols are intended to protect sensitive material from
 inadvertent release, prevent ARL from accidentally trespassing on the rights
 of others, and protect the Intellectual Property (IP) rights of ARL.
 
 ## <a name="25060DEEC17C11E6B53F003EE1B763F8"></a>Issues Related to Releasing Source Code
 
-The ARL faces a number of issues when defining a software release process.
+ARL faces a number of issues when defining a software release process.
 Legal and regulatory issues are fully outlined in [Legal Analysis - Software
 Protection & Release Mechanisms](#D18EB61EC23E11E692E5003EE1B763F8), while
 other issues are summarized here.
@@ -538,7 +538,7 @@ This step MAY be done in parallel with the steps described below.
 
 ### <a name="433214A2C17C11E6952E003EE1B763F8"></a>Obtain Invention Evaluation Committee (IEC) Approval
 
-The ARL may have IP interests in the software.  Before the software can be
+ARL may have IP interests in the software.  Before the software can be
 released, the IEC MUST determine that it is in the best interest of the
 Government and ARL to waive any IP rights that ARL might have and release them
 to the public.  To do so, the PD MUST inform the current chair of the IEC (or
@@ -552,7 +552,7 @@ chair a digitally signed email that contains the following:
   list of all software-related inventions that the PD and his or her
   supervisor believe are contained in the work<sup>[7](#Footnote_7)</sup>.
 * For each invention, an explanation of why the PD(s) and their supervisor(s)
-  believe that it is in the best interest of the ARL and Government to waive
+  believe that it is in the best interest of ARL and Government to waive
   ARL's IP rights and place the inventions irrevocably into the public domain.
 
 If the chair (or the chair's delegate) agrees that ARL should waive any patent

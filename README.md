@@ -646,7 +646,8 @@ effort.
 If the principal developer(s) choose to use GitHub as a distribution method
 for their software, then the principal developer(s) are responsible for
 generating a digital object identifier (DOI) for the release.  The
-instructions to do so are at https://guides.github.com/activities/citable-code/.
+instructions to do so are at
+https://guides.github.com/activities/citable-code/.
 It is RECOMMENDED that all releases have a DOI associated with them to
 facilitate citations of the software.
 

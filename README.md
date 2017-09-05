@@ -145,11 +145,12 @@ there are adequate rights held by the Government to perform a release to the
 public.  For most publications, once an ARL Form 1 is completed, the
 publication is approved for public release.  However, the ARL Form 1 process
 was designed primarily for OPSEC and quality control purposes, and does not
-address IP concerns.  This can cause significant legal challenges if not
-correctly addressed, both when ARL accidentally releases valuable IP without
-protecting it, and when ARL accidentally trespasses on the rights of others.
-There are three main types of IP rights that MUST be considered when a release
-of material is contemplated: trademark, copyright, and patent rights.
+address Intellectual Property (IP) concerns.  This can cause significant legal
+challenges if not correctly addressed, both when ARL accidentally releases
+valuable IP without protecting it, and when ARL accidentally trespasses on the
+rights of others. There are three main types of IP rights that MUST be
+considered when a release of material is contemplated: trademark, copyright,
+and patent rights.
 
 #### Trademarks
 

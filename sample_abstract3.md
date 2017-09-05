@@ -50,10 +50,23 @@ This is the second release of ARL_rapid_form_maker.  It does not add any new
 features.  Instead, it is a collection of bug fixes and engineering changes
 that makes ARL_rapid_form_maker significantly more stable, and able to be
 expanded to the entire ARL workforce.  Since the last release, 297 issues were
-resolved, including 45 that would crash the system or cause a loss of data. At
-this point, ARL_rapid_form_maker is stable enough that it can be treated as a
-product.  We hope to transition it to other Government agencies so that they
-can see the benefits that ARL workforce is starting to see from its use.
+resolved, including 45 that would crash the system or cause a loss of data. As
+ARL_rapid_form_maker has been transitioned to numerous users, becoming a tool
+that is used in day-to-day work, this engineering work has been critical in
+ensuring that users have no downtime.
+
+Impact
+------
+
+* Significant improvement in ARL's internal paperwork processing.
+  Administrative staff regularly cite it as being one of the most useful tools
+  they've encountered.
+* Cited by __Government IT Worker Magazine__ as one of the most innovative new
+  developments in IT in the past 15 years.
+* Transitioned to multiple partners including the U.S. Department of Veterans
+  Affairs, the U.S. Department of the Army, Defense Advanced Research Projects
+  Agency, the United States Social Security Administration, and the
+  United States Department of Energy.
 
 List of contributors:
 ---------------------

@@ -12,8 +12,8 @@ Reason for review
 Numerous new features have been added that the authors believe are major
 accomplishments that should be documented.
 
-Primary accomplishment of this release
---------------------------------------
+Primary accomplishments of this release
+---------------------------------------
 
 Since the last major review, the following features have been added:
 
@@ -45,6 +45,16 @@ Since the last major review, the following features have been added:
   that were hard to find and eliminate in C++.  Documentation was improved,
   including the addition of 25 new example projects showing how to use the
   library.
+
+Impact
+------
+
+* 53 papers written, including 12 peer reviewed journal papers since the last
+  major review.
+* Directly cited in at least 315 papers.
+* Transitioned to AMRDEC and TARDEC for their own purposes.
+* Over 15,000 individual external contributions, with 8,000 being done since
+  the last major review.
 
 List of contributors:
 ---------------------

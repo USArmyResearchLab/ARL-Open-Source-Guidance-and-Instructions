@@ -696,15 +696,28 @@ greater impact a project has had, the better it is for metrics and performance
 evaluation.
 
 To be absolutely clear, impact is based on major reviews (releases that follow
-the procedure outlined in Major Reviews). Minor reviews, as described in Minor
-Reviews, might lead toward a major review, but will not count toward metrics.
-If an author wants releases to count toward metrics, the procedures outlined
-in Major Reviews MUST be followed.
+the procedure outlined in [Major Reviews](#3449D4BEC17C11E68DD1003EE1B763F8)).
+[Minor Reviews](#4ADBEADCC17C11E6B9BC003EE1B763F8) might lead toward a major
+review, but will not count toward a PDs performance metrics. If a PD wants
+releases to count toward his or her metrics, the procedures outlined in Major
+Reviews MUST be followed.
+
+For performance metric purposes, supervisors MAY treat a major review as being
+up to the equivalent of a major accomplishment for the year, similar to the
+publication of a paper in a high-impact peer-reviewed journal.  To obtain
+recognition, PDs MUST provide evidence of impact as explained in
+[Evidence of Impact](#5092761CC17C11E6B23A003EE1B763F8) and
+[Software Maturity and Software Engineering](#53A23266C17C11E6BEEE003EE1B763F8).
+The greater impact the software has had since the last major review, the more
+credit MAY be given (up to the equivalent of a major accomplishment).  If a
+given major review has had no impact, then it MUST NOT be given any credit for
+performance metric purposes.
 
 ### <a name="5092761CC17C11E6B23A003EE1B763F8"></a>Evidence of Impact
 
 It is up to the PD to decide what types of evidence to use when describing the
-impact of a project.  As noted in File an ARL Form 1, ARL will not "double
+impact of a project.  As noted in
+[File an ARL Form 1](#4066B47EC17C11E6BFC7003EE1B763F8), ARL will not "double
 count" the impact; ARL is primarily interested in the impact since the last
 major review.  That said, some forms of evidence are difficult to express as a
 difference from a prior major review.  In that case, a PD MAY wish to express
@@ -720,23 +733,25 @@ Below are some examples of evidence PDs MAY wish to consider giving:
 * If a project is a library or something else that is intended to be
   incorporated into other projects, list those projects and describe their
   importance.
+* Customers that are using the software, provided they permit their names to
+  be listed.
 * The number of followers, including the level of interest as measured by
-  issues opened and persons contacting the PDs
-* The number of forks
-* The number of contributions from outside (non-ARL) sources
-* Letters of acknowledgment, thanks, or other forms of recognition
-* Software maturity
+  issues opened and persons contacting the PDs.
+* The number of forks.
+* The number of contributions from outside (non-ARL) sources.
+* Letters of acknowledgment, thanks, or other forms of recognition.
+* Software maturity.
 
 The PDs should not feel that they are limited to these pieces of evidence, nor
-should they feel the need to include all of these examples.  As stated
-earlier, ARL is still learning which metrics to use when determining the
-impact of a project. The PDs should feel free to use any metric they wish, but
-should note that supervisors and others will make the final decision on how
-heavily to weight the chosen metrics.  For example, the number of citations
-for a software project is more important than the number of downloads it has.
-If a project is a library, then the number and importance of projects using
-the library will have greater weight than the number of people that have
-forked the project<sup>[10](#Footnote_10)</sup>.
+should they feel the need to include all of these examples.  ARL is still
+learning which metrics to use when determining the impact of a project. The
+PDs should feel free to use any metric they wish, but should note that
+supervisors and others will make the final decision on how heavily to weight
+the chosen metrics.  For example, the number of citations for a software
+project is more important than the number of downloads it has. If a project is
+a library, then the number and importance of projects using the library will
+have greater weight than the number of people that have forked the
+project<sup>[10](#Footnote_10)</sup>.
 
 In general, supervisors will want to know how a project has made a difference
 in the world and how important that difference has been since its last major
@@ -744,7 +759,7 @@ review.  The better evidence provided, the easier this becomes.
 
 ### <a name="53A23266C17C11E6BEEE003EE1B763F8"></a>Software Maturity and Software Engineering
 
-The ARL would like to be a world leader in computer science research.  To be a
+ARL would like to be a world leader in computer science research.  To be a
 world leader means that ARL must have an impact and to have an impact means
 that ARL's software must be used.  Poorly written software that is
 incomprehensible or difficult to compile or use will not be used, and will

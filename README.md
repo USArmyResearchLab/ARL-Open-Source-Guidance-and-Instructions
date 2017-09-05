@@ -473,9 +473,11 @@ information:
     * Which OSI-approved license is the code being released under.
 * A list of all software-related inventions that the developers believe
   patents could be pursued for, and reasons for why ARL should waive its
-  rights to pursue a patent on each.This will help the Invention Evaluation
+  rights to pursue a patent on each.  This will help the Invention Evaluation
   Committee decide whether it would be better to pursue patents, or waive
-  ARL's rights.
+  ARL's rights.  If there are no software-related inventions claimed, then
+  this must be noted (see [sample_abstract3.md](sample_abstract3.md) for an
+  example of this).
 
 Examples of how to write abstracts are provided in the files
 [sample_abstract1.md](sample_abstract1.md),
@@ -559,12 +561,16 @@ following:
 * The abstract that was submitted as a part of the ARL Form 1 process above.
   The related software is not sent to the IEC chair (or the chair's delegate)
   unless he or she requests it. As explained in the section
-  [File an ARL Form 1](#4066B47EC17C11E6BFC7003EE1B763F8) This SHOULD contain
-  list of all software-related inventions that the PD and his or her
-  supervisor believe are contained in the work<sup>[7](#Footnote_7)</sup>.
-* For each invention, an explanation of why the PD(s) and their supervisor(s)
-  believe that it is in the best interest of ARL and Government to waive
-  ARL's IP rights and place the inventions irrevocably into the public domain.
+  [File an ARL Form 1](#4066B47EC17C11E6BFC7003EE1B763F8) This MUST contain a
+  list of all software-related inventions that the principal developer(s) and
+  his or her supervisor believe are contained in the
+  work<sup>[7](#Footnote_7)</sup>.  If there are no inventions, then this MUST
+  be noted as well so that the IEC will know that this requirement was not
+  skipped.
+* For each invention, an explanation of why the principal developer(s) and
+  their supervisor(s) believe that it is in the best interest of ARL and
+  Government to waive ARL's IP rights and place the inventions irrevocably
+  into the public domain.
 
 If the chair (or the chair's delegate) agrees that ARL should waive any patent
 or other IP interests ARL may have, then the chair (or the chair's delegate)

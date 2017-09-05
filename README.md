@@ -337,9 +337,9 @@ Because of the wide variety of programming languages in use, project goals,
 etc., ARL wants to avoid forcing a single process on any developers or group.
 For this reason, ARL has chosen a minimal set of requirements and provides
 some best practice suggestions.  Individual implementation of the voluntary
-portions is RECOMMENDED as they may have an effect on impact and metrics.  See
-[A Note on Impact and Metrics](#A_Note_on_Impact_and_Metrics) for details on
-metrics.
+portions is RECOMMENDED as they may have an effect on impact and performance
+metrics.  See [A Note on Impact and Metrics](#A_Note_on_Impact_and_Metrics)
+for details on performance metrics.
 
 As discussed at [Licensing and the ARL Contributor License Agreement (ARL
 CLA)](#2DF49A4AC17C11E69E3A003EE1B763F8), all projects will have their

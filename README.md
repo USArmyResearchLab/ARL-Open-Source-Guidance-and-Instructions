@@ -11,6 +11,12 @@ public.  The `master` branch of this repository is the only official document;
 all other branches are for discussion and development only, and may or may not
 become part of a future official policy.
 
+ARL is providing this policy on GitHub both to guide ARL's employees, and to
+make the policy itself available for other agencies that are developing their
+own policy.  Please feel free to fork and modify this policy to meet your own
+agency's needs.  If you reference this policy in your papers or other works,
+please cite it via the DOI (TBD).
+
 # Table of Contents
 
 * [Definitions](#20721692C17C11E69585003EE1B763F8)

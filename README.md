@@ -59,15 +59,15 @@ the complete definitions.
 # <a name="21147298C17C11E6BA7B003EE1B763F8"></a>Goals and Rationale
 
 The goal of this policy is to both clarify how software developed by ARL
-personnel may be released to the public and encourage ARL personnel to do so,
+personnel may be released to the public, and encourage ARL personnel to do so,
 while remaining firmly within the legal and regulatory requirements of the
-United States and the Army.  These goals are in some ways conflicting, which
-is why the process described in this document may seem bureaucratic and
-onerous.  This chapter explains why publishing software is important, along
-with some of the legal and regulatory constraints on doing so.  Reading it is
-OPTIONAL, but doing so may give the reader some insight into the reasons for
-why the process is necessary, as well as some of the design choices that went
-into creating the process.
+United States of America and the United States Army.  These goals are in some
+ways conflicting, which is why the process described in this document may seem
+bureaucratic and onerous.  This chapter explains why publishing software is
+important, along with some of the legal and regulatory constraints on doing
+so.  Reading it is OPTIONAL, but doing so may give the reader some insight
+into the reasons for why the process is necessary, as well as some of the
+design choices that went into creating the process.
 
 ## <a name="22AFD814C17C11E6BAC9003EE1B763F8"></a>Why Releasing Software is Important
 

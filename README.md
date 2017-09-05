@@ -676,7 +676,7 @@ External contributions do not need to undergo OPSEC review as they are assumed
 to be public at the time of contribution.  They SHOULD be reviewed for quality
 purposes before being accepted into a project to ensure that they are
 professional in nature and perform as expected.  All external contributors
-MUST have a CLA (see (ARL CLA)](#2DF49A4AC17C11E69E3A003EE1B763F8)) on file
+MUST have a CLA (see [ARL CLA](#2DF49A4AC17C11E69E3A003EE1B763F8)) on file
 before their contributions are accepted into the project.  A CLA only needs to
 be executed once by each legal entity.  Project owners MUST turn over executed
 CLAs to the T2O2 for record keeping.  Project owners MUST explain in the

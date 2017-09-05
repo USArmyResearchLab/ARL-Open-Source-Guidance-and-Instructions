@@ -370,27 +370,30 @@ The `LICENSE.txt` file MUST be a plain-text file in either ASCII or UTF-8
 encoding.  The README file (described below) MUST state the name of the file
 that contains the complete license<sup>[6](#Footnote_6)</sup>.  If the project
 has a webpage, the licenses being used MUST be stated somewhere on the
-webpage, with a link pointing to where the project's `LICENSE.txt` file.
+webpage, with a link pointing to the project's `LICENSE.txt` file.
 
-A "README" file MUST be created at the top level of the directory with at
-least the following in it:
-
-* The intended purpose of the software.
-* A note pointing to the license or contract covering the software.
-* At least some basic documentation on how to build and use the software.
-
-The "README" file MUST be a plain-text file in either ASCII or UTF-8 encoding.
-The file may be named "README", "README.txt", or "README.md".  As a note, if
-the developers choose to use [GitHub](https://github.com) as the distribution
+A "README" file MUST be created in the top level directory of the project. The
+"README" file MUST be a plain-text file in either ASCII or UTF-8 encoding. The
+file may be named "README", "README.txt", or "README.md".  As a note, if the
+developers choose to use [GitHub](https://github.com) as the distribution
 method, it is RECOMMENDED that the file be named "README.md", and that the
 file be written in [GitHub-flavored
 Markdown](https://guides.github.com/features/mastering-markdown/).  Throughout
 this document the file will be called "README" regardless of what suffix is
-used on the actual file.
+used on the actual file.  The "README" file must contain at least the
+following in it:
 
-The "README" SHOULD describe what valuable contributions the principal
-developers would welcome from the community.  This will help the public focus
-on efforts that are most likely to be accepted into the project.
+* The intended purpose of the software.
+* A note pointing to the license or contract covering the software.
+* At least some basic documentation on how to build and use the software.
+* An explanation that external contributors MUST execute a CLA before their
+  contributions will be accepted.  See
+  [Incorporating External Contributions](#4D5F4B34C17C11E6ADBB003EE1B763F8)
+  for more information.
+
+In addition, the "README" SHOULD describe what valuable contributions the
+principal developers would welcome from the community.  This will help the
+public focus on efforts that are most likely to be accepted into the project.
 
 While only the "README" file is mandatory, other documentation is highly
 desirable.  This can include comments in the source code, high-level design
@@ -704,10 +707,10 @@ purposes before being accepted into a project to ensure that they are
 professional in nature and perform as expected.  All external contributors
 MUST have a CLA (see [ARL CLA](#2DF49A4AC17C11E69E3A003EE1B763F8)) on file
 before their contributions are accepted into the project.  A CLA only needs to
-be executed once by each legal entity.  Project owners MUST turn over executed
-CLAs to the T2O2 for record keeping.  Project owners MUST explain in the
-README file that external contributors MUST execute a CLA before their
-contributions will be accepted.
+be executed once by each legal entity for a given project.  Project owners
+MUST turn over executed CLAs to the T2O2 for record keeping.  Project owners
+MUST explain in the README file that external contributors MUST execute a CLA
+before their contributions will be accepted.
 
 ## <a name="A_Note_on_Impact_and_Metrics"></a>A Note on Impact and Metrics
 

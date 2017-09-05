@@ -412,7 +412,7 @@ Unit tests are strongly RECOMMENDED.  They can not only increase confidence
 that the code was written correctly, but they can also convince a user that
 the code is behaving as expected on the system on which it is installed.  This
 will increase the likelihood that others will be willing to use the code,
-which can increase the overall impact of the project . In addition, unit tests
+which can increase the overall impact of the project. In addition, unit tests
 can serve as examples of how to use the code; this can be invaluable when a
 user is trying to understand the documentation.
 
@@ -500,7 +500,7 @@ information they need to give proper credit on performance reviews.   Note
 that while ARL wants to credit developers for the impact the software has
 made, it will not "double count" what developers have done by including the
 impact from earlier major reviews.  Only the impact made since the last time
-the major review process was completed MAY be included.
+the major review process was completed for the project MAY be included.
 
 This abstract, along with everything planned on being released (software,
 source code, documentation, etc.), MUST be fully reviewed by a level 1 OPSEC
@@ -629,8 +629,8 @@ If the software is approved for final release and there is not yet a project
 for it on GitHub, then the T2O2 will generate a project on the [ARL GitHub
 organization site](https://github.com/USArmyResearchLab).  If there is already
 a project on the ARL GitHub organization for the software, then the T2O2 will
-note the release for metrics purposes, but will take no other action.  If an
-developer chooses not to use the ARL GitHub organization, he or she MAY
+note the release for metrics purposes, but will take no other action.  If a
+developer chooses not to use the ARL GitHub organization site, he or she MAY
 request that the T2O2 not create a project.  However, as mentioned in
 Distribution Methods, it is strongly RECOMMENDED that GitHub be used to
 distribute software.

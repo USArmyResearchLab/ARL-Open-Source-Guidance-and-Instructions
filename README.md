@@ -712,21 +712,25 @@ contributions will be accepted.
 ## <a name="A_Note_on_Impact_and_Metrics"></a>A Note on Impact and Metrics
 
 Publishing software as a regular business practice is new territory for ARL,
-and how to measure a project's impact on the general public is still a matter
-for debate.  While GitHub gathers numerous statistics on projects, from the
-number of downloads, to the number of followers, etc., these are, at best,
-suggestions of what a project's true impact is.  For the sake of metrics, a
-project's principal developer(s) MUST create a short report (at most one page)
-describing what they think the impact is and providing evidence to back up
-this claim.  The greater impact a project has had, the better it is for
-metrics and performance evaluation.
+and how to measure a project's impact is still a matter for debate.  While
+GitHub gathers numerous statistics on projects, from the number of downloads,
+to the number of followers, etc., these are, at best, suggestions of what a
+project's true impact is.  For the sake of metrics, a project's principal
+developer(s) MUST create a short report (at most one page), and combine it
+with the abstract generated as a part of the
+[Major Review](#3449D4BEC17C11E68DD1003EE1B763F8)) process.  The report MUST
+describe what the principal developer(s) think the impact of project is, and
+provide evidence to back up any claims.  The greater impact a project has had,
+the better it is for metrics and performance evaluation.  Brief examples of
+how this can be done are shown in [sample_abstract2.md](sample_abstract2.md)
+and [sample_abstract3.md](sample_abstract3.md).
 
 To be absolutely clear, impact is based on major reviews (releases that follow
 the procedure outlined in [Major Reviews](#3449D4BEC17C11E68DD1003EE1B763F8)).
 [Minor Reviews](#4ADBEADCC17C11E6B9BC003EE1B763F8) might lead toward a major
 review, but will not count toward a principal developer(s) performance
-metrics. If the principal developer(s) want releases to count toward his or
-her metrics, the procedures outlined in Major Reviews MUST be followed.
+metrics. If the principal developer(s) want releases to count toward their
+metrics, the procedures outlined in Major Reviews MUST be followed.
 
 For performance metric purposes, supervisors MAY treat a major review as being
 up to the equivalent of a major accomplishment for the year, similar to the

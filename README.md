@@ -190,8 +190,8 @@ against this problem:
   and Development Agreement (CRADA), Cooperative Agreement (CA), or another
   similar vehicle.
 * Refuse all outside contributions.
-* Arrange for a contractor to author and own the work, and then assign
-  copyright to the Government.
+* Arrange for a contractor to create the work, and then assign copyright in
+  the work to the Government.
 
 The process in this document outlines a new option, and as such, requires
 careful consideration of copyright implications.
@@ -224,8 +224,8 @@ A major difference between software and a journal paper or other presentation
 is that software is effectively a machine.  As such, there are concerns about
 fitness for purpose, as well as the liability incurred, should the software
 not meet its stated capabilities.  Releasing software without an adequate
-license or contract may leave both the authors of the software and ARL open to
-liability issues that could be avoided.
+license or contract may leave both the developers of the software and ARL open
+to liability issues that could be avoided.
 
 ### <a name="2DF49A4AC17C11E69E3A003EE1B763F8"></a>Licensing and the ARL Contributor License Agreement (ARL CLA)
 
@@ -326,11 +326,11 @@ history in any repositories that are proposed for release have been properly
 scrubbed before the material is reviewed for release.
 
 Software that is released to the public is similar to a publication and SHOULD
-be treated like one.  The author(s) MUST ensure that there is no embarrassing,
-disparaging, or otherwise unprofessional language in what is released.
-Language that would not be used in a professional journal MUST NOT be used in
-software.  Direct any questions about this to the ARL Public Affairs Office
-(PAO).
+be treated like one.  The developer(s) MUST ensure that there is no
+embarrassing, disparaging, or otherwise unprofessional language in what is
+released. Language that would not be used in a professional journal MUST NOT
+be used in software.  Direct any questions about this to the ARL Public
+Affairs Office (PAO).
 
 Where possible, it is wise to follow best practices in software engineering.
 Because of the wide variety of programming languages in use, project goals,
@@ -344,24 +344,25 @@ metrics.
 As discussed at [Licensing and the ARL Contributor License Agreement (ARL
 CLA)](#2DF49A4AC17C11E69E3A003EE1B763F8), all projects will have their
 material licensed under both the CC0 license, and a license that is both
-approved by OSI and the ARL Chief Counsel's Office. The author(s) MUST consult
-with the ARL Chief Counsel's Office when selecting an OSI-approved license.
-All contributions that have copyright attached MUST be licensed to ARL under
-the OSI-approved license chosen by the project's author(s), and they MUST be
-redistributed under the same license when the software is redistributed.
-Works that do not have copyright attached MUST be accepted and redistributed
-under the CC0 license. All contributions MUST be irrevocable under the given
-license.  Questions about this can be directed to ARL Legal for clarification.
+approved by OSI and the ARL Chief Counsel's Office. The developer(s) MUST
+consult with the ARL Chief Counsel's Office when selecting an OSI-approved
+license. All contributions that have copyright attached MUST be licensed to
+ARL under the OSI-approved license chosen by the project's developer(s), and
+they MUST be redistributed under the same license when the software is
+redistributed. Works that do not have copyright attached MUST be accepted and
+redistributed under the CC0 license. All contributions MUST be irrevocable
+under the given license.  Questions about this can be directed to ARL Legal
+for clarification.
 
-Once the license is chosen, the author(s) MUST provide copies of the license
-text in a file named `LICENSE.txt` at the root of the project's repository.
-This MUST contain both the text of the OSI-approved license and the CC0
-license.  The `LICENSE.txt` MUST also contain a notice that those portions of
-the material that do not have copyright attached within the jurisdiction of
-the United States of America are distributed under the terms of the CC0
-license, and that all other portions of the work are distributed under the
-terms of the OSI-approved license in the `LICENSE.txt` file.  An example of
-how this can be done for the CC0 license and the [Apache
+Once the license is chosen, the developer(s) MUST provide copies of the
+license text in a file named `LICENSE.txt` at the root of the project's
+repository. This MUST contain both the text of the OSI-approved license and
+the CC0 license.  The `LICENSE.txt` MUST also contain a notice that those
+portions of the material that do not have copyright attached within the
+jurisdiction of the United States of America are distributed under the terms
+of the CC0 license, and that all other portions of the work are distributed
+under the terms of the OSI-approved license in the `LICENSE.txt` file.  An
+example of how this can be done for the CC0 license and the [Apache
 2.0](http://apache.org/licenses/LICENSE-2.0) license is given in the
 [LICENSE.txt](LICENSE.txt) file.
 
@@ -380,7 +381,7 @@ least the following in it:
 
 The "README" file MUST be a plain-text file in either ASCII or UTF-8 encoding.
 The file may be named "README", "README.txt", or "README.md".  As a note, if
-the authors choose to use [GitHub](https://github.com) as the distribution
+the developers choose to use [GitHub](https://github.com) as the distribution
 method, it is RECOMMENDED that the file be named "README.md", and that the
 file be written in [GitHub-flavored
 Markdown](https://guides.github.com/features/mastering-markdown/).  Throughout
@@ -470,10 +471,11 @@ information:
     * Has any version of the software been previously distributed outside of
       ARL?  If yes, please explain the circumstances.
     * Which OSI-approved license is the code being released under.
-* A list of all software-related inventions that the authors believe patents
-  could be pursued for, and reasons for why ARL should waive its rights to
-  pursue a patent on each.  This will help the Invention Evaluation Committee
-  decide whether it would be better to pursue patents, or waive ARL's rights.
+* A list of all software-related inventions that the developers believe
+  patents could be pursued for, and reasons for why ARL should waive its
+  rights to pursue a patent on each.This will help the Invention Evaluation
+  Committee decide whether it would be better to pursue patents, or waive
+  ARL's rights.
 
 Examples of how to write abstracts are provided in the files
 [sample_abstract1.md](sample_abstract1.md),
@@ -487,30 +489,30 @@ will be used throughout the rest of this process, so it MUST be as accurate
 and complete as possible.
 
 As noted above, if this is not the first major review of this project then
-authors should document the major accomplishments of this project since the
+developers should document the major accomplishments of this project since the
 last major review was done.  This documentation provides supervisors the
 information they need to give proper credit on performance reviews.   Note
-that while ARL wants to credit authors for the impact the software has made,
-it will not "double count" what authors have done by including the impact from
-earlier major reviews.  Only the impact made since the last time the major
-review process was completed MAY be included.
+that while ARL wants to credit developers for the impact the software has
+made, it will not "double count" what developers have done by including the
+impact from earlier major reviews.  Only the impact made since the last time
+the major review process was completed MAY be included.
 
 This abstract, along with everything planned on being released (software,
 source code, documentation, etc.), MUST be fully reviewed by a level 1 OPSEC
 officer.  If this is not an initial review, the OPSEC officer MAY choose to
-only review what has changed since the last review, but both the author(s) and
-the OPSEC officer are responsible for the release as a whole.  Thus, even if
-the changes are cleared for public release, if the release as a whole cannot
-be cleared for release, then the changes are not cleared for release either.
-To be cleared for release, the project as a whole MUST receive an "Approved
-for public release; distribution unlimited" statement.
+only review what has changed since the last review, but both the developer(s)
+and the OPSEC officer are responsible for the release as a whole.  Thus, even
+if the changes are cleared for public release, if the release as a whole
+cannot be cleared for release, then the changes are not cleared for release
+either. To be cleared for release, the project as a whole MUST receive an
+"Approved for public release; distribution unlimited" statement.
 
 No one is permitted to OPSEC-approve material that he or she created.
 
 ### <a name="45A6CE62C17C11E6A6C0003EE1B763F8"></a>Intellectual Property Review
 
 Although ARL MAY choose to waive ARL's rights to any IP established in
-software, if an author has incorporated contributions from others, those
+software, if a developer has incorporated contributions from others, those
 contributors may have rights to those contributions that restrict ARL's
 ability to release the software.  Thus, before the software can be released,
 the following questions MUST be addressed:
@@ -615,10 +617,10 @@ for it on GitHub, then the T2O2 will generate a project on the [ARL GitHub
 organization site](https://github.com/USArmyResearchLab).  If there is already
 a project on the ARL GitHub organization for the software, then the T2O2 will
 note the release for metrics purposes, but will take no other action.  If an
-author chooses not to use the ARL GitHub organization, he or she MAY request
-that the T2O2 not create a project.  However, as mentioned in Distribution
-Methods, it is strongly RECOMMENDED that GitHub be used to distribute
-software.
+developer chooses not to use the ARL GitHub organization, he or she MAY
+request that the T2O2 not create a project.  However, as mentioned in
+Distribution Methods, it is strongly RECOMMENDED that GitHub be used to
+distribute software.
 
 The PDs SHOULD put their software on their project's site.  The T2O2 will
 publicize this site on behalf of the PDs. The software MAY also be distributed

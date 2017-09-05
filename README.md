@@ -201,15 +201,16 @@ careful consideration of copyright implications.
 Patents are another method of protecting IP rights.  If software is released
 by ARL without adequate review, the inventor's patent rights may be impacted.
 For instance, if contractors or other collaborators have co-invented a
-"software-related invention"<sup>[2](#Footnote_2)</sup> with ARL, they may
-have the right to pursue a patent first.  If the contractors or collaborators
-have that right and wish to exercise it, ARL SHOULD NOT release the software
-to the public under this process.  If a project will eventually be released
-under this process, developers SHOULD consult with the ARL Chief Counsel's
-Office to determine the best course of action to take with regard to any
-contractors or outside contributors.  If this is not done, then at some later
-date, developers may find that there are patents that effectively prevent ARL
-from releasing the software to the public<sup>[3](#Footnote_3)</sup>.
+"software-related invention"<sup>[2](#Footnote_2)</sup> with ARL, then the
+contractors or collaborators may have the right to pursue a patent first.  If
+the contractors or collaborators have that right and wish to exercise it, ARL
+SHOULD NOT release the software to the public under this process.  If a
+project will eventually be released under this process, developers SHOULD
+consult with the ARL Chief Counsel's Office to determine the best course of
+action to take with regard to any contractors or outside contributors.  If
+this is not done, then at some later date, developers may find that there are
+patents that effectively prevent ARL from releasing the software to the
+public<sup>[3](#Footnote_3)</sup>.
 
 In addition, unless this process is followed, ARL will not be waiving its
 patent rights; instead, the right to pursue patent protection falls back to

@@ -758,7 +758,8 @@ difference from a prior major review.  In that case, the principal
 developer(s) MAY wish to express both the current absolute numbers and the
 changes since the project was last filed.
 
-Below are some examples of evidence principal developer(s) MAY wish to consider giving:
+Below are some examples of evidence principal developer(s) MAY wish to
+consider giving:
 
 * The number of citations of different releases.  It is possible to cite
   releases on GitHub just as papers might be cited.  See
@@ -777,15 +778,15 @@ Below are some examples of evidence principal developer(s) MAY wish to consider 
 * Software maturity.
 
 The principal developer(s) should not feel that they are limited to these
-pieces of evidence, nor should they feel the need to include all of these
-examples.  ARL is still learning which metrics to use when determining the
-impact of a project. The principal developer(s) should feel free to use any
-metric they wish, but should note that supervisors and others will make the
-final decision on how heavily to weight the chosen metrics.  For example, the
-number of citations for a software project is more important than the number
-of downloads it has. If a project is a library, then the number and importance
-of projects using the library will have greater weight than the number of
-people that have forked the project<sup>[10](#Footnote_10)</sup>.
+pieces of evidence, nor should they feel the need to include evidence from all
+of these categories.  ARL is still learning which metrics to use when
+determining the impact of a project. The principal developer(s) should feel
+free to use any metric they wish, but should note that supervisors and others
+will make the final decision on how heavily to weight the chosen metrics.  For
+example, the number of citations for a software project is more important than
+the number of downloads it has. If a project is a library, then the number and
+importance of projects using the library will have greater weight than the
+number of people that have forked the project<sup>[10](#Footnote_10)</sup>.
 
 In general, supervisors will want to know how a project has made a difference
 in the world and how important that difference has been since its last major
@@ -794,14 +795,14 @@ review.  The better evidence provided, the easier this becomes.
 ### <a name="53A23266C17C11E6BEEE003EE1B763F8"></a>Software Maturity and Software Engineering
 
 ARL would like to be a world leader in computer science research.  To be a
-world leader means that ARL must have an impact and to have an impact means
+world leader means that ARL must have an impact, and to have an impact means
 that ARL's software must be used.  Poorly written software that is
 incomprehensible or difficult to compile or use will not be used, and will
 have little, if any, impact.  Thus, if the primary improvement to a project
 involves bringing it in line with generally accepted best practices in
 software engineering to facilitate its transition to others, then this is also
-of value and SHOULD be credited.  Examples of this include, but are not
-limited to, the following:
+of value and MUST be credited.  Examples of this include, but are not limited
+to, the following:
 
 * Providing a well-designed, thoroughly documented application programming
   interface (API) or other interface.
@@ -816,13 +817,18 @@ These are just some examples of mature software.  If there is other evidence
 of the maturity or quality of software, principal developer(s) should feel
 free to use it when describing the impact of the software.  Supervisors MUST
 consider improvements in software engineering when considering the impact of
-software.
+software, but just as with any other claims of impact, supervisors will have
+the final say in determining how important the impact actually is as it
+relates to performance metrics.
 
 # <a name="55B06322C17C11E6920E003EE1B763F8"></a>CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
 
 The text of the CC0 license can be found
-[here](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt).
-A local copy of the license is in the file [LICENSE.txt](LICENSE.txt).
+[here](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt). A
+local copy of the license is included as a part of the file
+[LICENSE.txt](LICENSE.txt).  Note that principal developers MUST include a
+patent license with the CC0 license; an example of how to do this is in the
+file [LICENSE.txt](LICENSE.txt).
 
 # <a name="D3DC705AC3C411E6BBB4003EE1B763F8"></a>Contributor License Agreement (CLA)
 
@@ -866,8 +872,8 @@ not been litigated in Federal Court.  Consult the ARL Chief Counsel's Office
 to determine what the current laws are.
 
 <sup><a name="Footnote_5">5</a></sup> Except for works created by U.S. Federal
-Government employees in the course of their duties.  These are automatically
-in the public domain.
+Government employees in the course of their duties.  These works do not have
+copyright attached within US jurisdiction.
 
 <sup><a name="Footnote_6">6</a></sup> Some licenses have guidelines that
 differ from the ones described here.  For example, the GPL states that the
@@ -881,7 +887,7 @@ contains the license.
 employees in the course of their duties.
 
 <sup><a name="Footnote_9">9</a></sup> A private repository is only accessible
-from within ARL; it MUST NOT be publically accessible!
+from within ARL; it MUST NOT be publicly accessible!
 
 <sup><a name="Footnote_10">10</a></sup> As an example, if a library is only
 used within the Linux kernel, it will have been used by very few projects, but

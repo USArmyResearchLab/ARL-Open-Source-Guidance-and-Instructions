@@ -33,12 +33,12 @@
                 "usageType": "openSource",
                 "exemptionText": null
             },
-            "laborHours": 450,
+            "laborHours": 477,
             "version": "2.0.0",
             "date": {
                 "created": "2017-08-30",
-                "lastModified": "2017-08-30",
-                "metadataLastUpdated": "2017-08-30"
+                "lastModified": "2017-09-06",
+                "metadataLastUpdated": "2017-09-06"
             },
             "disclaimerText": "",
             "disclaimerURL": ""

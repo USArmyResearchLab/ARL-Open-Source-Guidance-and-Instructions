@@ -3,10 +3,10 @@ Change Log
 
 # 2.0
 
-## Major reviews can now count as much as a major yearly accomplishment
+## Major reviews MAY now count as much as a major yearly accomplishment
 
 Originally, all major reviews counted as tech transfers, regardless of the
-quality or impact of the release.  Major reviews can now count up to the
+quality or impact of the release.  Major reviews MAY now count up to the
 equivalent of a major accomplishment, similar to publishing an article in a
 high-impact peer-reviewed journal.  Supervisors are not required to do this
 though; they may choose to count the impact as less, depending on the value of

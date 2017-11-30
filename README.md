@@ -286,14 +286,14 @@ then this process MUST still be followed.
 The major review process MUST be followed if any of the following are true:
 
 * This is the first release of the project.
-* The project's scope has changed sufficiently that any of the principal
-  developers, their OPSEC officers, or anyone in their chains of command
-  believe a new one ought to be filed.
 * It has been more than 1 year since the last time a major review has been
   done and the project is still active (material is being published to the
   public by ARL employees).
 * The principal developer(s) feel they have accomplished something of note and
   wish to get credit for it in their performance metrics.
+* The project's scope has changed sufficiently that any of the principal
+  developers, their OPSEC officers, or anyone in their chains of command
+  believe a new one ought to be filed.
 
 ### <a name="37D9C8B4C17C11E6AE38003EE1B763F8"></a>Informal Approval
 

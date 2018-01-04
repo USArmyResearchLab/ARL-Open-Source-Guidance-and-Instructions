@@ -28,7 +28,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2018-01-02 22:15:47 +0000</string>
+	<string>2018-01-04 22:23:46 +0000</string>
 	<key>Modifier</key>
 	<string>Cem Karan</string>
 	<key>NotesVisible</key>
@@ -177,7 +177,7 @@
 								TlNPYmplY3QA
 								hZKEhIQITlNT
 								dHJpbmcBlIQB
-								K4GuAGUuIEEg
+								K4GvAGUuIEEg
 								ZmlsZSBuYW1l
 								ZCDigJhjb2Rl
 								Lmpzb27igJkg
@@ -196,50 +196,50 @@
 								aWRlL2RvY3Mv
 								Y29tcGxpYW5j
 								ZS9pbnZlbnRv
-								cnktY29kZYaE
-								AmlJAWyShISE
-								DE5TRGljdGlv
-								bmFyeQCUhAFp
-								ApKElpYQTlNQ
-								YXJhZ3JhcGhT
-								dHlsZYaShISE
-								F05TTXV0YWJs
-								ZVBhcmFncmFw
-								aFN0eWxlAISE
-								EE5TUGFyYWdy
-								YXBoU3R5bGUA
-								lIQEQ0NAUwAA
-								hISEB05TQXJy
-								YXkAlJkMkoSE
-								hAlOU1RleHRU
-								YWIAlIQCQ2YA
-								HIaShKCfADiG
-								koSgnwBUhpKE
-								oJ8AcIaShKCf
-								AIGMAIaShKCf
-								AIGoAIaShKCf
-								AIHEAIaShKCf
-								AIHgAIaShKCf
-								AIH8AIaShKCf
-								AIEYAYaShKCf
-								AIE0AYaShKCf
-								AIFQAYaGAIaS
-								hJaWBk5TRm9u
-								dIaShISEBk5T
-								Rm9udB6UmSSE
-								BVszNmNdBgAA
-								ABwAAAD//kgA
-								ZQBsAHYAZQB0
-								AGkAYwBhAE4A
-								ZQB1AGUAhAFm
-								CoQBYwCjAaMA
-								owCGhpcCPpKE
-								mJkDkoSWlgdO
-								U0NvbG9yhpKE
-								hIQHTlNDb2xv
-								cgCUowGEBGZm
-								ZmYAAAEBhpKZ
-								kpqSrJKthoY=
+								cnktY29kZS6G
+								hAJpSQFskoSE
+								hAxOU0RpY3Rp
+								b25hcnkAlIQB
+								aQKShJaWEE5T
+								UGFyYWdyYXBo
+								U3R5bGWGkoSE
+								hBdOU011dGFi
+								bGVQYXJhZ3Jh
+								cGhTdHlsZQCE
+								hBBOU1BhcmFn
+								cmFwaFN0eWxl
+								AJSEBENDQFMA
+								AISEhAdOU0Fy
+								cmF5AJSZDJKE
+								hIQJTlNUZXh0
+								VGFiAJSEAkNm
+								AByGkoSgnwA4
+								hpKEoJ8AVIaS
+								hKCfAHCGkoSg
+								nwCBjACGkoSg
+								nwCBqACGkoSg
+								nwCBxACGkoSg
+								nwCB4ACGkoSg
+								nwCB/ACGkoSg
+								nwCBGAGGkoSg
+								nwCBNAGGkoSg
+								nwCBUAGGhgCG
+								koSWlgZOU0Zv
+								bnSGkoSEhAZO
+								U0ZvbnQelJkk
+								hAVbMzZjXQYA
+								AAAcAAAA//5I
+								AGUAbAB2AGUA
+								dABpAGMAYQBO
+								AGUAdQBlAIQB
+								ZgqEAWMAowGj
+								AKMAhoaXAj+S
+								hJiZA5KElpYH
+								TlNDb2xvcoaS
+								hISEB05TQ29s
+								b3IAlKMBhARm
+								ZmZmAAABAYaS
+								mZKakqySrYaG
 														</data>
 														<key>Text</key>
 														<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
@@ -249,7 +249,7 @@
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs20 \cf0 e. A file named \'91code.json\'92 in the root directory of the project repository that follows the schema at \
-    \cf2 https://code.gov/#/policy-guide/docs/compliance/inventory-code}</string>
+    \cf2 https://code.gov/#/policy-guide/docs/compliance/inventory-code.}</string>
 													</dict>
 												</dict>
 												<dict>
@@ -466,7 +466,7 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs20 \cf0 3. Instructions for how to build and use the software}</string>
+\f0\fs20 \cf0 3. Instructions for how to build and use the software.}</string>
 																	</dict>
 																</dict>
 																<dict>
@@ -535,7 +535,7 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs20 \cf0 2. A note describing where the licenses for the project can be found}</string>
+\f0\fs20 \cf0 2. A note describing where the licenses for the project can be found.}</string>
 																	</dict>
 																</dict>
 																<dict>
@@ -604,7 +604,7 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs20 \cf0 1. A description of the project}</string>
+\f0\fs20 \cf0 1. A description of the project.}</string>
 																	</dict>
 																</dict>
 																<dict>
@@ -1110,7 +1110,7 @@
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs20 \cf0 d. A list of all of the contributors to the software.  This includes persons not listed in Section 1, part A, \
-    block 3.  }</string>
+    box 3.  }</string>
 											</dict>
 										</dict>
 										<dict>
@@ -1180,7 +1180,7 @@
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs20 \cf0 b. Any significant accomplishments since the last release of the software (not applicable if this is the first \
-    release of the software)}</string>
+    release of the software).}</string>
 											</dict>
 										</dict>
 										<dict>
@@ -1249,7 +1249,7 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs20 \cf0 a. A brief description of the project}</string>
+\f0\fs20 \cf0 a. A brief description of the project.}</string>
 											</dict>
 										</dict>
 										<dict>
@@ -1578,7 +1578,7 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs20 \cf0 3. Principal Developer\'92s Names (Last, First, Middle Initial), Email Addresses, GitHub logins and Employment Affiliation}</string>
+\f0\fs20 \cf0 3. Principal Developer\'92s Names (Last, First, Middle Initial), Email Addresses, GitHub logins, and Employment Affiliation}</string>
 							</dict>
 							<key>TextPlacement</key>
 							<integer>0</integer>
@@ -2190,7 +2190,7 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs18 \cf0 All developers have concurred in the technical contents and the sequence of developers.  All of the listed developers have made a substantial contribution to this major release, and all developers who have made a substantial contribution are identified in Section 1, Part A, Block 3.  To the best of each developer\'92s knowledge, all of the material proposed for release by this form can be legally given the distribution statement \'93Approved for public release; distribution is unlimited.\'94  All developers agree that it is the best interest of ARL and Government to waive any and all potential IP rights in the material being released.  Authors warrant that either the Government already owns all rights in the material being released, or if not, each developer list in Section 1, Part A, Block 3 agrees to assign all necessary rights to the Government to permit the release of the material, without any additional requirement of renumeration or compensation of any kind.}</string>
+\f0\fs18 \cf0 All developers have concurred in the technical contents and the sequence of developers.  All of the listed developers have made a substantial contribution to this major release, and all developers who have made a substantial contribution are identified in Section 1, Part A, Box 3.  To the best of each developer\'92s knowledge, all of the material proposed for release by this form can be legally given the distribution statement \'93Approved for public release; distribution is unlimited.\'94  All developers agree that it is the best interest of ARL and Government to waive any and all potential IP rights in the material being released.  Authors warrant that either the Government already owns all rights in the material being released, or if not, each developer list in Section 1, Part A, Box 3 agrees to assign all necessary rights to the Government to permit the release of the material, without any additional requirement of renumeration or compensation of any kind.}</string>
 									</dict>
 									<key>TextPlacement</key>
 									<integer>0</integer>
@@ -2298,7 +2298,7 @@
 								TlNPYmplY3QA
 								hZKEhIQITlNT
 								dHJpbmcBlIQB
-								K4EzATEuIFRo
+								K4E9ATEuIFRo
 								aXMgaXMgdGhl
 								IGZpcnN0IHJl
 								bGVhc2Ugb2Yg
@@ -2311,72 +2311,73 @@
 								ZWF0ZSBhIG5l
 								dyBwcm9qZWN0
 								IGZvciB5b3Ug
-								b24gQVJM4oCZ
-								cyBHaXRIdWIg
-								c2l0ZSBhdCBo
-								dHRwczovL2dp
-								dGh1Yi5jb20v
-								dXNhcm15cmVz
-								ZWFyY2hsYWIg
-								d2l0aCB0aGUg
-								cHJvamVjdOKA
-								mXMgbmFtZSBh
-								cyB0aGUgdGVt
-								cGxhdGUsIGFu
-								ZCBwcm92aWRl
-								IHRoZSBVUkwg
-								dG8gdGhlIHBy
-								b2plY3QgdG8g
-								dGhlIGRldmVs
-								b3BlcnMgbGlz
-								dGVkIGluIFNl
-								Y3Rpb24gMSwg
-								UGFydCBBLCBC
-								b3ggMy6GhAJp
-								SQGBiQCShISE
-								DE5TRGljdGlv
-								bmFyeQCUhAFp
-								ApKElpYQTlNQ
-								YXJhZ3JhcGhT
-								dHlsZYaShISE
-								F05TTXV0YWJs
-								ZVBhcmFncmFw
-								aFN0eWxlAISE
-								EE5TUGFyYWdy
-								YXBoU3R5bGUA
-								lIQEQ0NAUwAA
-								hISEB05TQXJy
-								YXkAlJkMkoSE
-								hAlOU1RleHRU
-								YWIAlIQCQ2YA
-								HIaShKCfADiG
-								koSgnwBUhpKE
-								oJ8AcIaShKCf
-								AIGMAIaShKCf
-								AIGoAIaShKCf
-								AIHEAIaShKCf
-								AIHgAIaShKCf
-								AIH8AIaShKCf
-								AIEYAYaShKCf
-								AIE0AYaShKCf
-								AIFQAYaGAIaS
-								hJaWBk5TRm9u
-								dIaShISEBk5T
-								Rm9udB6UmSSE
-								BVszNmNdBgAA
-								ABwAAAD//kgA
-								ZQBsAHYAZQB0
-								AGkAYwBhAE4A
-								ZQB1AGUAhAFm
-								CoQBYwCjAaMA
-								owCGhpcCJJKE
-								mJkDkoSWlgdO
-								U0NvbG9yhpKE
-								hIQHTlNDb2xv
-								cgCUowGEBGZm
-								ZmYAAAEBhpKZ
-								kpqSrJKthpcB
-								gYIAhg==
+								b24gCiAgICBB
+								UkzigJlzIEdp
+								dEh1YiBzaXRl
+								IGF0IGh0dHBz
+								Oi8vZ2l0aHVi
+								LmNvbS91c2Fy
+								bXlyZXNlYXJj
+								aGxhYiB3aXRo
+								IHRoZSBwcm9q
+								ZWN04oCZcyBu
+								YW1lIGFzIHRo
+								ZSB0ZW1wbGF0
+								ZSwgYW5kIAog
+								ICAgcHJvdmlk
+								ZSB0aGUgVVJM
+								IHRvIHRoZSBw
+								cm9qZWN0IHRv
+								IHRoZSBkZXZl
+								bG9wZXJzIGxp
+								c3RlZCBpbiBT
+								ZWN0aW9uIDEs
+								IFBhcnQgQSwg
+								Qm94IDMuhoQC
+								aUkBgY4AkoSE
+								hAxOU0RpY3Rp
+								b25hcnkAlIQB
+								aQKShJaWEE5T
+								UGFyYWdyYXBo
+								U3R5bGWGkoSE
+								hBdOU011dGFi
+								bGVQYXJhZ3Jh
+								cGhTdHlsZQCE
+								hBBOU1BhcmFn
+								cmFwaFN0eWxl
+								AJSEBENDQFMA
+								AISEhAdOU0Fy
+								cmF5AJSZDJKE
+								hIQJTlNUZXh0
+								VGFiAJSEAkNm
+								AByGkoSgnwA4
+								hpKEoJ8AVIaS
+								hKCfAHCGkoSg
+								nwCBjACGkoSg
+								nwCBqACGkoSg
+								nwCBxACGkoSg
+								nwCB4ACGkoSg
+								nwCB/ACGkoSg
+								nwCBGAGGkoSg
+								nwCBNAGGkoSg
+								nwCBUAGGhgCG
+								koSWlgZOU0Zv
+								bnSGkoSEhAZO
+								U0ZvbnQelJkk
+								hAVbMzZjXQYA
+								AAAcAAAA//5I
+								AGUAbAB2AGUA
+								dABpAGMAYQBO
+								AGUAdQBlAIQB
+								ZgqEAWMAowGj
+								AKMAhoaXAiSS
+								hJiZA5KElpYH
+								TlNDb2xvcoaS
+								hISEB05TQ29s
+								b3IAlKMBhARm
+								ZmZmAAABAYaS
+								mZKakqySrYaX
+								AYGHAIY=
 												</data>
 												<key>Text</key>
 												<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
@@ -2385,7 +2386,9 @@
 {\*\expandedcolortbl;;\csgenericrgb\c0\c0\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs20 \cf0 1. This is the first release of this project.  The  Technology Transfer Office will create a new project for you on ARL\'92s GitHub site at \cf2 https://github.com/usarmyresearchlab\cf0  with the project\'92s name as the template, and provide the URL to the project to the developers listed in Section 1, Part A, Box 3.}</string>
+\f0\fs20 \cf0 1. This is the first release of this project.  The  Technology Transfer Office will create a new project for you on \
+    ARL\'92s GitHub site at \cf2 https://github.com/usarmyresearchlab\cf0  with the project\'92s name as the template, and \
+    provide the URL to the project to the developers listed in Section 1, Part A, Box 3.}</string>
 											</dict>
 										</dict>
 										<dict>
@@ -2454,7 +2457,8 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs20 \cf0 6. New inventions are being disclosed that the IEC must review.  List the inventions in the abstract attached to this form.}</string>
+\f0\fs20 \cf0 6. New inventions are being disclosed that the IEC must review.  List the inventions in the abstract attached to\
+    this form.}</string>
 											</dict>
 										</dict>
 										<dict>
@@ -6041,7 +6045,7 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs18 \cf0 If the authors claim that this release incorporates significant accomplishments (see Section 1, Part B, checkbox 3), select your rating of the importance of this release.  If there are no claims of significance, select \'93N/A\'94.}</string>
+\f0\fs18 \cf0 If the authors claim that this release incorporates significant accomplishments (see Section 1, Part C, checkbox 3), select your rating of the importance of this release.  If there are no claims of significance, select \'93N/A\'94.  Select one box only.}</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -7956,7 +7960,7 @@
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\b\fs24 \cf0 Section 2
-\b0  - OPSEC/Technical Review Checklist - To be completed by an ARL trained internal OPSEC reviewer that can also act as a technical reviewer for the material. Reviewer must not be an author listed in Section 1, Part A, Block 3.}</string>
+\b0  - OPSEC/Technical Review Checklist - To be completed by an ARL trained internal OPSEC reviewer that can also act as a technical reviewer for the material. Reviewer must not be an author listed in Section 1, Part A, Box 3.}</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -9409,393 +9413,8 @@
 							<key>Graphics</key>
 							<array>
 								<dict>
-									<key>Class</key>
-									<string>Group</string>
-									<key>Graphics</key>
-									<array>
-										<dict>
-											<key>Bounds</key>
-											<string>{{437.99999999999955, 596.22077922077915}, {120, 51.779220779220744}}</string>
-											<key>Class</key>
-											<string>ShapedGraphic</string>
-											<key>ID</key>
-											<integer>1269</integer>
-											<key>Style</key>
-											<dict>
-												<key>shadow</key>
-												<dict>
-													<key>Draws</key>
-													<string>NO</string>
-												</dict>
-											</dict>
-										</dict>
-										<dict>
-											<key>Bounds</key>
-											<string>{{437.99999999999955, 575.50909090909079}, {90, 20.711688311688299}}</string>
-											<key>Class</key>
-											<string>ShapedGraphic</string>
-											<key>FontInfo</key>
-											<dict>
-												<key>Size</key>
-												<real>10</real>
-											</dict>
-											<key>ID</key>
-											<integer>1270</integer>
-											<key>Style</key>
-											<dict>
-												<key>fill</key>
-												<dict>
-													<key>Draws</key>
-													<string>NO</string>
-												</dict>
-												<key>shadow</key>
-												<dict>
-													<key>Draws</key>
-													<string>NO</string>
-												</dict>
-												<key>stroke</key>
-												<dict>
-													<key>Draws</key>
-													<string>NO</string>
-												</dict>
-											</dict>
-											<key>Text</key>
-											<dict>
-												<key>Align</key>
-												<integer>0</integer>
-												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-
-\f0\fs20 \cf0 Date}</string>
-											</dict>
-											<key>TextPlacement</key>
-											<integer>0</integer>
-										</dict>
-										<dict>
-											<key>Bounds</key>
-											<string>{{437.99999999999955, 575.50909090909079}, {120, 72.490909090909042}}</string>
-											<key>Class</key>
-											<string>ShapedGraphic</string>
-											<key>ID</key>
-											<integer>1271</integer>
-											<key>Style</key>
-											<dict>
-												<key>fill</key>
-												<dict>
-													<key>Draws</key>
-													<string>NO</string>
-												</dict>
-												<key>shadow</key>
-												<dict>
-													<key>Draws</key>
-													<string>NO</string>
-												</dict>
-												<key>stroke</key>
-												<dict>
-													<key>Draws</key>
-													<string>NO</string>
-												</dict>
-											</dict>
-										</dict>
-									</array>
-									<key>ID</key>
-									<integer>1268</integer>
-								</dict>
-								<dict>
-									<key>Class</key>
-									<string>Group</string>
-									<key>Graphics</key>
-									<array>
-										<dict>
-											<key>Bounds</key>
-											<string>{{17.999999999999886, 596.22077922077892}, {333.00000000000011, 51.779220779220744}}</string>
-											<key>Class</key>
-											<string>ShapedGraphic</string>
-											<key>ID</key>
-											<integer>1273</integer>
-											<key>Style</key>
-											<dict>
-												<key>shadow</key>
-												<dict>
-													<key>Draws</key>
-													<string>NO</string>
-												</dict>
-											</dict>
-										</dict>
-										<dict>
-											<key>Bounds</key>
-											<string>{{18.000000000000156, 575.50909090909067}, {184.09090909090904, 28.996363636363615}}</string>
-											<key>Class</key>
-											<string>ShapedGraphic</string>
-											<key>FontInfo</key>
-											<dict>
-												<key>Size</key>
-												<real>10</real>
-											</dict>
-											<key>ID</key>
-											<integer>1274</integer>
-											<key>Style</key>
-											<dict>
-												<key>fill</key>
-												<dict>
-													<key>Draws</key>
-													<string>NO</string>
-												</dict>
-												<key>shadow</key>
-												<dict>
-													<key>Draws</key>
-													<string>NO</string>
-												</dict>
-												<key>stroke</key>
-												<dict>
-													<key>Draws</key>
-													<string>NO</string>
-												</dict>
-											</dict>
-											<key>Text</key>
-											<dict>
-												<key>Align</key>
-												<integer>0</integer>
-												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-
-\f0\fs20 \cf0 Signature}</string>
-											</dict>
-											<key>TextPlacement</key>
-											<integer>0</integer>
-										</dict>
-										<dict>
-											<key>Bounds</key>
-											<string>{{18.000000000000171, 575.50909090909067}, {539.99999999999943, 72.490909090909014}}</string>
-											<key>Class</key>
-											<string>ShapedGraphic</string>
-											<key>ID</key>
-											<integer>1275</integer>
-											<key>Style</key>
-											<dict>
-												<key>fill</key>
-												<dict>
-													<key>Draws</key>
-													<string>NO</string>
-												</dict>
-												<key>shadow</key>
-												<dict>
-													<key>Draws</key>
-													<string>NO</string>
-												</dict>
-												<key>stroke</key>
-												<dict>
-													<key>Draws</key>
-													<string>NO</string>
-												</dict>
-											</dict>
-										</dict>
-									</array>
-									<key>ID</key>
-									<integer>1272</integer>
-								</dict>
-							</array>
-							<key>ID</key>
-							<integer>856</integer>
-						</dict>
-						<dict>
-							<key>Bounds</key>
-							<string>{{17.999999999999886, 521.99999999999977}, {540.00000000000011, 53.509090909090979}}</string>
-							<key>Class</key>
-							<string>ShapedGraphic</string>
-							<key>FontInfo</key>
-							<dict>
-								<key>Size</key>
-								<real>9</real>
-							</dict>
-							<key>ID</key>
-							<integer>1276</integer>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-							</dict>
-							<key>Text</key>
-							<dict>
-								<key>Align</key>
-								<integer>0</integer>
-								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-
-\f0\fs18 \cf0 I, the undersigned, have reviewed the statements made by the author(s) listed in Section 1, Part A, Block 3 of this form regarding Inventions in the material.  As a member of the ARL IEC, I concur that all of the referenced material is to be released to the public in the manner (open source and/or public domain) proposed for promoting its commercial and non-commercial use. It is in the best interest of the government to waive any and all patent rights ARL may be able to assert or establish in the software.}</string>
-							</dict>
-							<key>TextPlacement</key>
-							<integer>0</integer>
-						</dict>
-						<dict>
-							<key>Bounds</key>
-							<string>{{17.999999999999886, 504}, {216, 17.999999999999773}}</string>
-							<key>Class</key>
-							<string>ShapedGraphic</string>
-							<key>FontInfo</key>
-							<dict>
-								<key>Size</key>
-								<real>10</real>
-							</dict>
-							<key>ID</key>
-							<integer>1277</integer>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-							</dict>
-							<key>Text</key>
-							<dict>
-								<key>Align</key>
-								<integer>0</integer>
-								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-
-\f0\b\fs20 \cf0 IEC Reviewer\'92s Statement}</string>
-							</dict>
-							<key>TextPlacement</key>
-							<integer>0</integer>
-						</dict>
-					</array>
-					<key>ID</key>
-					<integer>855</integer>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{9, 468.00000000000023}, {558, 27}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Size</key>
-						<real>12</real>
-					</dict>
-					<key>ID</key>
-					<integer>421</integer>
-					<key>Style</key>
-					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Align</key>
-						<integer>0</integer>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-
-\f0\b\fs24 \cf0 Section 5
-\b0  - To be completed by the delegate Invention Evaluation Committee (IEC) member}</string>
-					</dict>
-					<key>TextPlacement</key>
-					<integer>0</integer>
-				</dict>
-				<dict>
-					<key>Class</key>
-					<string>Group</string>
-					<key>Graphics</key>
-					<array>
-						<dict>
-							<key>Bounds</key>
-							<string>{{54, 198}, {495, 27}}</string>
-							<key>Class</key>
-							<string>ShapedGraphic</string>
-							<key>FontInfo</key>
-							<dict>
-								<key>Size</key>
-								<real>10</real>
-							</dict>
-							<key>ID</key>
-							<integer>1264</integer>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-							</dict>
-							<key>Text</key>
-							<dict>
-								<key>Align</key>
-								<integer>0</integer>
-								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-
-\f0\fs20 \cf0 a. Verify that the licenses governing all third party material are mutually compatible, and compatible with the licenses in the project\'92s \'91LICENSE.txt\'92 file.}</string>
-							</dict>
-						</dict>
-						<dict>
-							<key>Class</key>
-							<string>Group</string>
-							<key>Graphics</key>
-							<array>
-								<dict>
 									<key>Bounds</key>
-									<string>{{45, 180}, {504, 18}}</string>
+									<string>{{54, 333}, {495, 36}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -9804,7 +9423,7 @@
 										<real>10</real>
 									</dict>
 									<key>ID</key>
-									<integer>1266</integer>
+									<integer>1333</integer>
 									<key>Style</key>
 									<dict>
 										<key>fill</key>
@@ -9834,16 +9453,16 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs20 \cf0 2. Verify ARL has all the necessary rights to release any third party material included with the release.}</string>
+\f0\fs20 \cf0 c. Verify that the licenses governing all third party material are mutually compatible, and compatible with the licenses in the project\'92s \'91LICENSE.txt\'92 file.}</string>
 									</dict>
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{27, 184.5}, {9, 9}}</string>
+									<string>{{36, 346.5}, {9, 9}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
-									<integer>1267</integer>
+									<integer>1334</integer>
 									<key>Style</key>
 									<dict>
 										<key>shadow</key>
@@ -9855,33 +9474,8 @@
 								</dict>
 							</array>
 							<key>ID</key>
-							<integer>1265</integer>
+							<integer>1332</integer>
 						</dict>
-					</array>
-					<key>ID</key>
-					<integer>1263</integer>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{36, 207}, {9, 9}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>ID</key>
-					<integer>1262</integer>
-					<key>Style</key>
-					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
-				</dict>
-				<dict>
-					<key>Class</key>
-					<string>Group</string>
-					<key>Graphics</key>
-					<array>
 						<dict>
 							<key>Class</key>
 							<string>Group</string>
@@ -9889,7 +9483,7 @@
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{54, 261}, {504, 27}}</string>
+									<string>{{54, 297}, {504, 36}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -9898,7 +9492,7 @@
 										<real>10</real>
 									</dict>
 									<key>ID</key>
-									<integer>1236</integer>
+									<integer>1336</integer>
 									<key>Style</key>
 									<dict>
 										<key>fill</key>
@@ -10011,11 +9605,11 @@
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{36, 270}, {9, 9}}</string>
+									<string>{{36, 310.5}, {9, 9}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
-									<integer>1237</integer>
+									<integer>1337</integer>
 									<key>Style</key>
 									<dict>
 										<key>shadow</key>
@@ -10027,7 +9621,7 @@
 								</dict>
 							</array>
 							<key>ID</key>
-							<integer>1235</integer>
+							<integer>1335</integer>
 						</dict>
 						<dict>
 							<key>Class</key>
@@ -10036,7 +9630,7 @@
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{54, 243}, {504, 18}}</string>
+									<string>{{54, 270}, {504, 27}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -10045,7 +9639,7 @@
 										<real>10</real>
 									</dict>
 									<key>ID</key>
-									<integer>1239</integer>
+									<integer>1339</integer>
 									<key>Style</key>
 									<dict>
 										<key>fill</key>
@@ -10080,11 +9674,11 @@
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{36, 247.5}, {9, 9}}</string>
+									<string>{{36, 279}, {9, 9}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
-									<integer>1240</integer>
+									<integer>1340</integer>
 									<key>Style</key>
 									<dict>
 										<key>shadow</key>
@@ -10096,8 +9690,61 @@
 								</dict>
 							</array>
 							<key>ID</key>
-							<integer>1238</integer>
+							<integer>1338</integer>
 						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{18, 252}, {504, 18}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Size</key>
+								<real>10</real>
+							</dict>
+							<key>ID</key>
+							<integer>1341</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>Align</key>
+								<integer>0</integer>
+								<key>Text</key>
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs20 \cf0 3. Are all the licenses used for the project acceptable to ARL?}</string>
+							</dict>
+						</dict>
+					</array>
+					<key>ID</key>
+					<integer>1331</integer>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>Group</string>
+					<key>Graphics</key>
+					<array>
 						<dict>
 							<key>Class</key>
 							<string>Group</string>
@@ -10105,7 +9752,7 @@
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{45, 225}, {504, 18}}</string>
+									<string>{{54, 216}, {495, 36}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -10114,7 +9761,7 @@
 										<real>10</real>
 									</dict>
 									<key>ID</key>
-									<integer>1242</integer>
+									<integer>1344</integer>
 									<key>Style</key>
 									<dict>
 										<key>fill</key>
@@ -10144,16 +9791,16 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs20 \cf0 3. Verify that the licenses used for the project are acceptable to ARL}</string>
+\f0\fs20 \cf0 a. Verify that ARL has the necessary rights to distribute the included third party material, either due to license, ARL\'92s ownership of the work, or due to the work being in the public domain.}</string>
 									</dict>
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{27, 229.5}, {9, 9}}</string>
+									<string>{{36, 229.5}, {9, 9}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
-									<integer>1243</integer>
+									<integer>1345</integer>
 									<key>Style</key>
 									<dict>
 										<key>shadow</key>
@@ -10165,11 +9812,396 @@
 								</dict>
 							</array>
 							<key>ID</key>
-							<integer>1241</integer>
+							<integer>1343</integer>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{18, 198}, {504, 18}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Size</key>
+								<real>10</real>
+							</dict>
+							<key>ID</key>
+							<integer>1346</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>Align</key>
+								<integer>0</integer>
+								<key>Text</key>
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs20 \cf0 2. Does ARL have all the necessary rights to release any third party material included with the release?}</string>
+							</dict>
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>1234</integer>
+					<integer>1342</integer>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>Group</string>
+					<key>Graphics</key>
+					<array>
+						<dict>
+							<key>Class</key>
+							<string>Group</string>
+							<key>Graphics</key>
+							<array>
+								<dict>
+									<key>Class</key>
+									<string>Group</string>
+									<key>Graphics</key>
+									<array>
+										<dict>
+											<key>Bounds</key>
+											<string>{{437.99999999999955, 668.22077922077915}, {120, 51.779220779220744}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>ID</key>
+											<integer>1269</integer>
+											<key>Style</key>
+											<dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+										</dict>
+										<dict>
+											<key>Bounds</key>
+											<string>{{437.99999999999955, 647.50909090909079}, {90, 20.711688311688299}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Size</key>
+												<real>10</real>
+											</dict>
+											<key>ID</key>
+											<integer>1270</integer>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>Align</key>
+												<integer>0</integer>
+												<key>Text</key>
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs20 \cf0 Date}</string>
+											</dict>
+											<key>TextPlacement</key>
+											<integer>0</integer>
+										</dict>
+										<dict>
+											<key>Bounds</key>
+											<string>{{437.99999999999955, 647.50909090909079}, {120, 72.490909090909042}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>ID</key>
+											<integer>1271</integer>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+										</dict>
+									</array>
+									<key>ID</key>
+									<integer>1268</integer>
+								</dict>
+								<dict>
+									<key>Class</key>
+									<string>Group</string>
+									<key>Graphics</key>
+									<array>
+										<dict>
+											<key>Bounds</key>
+											<string>{{17.999999999999886, 668.22077922077892}, {333.00000000000011, 51.779220779220744}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>ID</key>
+											<integer>1273</integer>
+											<key>Style</key>
+											<dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+										</dict>
+										<dict>
+											<key>Bounds</key>
+											<string>{{18.000000000000156, 647.50909090909067}, {184.09090909090904, 28.996363636363615}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Size</key>
+												<real>10</real>
+											</dict>
+											<key>ID</key>
+											<integer>1274</integer>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>Align</key>
+												<integer>0</integer>
+												<key>Text</key>
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs20 \cf0 Signature}</string>
+											</dict>
+											<key>TextPlacement</key>
+											<integer>0</integer>
+										</dict>
+										<dict>
+											<key>Bounds</key>
+											<string>{{18.000000000000171, 647.50909090909067}, {539.99999999999943, 72.490909090909014}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>ID</key>
+											<integer>1275</integer>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+										</dict>
+									</array>
+									<key>ID</key>
+									<integer>1272</integer>
+								</dict>
+							</array>
+							<key>ID</key>
+							<integer>856</integer>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{17.999999999999886, 593.99999999999977}, {540.00000000000011, 53.509090909090979}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Size</key>
+								<real>9</real>
+							</dict>
+							<key>ID</key>
+							<integer>1276</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>Align</key>
+								<integer>0</integer>
+								<key>Text</key>
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs18 \cf0 I, the undersigned, have reviewed the statements made by the author(s) listed in Section 1, Part A, Box 3 of this form regarding Inventions in the material.  As a member of the ARL IEC, I concur that all of the referenced material is to be released to the public in the manner (open source and/or public domain) proposed for promoting its commercial and non-commercial use. It is in the best interest of the government to waive any and all patent rights ARL may be able to assert or establish in the software.}</string>
+							</dict>
+							<key>TextPlacement</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{17.999999999999886, 576}, {216, 17.999999999999773}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Size</key>
+								<real>10</real>
+							</dict>
+							<key>ID</key>
+							<integer>1277</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>Align</key>
+								<integer>0</integer>
+								<key>Text</key>
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\b\fs20 \cf0 IEC Reviewer\'92s Statement}</string>
+							</dict>
+							<key>TextPlacement</key>
+							<integer>0</integer>
+						</dict>
+					</array>
+					<key>ID</key>
+					<integer>855</integer>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{9, 549}, {558, 27}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Size</key>
+						<real>12</real>
+					</dict>
+					<key>ID</key>
+					<integer>421</integer>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Align</key>
+						<integer>0</integer>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\b\fs24 \cf0 Section 5
+\b0  - To be completed by the delegate Invention Evaluation Committee (IEC) member}</string>
+					</dict>
+					<key>TextPlacement</key>
+					<integer>0</integer>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -10183,7 +10215,7 @@
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{54, 162}, {495, 18}}</string>
+									<string>{{54, 171}, {495, 27}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -10192,7 +10224,7 @@
 										<real>10</real>
 									</dict>
 									<key>ID</key>
-									<integer>1246</integer>
+									<integer>1298</integer>
 									<key>Style</key>
 									<dict>
 										<key>fill</key>
@@ -10227,11 +10259,11 @@
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{36, 166.5}, {9, 9}}</string>
+									<string>{{36, 180}, {9, 9}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
-									<integer>1247</integer>
+									<integer>1299</integer>
 									<key>Style</key>
 									<dict>
 										<key>shadow</key>
@@ -10243,7 +10275,7 @@
 								</dict>
 							</array>
 							<key>ID</key>
-							<integer>1245</integer>
+							<integer>1297</integer>
 						</dict>
 						<dict>
 							<key>Class</key>
@@ -10252,7 +10284,7 @@
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{54, 126}, {495, 36}}</string>
+									<string>{{54, 126}, {495, 45}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -10261,7 +10293,7 @@
 										<real>10</real>
 									</dict>
 									<key>ID</key>
-									<integer>1249</integer>
+									<integer>1301</integer>
 									<key>Style</key>
 									<dict>
 										<key>fill</key>
@@ -10296,11 +10328,11 @@
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{36, 139.5}, {9, 9}}</string>
+									<string>{{36, 144}, {9, 9}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
-									<integer>1250</integer>
+									<integer>1302</integer>
 									<key>Style</key>
 									<dict>
 										<key>shadow</key>
@@ -10312,7 +10344,7 @@
 								</dict>
 							</array>
 							<key>ID</key>
-							<integer>1248</integer>
+							<integer>1300</integer>
 						</dict>
 						<dict>
 							<key>Class</key>
@@ -10321,7 +10353,7 @@
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{54, 99}, {495, 27}}</string>
+									<string>{{54, 90}, {495, 36}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -10330,7 +10362,7 @@
 										<real>10</real>
 									</dict>
 									<key>ID</key>
-									<integer>1252</integer>
+									<integer>1304</integer>
 									<key>Style</key>
 									<dict>
 										<key>fill</key>
@@ -10365,11 +10397,11 @@
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{36, 108}, {9, 9}}</string>
+									<string>{{36, 103.5}, {9, 9}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
-									<integer>1253</integer>
+									<integer>1305</integer>
 									<key>Style</key>
 									<dict>
 										<key>shadow</key>
@@ -10381,84 +10413,59 @@
 								</dict>
 							</array>
 							<key>ID</key>
-							<integer>1251</integer>
+							<integer>1303</integer>
 						</dict>
 						<dict>
+							<key>Bounds</key>
+							<string>{{18, 72}, {504, 18}}</string>
 							<key>Class</key>
-							<string>Group</string>
-							<key>Graphics</key>
-							<array>
+							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Size</key>
+								<real>10</real>
+							</dict>
+							<key>ID</key>
+							<integer>1306</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
 								<dict>
-									<key>Bounds</key>
-									<string>{{45, 81}, {504, 18}}</string>
-									<key>Class</key>
-									<string>ShapedGraphic</string>
-									<key>FontInfo</key>
-									<dict>
-										<key>Size</key>
-										<real>10</real>
-									</dict>
-									<key>ID</key>
-									<integer>1255</integer>
-									<key>Style</key>
-									<dict>
-										<key>fill</key>
-										<dict>
-											<key>Draws</key>
-											<string>NO</string>
-										</dict>
-										<key>shadow</key>
-										<dict>
-											<key>Draws</key>
-											<string>NO</string>
-										</dict>
-										<key>stroke</key>
-										<dict>
-											<key>Draws</key>
-											<string>NO</string>
-										</dict>
-									</dict>
-									<key>Text</key>
-									<dict>
-										<key>Align</key>
-										<integer>0</integer>
-										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>Align</key>
+								<integer>0</integer>
+								<key>Text</key>
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs20 \cf0 1. Verify all persons have executed the appropriate legal documents}</string>
-									</dict>
-								</dict>
-								<dict>
-									<key>Bounds</key>
-									<string>{{27, 85.5}, {9, 9}}</string>
-									<key>Class</key>
-									<string>ShapedGraphic</string>
-									<key>ID</key>
-									<integer>1256</integer>
-									<key>Style</key>
-									<dict>
-										<key>shadow</key>
-										<dict>
-											<key>Draws</key>
-											<string>NO</string>
-										</dict>
-									</dict>
-								</dict>
-							</array>
-							<key>ID</key>
-							<integer>1254</integer>
+\f0\fs20 \cf0 1. Have all contributors executed the appropriate legal documents?}</string>
+							</dict>
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>1244</integer>
+					<integer>1296</integer>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{9, 36}, {558, 261}}</string>
+					<string>{{9, 36}, {558, 342}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -10510,7 +10517,7 @@
 									<array>
 										<dict>
 											<key>Bounds</key>
-											<string>{{437.99999999999977, 398.22077922077938}, {120, 51.779220779220744}}</string>
+											<string>{{437.99999999999989, 488.22077922077932}, {120, 51.779220779220744}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -10526,7 +10533,7 @@
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{437.99999999999977, 377.50909090909107}, {90, 20.711688311688299}}</string>
+											<string>{{437.99999999999989, 467.50909090909096}, {90, 20.711688311688299}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>FontInfo</key>
@@ -10572,7 +10579,7 @@
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{437.99999999999977, 377.50909090909107}, {120, 72.490909090909042}}</string>
+											<string>{{437.99999999999989, 467.50909090909096}, {120, 72.490909090909042}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -10607,7 +10614,7 @@
 									<array>
 										<dict>
 											<key>Bounds</key>
-											<string>{{18.000000000000114, 398.22077922077915}, {333.00000000000011, 51.779220779220744}}</string>
+											<string>{{18.000000000000227, 488.22077922077909}, {333.00000000000011, 51.779220779220744}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -10623,7 +10630,7 @@
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{18.000000000000384, 377.50909090909084}, {184.09090909090904, 28.996363636363615}}</string>
+											<string>{{18.000000000000497, 467.50909090909073}, {184.09090909090904, 28.996363636363615}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>FontInfo</key>
@@ -10669,7 +10676,7 @@
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{18.000000000000398, 377.50909090909084}, {539.99999999999943, 72.490909090909014}}</string>
+											<string>{{18.000000000000512, 467.50909090909073}, {539.99999999999943, 72.490909090909014}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -10708,7 +10715,7 @@
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{17.999999999999886, 324}, {540.00000000000011, 53.509090909090979}}</string>
+									<string>{{18, 413.99999999999989}, {540.00000000000011, 53.509090909090979}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -10747,14 +10754,14 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs18 \cf0 I, the undersigned, have reviewed the statements made by the author(s) listed in Section 1, Part A, Block 3 of this form regarding the intellectual property rights of the owners of all material in this release.  It is my opinion that ARL has the necessary intellectual property rights necessary to release all of this material under the license(s) and/or agreement(s) supplied by the author(s) listed in Section 1, Part A, Block 3 of this form.}</string>
+\f0\fs18 \cf0 I, the undersigned, have reviewed the statements made by the author(s) listed in Section 1, Part A, Box 3 of this form regarding the intellectual property rights of the owners of all material in this release.  It is my opinion that ARL has the necessary intellectual property rights necessary to release all of this material under the license(s) and/or agreement(s) supplied by the author(s) listed in Section 1, Part A, Box 3 of this form.}</string>
 									</dict>
 									<key>TextPlacement</key>
 									<integer>0</integer>
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{17.999999999999886, 306.00000000000017}, {216, 17.999999999999773}}</string>
+									<string>{{18, 396.00000000000006}, {216, 17.999999999999773}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -11231,7 +11238,7 @@
 								TlNPYmplY3QA
 								hZKEhIQITlNT
 								dHJpbmcBlIQB
-								K4HbAEksIHRo
+								K4EBAUksIHRo
 								ZSB1bmRlcnNp
 								Z25lZCwgYWNr
 								bm93bGVkZ2Ug
@@ -11246,63 +11253,71 @@
 								L3VzYXJteXJl
 								c2VhcmNobGFi
 								IHdhcyByZXF1
-								ZXN0ZWQsIHRo
-								ZW4gSSBoYXZl
-								IGNyZWF0ZWQg
-								b25lLCBhbmQg
-								cHV0IHRoZSBV
-								UkwgZm9yIHRo
-								ZSByZXBvc2l0
-								b3J5IGluIFNl
-								Y3Rpb24gNiwg
-								UGFydCBBLoaE
-								AmlJAVaShISE
-								DE5TRGljdGlv
-								bmFyeQCUhAFp
-								ApKElpYQTlNQ
-								YXJhZ3JhcGhT
-								dHlsZYaShISE
-								F05TTXV0YWJs
-								ZVBhcmFncmFw
-								aFN0eWxlAISE
-								EE5TUGFyYWdy
+								ZXN0ZWQgU2Vj
+								dGlvbiAxLCBQ
+								YXJ0IEMsIEJv
+								eCAxLCB0aGVu
+								IEkgaGF2ZSBj
+								cmVhdGVkIG9u
+								ZSwgYW5kIHB1
+								dCB0aGUgVVJM
+								IGZvciB0aGUg
+								cmVwb3NpdG9y
+								eSBpbiBTZWN0
+								aW9uIDYsIFBh
+								cnQgQSBvZiB0
+								aGlzIGZvcm0u
+								hoQCaUkBVpKE
+								hIQMTlNEaWN0
+								aW9uYXJ5AJSE
+								AWkCkoSWlhBO
+								U1BhcmFncmFw
+								aFN0eWxlhpKE
+								hIQXTlNNdXRh
+								YmxlUGFyYWdy
 								YXBoU3R5bGUA
-								lIQEQ0NAUwAA
-								hISEB05TQXJy
-								YXkAlJkMkoSE
-								hAlOU1RleHRU
-								YWIAlIQCQ2YA
-								HIaShKCfADiG
-								koSgnwBUhpKE
-								oJ8AcIaShKCf
-								AIGMAIaShKCf
-								AIGoAIaShKCf
-								AIHEAIaShKCf
-								AIHgAIaShKCf
-								AIH8AIaShKCf
-								AIEYAYaShKCf
-								AIE0AYaShKCf
-								AIFQAYaGAIaS
-								hJaWBk5TRm9u
-								dIaShISEBk5T
-								Rm9udB6UmSSE
-								BVszNmNdBgAA
-								ABwAAAD//kgA
-								ZQBsAHYAZQB0
-								AGkAYwBhAE4A
-								ZQB1AGUAhAFm
-								CoQBYwCjAaMA
-								owCGhpcCJZKE
-								mJkDkoSWlgdO
-								U0NvbG9yhpKE
-								hIQHTlNDb2xv
-								cgCUowGEBGZm
-								ZmYAAAEBhpKZ
-								kpqSrJKthpcD
-								YJKEmJkDkrCS
-								hLKjAaUAAAAB
-								hpKZkpqSrJKt
-								hoY=
+								hIQQTlNQYXJh
+								Z3JhcGhTdHls
+								ZQCUhARDQ0BT
+								AACEhIQHTlNB
+								cnJheQCUmQyS
+								hISECU5TVGV4
+								dFRhYgCUhAJD
+								ZgAchpKEoJ8A
+								OIaShKCfAFSG
+								koSgnwBwhpKE
+								oJ8AgYwAhpKE
+								oJ8AgagAhpKE
+								oJ8AgcQAhpKE
+								oJ8AgeAAhpKE
+								oJ8AgfwAhpKE
+								oJ8AgRgBhpKE
+								oJ8AgTQBhpKE
+								oJ8AgVABhoYA
+								hpKElpYGTlNG
+								b250hpKEhIQG
+								TlNGb250HpSZ
+								JIQFWzM2Y10G
+								AAAAHAAAAP/+
+								SABlAGwAdgBl
+								AHQAaQBjAGEA
+								TgBlAHUAZQCE
+								AWYKhAFjAKMB
+								owCjAIaGlwIl
+								koSYmQOShJaW
+								B05TQ29sb3KG
+								koSEhAdOU0Nv
+								bG9yAJSjAYQE
+								ZmZmZgAAAQGG
+								kpmSmpKskq2G
+								lwMOkoSYmQOS
+								sJKEsqMBpQAA
+								AAGGkpmShJuc
+								AACEnpkMkp+S
+								oZKikqOSpJKl
+								kqaSp5KokqmS
+								qpKrhgCGkqyS
+								rYaXARiXA2CG
 										</data>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
@@ -11311,7 +11326,7 @@
 {\*\expandedcolortbl;;\csgenericrgb\c0\c0\c100000;\csgenericrgb\c0\c0\c0;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs20 \cf0 I, the undersigned, acknowledge receipt of this form.  If creation of a repository at \cf2 https://github.com/usarmyresearchlab \cf3 was requested, then I have created one, and put the URL for the repository in Section 6, Part A.}</string>
+\f0\fs20 \cf0 I, the undersigned, acknowledge receipt of this form.  If creation of a repository at \cf2 https://github.com/usarmyresearchlab \cf3 was requested \cf0 Section 1, Part C, Box 1\cf3 , then I have created one, and put the URL for the repository in Section 6, Part A of this form.}</string>
 									</dict>
 									<key>TextPlacement</key>
 									<integer>0</integer>
@@ -11675,6 +11690,22 @@
 					<string>{{9, 36}, {558, 693}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>0.15968</string>
+							<key>g</key>
+							<string>0.87389</string>
+							<key>r</key>
+							<string>0</string>
+						</dict>
+						<key>Font</key>
+						<string>AndaleMono</string>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
 					<key>ID</key>
 					<integer>867</integer>
 					<key>Style</key>
@@ -11689,40 +11720,57 @@
 					<dict>
 						<key>Align</key>
 						<integer>0</integer>
-						<key>RTFD</key>
-						<data>
-						BAtzdHJlYW10eXBlZIHoA4QBQISE
-						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
-						hIQITlNPYmplY3QAhZKEhIQITlNT
-						dHJpbmcBlIQBKxtUaGlzIG5lZWRz
-						IHRvIGJlIGZpbGxlZCBpbi6GhAJp
-						SQEbkoSEhAxOU0RpY3Rpb25hcnkA
-						lIQBaQOShJaWB05TQ29sb3KGkoSE
-						hAdOU0NvbG9yAJSEAWMBhARmZmZm
-						AQAAAYaShJaWEE5TUGFyYWdyYXBo
-						U3R5bGWGkoSEhBdOU011dGFibGVQ
-						YXJhZ3JhcGhTdHlsZQCEhBBOU1Bh
-						cmFncmFwaFN0eWxlAJSEBENDQFMA
-						AISEhAdOU0FycmF5AJSZDJKEhIQJ
-						TlNUZXh0VGFiAJSEAkNmAByGkoSj
-						ogA4hpKEo6IAVIaShKOiAHCGkoSj
-						ogCBjACGkoSjogCBqACGkoSjogCB
-						xACGkoSjogCB4ACGkoSjogCB/ACG
-						koSjogCBGAGGkoSjogCBNAGGkoSj
-						ogCBUAGGhgCGkoSWlgZOU0ZvbnSG
-						koSEhAZOU0ZvbnQelJkkhAVbMzZj
-						XQYAAAAcAAAA//5IAGUAbAB2AGUA
-						dABpAGMAYQBOAGUAdQBlAIQBZhCb
-						AJsBmwCbAIaGhg==
-						</data>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red255\green0\blue0;}
-{\*\expandedcolortbl;;\csgenericrgb\c100000\c0\c0;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fswiss\fcharset0 Helvetica;\f2\fnil\fcharset0 AndaleMono;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue255;}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c0;\csgenericrgb\c0\c0\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs32 \cf2 This needs to be filled in.}</string>
+\f0\fs24 \cf2 The lead ARL developer or COR is responsible for ensuring that the project abstract required for a complete package is attached to this form, and for ensuring that Section 1 is completed before initiating the formal process.  All developers listed in Section 1, Part A, Box 3 will be held equally accountable for ensuring that all requirements of the Developer\'92s Checklist in Section 1, Part B are met.
+\b \
+\
+                   Section 1.
+\b0  To be completed by the lead ARL developer or COR.\
+\
+
+\b Part A.\
+\
+Box 1. 
+\f1\b0 \cf0 Enter the date the form is completed in mm/dd/yyyy format.\
+\
+
+\b Box 2.
+\b0  Enter the official name of the project.  All project names must be prefixed with \'91ARL\'92.  For example, the project \'91Hello World\'92 must be called \'91ARL Hello World\'92.\
+\
+
+\b Box 3. 
+\b0 Enter the names of all developers that made significant contributions to this release here.  If a particular developer has changed jobs during the period this form is meant to cover, list each of that developer\'92s employers. \
+\
+
+\b Box 4.
+\b0  Enter the location of the project\'92s repository.  \
+\
+
+\b Part B.\
+\
+Box 1a. 
+\b0 Remove material that is useless, non-functional, or otherwise undesirable to distribute.\
+\
+
+\b Box 1b. 
+\b0 Ensure that all embarrassing or disparaging material has been removed.  A release is considered to be a professional publication and should be treated as such.  Questions regarding what is considered to be professional should be directed to the Public Affairs Office.\
+\
+
+\b Box 1c.
+\b0  Ensure that a file called \'91LICENSE.txt\'92 is included in the root directory of the project\'92s repository.  The file\'92s encoding must either be ASCII or UTF-8.  The file must contain two licenses.  The first is an OSI approved license on the list at \cf3 https://opensource.org/licenses/alphabetical\cf0 .  This license must also be approved by the ARL Chief Counsel\'92s Office.\cf2   The second license is the full text of the Creative Commons Zero (CC0) license as shown at \cf3 https://creativecommons.org/publicdomain/zero/1.0/legalcode\cf2 .  The OSI-approved license must be preceded by a statement similar to:\
+\
+
+\f2\fs20 Notes regarding the &lt;&lt;OSI-approved license name&gt;&gt;\
+----------------------------------------------\
+\
+Portions of this work have copyright attached within the jurisdiction of the United States of America.  Those portions are distributed world-wide under the &lt;&lt;OSI-approved license name&gt;&gt;, the text of which is provided below.}</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -11903,6 +11951,302 @@
 			<key>VPages</key>
 			<integer>1</integer>
 		</dict>
+		<dict>
+			<key>ActiveLayerIndex</key>
+			<integer>0</integer>
+			<key>AutoAdjust</key>
+			<true/>
+			<key>BackgroundGraphic</key>
+			<dict>
+				<key>Bounds</key>
+				<string>{{0, 0}, {576, 733}}</string>
+				<key>Class</key>
+				<string>SolidGraphic</string>
+				<key>ID</key>
+				<integer>2</integer>
+				<key>Style</key>
+				<dict>
+					<key>stroke</key>
+					<dict>
+						<key>Draws</key>
+						<string>NO</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>BaseZoom</key>
+			<integer>0</integer>
+			<key>CanvasOrigin</key>
+			<string>{0, 0}</string>
+			<key>ColumnAlign</key>
+			<integer>0</integer>
+			<key>ColumnSpacing</key>
+			<real>0.0</real>
+			<key>DisplayScale</key>
+			<string>1 in = 1 in</string>
+			<key>GraphicsList</key>
+			<array>
+				<dict>
+					<key>Bounds</key>
+					<string>{{9, 36}, {558, 693}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>0.15968</string>
+							<key>g</key>
+							<string>0.87389</string>
+							<key>r</key>
+							<string>0</string>
+						</dict>
+						<key>Font</key>
+						<string>AndaleMono</string>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>867</integer>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Align</key>
+						<integer>0</integer>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 AndaleMono;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue255;}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c0;\csgenericrgb\c0\c0\c100000;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\b\fs24 \cf0 Box 1c continued.
+\b0  
+\f1\fs20 \cf2 \
+\
+
+\f0\fs24 The CC0 license must be preceded by the following text:\
+\
+
+\f1\fs20 Notes regarding the Creative Commons Zero (CC0) License\
+-------------------------------------------------------\
+\
+Portions of this work do not have copyright attached within the jurisdiction of the United States of America.  Those portions are distributed world-wide under the Creative Commons Zero (CC0) 1.0 Universal license, the text of which is provided below, with the following modification:\
+\
+Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.\
+\
+
+\f0\fs24 Finally, the \'91LICENSE.txt\'92 file must be terminated with the phrase:\
+\
+
+\f1\fs20 END OF TERMS AND CONDITIONS
+\f0\fs24 \
+\
+Questions regarding how to write a \'91LICENSE.txt\'92 file should be directed to the ARL Chief Counsel\'92s Office.\
+\
+
+\b Box 1d.
+\b0  Ensure that the project has a file name \'91README.md\'92 in the root directory of the project\'92s repository.  The file must be in either ASCII or UTF-8 encoding, and be a GitHub-flavored Markdown file as specified at \cf3 https://github.github.com/gfm/\cf2 .  At a minimum, the file must contain the following:\
+\
+- A description of the project.\
+- A note describing where the licenses for the file can be found.\
+- Instructions for how to build and use the software.\
+- A note similar to the following:\
+\
+
+\f1\fs20 This is an Open Source project sponsored by the US Army Research Laboratory.  If you choose to contribute to this project, you must execute and return a copy of ARL Form 266, the ARL Contributor License Agreement prior to your first contribution to this project (you are not required to execute ARL Form 266 more than once).  All contributions you make will only be accepted under the terms in the \'91LICENSE.txt\'92 file accompanying this project.  Your providing the contribution to this project is affirmative acceptance of all terms in the \'91LICENSE.txt\'92 file.\
+\
+
+\f0\b\fs24 Box 2.
+\b0  The lead developer or COR is responsible for writing a brief abstract containing all the elements listed in Section 1, Part B, Box 2.  The list of contributors must include all individuals and corporations that have provided material that is being distributed in the project.  }</string>
+					</dict>
+					<key>TextPlacement</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{242.416015625, 302.078125}, {12, 22}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FitText</key>
+					<string>YES</string>
+					<key>Flow</key>
+					<string>Resize</string>
+					<key>ID</key>
+					<integer>23</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>Wrap</key>
+					<string>NO</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{9, 9}, {558, 27}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Size</key>
+						<real>12</real>
+					</dict>
+					<key>ID</key>
+					<integer>421</integer>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Align</key>
+						<integer>0</integer>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\b\fs24 \cf0 Instructions
+\b0  - continued}</string>
+					</dict>
+					<key>TextPlacement</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{18.000000000000171, 621}, {539.99999999999943, 90}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>731</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{9, 9}, {558, 720}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>1</integer>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Align</key>
+						<integer>0</integer>
+					</dict>
+					<key>TextPlacement</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+			<key>GridInfo</key>
+			<dict>
+				<key>ShowsGrid</key>
+				<string>YES</string>
+				<key>SnapsToGrid</key>
+				<string>YES</string>
+			</dict>
+			<key>HPages</key>
+			<integer>1</integer>
+			<key>KeepToScale</key>
+			<false/>
+			<key>Layers</key>
+			<array>
+				<dict>
+					<key>Lock</key>
+					<string>NO</string>
+					<key>Name</key>
+					<string>Layer 1</string>
+					<key>Print</key>
+					<string>YES</string>
+					<key>Slices</key>
+					<string>NO</string>
+					<key>View</key>
+					<string>YES</string>
+				</dict>
+			</array>
+			<key>LayoutInfo</key>
+			<dict>
+				<key>Animate</key>
+				<string>NO</string>
+				<key>circoMinDist</key>
+				<real>18</real>
+				<key>circoSeparation</key>
+				<real>0.0</real>
+				<key>layoutEngine</key>
+				<string>dot</string>
+				<key>neatoLineLength</key>
+				<real>0.20000000298023224</real>
+				<key>neatoSeparation</key>
+				<real>0.0</real>
+				<key>twopiSeparation</key>
+				<real>0.0</real>
+			</dict>
+			<key>Orientation</key>
+			<integer>2</integer>
+			<key>PrintOnePage</key>
+			<false/>
+			<key>RowAlign</key>
+			<integer>1</integer>
+			<key>RowSpacing</key>
+			<real>0.0</real>
+			<key>SheetTitle</key>
+			<string>Canvas 8</string>
+			<key>UniqueID</key>
+			<integer>8</integer>
+			<key>VPages</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>SmartAlignmentGuidesActive</key>
 	<string>YES</string>
@@ -11913,12 +12257,12 @@
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>0</integer>
+		<integer>7</integer>
 		<key>Expanded_Canvases</key>
 		<array>
+			<string>Canvas 3</string>
 			<string>Canvas 1</string>
 			<string>Canvas 2</string>
-			<string>Canvas 3</string>
 		</array>
 		<key>Frame</key>
 		<string>{{228, 0}, {1759, 1577}}</string>
@@ -11970,6 +12314,11 @@
 			</array>
 			<array>
 				<string>Canvas 7</string>
+				<real>2</real>
+				<real>1</real>
+			</array>
+			<array>
+				<string>Canvas 8</string>
 				<real>2</real>
 				<real>1</real>
 			</array>

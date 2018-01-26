@@ -28,7 +28,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2018-01-26 20:04:25 +0000</string>
+	<string>2018-01-26 20:25:52 +0000</string>
 	<key>Modifier</key>
 	<string>Cem Karan</string>
 	<key>NotesVisible</key>
@@ -1792,7 +1792,7 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs20 \cf0 4. The scope of the project has changed significantly, necessitating a thorough OPSEC review.}</string>
+\f0\fs20 \cf0 4. The scope of the project has changed significantly, necessitating another thorough OPSEC review.}</string>
 													</dict>
 												</dict>
 												<dict>
@@ -2881,7 +2881,7 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs20 \cf0 c. Any significant accomplishments since the last release of the software (*Not applicable if this is the first \
+\f0\fs20 \cf0 c. Any significant accomplishments since the last release of the software (Not applicable if this is the first \
     release of the software).}</string>
 															</dict>
 														</dict>
@@ -4267,7 +4267,7 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs18 \cf0 All developers have concurred in the technical contents and the sequence of developers.  All of the listed developers have made a substantial contribution to this major release, and all developers who have made a substantial contribution are identified in Section 1, Part A, Box 3.  To the best of each developer\'92s knowledge, all of the material proposed for release by this form can be legally given the distribution statement \'93Approved for public release; distribution is unlimited.\'94  All developers agree that it is in the best interest of ARL and the Government to waive any and all potential IP rights in the material being released.  Developers warrant that either the Government already owns all rights in the material being released, or if not, each developer listed in Section 1, Part A, Box 3, and all contributors listed in the attached abstract agrees to assign all necessary rights to the Government to permit the release of the material, without any additional requirement of renumeration or compensation of any kind.}</string>
+\f0\fs18 \cf0 All developers have concurred in the technical contents and the sequence of developers.  All of the listed developers have made a substantial contribution to this major release, and all developers who have made a substantial contribution are identified in Section 1, Part A, Box 3.  To the best of each developer\'92s knowledge, all of the material proposed for release by this form can be legally given the distribution statement \'93Approved for public release; distribution is unlimited.\'94  All developers agree that it is in the best interest of ARL and the Government to waive any and all potential IP rights in the material being released.  Developers warrant that either the Government already owns all rights in the material being released, or if not, each developer listed in Section 1, Part A, Box 3, and all contributors listed in the attached abstract agrees to assign all necessary rights to the Government to permit the release of the material, without any additional requirement of remuneration or compensation of any kind.}</string>
 									</dict>
 									<key>TextPlacement</key>
 									<integer>0</integer>
@@ -15340,7 +15340,7 @@ https://github.com/usarmyresearchlab
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>10</integer>
+		<integer>1</integer>
 		<key>Expanded_Canvases</key>
 		<array>
 			<string>Canvas 5</string>
@@ -15362,7 +15362,7 @@ https://github.com/usarmyresearchlab
 		<key>TopSlabHeight</key>
 		<real>1331</real>
 		<key>VisibleRegion</key>
-		<string>{{-57, 75}, {690.5, 658}}</string>
+		<string>{{-57, 0}, {690.5, 658}}</string>
 		<key>Zoom</key>
 		<real>2</real>
 		<key>ZoomValues</key>

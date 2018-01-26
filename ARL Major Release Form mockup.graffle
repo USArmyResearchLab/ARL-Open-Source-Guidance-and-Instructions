@@ -28,7 +28,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2018-01-26 16:35:42 +0000</string>
+	<string>2018-01-26 20:04:25 +0000</string>
 	<key>Modifier</key>
 	<string>Cem Karan</string>
 	<key>NotesVisible</key>
@@ -10827,8 +10827,12 @@
 								hISEB05TQ29s
 								b3IAlKMBhARm
 								ZmZmAAABAYaS
-								mZKakqySrYaX
-								ASCG
+								mZKEm5wAAISe
+								mQySn5KhkqKS
+								o5KkkqWSppKn
+								kqiSqZKqkquG
+								AIaSrJKthpcB
+								IIY=
 										</data>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
@@ -12549,15 +12553,19 @@
 								koSEhAdOU0Nv
 								bG9yAJSjAYQE
 								ZmZmZgAAAQGG
-								kpmSmpKskq2G
-								lwMOkoSYmQOS
-								sJKEsqMBpQAA
-								AAGGkpmShJuc
-								AACEnpkMkp+S
-								oZKikqOSpJKl
-								kqaSp5KokqmS
-								qpKrhgCGkqyS
-								rYaXARiXA2CG
+								kpmShJucAACE
+								npkMkp+SoZKi
+								kqOSpJKlkqaS
+								p5KokqmSqpKr
+								hgCGkqySrYaX
+								Aw6ShJiZA5Kw
+								koSyowGlAAAA
+								AYaSmZKEm5wA
+								AISemQySn5Kh
+								kqKSo5KkkqWS
+								ppKnkqiSqZKq
+								kquGAIaSrJKt
+								hpcBGJcDYIY=
 										</data>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
@@ -13924,7 +13932,7 @@ https://github.com/usarmyresearchlab\cf2 .
 						BAtzdHJlYW10eXBlZIHoA4QBQISE
 						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
 						hIQITlNPYmplY3QAhZKEhIQITlNT
-						dHJpbmcBlIQBK4HfCiAgICBCb3gg
+						dHJpbmcBlIQBK4FGCyAgICBCb3gg
 						MWMuIEVuc3VyZSB0aGF0IGEgZmls
 						ZSBjYWxsZWQg4oCYTElDRU5TRS50
 						eHTigJkgaXMgaW5jbHVkZWQgaW4g
@@ -14047,67 +14055,76 @@ https://github.com/usarmyresearchlab\cf2 .
 						dGVkIHRvIHRoZSBBUkwgQ2hpZWYg
 						Q291bnNlbOKAmXMgT2ZmaWNlLiAg
 						QW4gZXhhbXBsZSBmaWxlIGNhbiBi
-						ZSBmb3VuZCBhdCAKCiAgICBCb3gg
-						MWQuIEFuIGV4YW1wbGUgY29kZS5q
-						c29uIGZpbGUgaXMgcHJvdmlkZWQg
-						YXQgaHR0cHM6Ly9naXRodWIuY29t
-						L1VTQXJteVJlc2VhcmNoTGFiL0FS
-						TC1PcGVuLVNvdXJjZS1HdWlkYW5j
-						ZS1hbmQtSW5zdHJ1Y3Rpb25zLiAg
-						RGV2ZWxvcGVycyBtYXkgd2lzaCB0
-						byBjb3B5IGFuZCBtb2RpZnkgaXQg
-						dG8gc3VpdCB0aGVpciBvd24gbmVl
-						ZHMuhoQCaUkBBJKEhIQMTlNEaWN0
-						aW9uYXJ5AJSEAWkCkoSWlhBOU1Bh
-						cmFncmFwaFN0eWxlhpKEhIQXTlNN
-						dXRhYmxlUGFyYWdyYXBoU3R5bGUA
-						hIQQTlNQYXJhZ3JhcGhTdHlsZQCU
-						hARDQ0BTAACEhIQHTlNBcnJheQCU
-						mQyShISECU5TVGV4dFRhYgCUhAJD
-						ZgAchpKEoJ8AOIaShKCfAFSGkoSg
-						nwBwhpKEoJ8AgYwAhpKEoJ8AgagA
-						hpKEoJ8AgcQAhpKEoJ8AgeAAhpKE
-						oJ8AgfwAhpKEoJ8AgRgBhpKEoJ8A
-						gTQBhpKEoJ8AgVABhoYAhpKElpYG
-						TlNGb250hpKEhIQGTlNGb250HpSZ
-						HIQFWzI4Y10GAAAAFAAAAP/+SABl
-						AGwAdgBlAHQAaQBjAGEAhAFmDIQB
-						YwCjAaMAowCGhpcCB5KEmJkCkpmS
-						mpKskoSumSiEBVs0MGNdBgAAAB4A
-						AAD//kgAZQBsAHYAZQB0AGkAYwBh
-						AC0AQgBvAGwAZAAAAKIMowCjAaMA
-						owCGhpcBgfYAlwMskoSYmQOShJaW
-						B05TQ29sb3KGkoSEhAdOU0NvbG9y
-						AJSjAYQEZmZmZgAAAQGGkpmShJuc
-						AACEnpkMkp+SoZKikqOSpJKlkqaS
-						p5KokqmSqpKrhgCGkqySrYaXAUiX
-						BF6ShJiZA5KykoS0owGmAAAAAYaS
-						mZKakqySrYaXAzuXBEmXBYFBAZKE
-						mJkDkrKShLSjAaYAAAABhpKZkoSb
+						ZSBmb3VuZCBhdCBodHRwczovL2dp
+						dGh1Yi5jb20vVVNBcm15UmVzZWFy
+						Y2hMYWIvQVJMLU9wZW4tU291cmNl
+						LUd1aWRhbmNlLWFuZC1JbnN0cnVj
+						dGlvbnMvYmxvYi9tYXN0ZXIvTElD
+						RU5TRS50eHQuCgogICAgQm94IDFk
+						LiBBbiBleGFtcGxlIGNvZGUuanNv
+						biBmaWxlIGlzIHByb3ZpZGVkIGF0
+						IGh0dHBzOi8vZ2l0aHViLmNvbS9V
+						U0FybXlSZXNlYXJjaExhYi9BUkwt
+						T3Blbi1Tb3VyY2UtR3VpZGFuY2Ut
+						YW5kLUluc3RydWN0aW9ucy4gIERl
+						dmVsb3BlcnMgbWF5IHdpc2ggdG8g
+						Y29weSBhbmQgbW9kaWZ5IGl0IHRv
+						IHN1aXQgdGhlaXIgb3duIG5lZWRz
+						LoaEAmlJAQSShISEDE5TRGljdGlv
+						bmFyeQCUhAFpApKElpYQTlNQYXJh
+						Z3JhcGhTdHlsZYaShISEF05TTXV0
+						YWJsZVBhcmFncmFwaFN0eWxlAISE
+						EE5TUGFyYWdyYXBoU3R5bGUAlIQE
+						Q0NAUwAAhISEB05TQXJyYXkAlJkM
+						koSEhAlOU1RleHRUYWIAlIQCQ2YA
+						HIaShKCfADiGkoSgnwBUhpKEoJ8A
+						cIaShKCfAIGMAIaShKCfAIGoAIaS
+						hKCfAIHEAIaShKCfAIHgAIaShKCf
+						AIH8AIaShKCfAIEYAYaShKCfAIE0
+						AYaShKCfAIFQAYaGAIaShJaWBk5T
+						Rm9udIaShISEBk5TRm9udB6UmRyE
+						BVsyOGNdBgAAABQAAAD//kgAZQBs
+						AHYAZQB0AGkAYwBhAIQBZgyEAWMA
+						owGjAKMAhoaXAgeShJiZApKZkpqS
+						rJKErpkohAVbNDBjXQYAAAAeAAAA
+						//5IAGUAbAB2AGUAdABpAGMAYQAt
+						AEIAbwBsAGQAAACiDKMAowGjAKMA
+						hoaXAYH2AJcDLJKEmJkDkoSWlgdO
+						U0NvbG9yhpKEhIQHTlNDb2xvcgCU
+						owGEBGZmZmYAAAEBhpKZkoSbnAAA
+						hJ6ZDJKfkqGSopKjkqSSpZKmkqeS
+						qJKpkqqSq4YAhpKskq2GlwFIlwRe
+						koSYmQOSspKEtKMBpgAAAAGGkpmS
+						mpKskq2GlwM7lwRJlwWBQQGShJiZ
+						A5KykoS0owGmAAAAAYaSmZKEm5wA
+						AISemQySn5KhkqKSo5KkkqWSppKn
+						kqiSqZKqkquGAIaSrJKErpkghAVb
+						MzJjXQYAAAAWAAAA//5BAG4AZABh
+						AGwAZQBNAG8AbgBvAAAAogqjAKMB
+						owCjAIaGlwYBkoSYmQOSspK4kpmS
+						mpKskrCGlwcBkoSYmQOSspKEtKMB
+						pgAAAAGGkpmShJucAACEnpkMkp+S
+						oZKikqOSpJKlkqaSp5KokqmSqpKr
+						hgCGkqyShK6ZHKEGAAAAFAAAAP/+
+						SABlAGwAdgBlAHQAaQBjAGEAogqj
+						AKMBowCjAIaGlwQ5lwWBPwWXBEWX
+						BRyXBIGOAJcIZpKEmJkDkrKShLSj
+						AaaDAIDoOIMAuOY6gz6Lfz8BhpKZ
+						kpqSrJKthpcJAZKEmJkDkrKShLSj
+						AaYAAAABhpKZkpqSrJKthpcFApcG
+						C5cEKpcKTpKEmJkDkrKShLSjAaaD
+						za/mOIPNr+Y6g1mLfz8BhpKZkoSb
 						nAAAhJ6ZDJKfkqGSopKjkqSSpZKm
-						kqeSqJKpkqqSq4YAhpKskoSumSCE
-						BVszMmNdBgAAABYAAAD//kEAbgBk
-						AGEAbABlAE0AbwBuAG8AAACiCqMA
-						owGjAKMAhoaXBgGShJiZA5KykriS
-						mZKakqySsIaXBwGShJiZA5KykoS0
-						owGmAAAAAYaSmZKEm5wAAISemQyS
-						n5KhkqKSo5KkkqWSppKnkqiSqZKq
-						kquGAIaSrJKErpkcoQYAAAAUAAAA
-						//5IAGUAbAB2AGUAdABpAGMAYQCi
-						CqMAowGjAKMAhoaXBDmXBYE/BZcE
-						RZcFHJcEgY4AlwUClwYLlwQqlwhO
-						koSYmQOSspKEtKMBpoPNr+Y4g82v
-						5jqDWYt/PwGGkpmShJucAACEnpkM
-						kp+SoZKikqOSpJKlkqaSp5KokqmS
-						qpKrhgCGkqySrYaXBEWG
+						kqeSqJKpkqqSq4YAhpKskq2GlwRF
+						hg==
 						</data>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 AndaleMono;}
 {\colortbl;\red255\green255\blue255;\red0\green0\blue255;\red0\green0\blue0;\red0\green0\blue255;
-}
-{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c100000;\csgenericrgb\c0\c0\c0;\csgenericrgb\c11\c176\c99822;
-}
+\red0\green0\blue0;\red0\green0\blue255;}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c100000;\csgenericrgb\c0\c0\c0;\cssrgb\c1680\c19835\c100000;
+\cssrgb\c0\c0\c0;\csgenericrgb\c11\c176\c99822;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0     
@@ -14149,12 +14166,12 @@ Grant of Patent License. Subject to the terms and conditions of this License, ea
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf3 \
-Questions regarding how to write a \'91LICENSE.txt\'92 file should be directed to the ARL Chief Counsel\'92s Office.  An example file can be found at 
+Questions regarding how to write a \'91LICENSE.txt\'92 file should be directed to the ARL Chief Counsel\'92s Office.  An example file can be found at \cf4 https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/LICENSE.txt\cf5 .
 \f1\fs20 \cf3 \
 \
 
 \f0\b\fs24 \cf3     Box 1d.
-\b0  An example code.json file is provided at \cf4 https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions\cf3 .  Developers may wish to copy and modify it to suit their own needs.}</string>
+\b0  An example code.json file is provided at \cf6 https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions\cf3 .  Developers may wish to copy and modify it to suit their own needs.}</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -15323,7 +15340,7 @@ https://github.com/usarmyresearchlab
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>8</integer>
+		<integer>10</integer>
 		<key>Expanded_Canvases</key>
 		<array>
 			<string>Canvas 5</string>
@@ -15345,9 +15362,9 @@ https://github.com/usarmyresearchlab
 		<key>TopSlabHeight</key>
 		<real>1331</real>
 		<key>VisibleRegion</key>
-		<string>{{-410, -291}, {1396, 1316}}</string>
+		<string>{{-57, 75}, {690.5, 658}}</string>
 		<key>Zoom</key>
-		<real>1</real>
+		<real>2</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>

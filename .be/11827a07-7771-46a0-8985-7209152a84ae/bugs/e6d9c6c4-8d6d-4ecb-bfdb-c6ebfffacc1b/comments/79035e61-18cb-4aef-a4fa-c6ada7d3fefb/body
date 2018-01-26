@@ -1,0 +1,4 @@
+In the 1.0 policy docs I explain that a reviewer is responsible for the all
+the material, but may choose to review diffs between commits if they wish to.
+I didn't mention this explicitly in the instructions, but I should have.  Need
+to update 2.0 to cover this.

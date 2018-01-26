@@ -1,0 +1,5 @@
+Currently, the easiest way to have multiple people processing forms is by
+having a shared drive that we all have access to.  People will grab forms in
+the inbox, process them, and move them to the outbox.  This doesn't quite
+solve the CAP problem, but it's going to be the best way we have to do so
+right now.

@@ -28,7 +28,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2018-01-26 20:25:52 +0000</string>
+	<string>2018-01-26 21:03:15 +0000</string>
 	<key>Modifier</key>
 	<string>Cem Karan</string>
 	<key>NotesVisible</key>
@@ -2426,7 +2426,7 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
-\f0\b\fs32 \cf0 Major Release Software Review - DRAFT 0.3.0}</string>
+\f0\b\fs32 \cf0 Major Release Software Review - DRAFT 0.4.0}</string>
 					</dict>
 				</dict>
 				<dict>
@@ -15330,6 +15330,292 @@ https://github.com/usarmyresearchlab
 			<key>VPages</key>
 			<integer>1</integer>
 		</dict>
+		<dict>
+			<key>ActiveLayerIndex</key>
+			<integer>0</integer>
+			<key>AutoAdjust</key>
+			<true/>
+			<key>BackgroundGraphic</key>
+			<dict>
+				<key>Bounds</key>
+				<string>{{0, 0}, {576, 733}}</string>
+				<key>Class</key>
+				<string>SolidGraphic</string>
+				<key>ID</key>
+				<integer>2</integer>
+				<key>Style</key>
+				<dict>
+					<key>stroke</key>
+					<dict>
+						<key>Draws</key>
+						<string>NO</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>BaseZoom</key>
+			<integer>0</integer>
+			<key>CanvasOrigin</key>
+			<string>{0, 0}</string>
+			<key>ColumnAlign</key>
+			<integer>0</integer>
+			<key>ColumnSpacing</key>
+			<real>0.0</real>
+			<key>DisplayScale</key>
+			<string>1 in = 1 in</string>
+			<key>GraphicsList</key>
+			<array>
+				<dict>
+					<key>Bounds</key>
+					<string>{{9, 36}, {558, 693}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>0</string>
+							<key>g</key>
+							<string>0</string>
+							<key>r</key>
+							<string>0</string>
+						</dict>
+						<key>Font</key>
+						<string>Helvetica</string>
+						<key>Size</key>
+						<real>12</real>
+					</dict>
+					<key>ID</key>
+					<integer>867</integer>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Align</key>
+						<integer>0</integer>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBK4GhASAgICAgICAg
+						ICAgICAgICAgICAgICAgICAgICAg
+						ICAgICAgICAgICAgICAgICAgICAg
+						ICAgICAgICAgICAgICAgICAgICAg
+						ICAgR2xvc3NhcnkKCkxlYWQgRGV2
+						ZWxvcGVyIC0gVGhlIHByaW5jaXBh
+						bCBkZXZlbG9wZXIgcmVzcG9uc2li
+						bGUgZm9yIGZpbGxpbmcgb3V0IHRo
+						aXMgZm9ybSBhbmQgZW5zdXJpbmcg
+						dGhhdCBpdCBpcyBmdWxseSBwcm9j
+						ZXNzZWQgYmVmb3JlIG1hdGVyaWFs
+						IGlzIHJlbGVhc2VkIHRvIHRoZSBw
+						dWJsaWMuICAKClByaW5jaXBhbCBE
+						ZXZlbG9wZXIgLSBUaGUgaW5kaXZp
+						ZHVhbHMgaWRlbnRpZmllZCBpbiBT
+						ZWN0aW9uIDEsIFBhcnQgQSwgYm94
+						IDMuICBUaGVzZSBpbmRpdmlkdWFs
+						cyB3aWxsIHNoYXJlIGNyZWRpdCBm
+						b3IgdGhlIGRldmVsb3BtZW50IG9m
+						IHRoZSBtYXRlcmlhbCBiZWluZyBy
+						ZWxlYXNlZC4KCoaEAmlJAVKShISE
+						DE5TRGljdGlvbmFyeQCUhAFpA5KE
+						lpYHTlNDb2xvcoaShISEB05TQ29s
+						b3IAlIQBYwGEBGZmZmYAAAABhpKE
+						lpYQTlNQYXJhZ3JhcGhTdHlsZYaS
+						hISEF05TTXV0YWJsZVBhcmFncmFw
+						aFN0eWxlAISEEE5TUGFyYWdyYXBo
+						U3R5bGUAlIQEQ0NAUwAAhISEB05T
+						QXJyYXkAlJkMkoSEhAlOU1RleHRU
+						YWIAlIQCQ2YAHIaShKOiADiGkoSj
+						ogBUhpKEo6IAcIaShKOiAIGMAIaS
+						hKOiAIGoAIaShKOiAIHEAIaShKOi
+						AIHgAIaShKOiAIH8AIaShKOiAIEY
+						AYaShKOiAIE0AYaShKOiAIFQAYaG
+						AIaShJaWBk5TRm9udIaShISEBk5T
+						Rm9udB6UmSiEBVs0MGNdBgAAAB4A
+						AAD//kgAZQBsAHYAZQB0AGkAYwBh
+						AC0AQgBvAGwAZAAAAIQBZgybAJsB
+						mwCbAIaGlwICkoSYmQOSmZKakpyS
+						nZKvkoSxmRyEBVsyOGNdBgAAABQA
+						AAD//kgAZQBsAHYAZQB0AGkAYwBh
+						AKUMmwCbAZsAmwCGhpcBDpcCgZUA
+						lwEVlwKBlQCG
+						</data>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\b\fs24 \cf2                                                                           Glossary
+\b0 \
+\
+
+\b Lead Developer
+\b0  - The principal developer responsible for filling out this form and ensuring that it is fully processed before material is released to the public.  
+\b \
+\
+Principal Developer
+\b0  - The individuals identified in Section 1, Part A, box 3.  These individuals will share credit for the development of the material being released.\
+\
+}</string>
+					</dict>
+					<key>TextPlacement</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{9, 9}, {558, 27}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Size</key>
+						<real>12</real>
+					</dict>
+					<key>ID</key>
+					<integer>421</integer>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Align</key>
+						<integer>0</integer>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\b\fs24 \cf0 Instructions
+\b0  - continued}</string>
+					</dict>
+					<key>TextPlacement</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{18.000000000000171, 621}, {539.99999999999943, 90}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>731</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{9, 9}, {558, 720}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>1</integer>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Align</key>
+						<integer>0</integer>
+					</dict>
+					<key>TextPlacement</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+			<key>GridInfo</key>
+			<dict>
+				<key>ShowsGrid</key>
+				<string>YES</string>
+				<key>SnapsToGrid</key>
+				<string>YES</string>
+			</dict>
+			<key>HPages</key>
+			<integer>1</integer>
+			<key>KeepToScale</key>
+			<false/>
+			<key>Layers</key>
+			<array>
+				<dict>
+					<key>Lock</key>
+					<string>NO</string>
+					<key>Name</key>
+					<string>Layer 1</string>
+					<key>Print</key>
+					<string>YES</string>
+					<key>Slices</key>
+					<string>NO</string>
+					<key>View</key>
+					<string>YES</string>
+				</dict>
+			</array>
+			<key>LayoutInfo</key>
+			<dict>
+				<key>Animate</key>
+				<string>NO</string>
+				<key>circoMinDist</key>
+				<real>18</real>
+				<key>circoSeparation</key>
+				<real>0.0</real>
+				<key>layoutEngine</key>
+				<string>dot</string>
+				<key>neatoLineLength</key>
+				<real>0.20000000298023224</real>
+				<key>neatoSeparation</key>
+				<real>0.0</real>
+				<key>twopiSeparation</key>
+				<real>0.0</real>
+			</dict>
+			<key>Orientation</key>
+			<integer>2</integer>
+			<key>PrintOnePage</key>
+			<false/>
+			<key>RowAlign</key>
+			<integer>1</integer>
+			<key>RowSpacing</key>
+			<real>0.0</real>
+			<key>SheetTitle</key>
+			<string>Canvas 12</string>
+			<key>UniqueID</key>
+			<integer>12</integer>
+			<key>VPages</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>SmartAlignmentGuidesActive</key>
 	<string>YES</string>
@@ -15340,7 +15626,7 @@ https://github.com/usarmyresearchlab
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>1</integer>
+		<integer>11</integer>
 		<key>Expanded_Canvases</key>
 		<array>
 			<string>Canvas 5</string>
@@ -15350,7 +15636,7 @@ https://github.com/usarmyresearchlab
 			<string>Canvas 2</string>
 		</array>
 		<key>Frame</key>
-		<string>{{394, 61}, {1910, 1497}}</string>
+		<string>{{392, 80}, {1910, 1497}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>ShowRuler</key>
@@ -15419,6 +15705,11 @@ https://github.com/usarmyresearchlab
 			</array>
 			<array>
 				<string>Canvas 11</string>
+				<real>2</real>
+				<real>1</real>
+			</array>
+			<array>
+				<string>Canvas 12</string>
 				<real>2</real>
 				<real>1</real>
 			</array>

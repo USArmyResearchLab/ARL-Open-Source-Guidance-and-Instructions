@@ -1,0 +1,6 @@
+For the code to be citeable, people will need to create DOIs for their
+releases. This should NOT be a required part of a major review, but should be
+something that needs to be done periodically (otherwise, why should anyone
+care).  Note that people will need to update their code.json files to reflect
+the new release.
+

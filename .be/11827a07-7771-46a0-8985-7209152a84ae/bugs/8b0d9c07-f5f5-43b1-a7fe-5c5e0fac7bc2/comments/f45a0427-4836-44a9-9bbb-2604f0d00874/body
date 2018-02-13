@@ -1,0 +1,5 @@
+Projects are required to list themselves on GitHub, but are not required to
+store their files there.  For example, the project may point from GitHub to
+SourceForge, where the real files and real development occur.  Under this
+model, most developers would not have GitHub logins.  Given this, can we get
+rid of the GitHub login column?

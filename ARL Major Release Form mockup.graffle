@@ -28,7 +28,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2018-02-06 20:50:29 +0000</string>
+	<string>2018-02-13 20:06:17 +0000</string>
 	<key>Modifier</key>
 	<string>Cem Karan</string>
 	<key>NotesVisible</key>
@@ -113,6 +113,75 @@
 			<string>1 in = 1 in</string>
 			<key>GraphicsList</key>
 			<array>
+				<dict>
+					<key>Class</key>
+					<string>Group</string>
+					<key>Graphics</key>
+					<array>
+						<dict>
+							<key>Bounds</key>
+							<string>{{54, 564.75}, {504, 15.75}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Size</key>
+								<real>10</real>
+							</dict>
+							<key>ID</key>
+							<integer>1050</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>Align</key>
+								<integer>0</integer>
+								<key>Text</key>
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs20 \cf0 7. The project is being archived.  No further changes will be made to the project.}</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{36, 568.125}, {9, 9}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>1051</integer>
+							<key>Style</key>
+							<dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+						</dict>
+					</array>
+					<key>ID</key>
+					<integer>1049</integer>
+				</dict>
 				<dict>
 					<key>Class</key>
 					<string>Group</string>
@@ -1436,542 +1505,258 @@
 					<key>Graphics</key>
 					<array>
 						<dict>
+							<key>Bounds</key>
+							<string>{{54, 456.75}, {504, 20.25}}</string>
 							<key>Class</key>
-							<string>Group</string>
-							<key>Graphics</key>
-							<array>
+							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Size</key>
+								<real>10</real>
+							</dict>
+							<key>ID</key>
+							<integer>842</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
 								<dict>
-									<key>Class</key>
-									<string>Group</string>
-									<key>Graphics</key>
-									<array>
-										<dict>
-											<key>Class</key>
-											<string>Group</string>
-											<key>Graphics</key>
-											<array>
-												<dict>
-													<key>Bounds</key>
-													<string>{{54, 456.75}, {504, 20.25}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>FontInfo</key>
-													<dict>
-														<key>Size</key>
-														<real>10</real>
-													</dict>
-													<key>ID</key>
-													<integer>842</integer>
-													<key>Style</key>
-													<dict>
-														<key>fill</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>stroke</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-													<key>Text</key>
-													<dict>
-														<key>Align</key>
-														<integer>0</integer>
-														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>Align</key>
+								<integer>0</integer>
+								<key>Text</key>
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs20 \cf0 1. This is the first release of this project.}</string>
-													</dict>
-												</dict>
-												<dict>
-													<key>Bounds</key>
-													<string>{{36, 462.375}, {9, 9}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>ID</key>
-													<integer>843</integer>
-													<key>Style</key>
-													<dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-												</dict>
-											</array>
-											<key>ID</key>
-											<integer>864</integer>
-										</dict>
-										<dict>
-											<key>Class</key>
-											<string>Group</string>
-											<key>Graphics</key>
-											<array>
-												<dict>
-													<key>Bounds</key>
-													<string>{{54, 549}, {504, 15.75}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>FontInfo</key>
-													<dict>
-														<key>Size</key>
-														<real>10</real>
-													</dict>
-													<key>ID</key>
-													<integer>845</integer>
-													<key>Style</key>
-													<dict>
-														<key>fill</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>stroke</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-													<key>Text</key>
-													<dict>
-														<key>Align</key>
-														<integer>0</integer>
-														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{36, 462.375}, {9, 9}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>843</integer>
+							<key>Style</key>
+							<dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+						</dict>
+					</array>
+					<key>ID</key>
+					<integer>864</integer>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>Group</string>
+					<key>Graphics</key>
+					<array>
+						<dict>
+							<key>Bounds</key>
+							<string>{{54, 549}, {504, 15.75}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Size</key>
+								<real>10</real>
+							</dict>
+							<key>ID</key>
+							<integer>845</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>Align</key>
+								<integer>0</integer>
+								<key>Text</key>
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs20 \cf0 6. New inventions are being disclosed that the Invention Evaluation Committee (IEC) must review.}</string>
-													</dict>
-												</dict>
-												<dict>
-													<key>Bounds</key>
-													<string>{{36, 552.375}, {9, 9}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>ID</key>
-													<integer>846</integer>
-													<key>Style</key>
-													<dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-												</dict>
-											</array>
-											<key>ID</key>
-											<integer>865</integer>
-										</dict>
-										<dict>
-											<key>Class</key>
-											<string>Group</string>
-											<key>Graphics</key>
-											<array>
-												<dict>
-													<key>Bounds</key>
-													<string>{{54, 531}, {504, 18}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>FontInfo</key>
-													<dict>
-														<key>Size</key>
-														<real>10</real>
-													</dict>
-													<key>ID</key>
-													<integer>848</integer>
-													<key>Style</key>
-													<dict>
-														<key>fill</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>stroke</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-													<key>Text</key>
-													<dict>
-														<key>Align</key>
-														<integer>0</integer>
-														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{36, 552.375}, {9, 9}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>846</integer>
+							<key>Style</key>
+							<dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+						</dict>
+					</array>
+					<key>ID</key>
+					<integer>865</integer>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>Group</string>
+					<key>Graphics</key>
+					<array>
+						<dict>
+							<key>Bounds</key>
+							<string>{{54, 531}, {504, 18}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Size</key>
+								<real>10</real>
+							</dict>
+							<key>ID</key>
+							<integer>848</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>Align</key>
+								<integer>0</integer>
+								<key>Text</key>
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs20 \cf0 5. Changes have occurred that require legal review.}</string>
-													</dict>
-												</dict>
-												<dict>
-													<key>Bounds</key>
-													<string>{{36, 535.5}, {9, 9}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>ID</key>
-													<integer>849</integer>
-													<key>Style</key>
-													<dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-												</dict>
-											</array>
-											<key>ID</key>
-											<integer>866</integer>
-										</dict>
-										<dict>
-											<key>Class</key>
-											<string>Group</string>
-											<key>Graphics</key>
-											<array>
-												<dict>
-													<key>Bounds</key>
-													<string>{{54, 587.56578947368394}, {504, 53.684210526315788}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>ID</key>
-													<integer>851</integer>
-													<key>Style</key>
-													<dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-												</dict>
-												<dict>
-													<key>Class</key>
-													<string>Group</string>
-													<key>Graphics</key>
-													<array>
-														<dict>
-															<key>Bounds</key>
-															<string>{{54, 564.75}, {504, 16.105263157894736}}</string>
-															<key>Class</key>
-															<string>ShapedGraphic</string>
-															<key>FontInfo</key>
-															<dict>
-																<key>Size</key>
-																<real>10</real>
-															</dict>
-															<key>ID</key>
-															<integer>853</integer>
-															<key>Style</key>
-															<dict>
-																<key>fill</key>
-																<dict>
-																	<key>Draws</key>
-																	<string>NO</string>
-																</dict>
-																<key>shadow</key>
-																<dict>
-																	<key>Draws</key>
-																	<string>NO</string>
-																</dict>
-																<key>stroke</key>
-																<dict>
-																	<key>Draws</key>
-																	<string>NO</string>
-																</dict>
-															</dict>
-															<key>Text</key>
-															<dict>
-																<key>Align</key>
-																<integer>0</integer>
-																<key>Text</key>
-																<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-
-\f0\fs20 \cf0 7. Other Reason.  If checked, briefly explain below:}</string>
-															</dict>
-														</dict>
-														<dict>
-															<key>Bounds</key>
-															<string>{{36, 568.77631578947353}, {9, 8.0526315789473681}}</string>
-															<key>Class</key>
-															<string>ShapedGraphic</string>
-															<key>ID</key>
-															<integer>854</integer>
-															<key>Style</key>
-															<dict>
-																<key>shadow</key>
-																<dict>
-																	<key>Draws</key>
-																	<string>NO</string>
-																</dict>
-															</dict>
-														</dict>
-													</array>
-													<key>ID</key>
-													<integer>852</integer>
-												</dict>
-											</array>
-											<key>ID</key>
-											<integer>850</integer>
-										</dict>
-										<dict>
-											<key>Class</key>
-											<string>Group</string>
-											<key>Graphics</key>
-											<array>
-												<dict>
-													<key>Bounds</key>
-													<string>{{54, 513}, {504, 18}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>FontInfo</key>
-													<dict>
-														<key>Size</key>
-														<real>10</real>
-													</dict>
-													<key>ID</key>
-													<integer>856</integer>
-													<key>Style</key>
-													<dict>
-														<key>fill</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>stroke</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-													<key>Text</key>
-													<dict>
-														<key>Align</key>
-														<integer>0</integer>
-														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-
-\f0\fs20 \cf0 4. The scope of the project has changed significantly, necessitating another thorough OPSEC review.}</string>
-													</dict>
-												</dict>
-												<dict>
-													<key>Bounds</key>
-													<string>{{36, 517.5}, {9, 9}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>ID</key>
-													<integer>857</integer>
-													<key>Style</key>
-													<dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-												</dict>
-											</array>
-											<key>ID</key>
-											<integer>867</integer>
-										</dict>
-										<dict>
-											<key>Class</key>
-											<string>Group</string>
-											<key>Graphics</key>
-											<array>
-												<dict>
-													<key>Bounds</key>
-													<string>{{54, 495}, {504, 18}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>FontInfo</key>
-													<dict>
-														<key>Size</key>
-														<real>10</real>
-													</dict>
-													<key>ID</key>
-													<integer>859</integer>
-													<key>Style</key>
-													<dict>
-														<key>fill</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>stroke</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-													<key>Text</key>
-													<dict>
-														<key>Align</key>
-														<integer>0</integer>
-														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-
-\f0\fs20 \cf0 3. Significant accomplishments have been achieved.}</string>
-													</dict>
-												</dict>
-												<dict>
-													<key>Bounds</key>
-													<string>{{36, 499.5}, {9, 9}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>ID</key>
-													<integer>860</integer>
-													<key>Style</key>
-													<dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-												</dict>
-											</array>
-											<key>ID</key>
-											<integer>868</integer>
-										</dict>
-										<dict>
-											<key>Class</key>
-											<string>Group</string>
-											<key>Graphics</key>
-											<array>
-												<dict>
-													<key>Bounds</key>
-													<string>{{54, 477}, {504, 18}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>FontInfo</key>
-													<dict>
-														<key>Size</key>
-														<real>10</real>
-													</dict>
-													<key>ID</key>
-													<integer>862</integer>
-													<key>Style</key>
-													<dict>
-														<key>fill</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>stroke</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-													<key>Text</key>
-													<dict>
-														<key>Align</key>
-														<integer>0</integer>
-														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-
-\f0\fs20 \cf0 2. This is an annual review of this project.}</string>
-													</dict>
-												</dict>
-												<dict>
-													<key>Bounds</key>
-													<string>{{36, 481.5}, {9, 9}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>ID</key>
-													<integer>863</integer>
-													<key>Style</key>
-													<dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-												</dict>
-											</array>
-											<key>ID</key>
-											<integer>869</integer>
-										</dict>
-									</array>
-									<key>ID</key>
-									<integer>870</integer>
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{36, 535.5}, {9, 9}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>849</integer>
+							<key>Style</key>
+							<dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
 								</dict>
+							</dict>
+						</dict>
+					</array>
+					<key>ID</key>
+					<integer>866</integer>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>Group</string>
+					<key>Graphics</key>
+					<array>
+						<dict>
+							<key>Bounds</key>
+							<string>{{54, 603.31578947368394}, {504, 53.684210526315788}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>851</integer>
+							<key>Style</key>
+							<dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+						</dict>
+						<dict>
+							<key>Class</key>
+							<string>Group</string>
+							<key>Graphics</key>
+							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{9, 432}, {558, 225}}</string>
+									<string>{{54, 580.5}, {504, 16.105263157894736}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
 									<dict>
 										<key>Size</key>
-										<real>12</real>
+										<real>10</real>
 									</dict>
 									<key>ID</key>
-									<integer>839</integer>
+									<integer>853</integer>
 									<key>Style</key>
 									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
 										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
 										<dict>
 											<key>Draws</key>
 											<string>NO</string>
@@ -1988,19 +1773,276 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\b\fs24 \cf0 B. Reason for Review
-\b0  - Check all that apply:}</string>
+\f0\fs20 \cf0 8. Other Reason.  If checked, briefly explain below:}</string>
 									</dict>
-									<key>TextPlacement</key>
-									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>Bounds</key>
+									<string>{{36, 584.52631578947353}, {9, 8.0526315789473681}}</string>
+									<key>Class</key>
+									<string>ShapedGraphic</string>
+									<key>ID</key>
+									<integer>854</integer>
+									<key>Style</key>
+									<dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+									</dict>
 								</dict>
 							</array>
 							<key>ID</key>
-							<integer>871</integer>
+							<integer>852</integer>
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>838</integer>
+					<integer>850</integer>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>Group</string>
+					<key>Graphics</key>
+					<array>
+						<dict>
+							<key>Bounds</key>
+							<string>{{54, 513}, {504, 18}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Size</key>
+								<real>10</real>
+							</dict>
+							<key>ID</key>
+							<integer>856</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>Align</key>
+								<integer>0</integer>
+								<key>Text</key>
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs20 \cf0 4. The scope of the project has changed significantly, necessitating another thorough OPSEC review.}</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{36, 517.5}, {9, 9}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>857</integer>
+							<key>Style</key>
+							<dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+						</dict>
+					</array>
+					<key>ID</key>
+					<integer>867</integer>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>Group</string>
+					<key>Graphics</key>
+					<array>
+						<dict>
+							<key>Bounds</key>
+							<string>{{54, 495}, {504, 18}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Size</key>
+								<real>10</real>
+							</dict>
+							<key>ID</key>
+							<integer>859</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>Align</key>
+								<integer>0</integer>
+								<key>Text</key>
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs20 \cf0 3. Significant accomplishments have been achieved.}</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{36, 499.5}, {9, 9}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>860</integer>
+							<key>Style</key>
+							<dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+						</dict>
+					</array>
+					<key>ID</key>
+					<integer>868</integer>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>Group</string>
+					<key>Graphics</key>
+					<array>
+						<dict>
+							<key>Bounds</key>
+							<string>{{54, 477}, {504, 18}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Size</key>
+								<real>10</real>
+							</dict>
+							<key>ID</key>
+							<integer>862</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>Align</key>
+								<integer>0</integer>
+								<key>Text</key>
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs20 \cf0 2. It has been one year since the last major review, and the project is still an active project.}</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{36, 481.5}, {9, 9}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>863</integer>
+							<key>Style</key>
+							<dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+						</dict>
+					</array>
+					<key>ID</key>
+					<integer>869</integer>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{9, 432}, {558, 297}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Size</key>
+						<real>12</real>
+					</dict>
+					<key>ID</key>
+					<integer>839</integer>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Align</key>
+						<integer>0</integer>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\b\fs24 \cf0 B. Reason for Review
+\b0  - Check all that apply:}</string>
+					</dict>
+					<key>TextPlacement</key>
+					<integer>0</integer>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -3920,7 +3962,7 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs20 \cf0 a. All useless, non-functional, or otherwise undesirable code and material has been removed.}</string>
+\f0\fs20 \cf0 a. All extraneous, useless, non-functional, or otherwise undesirable code and material has been removed.}</string>
 															</dict>
 														</dict>
 														<dict>
@@ -4263,8 +4305,8 @@
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -4473,7 +4515,7 @@ The undersigned hereby warrants that the software project is an original Work of
 			<key>RowSpacing</key>
 			<real>0.0</real>
 			<key>SheetTitle</key>
-			<string>Canvas 6</string>
+			<string>Canvas 2</string>
 			<key>UniqueID</key>
 			<integer>6</integer>
 			<key>VPages</key>
@@ -9166,7 +9208,7 @@ The undersigned hereby warrants that the software project is an original Work of
 			<key>RowSpacing</key>
 			<real>0.0</real>
 			<key>SheetTitle</key>
-			<string>Canvas 2</string>
+			<string>Canvas 3</string>
 			<key>UniqueID</key>
 			<integer>2</integer>
 			<key>VPages</key>
@@ -10601,7 +10643,7 @@ The undersigned hereby warrants that the software project is an original Work of
 			<key>RowSpacing</key>
 			<real>0.0</real>
 			<key>SheetTitle</key>
-			<string>Canvas 3</string>
+			<string>Canvas 4</string>
 			<key>UniqueID</key>
 			<integer>3</integer>
 			<key>VPages</key>
@@ -12193,7 +12235,7 @@ The undersigned hereby warrants that the software project is an original Work of
 			<key>RowSpacing</key>
 			<real>0.0</real>
 			<key>SheetTitle</key>
-			<string>Canvas 7</string>
+			<string>Canvas 5</string>
 			<key>UniqueID</key>
 			<integer>7</integer>
 			<key>VPages</key>
@@ -12895,7 +12937,7 @@ The undersigned hereby warrants that the software project is an original Work of
 			<key>RowSpacing</key>
 			<real>0.0</real>
 			<key>SheetTitle</key>
-			<string>Canvas 4</string>
+			<string>Canvas 6</string>
 			<key>UniqueID</key>
 			<integer>4</integer>
 			<key>VPages</key>
@@ -12975,7 +13017,7 @@ The undersigned hereby warrants that the software project is an original Work of
 						BAtzdHJlYW10eXBlZIHoA4QBQISE
 						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
 						hIQITlNPYmplY3QAhZKEhIQITlNT
-						dHJpbmcBlIQBK4GKDFRoZSBsZWFk
+						dHJpbmcBlIQBK4GUDFRoZSBsZWFk
 						IEFSTCBkZXZlbG9wZXIgb3IgQ09S
 						IGlzIHJlc3BvbnNpYmxlIGZvciBl
 						bnN1cmluZyB0aGF0IHRoZSBwcm9q
@@ -13111,79 +13153,75 @@ The undersigned hereby warrants that the software project is an original Work of
 						IHVwLXRvLWRhdGUgbGlzdGluZyBv
 						ZiBhbGwgb2YgQVJM4oCZcyBPcGVu
 						IFNvdXJjZSBTb2Z0d2FyZS4gIAoK
-						ICAgIEJveCAyLiBBbGwgQVJMLXNw
-						b25zb3JlZCBPcGVuIFNvdXJjZSBT
-						b2Z0d2FyZSBwcm9qZWN0cyBtdXN0
-						IGJlIHJldmlld2VkIGF0IGxlYXN0
-						IG9uY2UgcGVyIHllYXIsIGV2ZW4g
-						aWYgbm8gc2lnbmlmaWNhbnQgY2hh
-						bmdlcyBoYXZlIG9jY3VycmVkLiAg
-						UmF0aW9uYWxlOiBJbmNyZW1lbnRh
-						bCBjaGFuZ2VzIGNhbiBidWlsZCB1
-						cCB0byBiZWNvbWUgbWFqb3IgY2hh
-						bmdlcywgc29tZXRpbWVzIHdpdGhv
-						dXQgdGhlIGNvbnNjaW91cyByZWFs
-						aXphdGlvbiBvZiB0aGUgcHJpbmNp
-						cGFsIGRldmVsb3BlcnMuICBQZXJp
-						b2RpYyByZXZpZXdzIGNhbiBjYXRj
-						aCB0aGVzZSBjaGFuZ2VzLCB3aGlj
-						aCBjYW4gc29tZXRpbWVzIGJlIHNp
-						Z25pZmljYW50LoaEAmlJAYEFApKE
-						hIQMTlNEaWN0aW9uYXJ5AJSEAWkD
-						koSWlgdOU0NvbG9yhpKEhIQHTlND
-						b2xvcgCUhAFjAYQEZmZmZgAAAAGG
-						koSWlhBOU1BhcmFncmFwaFN0eWxl
-						hpKEhIQXTlNNdXRhYmxlUGFyYWdy
-						YXBoU3R5bGUAhIQQTlNQYXJhZ3Jh
-						cGhTdHlsZQCUhARDQ0BTAACEhIQH
-						TlNBcnJheQCUmQyShISECU5TVGV4
-						dFRhYgCUhAJDZgAchpKEo6IAOIaS
-						hKOiAFSGkoSjogBwhpKEo6IAgYwA
-						hpKEo6IAgagAhpKEo6IAgcQAhpKE
-						o6IAgeAAhpKEo6IAgfwAhpKEo6IA
-						gRgBhpKEo6IAgTQBhpKEo6IAgVAB
-						hoYAhpKElpYGTlNGb250hpKEhIQG
-						TlNGb250HpSZHIQFWzI4Y10GAAAA
-						FAAAAP/+SABlAGwAdgBlAHQAaQBj
-						AGEAhAFmDJsAmwGbAJsAhoaXAh+S
-						hJiZA5KZkpqSnJKdkq+ShLGZKIQF
-						WzQwY10GAAAAHgAAAP/+SABlAGwA
-						dgBlAHQAaQBjAGEALQBCAG8AbABk
-						AAAApQybAJsBmwCbAIaGlwE0lwIU
-						lwM8koSYmQKSnJKdkq+SsIaXAgSX
-						BAaShJiZApKckp2Sr5KzhpcDVpcF
-						J5KEmJkDkpmShJubA4QCZmYAAYaS
-						nJKdkq+SsIaXA02XATuXBiSShJiZ
-						BZKElpYGTlNLZXJuhpKEhIQITlNO
-						dW1iZXIAhIQHTlNWYWx1ZQCUhAEq
-						hIQBZKsAhpKvkoSxmSSEBVszNmNd
-						BgAAABwAAAD//kgAZQBsAHYAZQB0
-						AGkAYwBhAE4AZQB1AGUApQybAJsB
-						mwCbAIaShJaWEU5TQmFja2dyb3Vu
-						ZENvbG9yhpKEm5sBnAGDUv5/P4Nu
-						/38/AYaSnJKdkpmShJubAZwAAINQ
-						iX8/AYaGlwcIkoSYmQWSuZK6kq+S
-						vpKZkpqSnJKdkr+SwIaXAQGXA0mX
-						AQGXBiSXBwOXCAqShJiZBZK5krqS
-						r5KEsZk0hAVbNTJjXQYAAAAqAAAA
-						//5IAGUAbAB2AGUAdABpAGMAYQBO
-						AGUAdQBlAC0ASQB0AGEAbABpAGMA
-						AAClDJsAmwGbAJsAhpKZkpqSnJKE
-						np8AAIShmQySopKkkqWSppKnkqiS
-						qZKqkquSrJKtkq6GAIaSv5LAhpcH
-						gfIAlwUBlwMBlwIElwQHlwOB3gCX
-						BQGXAwGXCQqShJiZA5KZkpqSnJKE
-						np8AAIShmQySopKkkqWSppKnkqiS
-						qZKqkquSrJKtkq6GAIaSr5KEsZks
-						hAVbNDRjXQYAAAAkAAAA//5IAGUA
-						bAB2AGUAdABpAGMAYQAtAE8AYgBs
-						AGkAcQB1AGUApQybAJsBmwCbAIaG
-						lwGBNAGXAwKXAgSXBAaXA4HZAJcE
-						B5cCDZcDaZcKJJKEmJkDkpmShJub
-						AZwAAAEBhpKckoSenwAAhKGZDJKi
-						kqSSpZKmkqeSqJKpkqqSq5Kskq2S
-						roYAhpKvkrCGlwGBxgCXCQqXAYEZ
-						AZcCCpcBgYkAlwkKlwGB0gCG
+						ICAgIEJveCAyLiBJZiB0aGUgcHJv
+						amVjdCBpcyBzdGlsbCB1bmRlciBh
+						Y3RpdmUgZGV2ZWxvcG1lbnQsIGFu
+						ZCBpdCBoYXMgYmVlbiBvbmUgb3Ig
+						bW9yZSB5ZWFycyBzaW5jZSB0aGUg
+						bGFzdCBtYWpvciByZXZpZXcsIHRo
+						ZW4gaXQgbXVzdCBiZSByZXZpZXdl
+						ZCBhZ2Fpbi4gIFJhdGlvbmFsZTog
+						SW5jcmVtZW50YWwgY2hhbmdlcyBj
+						YW4gYnVpbGQgdXAgdG8gYmVjb21l
+						IG1ham9yIGNoYW5nZXMsIHNvbWV0
+						aW1lcyB3aXRob3V0IHRoZSBjb25z
+						Y2lvdXMgcmVhbGl6YXRpb24gb2Yg
+						dGhlIHByaW5jaXBhbCBkZXZlbG9w
+						ZXJzLiAgUGVyaW9kaWMgcmV2aWV3
+						cyBjYW4gY2F0Y2ggdGhlc2UgY2hh
+						bmdlcywgd2hpY2ggY2FuIHNvbWV0
+						aW1lcyBiZSBzaWduaWZpY2FudC6G
+						hAJpSQGBBQKShISEDE5TRGljdGlv
+						bmFyeQCUhAFpA5KElpYHTlNDb2xv
+						coaShISEB05TQ29sb3IAlIQBYwGE
+						BGZmZmYAAAABhpKElpYQTlNQYXJh
+						Z3JhcGhTdHlsZYaShISEF05TTXV0
+						YWJsZVBhcmFncmFwaFN0eWxlAISE
+						EE5TUGFyYWdyYXBoU3R5bGUAlIQE
+						Q0NAUwAAhISEB05TQXJyYXkAlJkM
+						koSEhAlOU1RleHRUYWIAlIQCQ2YA
+						HIaShKOiADiGkoSjogBUhpKEo6IA
+						cIaShKOiAIGMAIaShKOiAIGoAIaS
+						hKOiAIHEAIaShKOiAIHgAIaShKOi
+						AIH8AIaShKOiAIEYAYaShKOiAIE0
+						AYaShKOiAIFQAYaGAIaShJaWBk5T
+						Rm9udIaShISEBk5TRm9udB6UmRyE
+						BVsyOGNdBgAAABQAAAD//kgAZQBs
+						AHYAZQB0AGkAYwBhAIQBZgybAJsB
+						mwCbAIaGlwIfkoSYmQOSmZKakpyS
+						nZKvkoSxmSiEBVs0MGNdBgAAAB4A
+						AAD//kgAZQBsAHYAZQB0AGkAYwBh
+						AC0AQgBvAGwAZAAAAKUMmwCbAZsA
+						mwCGhpcBNJcCFJcDPJKEmJkCkpyS
+						nZKvkrCGlwIElwQGkoSYmQKSnJKd
+						kq+Ss4aXA1aXBSeShJiZA5KZkoSb
+						mwOEAmZmAAGGkpySnZKvkrCGlwNN
+						lwE7lwYkkoSYmQWShJaWBk5TS2Vy
+						boaShISECE5TTnVtYmVyAISEB05T
+						VmFsdWUAlIQBKoSEAWSrAIaSr5KE
+						sZkkhAVbMzZjXQYAAAAcAAAA//5I
+						AGUAbAB2AGUAdABpAGMAYQBOAGUA
+						dQBlAKUMmwCbAZsAmwCGkoSWlhFO
+						U0JhY2tncm91bmRDb2xvcoaShJub
+						AZwBg1L+fz+Dbv9/PwGGkpySnZKZ
+						koSbmwGcAACDUIl/PwGGhpcHCJKE
+						mJkFkrmSupKvkr6SmZKakpySnZK/
+						ksCGlwEBlwNJlwEBlwYklwcDlwgK
+						koSYmQWSuZK6kq+ShLGZNIQFWzUy
+						Y10GAAAAKgAAAP/+SABlAGwAdgBl
+						AHQAaQBjAGEATgBlAHUAZQAtAEkA
+						dABhAGwAaQBjAAAApQybAJsBmwCb
+						AIaSmZKakpySnZK/ksCGlweB8gCX
+						BQGXAwGXAgSXBAeXA4HeAJcFAZcD
+						AZcJCpKEmJkDkpmSmpKckp2Sr5KE
+						sZkshAVbNDRjXQYAAAAkAAAA//5I
+						AGUAbAB2AGUAdABpAGMAYQAtAE8A
+						YgBsAGkAcQB1AGUApQybAJsBmwCb
+						AIaGlwGBNAGXAwKXAgSXBAaXA4HZ
+						AJcEB5cCDZcDaZcKJJKEmJkDkpmS
+						hJubAZwAAAEBhpKckp2Sr5KwhpcB
+						gcYAlwkKlwGBGQGXAgqXAYGTAJcJ
+						CpcBgdIAhg==
 						</data>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
@@ -13239,7 +13277,7 @@ https://github.com/usarmyresearchlab\cf2 .
 \
 
 \b     Box 2.
-\b0  All ARL-sponsored Open Source Software projects must be reviewed at least once per year, even if no significant changes have occurred.  
+\b0  If the project is still under active development, and it has been one or more years since the last major review, then it must be reviewed again.  
 \i Rationale:
 \i0  Incremental changes can build up to become major changes, sometimes without the conscious realization of the principal developers.  Periodic reviews can catch these changes, which can sometimes be significant.}</string>
 					</dict>
@@ -13416,7 +13454,7 @@ https://github.com/usarmyresearchlab\cf2 .
 			<key>RowSpacing</key>
 			<real>0.0</real>
 			<key>SheetTitle</key>
-			<string>Canvas 5</string>
+			<string>Canvas 7</string>
 			<key>UniqueID</key>
 			<integer>5</integer>
 			<key>VPages</key>
@@ -13496,7 +13534,7 @@ https://github.com/usarmyresearchlab\cf2 .
 						BAtzdHJlYW10eXBlZIHoA4QBQISE
 						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
 						hIQITlNPYmplY3QAhZKEhIQITlNT
-						dHJpbmcBlIQBK4GqCyAgICBCb3gg
+						dHJpbmcBlIQBK4EuDyAgICBCb3gg
 						My4gQ2hlY2sgdGhpcyBib3ggaWYg
 						c2lnbmlmaWNhbnQgYWNjb21wbGlz
 						aG1lbnRzIGhhdmUgYmVlbiBtYWRl
@@ -13620,57 +13658,99 @@ https://github.com/usarmyresearchlab\cf2 .
 						Y2FibHkgd2FpdmUgYWxsIHBhdGVu
 						dCByaWdodHMgdGhhdCBBUkwgbWF5
 						IGhhdmUgaW4gdGhlIGludmVudGlv
-						bnMuCgpQYXJ0IEMuCgogICAgQm94
-						IDFhLiBSZW1vdmUgbWF0ZXJpYWwg
-						dGhhdCBpcyB1c2VsZXNzLCBub24t
-						ZnVuY3Rpb25hbCwgb3Igb3RoZXJ3
-						aXNlIHVuZGVzaXJhYmxlIHRvIGRp
-						c3RyaWJ1dGUuCgogICAgQm94IDFi
-						LiBFbnN1cmUgdGhhdCBhbGwgZW1i
-						YXJyYXNzaW5nIG9yIGRpc3BhcmFn
-						aW5nIG1hdGVyaWFsIGhhcyBiZWVu
-						IHJlbW92ZWQuICBBIHJlbGVhc2Ug
-						aXMgY29uc2lkZXJlZCB0byBiZSBh
-						IHByb2Zlc3Npb25hbCBwdWJsaWNh
-						dGlvbiBhbmQgc2hvdWxkIGJlIHRy
-						ZWF0ZWQgYXMgc3VjaC4gIFF1ZXN0
-						aW9ucyByZWdhcmRpbmcgd2hhdCBp
-						cyBjb25zaWRlcmVkIHRvIGJlIHBy
-						b2Zlc3Npb25hbCBzaG91bGQgYmUg
-						ZGlyZWN0ZWQgdG8gdGhlIFB1Ymxp
-						YyBBZmZhaXJzIE9mZmljZS6GhAJp
-						SQEKkoSEhAxOU0RpY3Rpb25hcnkA
-						lIQBaQOShJaWB05TQ29sb3KGkoSE
-						hAdOU0NvbG9yAJSEAWMBhARmZmZm
-						AAAAAYaShJaWEE5TUGFyYWdyYXBo
-						U3R5bGWGkoSEhBdOU011dGFibGVQ
-						YXJhZ3JhcGhTdHlsZQCEhBBOU1Bh
-						cmFncmFwaFN0eWxlAJSEBENDQFMA
-						AISEhAdOU0FycmF5AJSZDJKEhIQJ
-						TlNUZXh0VGFiAJSEAkNmAByGkoSj
-						ogA4hpKEo6IAVIaShKOiAHCGkoSj
-						ogCBjACGkoSjogCBqACGkoSjogCB
-						xACGkoSjogCB4ACGkoSjogCB/ACG
-						koSjogCBGAGGkoSjogCBNAGGkoSj
-						ogCBUAGGhgCGkoSWlgZOU0ZvbnSG
-						koSEhAZOU0ZvbnQelJkohAVbNDBj
-						XQYAAAAeAAAA//5IAGUAbAB2AGUA
-						dABpAGMAYQAtAEIAbwBsAGQAAACE
-						AWYMmwCbAZsAmwCGhpcCbJKEmJkD
-						kpmSmpKckp2Sr5KEsZkchAVbMjhj
-						XQYAAAAUAAAA//5IAGUAbAB2AGUA
-						dABpAGMAYQClDJsAmwGbAJsAhoaX
-						AwmShJiZA5KZkpqSnJKEnp8AAISh
-						mQySopKkkqWSppKnkqiSqZKqkquS
-						rJKtkq6GAIaSr5KEsZkshAVbNDRj
-						XQYAAAAkAAAA//5IAGUAbAB2AGUA
-						dABpAGMAYQAtAE8AYgBsAGkAcQB1
-						AGUApQybAJsBmwCbAIaGlwKB3wCX
-						BAKShJiZApKckp2Sr5KwhpcBC5cC
-						gfYAlwMKlwKBmgGXAQqXAoELAZcD
-						CZcCgX0ClwEKlwKBqQCXAwmXAoHA
-						AZcECZcBBJcECJcFWpKEmJkCkpyS
-						nZKvkrOGlwEElwQIlwWBCwGG
+						bnMuCgogICAgQm94IDcuIENoZWNr
+						IHRoaXMgYm94IGlmIHRoZSBwcm9q
+						ZWN0IGlzIGJlaW5nIGFyY2hpdmVk
+						LiAgTm8gZnVydGhlciBjaGFuZ2Vz
+						IHdpbGwgYmUgbWFkZSB0byB0aGUg
+						cHVibGljIHJlcG9zaXRvcnkuICBP
+						bmNlIGEgcHJvamVjdCBpcyBhcmNo
+						aXZlZCwgbm8gZnVydGhlciByZXZp
+						ZXdzIGFyZSByZXF1aXJlZC4gIElm
+						IGEgcHJvamVjdCByZXN0YXJ0cyBh
+						Y3RpdmUgZGV2ZWxvcG1lbnQsIGl0
+						IG11c3QgYmUgcmV2aWV3ZWQgdW5k
+						ZXIgdGhlIHJ1bGVzIG9mIHRoZSBs
+						YXRlc3QgdmVyc2lvbiBvZiB0aGlz
+						IGZvcm0uIFJhdGlvbmFsZTogUmV2
+						aWV3IG9mIHByb2plY3RzIHRoYXQg
+						YXJlIG5vdCB1bmRlciBhY3RpdmUg
+						ZGV2ZWxvcG1lbnQgaXMgY29zdGx5
+						IGZvciBBUkwuICBCeSBhcmNoaXZp
+						bmcgYSBwcm9qZWN0LCBBUkwgZG9l
+						cyBub3QgbmVlZCB0byBleHBlbmQg
+						c2NhcmNlIHJlc291cmNlcyByZXZp
+						ZXdpbmcgcHJvamVjdHMgdGhhdCBh
+						cmUgbm8gbG9uZ2VyIG9mIGludGVy
+						ZXN0LiAgQXMgYSBzZWNvbmRhcnkg
+						Z29hbCwgYnkgZm9yY2luZyBhIHJl
+						dmlldyBvZiBhIHByb2plY3QgYmVm
+						b3JlIGl04oCZcyBhcmNoaXZlZCwg
+						dGhlIHByb2plY3QgY2FuIGJlIHB1
+						dCBpbnRvIHRoZSBiZXN0IHBvc3Np
+						YmxlIHN0YXRlIGZvciBvdGhlcnMg
+						dG8gZm9yayBhbmQgY29udGludWUg
+						ZGV2ZWxvcG1lbnQgb24uICBJdCBh
+						bHNvIGxlYXZlcyB0aGUgcHJvamVj
+						dCBpbiBhIHN0YXRlIHRoYXQgZ2l2
+						ZXMgdGhlIGJlc3QgaW1wcmVzc2lv
+						biBvZiBBUkwgYW5kIHRoZSBkZXZl
+						bG9wZXJzIHRoYXQgd29ya2VkIG9u
+						IHRoZSBwcm9qZWN0LgoKUGFydCBD
+						LgoKICAgIEJveCAxYS4gUmVtb3Zl
+						IGFsbCBleHRyYW5lb3VzIG1hdGVy
+						aWFsLCBzdWNoIGFzIG5vbi1mdW5j
+						dGlvbmFsIGNvZGUgb3IgY29tbWVu
+						dHMgdGhhdCBkbyBub3QgaGVscCBl
+						eHBsYWluIHRoZSBmdW5jdGlvbmlu
+						ZyBvZiB0aGUgcHJvZ3JhbS4gIFJl
+						bW92ZSBtYXRlcmlhbCB0aGF0IGlz
+						IHVuZGVzaXJhYmxlIHRvIGRpc3Ry
+						aWJ1dGUuCgogICAgQm94IDFiLiBF
+						bnN1cmUgdGhhdCBhbGwgZW1iYXJy
+						YXNzaW5nIG9yIGRpc3BhcmFnaW5n
+						IG1hdGVyaWFsIGhhcyBiZWVuIHJl
+						bW92ZWQuICBBIHJlbGVhc2UgaXMg
+						Y29uc2lkZXJlZCB0byBiZSBhIHBy
+						b2Zlc3Npb25hbCBwdWJsaWNhdGlv
+						biBhbmQgc2hvdWxkIGJlIHRyZWF0
+						ZWQgYXMgc3VjaC4gIFF1ZXN0aW9u
+						cyByZWdhcmRpbmcgd2hhdCBpcyBj
+						b25zaWRlcmVkIHRvIGJlIHByb2Zl
+						c3Npb25hbCBzaG91bGQgYmUgZGly
+						ZWN0ZWQgdG8gdGhlIFB1YmxpYyBB
+						ZmZhaXJzIE9mZmljZS6GhAJpSQEK
+						koSEhAxOU0RpY3Rpb25hcnkAlIQB
+						aQOShJaWB05TQ29sb3KGkoSEhAdO
+						U0NvbG9yAJSEAWMBhARmZmZmAAAA
+						AYaShJaWEE5TUGFyYWdyYXBoU3R5
+						bGWGkoSEhBdOU011dGFibGVQYXJh
+						Z3JhcGhTdHlsZQCEhBBOU1BhcmFn
+						cmFwaFN0eWxlAJSEBENDQFMAAISE
+						hAdOU0FycmF5AJSZDJKEhIQJTlNU
+						ZXh0VGFiAJSEAkNmAByGkoSjogA4
+						hpKEo6IAVIaShKOiAHCGkoSjogCB
+						jACGkoSjogCBqACGkoSjogCBxACG
+						koSjogCB4ACGkoSjogCB/ACGkoSj
+						ogCBGAGGkoSjogCBNAGGkoSjogCB
+						UAGGhgCGkoSWlgZOU0ZvbnSGkoSE
+						hAZOU0ZvbnQelJkohAVbNDBjXQYA
+						AAAeAAAA//5IAGUAbAB2AGUAdABp
+						AGMAYQAtAEIAbwBsAGQAAACEAWYM
+						mwCbAZsAmwCGhpcCbJKEmJkDkpmS
+						mpKckp2Sr5KEsZkchAVbMjhjXQYA
+						AAAUAAAA//5IAGUAbAB2AGUAdABp
+						AGMAYQClDJsAmwGbAJsAhoaXAwmS
+						hJiZA5KZkpqSnJKdkq+ShLGZLIQF
+						WzQ0Y10GAAAAJAAAAP/+SABlAGwA
+						dgBlAHQAaQBjAGEALQBPAGIAbABp
+						AHEAdQBlAKUMmwCbAZsAmwCGhpcC
+						gd8AlwQCkoSYmQKSnJKdkq+SsIaX
+						AQuXAoH2AJcDCpcCgZoBlwEKlwKB
+						CwGXAwmXAoF9ApcBCpcCgakAlwMJ
+						lwKBwAGXAQqXAoEeAZcDCZcCgfUB
+						lwQJlwEElwQIlwWBtgCShJiZApKc
+						kp2Sr5KzhpcBBJcECJcFgQsBhg==
 						</data>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
@@ -13703,10 +13783,16 @@ https://github.com/usarmyresearchlab\cf2 .
 \i0 : Inventions can be valuable intellectual property; if ARL fails to pursue a patent on inventions, then it may be derelict in its duty to protect US Government property.  For this reason, all inventions must be reviewed by a representative of the Invention Evaluation Committee to determine if it is in the Government\'92s best interest to pursue a patent, or if it is best to irrevocably waive all patent rights that ARL may have in the inventions.\
 \
 
+\b     Box 7.
+\b0  Check this box if the project is being archived.  No further changes will be made to the public repository.  Once a project is archived, no further reviews are required.  If a project restarts active development, it must be reviewed under the rules of the latest version of this form. 
+\i Rationale
+\i0 : Review of projects that are not under active development is costly for ARL.  By archiving a project, ARL does not need to expend scarce resources reviewing projects that are no longer of interest.  As a secondary goal, by forcing a review of a project before it\'92s archived, the project can be put into the best possible state for others to fork and continue development on.  It also leaves the project in a state that gives the best impression of ARL and the developers that worked on the project.\
+\
+
 \b \cf0 Part C.\
 \
 \cf2     \cf0 Box 1a. 
-\b0 Remove material that is useless, non-functional, or otherwise undesirable to distribute.\
+\b0 Remove all extraneous material, such as non-functional code or comments that do not help explain the functioning of the program.  Remove material that is undesirable to distribute.\
 \
 
 \b \cf2     \cf0 Box 1b. 
@@ -13854,7 +13940,7 @@ https://github.com/usarmyresearchlab\cf2 .
 			<key>RowSpacing</key>
 			<real>0.0</real>
 			<key>SheetTitle</key>
-			<string>Canvas 9</string>
+			<string>Canvas 8</string>
 			<key>UniqueID</key>
 			<integer>9</integer>
 			<key>VPages</key>
@@ -14349,7 +14435,7 @@ Questions regarding how to write a \'91LICENSE.txt\'92 file should be directed t
 			<key>RowSpacing</key>
 			<real>0.0</real>
 			<key>SheetTitle</key>
-			<string>Canvas 8</string>
+			<string>Canvas 9</string>
 			<key>UniqueID</key>
 			<integer>8</integer>
 			<key>VPages</key>
@@ -15406,7 +15492,7 @@ https://github.com/usarmyresearchlab
 						BAtzdHJlYW10eXBlZIHoA4QBQISE
 						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
 						hIQITlNPYmplY3QAhZKEhIQITlNT
-						dHJpbmcBlIQBK4GhASAgICAgICAg
+						dHJpbmcBlIQBK4ENAiAgICAgICAg
 						ICAgICAgICAgICAgICAgICAgICAg
 						ICAgICAgICAgICAgICAgICAgICAg
 						ICAgICAgICAgICAgICAgICAgICAg
@@ -15426,29 +15512,37 @@ https://github.com/usarmyresearchlab
 						cyB3aWxsIHNoYXJlIGNyZWRpdCBm
 						b3IgdGhlIGRldmVsb3BtZW50IG9m
 						IHRoZSBtYXRlcmlhbCBiZWluZyBy
-						ZWxlYXNlZC4KCoaEAmlJAVKShISE
-						DE5TRGljdGlvbmFyeQCUhAFpA5KE
-						lpYHTlNDb2xvcoaShISEB05TQ29s
-						b3IAlIQBYwGEBGZmZmYAAAABhpKE
-						lpYQTlNQYXJhZ3JhcGhTdHlsZYaS
-						hISEF05TTXV0YWJsZVBhcmFncmFw
-						aFN0eWxlAISEEE5TUGFyYWdyYXBo
-						U3R5bGUAlIQEQ0NAUwAAhISEB05T
-						QXJyYXkAlJkMkoSEhAlOU1RleHRU
-						YWIAlIQCQ2YAHIaShKOiADiGkoSj
-						ogBUhpKEo6IAcIaShKOiAIGMAIaS
-						hKOiAIGoAIaShKOiAIHEAIaShKOi
-						AIHgAIaShKOiAIH8AIaShKOiAIEY
-						AYaShKOiAIE0AYaShKOiAIFQAYaG
-						AIaShJaWBk5TRm9udIaShISEBk5T
-						Rm9udB6UmSiEBVs0MGNdBgAAAB4A
-						AAD//kgAZQBsAHYAZQB0AGkAYwBh
-						AC0AQgBvAGwAZAAAAIQBZgybAJsB
-						mwCbAIaGlwICkoSYmQOSmZKakpyS
-						nZKvkoSxmRyEBVsyOGNdBgAAABQA
-						AAD//kgAZQBsAHYAZQB0AGkAYwBh
-						AKUMmwCbAZsAmwCGhpcBDpcCgZUA
-						lwEVlwKBlQCG
+						ZWxlYXNlZC4gIEFsbCBpbmRpdmlk
+						dWFscyB0aGF0IGNvbnRyaWJ1dGUg
+						bW9yZSB0aGFuIGEgImRlIG1pbmlt
+						dXMiIGNvbnRyaWJ1dGlvbiBhcmUg
+						Y29uc2lkZXJlZCBwcmluY2lwYWwg
+						ZGV2ZWxvcGVycy4KCoaEAmlJAVKS
+						hISEDE5TRGljdGlvbmFyeQCUhAFp
+						A5KElpYHTlNDb2xvcoaShISEB05T
+						Q29sb3IAlIQBYwGEBGZmZmYAAAAB
+						hpKElpYQTlNQYXJhZ3JhcGhTdHls
+						ZYaShISEF05TTXV0YWJsZVBhcmFn
+						cmFwaFN0eWxlAISEEE5TUGFyYWdy
+						YXBoU3R5bGUAlIQEQ0NAUwAAhISE
+						B05TQXJyYXkAlJkMkoSEhAlOU1Rl
+						eHRUYWIAlIQCQ2YAHIaShKOiADiG
+						koSjogBUhpKEo6IAcIaShKOiAIGM
+						AIaShKOiAIGoAIaShKOiAIHEAIaS
+						hKOiAIHgAIaShKOiAIH8AIaShKOi
+						AIEYAYaShKOiAIE0AYaShKOiAIFQ
+						AYaGAIaShJaWBk5TRm9udIaShISE
+						Bk5TRm9udB6UmSiEBVs0MGNdBgAA
+						AB4AAAD//kgAZQBsAHYAZQB0AGkA
+						YwBhAC0AQgBvAGwAZAAAAIQBZgyb
+						AJsBmwCbAIaGlwICkoSYmQOSmZKa
+						kpySnZKvkoSxmRyEBVsyOGNdBgAA
+						ABQAAAD//kgAZQBsAHYAZQB0AGkA
+						YwBhAKUMmwCbAZsAmwCGhpcBDpcC
+						gZUAlwEVlwKBwQCXAz6ShJiZA5KE
+						lpYGTlNLZXJuhpKEhIQITlNOdW1i
+						ZXIAhIQHTlNWYWx1ZQCUhAEqhIQB
+						ZKoAhpKckp2Sr5KzhpcCAoY=
 						</data>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
@@ -15466,7 +15560,8 @@ https://github.com/usarmyresearchlab
 \b \
 \
 Principal Developer
-\b0  - The individuals identified in Section 1, Part A, box 3.  These individuals will share credit for the development of the material being released.\
+\b0  - The individuals identified in Section 1, Part A, box 3.  These individuals will share credit for the development of the material being released.  All individuals that contribute more than a \cf0 \expnd0\expndtw0\kerning0
+"de minimus" contribution are considered principal developers.\cf2 \kerning1\expnd0\expndtw0 \
 \
 }</string>
 					</dict>
@@ -15628,17 +15723,17 @@ Principal Developer
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>9</integer>
+		<integer>11</integer>
 		<key>Expanded_Canvases</key>
 		<array>
-			<string>Canvas 6</string>
-			<string>Canvas 3</string>
-			<string>Canvas 1</string>
+			<string>Canvas 4</string>
 			<string>Canvas 2</string>
-			<string>Canvas 5</string>
+			<string>Canvas 7</string>
+			<string>Canvas 1</string>
+			<string>Canvas 3</string>
 		</array>
 		<key>Frame</key>
-		<string>{{392, 80}, {1910, 1497}}</string>
+		<string>{{81, -0}, {2379, 1577}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>ShowRuler</key>
@@ -15648,11 +15743,11 @@ Principal Developer
 		<key>SidebarWidth</key>
 		<integer>200</integer>
 		<key>TopSlabHeight</key>
-		<real>1331</real>
+		<real>1411</real>
 		<key>VisibleRegion</key>
-		<string>{{-410, -291}, {1396, 1316}}</string>
+		<string>{{-174, 0}, {925, 698}}</string>
 		<key>Zoom</key>
-		<real>1</real>
+		<real>2</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
@@ -15661,22 +15756,12 @@ Principal Developer
 				<real>8</real>
 			</array>
 			<array>
-				<string>Canvas 2</string>
-				<real>2</real>
-				<real>1</real>
-			</array>
-			<array>
 				<string>Canvas 3</string>
 				<real>2</real>
 				<real>1</real>
 			</array>
 			<array>
 				<string>Canvas 4</string>
-				<real>2</real>
-				<real>1</real>
-			</array>
-			<array>
-				<string>Canvas 5</string>
 				<real>2</real>
 				<real>1</real>
 			</array>
@@ -15691,19 +15776,29 @@ Principal Developer
 				<real>1</real>
 			</array>
 			<array>
-				<string>Canvas 8</string>
-				<real>1</real>
+				<string>Canvas 2</string>
 				<real>2</real>
+				<real>1</real>
+			</array>
+			<array>
+				<string>Canvas 5</string>
+				<real>2</real>
+				<real>1</real>
 			</array>
 			<array>
 				<string>Canvas 9</string>
-				<real>1</real>
 				<real>2</real>
+				<real>1</real>
+			</array>
+			<array>
+				<string>Canvas 8</string>
+				<real>2</real>
+				<real>1</real>
 			</array>
 			<array>
 				<string>Canvas 10</string>
-				<real>1</real>
 				<real>2</real>
+				<real>1</real>
 			</array>
 			<array>
 				<string>Canvas 11</string>

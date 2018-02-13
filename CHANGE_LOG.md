@@ -3,6 +3,12 @@ Change Log
 
 # 2.0
 
+## Introduced a new form for major reviews
+
+Experience with the 1.x process has shown that we simply cannot get by without
+forms.  In this iteration of the process, we've introduced a new form that
+deals with major reviews.
+
 ## Major reviews MAY now count as much as a major yearly accomplishment
 
 Originally, all major reviews counted as tech transfers, regardless of the

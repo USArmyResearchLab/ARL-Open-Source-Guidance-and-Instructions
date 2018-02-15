@@ -28,7 +28,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2018-02-15 16:45:30 +0000</string>
+	<string>2018-02-15 17:16:45 +0000</string>
 	<key>Modifier</key>
 	<string>Cem Karan</string>
 	<key>NotesVisible</key>
@@ -15159,7 +15159,7 @@ https://github.com/usarmyresearchlab
 						BAtzdHJlYW10eXBlZIHoA4QBQISE
 						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
 						hIQITlNPYmplY3QAhZKEhIQITlNT
-						dHJpbmcBlIQBK4H1AyAgICAgICAg
+						dHJpbmcBlIQBK4FtBCAgICAgICAg
 						ICAgICAgICAgICAgICAgICAgICAg
 						ICAgICAgICAgICAgICAgICAgICAg
 						ICAgICAgICAgICAgICAgICAgICAg
@@ -15185,57 +15185,63 @@ https://github.com/usarmyresearchlab
 						IGl0IGlzIGNvbnNpZGVyZWQgdG8g
 						YmUgdW5kZXIgYWN0aXZlIGRldmVs
 						b3BtZW50LgoKTGVhZCBkZXZlbG9w
-						ZXIgLSBUaGUgcHJpbmNpcGFsIGRl
-						dmVsb3BlciByZXNwb25zaWJsZSBm
-						b3IgZmlsbGluZyBvdXQgdGhpcyBm
-						b3JtIGFuZCBlbnN1cmluZyB0aGF0
-						IGl0IGlzIGZ1bGx5IHByb2Nlc3Nl
-						ZCBiZWZvcmUgbWF0ZXJpYWwgaXMg
-						cmVsZWFzZWQgdG8gdGhlIHB1Ymxp
-						Yy4gIFRoaXMgaW5kaXZpZHVhbCBt
-						dXN0IGJlIGFuIEFSTCBHb3Zlcm5t
-						ZW50IGVtcGxveWVlLgoKUHJpbmNp
-						cGFsIGRldmVsb3BlciAtIFRoZSBp
-						bmRpdmlkdWFscyBpZGVudGlmaWVk
-						IGluIFNlY3Rpb24gMSwgUGFydCBB
-						LCBib3ggMy4gIFRoZXNlIGluZGl2
-						aWR1YWxzIHdpbGwgc2hhcmUgY3Jl
-						ZGl0IGZvciB0aGUgZGV2ZWxvcG1l
-						bnQgb2YgdGhlIG1hdGVyaWFsIGJl
-						aW5nIHJlbGVhc2VkLiAgQWxsIGlu
-						ZGl2aWR1YWxzIHRoYXQgY29udHJp
-						YnV0ZSBtb3JlIHRoYW4gYSAiZGUg
-						bWluaW11cyIgY29udHJpYnV0aW9u
-						IGFyZSBjb25zaWRlcmVkIHByaW5j
-						aXBhbCBkZXZlbG9wZXJzLgoKhoQC
-						aUkBUpKEhIQMTlNEaWN0aW9uYXJ5
-						AJSEAWkDkoSWlgdOU0NvbG9yhpKE
-						hIQHTlNDb2xvcgCUhAFjAYQEZmZm
-						ZgAAAAGGkoSWlhBOU1BhcmFncmFw
-						aFN0eWxlhpKEhIQXTlNNdXRhYmxl
-						UGFyYWdyYXBoU3R5bGUAhIQQTlNQ
-						YXJhZ3JhcGhTdHlsZQCUhARDQ0BT
-						AACEhIQHTlNBcnJheQCUmQyShISE
-						CU5TVGV4dFRhYgCUhAJDZgAchpKE
-						o6IAOIaShKOiAFSGkoSjogBwhpKE
-						o6IAgYwAhpKEo6IAgagAhpKEo6IA
-						gcQAhpKEo6IAgeAAhpKEo6IAgfwA
-						hpKEo6IAgRgBhpKEo6IAgTQBhpKE
-						o6IAgVABhoYAhpKElpYGTlNGb250
-						hpKEhIQGTlNGb250HpSZKIQFWzQw
-						Y10GAAAAHgAAAP/+SABlAGwAdgBl
-						AHQAaQBjAGEALQBCAG8AbABkAAAA
-						hAFmDJsAmwGbAJsAhoaXAgKShJiZ
-						A5KZkpqSnJKdkq+ShLGZHIQFWzI4
-						Y10GAAAAFAAAAP/+SABlAGwAdgBl
-						AHQAaQBjAGEApQybAJsBmwCbAIaG
-						lwESlwJ2lwERlwKBEAGXARCXAoHI
-						AJcBFZcCgcEAlwM+koSYmQOShJaW
-						Bk5TS2VyboaShISECE5TTnVtYmVy
-						AISEB05TVmFsdWUAlIQBKoSEAWSq
-						AIaSnJKEnp8AAIShmQySopKkkqWS
-						ppKnkqiSqZKqkquSrJKtkq6GAIaS
-						r5KzhpcCAoY=
+						ZXIgLSBUaGUgcGVyc29uIHJlc3Bv
+						bnNpYmxlIGZvciBjb21wbGV0aW5n
+						IHRoaXMgZm9ybSBhbmQgZW5zdXJp
+						bmcgdGhhdCBhbGwgYXBwcm92YWxz
+						IGFyZSBnYXRoZXJlZC4gVGhpcyBp
+						bmRpdmlkdWFsIG11c3QgYmUgYW4g
+						QVJMIEdvdmVybm1lbnQgZW1wbG95
+						ZWUuICBUaGlzIHBlcnNvbiBtdXN0
+						IGJlIGFibGUgdG8gYW5zd2VyIHF1
+						ZXN0aW9ucyByZWdhcmRpbmcgdGhl
+						IG1hdGVyaWFsIGJlaW5nIHJldmll
+						d2VkLiAgVGhpcyBwZXJzb24gbWF5
+						IGJlIGEgcHJpbmNpcGFsIGRldmVs
+						b3BlciwgYnV0IGlzIG5vdCByZXF1
+						aXJlZCB0byBiZS4gIEluIHBhcnRp
+						Y3VsYXIsIAoKUHJpbmNpcGFsIGRl
+						dmVsb3BlciAtIFRoZSBpbmRpdmlk
+						dWFscyBpZGVudGlmaWVkIGluIFNl
+						Y3Rpb24gMSwgUGFydCBBLCBib3gg
+						My4gIFRoZXNlIGluZGl2aWR1YWxz
+						IHdpbGwgc2hhcmUgY3JlZGl0IGZv
+						ciB0aGUgZGV2ZWxvcG1lbnQgb2Yg
+						dGhlIG1hdGVyaWFsIGJlaW5nIHJl
+						bGVhc2VkLiAgQWxsIGluZGl2aWR1
+						YWxzIHRoYXQgY29udHJpYnV0ZSBt
+						b3JlIHRoYW4gYSAiZGUgbWluaW11
+						cyIgY29udHJpYnV0aW9uIGFyZSBj
+						b25zaWRlcmVkIHByaW5jaXBhbCBk
+						ZXZlbG9wZXJzLgoKhoQCaUkBUpKE
+						hIQMTlNEaWN0aW9uYXJ5AJSEAWkD
+						koSWlgdOU0NvbG9yhpKEhIQHTlND
+						b2xvcgCUhAFjAYQEZmZmZgAAAAGG
+						koSWlhBOU1BhcmFncmFwaFN0eWxl
+						hpKEhIQXTlNNdXRhYmxlUGFyYWdy
+						YXBoU3R5bGUAhIQQTlNQYXJhZ3Jh
+						cGhTdHlsZQCUhARDQ0BTAACEhIQH
+						TlNBcnJheQCUmQyShISECU5TVGV4
+						dFRhYgCUhAJDZgAchpKEo6IAOIaS
+						hKOiAFSGkoSjogBwhpKEo6IAgYwA
+						hpKEo6IAgagAhpKEo6IAgcQAhpKE
+						o6IAgeAAhpKEo6IAgfwAhpKEo6IA
+						gRgBhpKEo6IAgTQBhpKEo6IAgVAB
+						hoYAhpKElpYGTlNGb250hpKEhIQG
+						TlNGb250HpSZKIQFWzQwY10GAAAA
+						HgAAAP/+SABlAGwAdgBlAHQAaQBj
+						AGEALQBCAG8AbABkAAAAhAFmDJsA
+						mwGbAJsAhoaXAgKShJiZA5KZkpqS
+						nJKdkq+ShLGZHIQFWzI4Y10GAAAA
+						FAAAAP/+SABlAGwAdgBlAHQAaQBj
+						AGEApQybAJsBmwCbAIaGlwESlwJ2
+						lwERlwKBEAGXARCXAoFAAZcBFZcC
+						gcEAlwM+koSYmQOShJaWBk5TS2Vy
+						boaShISECE5TTnVtYmVyAISEB05T
+						VmFsdWUAlIQBKoSEAWSqAIaSnJKE
+						np8AAIShmQySopKkkqWSppKnkqiS
+						qZKqkquSrJKtkq6GAIaSr5KzhpcC
+						AoY=
 						</data>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
@@ -15257,7 +15263,7 @@ https://github.com/usarmyresearchlab
 \b \
 \
 Lead developer
-\b0  - The principal developer responsible for filling out this form and ensuring that it is fully processed before material is released to the public.  This individual must be an ARL Government employee.
+\b0  - The person responsible for completing this form and ensuring that all approvals are gathered. This individual must be an ARL Government employee.  This person must be able to answer questions regarding the material being reviewed.  This person may be a principal developer, but is not required to be.  In particular, 
 \b \
 \
 Principal developer
@@ -15424,7 +15430,7 @@ Principal developer
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>0</integer>
+		<integer>12</integer>
 		<key>Expanded_Canvases</key>
 		<array>
 			<string>Canvas 7</string>

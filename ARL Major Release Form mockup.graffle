@@ -28,7 +28,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2018-02-15 15:47:27 +0000</string>
+	<string>2018-02-15 16:33:49 +0000</string>
 	<key>Modifier</key>
 	<string>Cem Karan</string>
 	<key>NotesVisible</key>
@@ -1432,7 +1432,7 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
-\f0\b\fs32 \cf0 Major Release Software Review - DRAFT 0.4.0}</string>
+\f0\b\fs32 \cf0 Major Release Software Review - DRAFT 0.5.0}</string>
 					</dict>
 				</dict>
 				<dict>
@@ -1550,509 +1550,491 @@
 					<key>Graphics</key>
 					<array>
 						<dict>
+							<key>Bounds</key>
+							<string>{{71.379310344827672, 351}, {486.62068965517233, 18}}</string>
 							<key>Class</key>
-							<string>Group</string>
-							<key>Graphics</key>
-							<array>
+							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Size</key>
+								<real>10</real>
+							</dict>
+							<key>ID</key>
+							<integer>1951</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
 								<dict>
-									<key>Class</key>
-									<string>Group</string>
-									<key>Graphics</key>
-									<array>
-										<dict>
-											<key>Class</key>
-											<string>Group</string>
-											<key>Graphics</key>
-											<array>
-												<dict>
-													<key>Bounds</key>
-													<string>{{71.379310344827672, 351}, {486.62068965517233, 18}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>FontInfo</key>
-													<dict>
-														<key>Size</key>
-														<real>10</real>
-													</dict>
-													<key>ID</key>
-													<integer>1951</integer>
-													<key>Style</key>
-													<dict>
-														<key>fill</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>stroke</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-													<key>Text</key>
-													<dict>
-														<key>Align</key>
-														<integer>0</integer>
-														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>Align</key>
+								<integer>0</integer>
+								<key>Text</key>
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs20 \cf0 b. A description of the project\'92s purpose.}</string>
-													</dict>
-												</dict>
-												<dict>
-													<key>Bounds</key>
-													<string>{{54.000000000000021, 355.5}, {8.6896551724137936, 9}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>ID</key>
-													<integer>1952</integer>
-													<key>Style</key>
-													<dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-												</dict>
-											</array>
-											<key>ID</key>
-											<integer>1950</integer>
-										</dict>
-										<dict>
-											<key>Class</key>
-											<string>Group</string>
-											<key>Graphics</key>
-											<array>
-												<dict>
-													<key>Bounds</key>
-													<string>{{71.379310344827672, 396}, {486.62068965517233, 27}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>FontInfo</key>
-													<dict>
-														<key>Size</key>
-														<real>10</real>
-													</dict>
-													<key>ID</key>
-													<integer>1954</integer>
-													<key>Style</key>
-													<dict>
-														<key>fill</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>stroke</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-													<key>Text</key>
-													<dict>
-														<key>Align</key>
-														<integer>0</integer>
-														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{54.000000000000021, 355.5}, {8.6896551724137936, 9}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>1952</integer>
+							<key>Style</key>
+							<dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+						</dict>
+					</array>
+					<key>ID</key>
+					<integer>1950</integer>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>Group</string>
+					<key>Graphics</key>
+					<array>
+						<dict>
+							<key>Bounds</key>
+							<string>{{71.379310344827672, 450}, {486.62068965517233, 27}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Size</key>
+								<real>10</real>
+							</dict>
+							<key>ID</key>
+							<integer>1954</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>Align</key>
+								<integer>0</integer>
+								<key>Text</key>
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs20 \cf0 d. Description(s) of all related software inventions that have not been disclosed in a prior release, and why\
-     it is in ARL\'92s interest to not pursue patents on the invention(s).}</string>
-													</dict>
-												</dict>
-												<dict>
-													<key>Bounds</key>
-													<string>{{54.000000000000021, 405}, {8.6896551724137936, 9}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>ID</key>
-													<integer>1955</integer>
-													<key>Style</key>
-													<dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-												</dict>
-											</array>
-											<key>ID</key>
-											<integer>1953</integer>
-										</dict>
-										<dict>
-											<key>Class</key>
-											<string>Group</string>
-											<key>Graphics</key>
-											<array>
-												<dict>
-													<key>Bounds</key>
-													<string>{{71.379310344827672, 450}, {486.62068965517233, 27}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>FontInfo</key>
-													<dict>
-														<key>Size</key>
-														<real>10</real>
-													</dict>
-													<key>ID</key>
-													<integer>1957</integer>
-													<key>Style</key>
-													<dict>
-														<key>fill</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>stroke</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-													<key>Text</key>
-													<dict>
-														<key>Align</key>
-														<integer>0</integer>
-														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+\f0\fs20 \cf0 f. Description(s) of all related software inventions that have not been disclosed in a prior release, and why\
+   it is in ARL\'92s interest to not pursue patents on the invention(s).}</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{53.999999999999993, 459}, {8.6896551724137936, 9}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>1955</integer>
+							<key>Style</key>
+							<dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+						</dict>
+					</array>
+					<key>ID</key>
+					<integer>1953</integer>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>Group</string>
+					<key>Graphics</key>
+					<array>
+						<dict>
+							<key>Bounds</key>
+							<string>{{71.379310344827672, 423}, {486.62068965517233, 27}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Size</key>
+								<real>10</real>
+							</dict>
+							<key>ID</key>
+							<integer>1957</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>Align</key>
+								<integer>0</integer>
+								<key>Text</key>
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs20 \cf0 f. A list of all externally developed software being distributed with the project, and the licenses that govern\
+\f0\fs20 \cf0 e. A list of all externally developed software being distributed with the project, and the licenses that govern\
     the distribution of each piece of software.}</string>
-													</dict>
-												</dict>
-												<dict>
-													<key>Bounds</key>
-													<string>{{54.000000000000021, 459}, {8.6896551724137936, 9}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>ID</key>
-													<integer>1958</integer>
-													<key>Style</key>
-													<dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-												</dict>
-											</array>
-											<key>ID</key>
-											<integer>1956</integer>
-										</dict>
-										<dict>
-											<key>Class</key>
-											<string>Group</string>
-											<key>Graphics</key>
-											<array>
-												<dict>
-													<key>Bounds</key>
-													<string>{{71.379310344827672, 423}, {486.62068965517233, 27}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>FontInfo</key>
-													<dict>
-														<key>Size</key>
-														<real>10</real>
-													</dict>
-													<key>ID</key>
-													<integer>1960</integer>
-													<key>Style</key>
-													<dict>
-														<key>fill</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>stroke</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-													<key>Text</key>
-													<dict>
-														<key>Align</key>
-														<integer>0</integer>
-														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{54.000000000000021, 432}, {8.6896551724137936, 9}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>1958</integer>
+							<key>Style</key>
+							<dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+						</dict>
+					</array>
+					<key>ID</key>
+					<integer>1956</integer>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>Group</string>
+					<key>Graphics</key>
+					<array>
+						<dict>
+							<key>Bounds</key>
+							<string>{{71.379310344827672, 369}, {486.62068965517233, 27}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Size</key>
+								<real>10</real>
+							</dict>
+							<key>ID</key>
+							<integer>1960</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>Align</key>
+								<integer>0</integer>
+								<key>Text</key>
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs20 \cf0 e. A list of all principal developers, including the lead developer.}</string>
-													</dict>
-												</dict>
-												<dict>
-													<key>Bounds</key>
-													<string>{{54.000000000000021, 432}, {8.6896551724137936, 9}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>ID</key>
-													<integer>1961</integer>
-													<key>Style</key>
-													<dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-												</dict>
-											</array>
-											<key>ID</key>
-											<integer>1959</integer>
-										</dict>
-										<dict>
-											<key>Class</key>
-											<string>Group</string>
-											<key>Graphics</key>
-											<array>
-												<dict>
-													<key>Bounds</key>
-													<string>{{71.379310344827672, 369}, {486.62068965517233, 27}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>FontInfo</key>
-													<dict>
-														<key>Size</key>
-														<real>10</real>
-													</dict>
-													<key>ID</key>
-													<integer>1963</integer>
-													<key>Style</key>
-													<dict>
-														<key>fill</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>stroke</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-													<key>Text</key>
-													<dict>
-														<key>Align</key>
-														<integer>0</integer>
-														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+\f0\fs20 \cf0 c. A list of all principal developers, including the lead developer.}</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{54.000000000000021, 378}, {8.6896551724137936, 9}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>1961</integer>
+							<key>Style</key>
+							<dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+						</dict>
+					</array>
+					<key>ID</key>
+					<integer>1959</integer>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>Group</string>
+					<key>Graphics</key>
+					<array>
+						<dict>
+							<key>Bounds</key>
+							<string>{{71.379310344827672, 396}, {486.62068965517233, 27}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Size</key>
+								<real>10</real>
+							</dict>
+							<key>ID</key>
+							<integer>1963</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>Align</key>
+								<integer>0</integer>
+								<key>Text</key>
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs20 \cf0 c. Any significant accomplishments since the last release of the software (Not applicable if this is the first \
+\f0\fs20 \cf0 d. Any significant accomplishments since the last release of the software (Not applicable if this is the first \
     release of the software).}</string>
-													</dict>
-												</dict>
-												<dict>
-													<key>Bounds</key>
-													<string>{{54.000000000000021, 378}, {8.6896551724137936, 9}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>ID</key>
-													<integer>1964</integer>
-													<key>Style</key>
-													<dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-												</dict>
-											</array>
-											<key>ID</key>
-											<integer>1962</integer>
-										</dict>
-										<dict>
-											<key>Class</key>
-											<string>Group</string>
-											<key>Graphics</key>
-											<array>
-												<dict>
-													<key>Bounds</key>
-													<string>{{71.379310344827672, 333}, {486.62068965517233, 18}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>FontInfo</key>
-													<dict>
-														<key>Size</key>
-														<real>10</real>
-													</dict>
-													<key>ID</key>
-													<integer>1966</integer>
-													<key>Style</key>
-													<dict>
-														<key>fill</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>stroke</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-													<key>Text</key>
-													<dict>
-														<key>Align</key>
-														<integer>0</integer>
-														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{54.000000000000021, 405}, {8.6896551724137936, 9}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>1964</integer>
+							<key>Style</key>
+							<dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+						</dict>
+					</array>
+					<key>ID</key>
+					<integer>1962</integer>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>Group</string>
+					<key>Graphics</key>
+					<array>
+						<dict>
+							<key>Bounds</key>
+							<string>{{71.379310344827672, 333}, {486.62068965517233, 18}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Size</key>
+								<real>10</real>
+							</dict>
+							<key>ID</key>
+							<integer>1966</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>Align</key>
+								<integer>0</integer>
+								<key>Text</key>
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs20 \cf0 a. The name of the project.}</string>
-													</dict>
-												</dict>
-												<dict>
-													<key>Bounds</key>
-													<string>{{54.000000000000021, 337.5}, {8.6896551724137936, 9}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>ID</key>
-													<integer>1967</integer>
-													<key>Style</key>
-													<dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-												</dict>
-											</array>
-											<key>ID</key>
-											<integer>1965</integer>
-										</dict>
-									</array>
-									<key>ID</key>
-									<integer>1949</integer>
-								</dict>
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{54.000000000000021, 337.5}, {8.6896551724137936, 9}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>1967</integer>
+							<key>Style</key>
+							<dict>
+								<key>shadow</key>
 								<dict>
-									<key>Class</key>
-									<string>Group</string>
-									<key>Graphics</key>
-									<array>
-										<dict>
-											<key>Bounds</key>
-											<string>{{54, 315}, {504, 18}}</string>
-											<key>Class</key>
-											<string>ShapedGraphic</string>
-											<key>FontInfo</key>
-											<dict>
-												<key>Size</key>
-												<real>10</real>
-											</dict>
-											<key>ID</key>
-											<integer>1969</integer>
-											<key>Style</key>
-											<dict>
-												<key>fill</key>
-												<dict>
-													<key>Draws</key>
-													<string>NO</string>
-												</dict>
-												<key>shadow</key>
-												<dict>
-													<key>Draws</key>
-													<string>NO</string>
-												</dict>
-												<key>stroke</key>
-												<dict>
-													<key>Draws</key>
-													<string>NO</string>
-												</dict>
-											</dict>
-											<key>Text</key>
-											<dict>
-												<key>Align</key>
-												<integer>0</integer>
-												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+						</dict>
+					</array>
+					<key>ID</key>
+					<integer>1965</integer>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>Group</string>
+					<key>Graphics</key>
+					<array>
+						<dict>
+							<key>Bounds</key>
+							<string>{{54, 315}, {504, 18}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Size</key>
+								<real>10</real>
+							</dict>
+							<key>ID</key>
+							<integer>1969</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>Align</key>
+								<integer>0</integer>
+								<key>Text</key>
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs20 \cf0 2. An abstract describing the project has been attached to this form with the following:}</string>
-											</dict>
-										</dict>
-										<dict>
-											<key>Bounds</key>
-											<string>{{36, 319.5}, {9, 9}}</string>
-											<key>Class</key>
-											<string>ShapedGraphic</string>
-											<key>ID</key>
-											<integer>1970</integer>
-											<key>Style</key>
-											<dict>
-												<key>shadow</key>
-												<dict>
-													<key>Draws</key>
-													<string>NO</string>
-												</dict>
-											</dict>
-										</dict>
-									</array>
-									<key>ID</key>
-									<integer>1968</integer>
-								</dict>
-							</array>
-							<key>ID</key>
-							<integer>1948</integer>
+							</dict>
 						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{36, 319.5}, {9, 9}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>1970</integer>
+							<key>Style</key>
+							<dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+						</dict>
+					</array>
+					<key>ID</key>
+					<integer>1968</integer>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>Group</string>
+					<key>Graphics</key>
+					<array>
 						<dict>
 							<key>Class</key>
 							<string>Group</string>
@@ -2074,262 +2056,257 @@
 													<key>Graphics</key>
 													<array>
 														<dict>
+															<key>Bounds</key>
+															<string>{{88.758620689655316, 234}, {469.24137931034471, 18}}</string>
 															<key>Class</key>
-															<string>Group</string>
-															<key>Graphics</key>
-															<array>
+															<string>ShapedGraphic</string>
+															<key>FontInfo</key>
+															<dict>
+																<key>Color</key>
 																<dict>
-																	<key>Bounds</key>
-																	<string>{{88.758620689655316, 234}, {469.24137931034471, 18}}</string>
-																	<key>Class</key>
-																	<string>ShapedGraphic</string>
-																	<key>FontInfo</key>
-																	<dict>
-																		<key>Color</key>
-																		<dict>
-																			<key>b</key>
-																			<string>0.109804</string>
-																			<key>g</key>
-																			<string>0</string>
-																			<key>r</key>
-																			<string>0.694118</string>
-																		</dict>
-																		<key>Size</key>
-																		<real>10</real>
-																	</dict>
-																	<key>ID</key>
-																	<integer>1976</integer>
-																	<key>Style</key>
-																	<dict>
-																		<key>fill</key>
-																		<dict>
-																			<key>Draws</key>
-																			<string>NO</string>
-																		</dict>
-																		<key>shadow</key>
-																		<dict>
-																			<key>Draws</key>
-																			<string>NO</string>
-																		</dict>
-																		<key>stroke</key>
-																		<dict>
-																			<key>Draws</key>
-																			<string>NO</string>
-																		</dict>
-																	</dict>
-																	<key>Text</key>
-																	<dict>
-																		<key>Align</key>
-																		<integer>0</integer>
-																		<key>Text</key>
-																		<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+																	<key>b</key>
+																	<string>0.109804</string>
+																	<key>g</key>
+																	<string>0</string>
+																	<key>r</key>
+																	<string>0.694118</string>
+																</dict>
+																<key>Size</key>
+																<real>10</real>
+															</dict>
+															<key>ID</key>
+															<integer>1976</integer>
+															<key>Style</key>
+															<dict>
+																<key>fill</key>
+																<dict>
+																	<key>Draws</key>
+																	<string>NO</string>
+																</dict>
+																<key>shadow</key>
+																<dict>
+																	<key>Draws</key>
+																	<string>NO</string>
+																</dict>
+																<key>stroke</key>
+																<dict>
+																	<key>Draws</key>
+																	<string>NO</string>
+																</dict>
+															</dict>
+															<key>Text</key>
+															<dict>
+																<key>Align</key>
+																<integer>0</integer>
+																<key>Text</key>
+																<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs20 \cf0 2. A description of the project\'92s purpose.}</string>
-																	</dict>
-																</dict>
-																<dict>
-																	<key>Bounds</key>
-																	<string>{{72.000000000000043, 238.5}, {8.3793103448275872, 9}}</string>
-																	<key>Class</key>
-																	<string>ShapedGraphic</string>
-																	<key>ID</key>
-																	<integer>1977</integer>
-																	<key>Style</key>
-																	<dict>
-																		<key>shadow</key>
-																		<dict>
-																			<key>Draws</key>
-																			<string>NO</string>
-																		</dict>
-																	</dict>
-																</dict>
-															</array>
-															<key>ID</key>
-															<integer>1975</integer>
+															</dict>
 														</dict>
 														<dict>
+															<key>Bounds</key>
+															<string>{{72.000000000000043, 238.5}, {8.3793103448275872, 9}}</string>
 															<key>Class</key>
-															<string>Group</string>
-															<key>Graphics</key>
-															<array>
+															<string>ShapedGraphic</string>
+															<key>ID</key>
+															<integer>1977</integer>
+															<key>Style</key>
+															<dict>
+																<key>shadow</key>
 																<dict>
-																	<key>Bounds</key>
-																	<string>{{88.758620689655316, 288}, {469.24137931034471, 27}}</string>
-																	<key>Class</key>
-																	<string>ShapedGraphic</string>
-																	<key>FontInfo</key>
-																	<dict>
-																		<key>Size</key>
-																		<real>10</real>
-																	</dict>
-																	<key>ID</key>
-																	<integer>1979</integer>
-																	<key>Style</key>
-																	<dict>
-																		<key>fill</key>
-																		<dict>
-																			<key>Draws</key>
-																			<string>NO</string>
-																		</dict>
-																		<key>shadow</key>
-																		<dict>
-																			<key>Draws</key>
-																			<string>NO</string>
-																		</dict>
-																		<key>stroke</key>
-																		<dict>
-																			<key>Draws</key>
-																			<string>NO</string>
-																		</dict>
-																	</dict>
-																	<key>Text</key>
-																	<dict>
-																		<key>Align</key>
-																		<integer>0</integer>
-																		<key>Text</key>
-																		<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+																	<key>Draws</key>
+																	<string>NO</string>
+																</dict>
+															</dict>
+														</dict>
+													</array>
+													<key>ID</key>
+													<integer>1975</integer>
+												</dict>
+												<dict>
+													<key>Class</key>
+													<string>Group</string>
+													<key>Graphics</key>
+													<array>
+														<dict>
+															<key>Bounds</key>
+															<string>{{88.758620689655316, 288}, {469.24137931034471, 27}}</string>
+															<key>Class</key>
+															<string>ShapedGraphic</string>
+															<key>FontInfo</key>
+															<dict>
+																<key>Size</key>
+																<real>10</real>
+															</dict>
+															<key>ID</key>
+															<integer>1979</integer>
+															<key>Style</key>
+															<dict>
+																<key>fill</key>
+																<dict>
+																	<key>Draws</key>
+																	<string>NO</string>
+																</dict>
+																<key>shadow</key>
+																<dict>
+																	<key>Draws</key>
+																	<string>NO</string>
+																</dict>
+																<key>stroke</key>
+																<dict>
+																	<key>Draws</key>
+																	<string>NO</string>
+																</dict>
+															</dict>
+															<key>Text</key>
+															<dict>
+																<key>Align</key>
+																<integer>0</integer>
+																<key>Text</key>
+																<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs20 \cf0 5. A copy of the text provided in the instructions for this form.}</string>
-																	</dict>
-																</dict>
-																<dict>
-																	<key>Bounds</key>
-																	<string>{{72.000000000000043, 297}, {8.3793103448275872, 9}}</string>
-																	<key>Class</key>
-																	<string>ShapedGraphic</string>
-																	<key>ID</key>
-																	<integer>1980</integer>
-																	<key>Style</key>
-																	<dict>
-																		<key>shadow</key>
-																		<dict>
-																			<key>Draws</key>
-																			<string>NO</string>
-																		</dict>
-																	</dict>
-																</dict>
-															</array>
-															<key>ID</key>
-															<integer>1978</integer>
+															</dict>
 														</dict>
 														<dict>
+															<key>Bounds</key>
+															<string>{{72.000000000000043, 297}, {8.3793103448275872, 9}}</string>
 															<key>Class</key>
-															<string>Group</string>
-															<key>Graphics</key>
-															<array>
+															<string>ShapedGraphic</string>
+															<key>ID</key>
+															<integer>1980</integer>
+															<key>Style</key>
+															<dict>
+																<key>shadow</key>
 																<dict>
-																	<key>Bounds</key>
-																	<string>{{88.758620689655316, 270}, {469.24137931034471, 18}}</string>
-																	<key>Class</key>
-																	<string>ShapedGraphic</string>
-																	<key>FontInfo</key>
-																	<dict>
-																		<key>Size</key>
-																		<real>10</real>
-																	</dict>
-																	<key>ID</key>
-																	<integer>1982</integer>
-																	<key>Style</key>
-																	<dict>
-																		<key>fill</key>
-																		<dict>
-																			<key>Draws</key>
-																			<string>NO</string>
-																		</dict>
-																		<key>shadow</key>
-																		<dict>
-																			<key>Draws</key>
-																			<string>NO</string>
-																		</dict>
-																		<key>stroke</key>
-																		<dict>
-																			<key>Draws</key>
-																			<string>NO</string>
-																		</dict>
-																	</dict>
-																	<key>Text</key>
-																	<dict>
-																		<key>Align</key>
-																		<integer>0</integer>
-																		<key>Text</key>
-																		<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+																	<key>Draws</key>
+																	<string>NO</string>
+																</dict>
+															</dict>
+														</dict>
+													</array>
+													<key>ID</key>
+													<integer>1978</integer>
+												</dict>
+												<dict>
+													<key>Class</key>
+													<string>Group</string>
+													<key>Graphics</key>
+													<array>
+														<dict>
+															<key>Bounds</key>
+															<string>{{88.758620689655316, 270}, {469.24137931034471, 18}}</string>
+															<key>Class</key>
+															<string>ShapedGraphic</string>
+															<key>FontInfo</key>
+															<dict>
+																<key>Size</key>
+																<real>10</real>
+															</dict>
+															<key>ID</key>
+															<integer>1982</integer>
+															<key>Style</key>
+															<dict>
+																<key>fill</key>
+																<dict>
+																	<key>Draws</key>
+																	<string>NO</string>
+																</dict>
+																<key>shadow</key>
+																<dict>
+																	<key>Draws</key>
+																	<string>NO</string>
+																</dict>
+																<key>stroke</key>
+																<dict>
+																	<key>Draws</key>
+																	<string>NO</string>
+																</dict>
+															</dict>
+															<key>Text</key>
+															<dict>
+																<key>Align</key>
+																<integer>0</integer>
+																<key>Text</key>
+																<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs20 \cf0 4. Step-by-step instructions for how to build and use the software.}</string>
-																	</dict>
-																</dict>
-																<dict>
-																	<key>Bounds</key>
-																	<string>{{72.000000000000043, 274.5}, {8.3793103448275872, 9}}</string>
-																	<key>Class</key>
-																	<string>ShapedGraphic</string>
-																	<key>ID</key>
-																	<integer>1983</integer>
-																	<key>Style</key>
-																	<dict>
-																		<key>shadow</key>
-																		<dict>
-																			<key>Draws</key>
-																			<string>NO</string>
-																		</dict>
-																	</dict>
-																</dict>
-															</array>
-															<key>ID</key>
-															<integer>1981</integer>
+															</dict>
 														</dict>
 														<dict>
+															<key>Bounds</key>
+															<string>{{72.000000000000043, 274.5}, {8.3793103448275872, 9}}</string>
 															<key>Class</key>
-															<string>Group</string>
-															<key>Graphics</key>
-															<array>
+															<string>ShapedGraphic</string>
+															<key>ID</key>
+															<integer>1983</integer>
+															<key>Style</key>
+															<dict>
+																<key>shadow</key>
 																<dict>
-																	<key>Bounds</key>
-																	<string>{{88.758620689655316, 252}, {469.24137931034471, 18}}</string>
-																	<key>Class</key>
-																	<string>ShapedGraphic</string>
-																	<key>FontInfo</key>
-																	<dict>
-																		<key>Size</key>
-																		<real>10</real>
-																	</dict>
-																	<key>ID</key>
-																	<integer>1985</integer>
-																	<key>Style</key>
-																	<dict>
-																		<key>fill</key>
-																		<dict>
-																			<key>Draws</key>
-																			<string>NO</string>
-																		</dict>
-																		<key>shadow</key>
-																		<dict>
-																			<key>Draws</key>
-																			<string>NO</string>
-																		</dict>
-																		<key>stroke</key>
-																		<dict>
-																			<key>Draws</key>
-																			<string>NO</string>
-																		</dict>
-																	</dict>
-																	<key>Text</key>
-																	<dict>
-																		<key>Align</key>
-																		<integer>0</integer>
-																		<key>RTFD</key>
-																		<data>
+																	<key>Draws</key>
+																	<string>NO</string>
+																</dict>
+															</dict>
+														</dict>
+													</array>
+													<key>ID</key>
+													<integer>1981</integer>
+												</dict>
+												<dict>
+													<key>Class</key>
+													<string>Group</string>
+													<key>Graphics</key>
+													<array>
+														<dict>
+															<key>Bounds</key>
+															<string>{{88.758620689655316, 252}, {469.24137931034471, 18}}</string>
+															<key>Class</key>
+															<string>ShapedGraphic</string>
+															<key>FontInfo</key>
+															<dict>
+																<key>Size</key>
+																<real>10</real>
+															</dict>
+															<key>ID</key>
+															<integer>1985</integer>
+															<key>Style</key>
+															<dict>
+																<key>fill</key>
+																<dict>
+																	<key>Draws</key>
+																	<string>NO</string>
+																</dict>
+																<key>shadow</key>
+																<dict>
+																	<key>Draws</key>
+																	<string>NO</string>
+																</dict>
+																<key>stroke</key>
+																<dict>
+																	<key>Draws</key>
+																	<string>NO</string>
+																</dict>
+															</dict>
+															<key>Text</key>
+															<dict>
+																<key>Align</key>
+																<integer>0</integer>
+																<key>RTFD</key>
+																<data>
 								BAtzdHJlYW10
 								eXBlZIHoA4QB
 								QISEhBJOU0F0
@@ -2403,9 +2380,9 @@
 								aQBjAGEAogqj
 								AKMBowCjAIaG
 								hg==
-																		</data>
-																		<key>Text</key>
-																		<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+																</data>
+																<key>Text</key>
+																<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
 {\*\expandedcolortbl;;\csgenericrgb\c0\c0\c0;}
@@ -2413,109 +2390,27 @@
 
 \f0\fs20 \cf0 3. 
 \f1 \cf2 A note stating that the licenses that govern the project can be found in the \'91LICENSE.txt\'92 file.}</string>
-																	</dict>
-																</dict>
-																<dict>
-																	<key>Bounds</key>
-																	<string>{{72.000000000000043, 256.5}, {8.3793103448275872, 9}}</string>
-																	<key>Class</key>
-																	<string>ShapedGraphic</string>
-																	<key>ID</key>
-																	<integer>1986</integer>
-																	<key>Style</key>
-																	<dict>
-																		<key>shadow</key>
-																		<dict>
-																			<key>Draws</key>
-																			<string>NO</string>
-																		</dict>
-																	</dict>
-																</dict>
-															</array>
-															<key>ID</key>
-															<integer>1984</integer>
+															</dict>
 														</dict>
 														<dict>
+															<key>Bounds</key>
+															<string>{{72.000000000000043, 256.5}, {8.3793103448275872, 9}}</string>
 															<key>Class</key>
-															<string>Group</string>
-															<key>Graphics</key>
-															<array>
-																<dict>
-																	<key>Bounds</key>
-																	<string>{{88.758620689655316, 216}, {469.24137931034471, 18}}</string>
-																	<key>Class</key>
-																	<string>ShapedGraphic</string>
-																	<key>FontInfo</key>
-																	<dict>
-																		<key>Color</key>
-																		<dict>
-																			<key>b</key>
-																			<string>0.109804</string>
-																			<key>g</key>
-																			<string>0</string>
-																			<key>r</key>
-																			<string>0.694118</string>
-																		</dict>
-																		<key>Size</key>
-																		<real>10</real>
-																	</dict>
-																	<key>ID</key>
-																	<integer>1988</integer>
-																	<key>Style</key>
-																	<dict>
-																		<key>fill</key>
-																		<dict>
-																			<key>Draws</key>
-																			<string>NO</string>
-																		</dict>
-																		<key>shadow</key>
-																		<dict>
-																			<key>Draws</key>
-																			<string>NO</string>
-																		</dict>
-																		<key>stroke</key>
-																		<dict>
-																			<key>Draws</key>
-																			<string>NO</string>
-																		</dict>
-																	</dict>
-																	<key>Text</key>
-																	<dict>
-																		<key>Align</key>
-																		<integer>0</integer>
-																		<key>Text</key>
-																		<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-
-\f0\fs20 \cf0 1. The name of the project.}</string>
-																	</dict>
-																</dict>
-																<dict>
-																	<key>Bounds</key>
-																	<string>{{72.000000000000043, 220.5}, {8.3793103448275872, 9}}</string>
-																	<key>Class</key>
-																	<string>ShapedGraphic</string>
-																	<key>ID</key>
-																	<integer>1989</integer>
-																	<key>Style</key>
-																	<dict>
-																		<key>shadow</key>
-																		<dict>
-																			<key>Draws</key>
-																			<string>NO</string>
-																		</dict>
-																	</dict>
-																</dict>
-															</array>
+															<string>ShapedGraphic</string>
 															<key>ID</key>
-															<integer>1987</integer>
+															<integer>1986</integer>
+															<key>Style</key>
+															<dict>
+																<key>shadow</key>
+																<dict>
+																	<key>Draws</key>
+																	<string>NO</string>
+																</dict>
+															</dict>
 														</dict>
 													</array>
 													<key>ID</key>
-													<integer>1974</integer>
+													<integer>1984</integer>
 												</dict>
 												<dict>
 													<key>Class</key>
@@ -2524,16 +2419,25 @@
 													<array>
 														<dict>
 															<key>Bounds</key>
-															<string>{{71.379310344827672, 189}, {486.62068965517233, 27}}</string>
+															<string>{{88.758620689655316, 216}, {469.24137931034471, 18}}</string>
 															<key>Class</key>
 															<string>ShapedGraphic</string>
 															<key>FontInfo</key>
 															<dict>
+																<key>Color</key>
+																<dict>
+																	<key>b</key>
+																	<string>0.109804</string>
+																	<key>g</key>
+																	<string>0</string>
+																	<key>r</key>
+																	<string>0.694118</string>
+																</dict>
 																<key>Size</key>
 																<real>10</real>
 															</dict>
 															<key>ID</key>
-															<integer>1991</integer>
+															<integer>1988</integer>
 															<key>Style</key>
 															<dict>
 																<key>fill</key>
@@ -2563,16 +2467,16 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs20 \cf0 e. A file named \'91README.md' has been added to the root directory of the project\'92s repository that contains all of the following:}</string>
+\f0\fs20 \cf0 1. The name of the project.}</string>
 															</dict>
 														</dict>
 														<dict>
 															<key>Bounds</key>
-															<string>{{54.000000000000021, 198}, {8.6896551724137936, 9}}</string>
+															<string>{{72.000000000000043, 220.5}, {8.3793103448275872, 9}}</string>
 															<key>Class</key>
 															<string>ShapedGraphic</string>
 															<key>ID</key>
-															<integer>1992</integer>
+															<integer>1989</integer>
 															<key>Style</key>
 															<dict>
 																<key>shadow</key>
@@ -2584,11 +2488,11 @@
 														</dict>
 													</array>
 													<key>ID</key>
-													<integer>1990</integer>
+													<integer>1987</integer>
 												</dict>
 											</array>
 											<key>ID</key>
-											<integer>1973</integer>
+											<integer>1974</integer>
 										</dict>
 										<dict>
 											<key>Class</key>
@@ -2597,7 +2501,7 @@
 											<array>
 												<dict>
 													<key>Bounds</key>
-													<string>{{71.379310344827672, 162}, {486.62068965517233, 27}}</string>
+													<string>{{71.379310344827672, 189}, {486.62068965517233, 27}}</string>
 													<key>Class</key>
 													<string>ShapedGraphic</string>
 													<key>FontInfo</key>
@@ -2606,7 +2510,7 @@
 														<real>10</real>
 													</dict>
 													<key>ID</key>
-													<integer>1994</integer>
+													<integer>1991</integer>
 													<key>Style</key>
 													<dict>
 														<key>fill</key>
@@ -2629,8 +2533,82 @@
 													<dict>
 														<key>Align</key>
 														<integer>0</integer>
-														<key>RTFD</key>
-														<data>
+														<key>Text</key>
+														<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs20 \cf0 e. A file named \'91README.md' has been added to the root directory of the project\'92s repository that\
+    contains all of the following:}</string>
+													</dict>
+												</dict>
+												<dict>
+													<key>Bounds</key>
+													<string>{{54.000000000000021, 198}, {8.6896551724137936, 9}}</string>
+													<key>Class</key>
+													<string>ShapedGraphic</string>
+													<key>ID</key>
+													<integer>1992</integer>
+													<key>Style</key>
+													<dict>
+														<key>shadow</key>
+														<dict>
+															<key>Draws</key>
+															<string>NO</string>
+														</dict>
+													</dict>
+												</dict>
+											</array>
+											<key>ID</key>
+											<integer>1990</integer>
+										</dict>
+									</array>
+									<key>ID</key>
+									<integer>1973</integer>
+								</dict>
+								<dict>
+									<key>Class</key>
+									<string>Group</string>
+									<key>Graphics</key>
+									<array>
+										<dict>
+											<key>Bounds</key>
+											<string>{{71.379310344827672, 162}, {486.62068965517233, 27}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Size</key>
+												<real>10</real>
+											</dict>
+											<key>ID</key>
+											<integer>1994</integer>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>Align</key>
+												<integer>0</integer>
+												<key>RTFD</key>
+												<data>
 								BAtzdHJlYW10
 								eXBlZIHoA4QB
 								QISEhBJOU0F0
@@ -2706,9 +2684,9 @@
 								o5KkkqWSppKn
 								kqiSqZKqkquG
 								AIaSrJKthoY=
-														</data>
-														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+												</data>
+												<key>Text</key>
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red0\green0\blue255;}
 {\*\expandedcolortbl;;\csgenericrgb\c0\c0\c100000;}
@@ -2716,238 +2694,27 @@
 
 \f0\fs20 \cf0 d. A file named \'91code.json\'92 in the root directory of the project repository that follows the schema at \
     \cf2 https://code.gov/#/policy-guide/docs/compliance/inventory-code.}</string>
-													</dict>
-												</dict>
-												<dict>
-													<key>Bounds</key>
-													<string>{{54.000000000000021, 171}, {8.6896551724137936, 9}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>ID</key>
-													<integer>1995</integer>
-													<key>Style</key>
-													<dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-												</dict>
-											</array>
-											<key>ID</key>
-											<integer>1993</integer>
+											</dict>
 										</dict>
 										<dict>
+											<key>Bounds</key>
+											<string>{{54.000000000000021, 171}, {8.6896551724137936, 9}}</string>
 											<key>Class</key>
-											<string>Group</string>
-											<key>Graphics</key>
-											<array>
-												<dict>
-													<key>Bounds</key>
-													<string>{{71.379310344827672, 144}, {486.62068965517233, 18}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>FontInfo</key>
-													<dict>
-														<key>Size</key>
-														<real>10</real>
-													</dict>
-													<key>ID</key>
-													<integer>1997</integer>
-													<key>Style</key>
-													<dict>
-														<key>fill</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>stroke</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-													<key>Text</key>
-													<dict>
-														<key>Align</key>
-														<integer>0</integer>
-														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-
-\f0\fs20 \cf0 c. A file called \'91LICENSE.txt\'92 has been added to the root directory of the project\'92s repository.}</string>
-													</dict>
-												</dict>
-												<dict>
-													<key>Bounds</key>
-													<string>{{54.000000000000021, 148.5}, {8.6896551724137936, 9}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>ID</key>
-													<integer>1998</integer>
-													<key>Style</key>
-													<dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-												</dict>
-											</array>
+											<string>ShapedGraphic</string>
 											<key>ID</key>
-											<integer>1996</integer>
-										</dict>
-										<dict>
-											<key>Class</key>
-											<string>Group</string>
-											<key>Graphics</key>
-											<array>
+											<integer>1995</integer>
+											<key>Style</key>
+											<dict>
+												<key>shadow</key>
 												<dict>
-													<key>Bounds</key>
-													<string>{{71.379310344827672, 126}, {486.62068965517233, 18}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>FontInfo</key>
-													<dict>
-														<key>Size</key>
-														<real>10</real>
-													</dict>
-													<key>ID</key>
-													<integer>2000</integer>
-													<key>Style</key>
-													<dict>
-														<key>fill</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>stroke</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-													<key>Text</key>
-													<dict>
-														<key>Align</key>
-														<integer>0</integer>
-														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-
-\f0\fs20 \cf0 b. Any embarrassing or disparaging material has been removed.}</string>
-													</dict>
+													<key>Draws</key>
+													<string>NO</string>
 												</dict>
-												<dict>
-													<key>Bounds</key>
-													<string>{{54.000000000000021, 130.5}, {8.6896551724137936, 9}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>ID</key>
-													<integer>2001</integer>
-													<key>Style</key>
-													<dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-												</dict>
-											</array>
-											<key>ID</key>
-											<integer>1999</integer>
-										</dict>
-										<dict>
-											<key>Class</key>
-											<string>Group</string>
-											<key>Graphics</key>
-											<array>
-												<dict>
-													<key>Bounds</key>
-													<string>{{71.379310344827672, 108}, {486.62068965517233, 18}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>FontInfo</key>
-													<dict>
-														<key>Size</key>
-														<real>10</real>
-													</dict>
-													<key>ID</key>
-													<integer>2003</integer>
-													<key>Style</key>
-													<dict>
-														<key>fill</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-														<key>stroke</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-													<key>Text</key>
-													<dict>
-														<key>Align</key>
-														<integer>0</integer>
-														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-
-\f0\fs20 \cf0 a. All extraneous, useless, non-functional, or otherwise undesirable code and material has been removed.}</string>
-													</dict>
-												</dict>
-												<dict>
-													<key>Bounds</key>
-													<string>{{54.000000000000021, 112.5}, {8.6896551724137936, 9}}</string>
-													<key>Class</key>
-													<string>ShapedGraphic</string>
-													<key>ID</key>
-													<integer>2004</integer>
-													<key>Style</key>
-													<dict>
-														<key>shadow</key>
-														<dict>
-															<key>Draws</key>
-															<string>NO</string>
-														</dict>
-													</dict>
-												</dict>
-											</array>
-											<key>ID</key>
-											<integer>2002</integer>
+											</dict>
 										</dict>
 									</array>
 									<key>ID</key>
-									<integer>1972</integer>
+									<integer>1993</integer>
 								</dict>
 								<dict>
 									<key>Class</key>
@@ -2956,7 +2723,7 @@
 									<array>
 										<dict>
 											<key>Bounds</key>
-											<string>{{54, 90}, {504, 18}}</string>
+											<string>{{71.379310344827672, 144}, {486.62068965517233, 18}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>FontInfo</key>
@@ -2965,7 +2732,7 @@
 												<real>10</real>
 											</dict>
 											<key>ID</key>
-											<integer>2006</integer>
+											<integer>1997</integer>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -2995,16 +2762,16 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs20 \cf0 1. The following steps have been completed, and the project is prepared for release:}</string>
+\f0\fs20 \cf0 c. A file called \'91LICENSE.txt\'92 has been added to the root directory of the project\'92s repository.}</string>
 											</dict>
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{36, 94.5}, {9, 9}}</string>
+											<string>{{54.000000000000021, 148.5}, {8.6896551724137936, 9}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
-											<integer>2007</integer>
+											<integer>1998</integer>
 											<key>Style</key>
 											<dict>
 												<key>shadow</key>
@@ -3016,15 +2783,222 @@
 										</dict>
 									</array>
 									<key>ID</key>
-									<integer>2005</integer>
+									<integer>1996</integer>
+								</dict>
+								<dict>
+									<key>Class</key>
+									<string>Group</string>
+									<key>Graphics</key>
+									<array>
+										<dict>
+											<key>Bounds</key>
+											<string>{{71.379310344827672, 126}, {486.62068965517233, 18}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Size</key>
+												<real>10</real>
+											</dict>
+											<key>ID</key>
+											<integer>2000</integer>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>Align</key>
+												<integer>0</integer>
+												<key>Text</key>
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs20 \cf0 b. Any embarrassing or disparaging material has been removed.}</string>
+											</dict>
+										</dict>
+										<dict>
+											<key>Bounds</key>
+											<string>{{54.000000000000021, 130.5}, {8.6896551724137936, 9}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>ID</key>
+											<integer>2001</integer>
+											<key>Style</key>
+											<dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+										</dict>
+									</array>
+									<key>ID</key>
+									<integer>1999</integer>
+								</dict>
+								<dict>
+									<key>Class</key>
+									<string>Group</string>
+									<key>Graphics</key>
+									<array>
+										<dict>
+											<key>Bounds</key>
+											<string>{{71.379310344827672, 108}, {486.62068965517233, 18}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Size</key>
+												<real>10</real>
+											</dict>
+											<key>ID</key>
+											<integer>2003</integer>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>Align</key>
+												<integer>0</integer>
+												<key>Text</key>
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs20 \cf0 a. All extraneous, useless, non-functional, or otherwise undesirable code and material has been removed.}</string>
+											</dict>
+										</dict>
+										<dict>
+											<key>Bounds</key>
+											<string>{{54.000000000000021, 112.5}, {8.6896551724137936, 9}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>ID</key>
+											<integer>2004</integer>
+											<key>Style</key>
+											<dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+										</dict>
+									</array>
+									<key>ID</key>
+									<integer>2002</integer>
 								</dict>
 							</array>
 							<key>ID</key>
-							<integer>1971</integer>
+							<integer>1972</integer>
+						</dict>
+						<dict>
+							<key>Class</key>
+							<string>Group</string>
+							<key>Graphics</key>
+							<array>
+								<dict>
+									<key>Bounds</key>
+									<string>{{54, 90}, {504, 18}}</string>
+									<key>Class</key>
+									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Size</key>
+										<real>10</real>
+									</dict>
+									<key>ID</key>
+									<integer>2006</integer>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+									</dict>
+									<key>Text</key>
+									<dict>
+										<key>Align</key>
+										<integer>0</integer>
+										<key>Text</key>
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs20 \cf0 1. The following steps have been completed, and the project is prepared for release:}</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>Bounds</key>
+									<string>{{36, 94.5}, {9, 9}}</string>
+									<key>Class</key>
+									<string>ShapedGraphic</string>
+									<key>ID</key>
+									<integer>2007</integer>
+									<key>Style</key>
+									<dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+									</dict>
+								</dict>
+							</array>
+							<key>ID</key>
+							<integer>2005</integer>
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>1947</integer>
+					<integer>1971</integer>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -12288,7 +12262,7 @@ by \cf2 \expnd0\expndtw0\kerning0
 						BAtzdHJlYW10eXBlZIHoA4QBQISE
 						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
 						hIQITlNPYmplY3QAhZKEhIQITlNT
-						dHJpbmcBlIQBK4FODVRoZSBsZWFk
+						dHJpbmcBlIQBK4G5DVRoZSBsZWFk
 						IEFSTCBkZXZlbG9wZXIgb3IgQ09S
 						IGlzIHJlc3BvbnNpYmxlIGZvciBl
 						bnN1cmluZyB0aGF0IHRoZSBwcm9q
@@ -12299,209 +12273,214 @@ by \cf2 \expnd0\expndtw0\kerning0
 						aW5nIHRoYXQgU2VjdGlvbiAxIGlz
 						IGNvbXBsZXRlZCBiZWZvcmUgaW5p
 						dGlhdGluZyB0aGUgZm9ybWFsIHBy
-						b2Nlc3MuICBBbGwgZGV2ZWxvcGVy
-						cyBsaXN0ZWQgaW4gdGhlIGFic3Ry
-						YWN0IHdpbGwgYmUgaGVsZCBlcXVh
-						bGx5IGFjY291bnRhYmxlIGZvciBl
-						bnN1cmluZyB0aGF0IGFsbCByZXF1
-						aXJlbWVudHMgb2YgdGhlIERldmVs
-						b3BlcuKAmXMgQ2hlY2tsaXN0IGlu
-						IFNlY3Rpb24gMSwgUGFydCBDIGFy
-						ZSBtZXQuICBUaGUgbGVhZCBkZXZl
-						bG9wZXIgaXMgcmVzcG9uc2libGUg
-						Zm9yIHB1c2hpbmcgdGhlIGZvcm0g
-						dGhyb3VnaCB0aGUgcHJvY2VzcyBh
-						bmQgb2J0YWluaW5nIGFsbCByZXF1
-						aXJlZCBzaWduYXR1cmVzLgoKICAg
-						ICAgICAgICAgICAgICAgIFNlY3Rp
-						b24gMS4gVG8gYmUgY29tcGxldGVk
-						IGJ5IHRoZSBsZWFkIEFSTCBkZXZl
-						bG9wZXIgb3IgQ09SLgoKUGFydCBB
-						LgoKICAgIEJveCAxLiBFbnRlciB0
-						aGUgZGF0ZSB0aGUgZm9ybSBpcyBj
-						b21wbGV0ZWQgaW4gbW0vZGQveXl5
-						eSBmb3JtYXQuCgogICAgQm94IDIu
-						IEVudGVyIHRoZSBvZmZpY2lhbCBu
-						YW1lIG9mIHRoZSBwcm9qZWN0LiAg
-						QWxsIHByb2plY3QgbmFtZXMgbXVz
-						dCBiZSBwcmVmaXhlZCB3aXRoIOKA
-						mEFSTOKAmSwgYW5kIG11c3Qgbm90
-						IGhhdmUgc3BhY2VzIGluIHRoZSBu
-						YW1lLiAgRm9yIGV4YW1wbGUsIHRo
-						ZSBwcm9qZWN0IOKAmEhlbGxvIFdv
-						cmxk4oCZIG11c3QgYmUgY2FsbGVk
-						IOKAmEFSTF9IZWxsb19Xb3JsZOKA
-						mS4gIElmIHRoaXMgaXMgYSBuZXcg
-						cHJvamVjdCAob25lIHRoYXQgaXNu
-						4oCZdCBhbHJlYWR5IGxpc3RlZCBh
-						dCBodHRwczovL2dpdGh1Yi5jb20v
-						dXNhcm15cmVzZWFyY2hsYWIpLCB0
-						aGVuIHRoZSBuYW1lIGNob3NlbiBt
-						dXN0IG5vdCBjb25mbGljdCB3aXRo
-						IGFueSByZXBvc2l0b3JpZXMgYWxy
-						ZWFkeSBsaXN0ZWQgYXQgCmh0dHBz
-						Oi8vZ2l0aHViLmNvbS91c2FybXly
-						ZXNlYXJjaGxhYi4gIFJhdGlvbmFs
-						ZTog4oCYQVJM4oCZIGlzIGEgdHJh
-						ZGVtYXJrZWQgd29yay4gIElmIG1h
-						bGljaW91cyBhY3RvcnMgaW5zZXJ0
-						IGRhbWFnaW5nIG1hdGVyaWFsIGlu
-						dG8gYSBjb3B5IG9mIHRoZSBwcm9q
-						ZWN0LCBBUkzigJlzIHF1aWNrZXN0
-						IGNvdXJzZSBvZiBhY3Rpb24gaXMg
-						dG8gZGVtYW5kIHRoYXQgdGhleSBj
-						ZWFzZSB1c2luZyB0aGUg4oCYQVJM
-						4oCZIHRyYWRlbWFyay4gIFRoaXMg
-						cHJvdmlkZXMgYSBsaW1pdGVkIGFt
-						b3VudCBvZiBkYW1hZ2UgY29udHJv
-						bC4KCiAgICBCb3ggMy4gRW50ZXIg
-						dGhlIGxvY2F0aW9uIG9mIHRoZSBw
-						cm9qZWN04oCZcyByZXBvc2l0b3J5
-						LiAgVGhpcyBtYXkgYmUgYSBVUkwg
-						dG8gdGhlIHByb2plY3QgcmVwb3Np
-						dG9yeSwgdGhlIHBhdGggdG8gYSBz
-						aGFyZWQgZHJpdmUsIG9yIHNvbWUg
-						b3RoZXIgbG9jYXRpb24uICBJdCBt
-						dXN0IGJlIGFjY2Vzc2libGUgdG8g
-						YWxsIHBlcnNvbm5lbCB0aGF0IG5l
-						ZWQgdG8gc2lnbiB0aGlzIGZvcm0u
-						CgogICAgQm94IDQuIEVudGVyIHRo
-						ZSBuYW1lIG9mIHRoZSBsZWFkIGRl
-						dmVsb3BlciBoZXJlLiAgVGhlIGxl
-						YWQgZGV2ZWxvcGVyIG11c3QgYmUg
-						YW4gQVJMIEdvdmVybm1lbnQgZW1w
-						bG95ZWUuICBOb3RlIHRoYXQgYWxs
-						IHByaW5jaXBhbCBkZXZlbG9wZXJz
-						IG11c3QgYmUgbGlzdGVkIG9uIHRo
-						ZSBhdHRhY2hlZCBhYnN0cmFjdC4g
-						UmF0aW9uYWxlOiBUaGUgbGVhZCBk
-						ZXZlbG9wZXIgaXMgdGhlIGluZGl2
-						aWR1YWwgdGhhdCBpcyBiZXN0IHF1
-						YWxpZmllZCB0byBhbnN3ZXIgcXVl
-						c3Rpb25zIHJlZ2FyZGluZyB0aGUg
-						cHJvamVjdC4gIEJlY2F1c2Ugc29t
-						ZSBxdWVzdGlvbnMgY2Fubm90IGJl
-						IGxlZ2FsbHkgYXNrZWQgb2YgY29u
-						dHJhY3RvcnMsIHRoZSBsZWFkIGRl
-						dmVsb3BlciBtdXN0IGJlIGEgR292
-						ZXJubWVudCBlbXBsb3llZS4KClBh
-						cnQgQi4KCiAgICBCb3ggMS4gSWYg
-						Ym94IDEgaXMgY2hlY2tlZCwgYSBy
-						ZXBvc2l0b3J5IHdpbGwgYmUgY3Jl
-						YXRlZCBmb3IgdGhlIHByb2plY3Qg
-						b24gQVJM4oCZcyBvcmdhbml6YXRp
-						b25hbCBHaXRIdWIgc2l0ZSBhdCBo
-						dHRwczovL2dpdGh1Yi5jb20vdXNh
-						cm15cmVzZWFyY2hsYWIuIElmIHBy
-						b2plY3QgZGV2ZWxvcGVycyB3aXNo
-						IHRvIHVzZSBhIGRpZmZlcmVudCBs
-						b2NhdGlvbiBmb3IgdGhlaXIgcmVw
-						b3NpdG9yeSwgdGhlbiB0aGV5IHNo
-						b3VsZCB1cGxvYWQgYm90aCBhIFJF
-						QURNRS5tZCBmaWxlIHRvIHRoZSBH
-						aXRIdWIgc2l0ZSB0aGF0IGV4cGxh
-						aW5zIHdoZXJlIHRoZSBwcm9qZWN0
-						IG1hdGVyaWFsIGFjdHVhbGx5IHJl
-						c2lkZXMsIGFuZCB0aGUgY29kZS5q
-						c29uIGZpbGUgdGhhdCBpbmRleGVz
-						IHRoZWlyIHByb2plY3QuICBTZWUg
-						dGhlIGluc3RydWN0aW9ucyBmb3Ig
-						U2VjdGlvbiAxLCBQYXJ0IEMsIEJv
-						eCAxZCBmb3IgbW9yZSBpbmZvcm1h
-						dGlvbiBvbiB0aGUgY29kZS5qc29u
-						IGZpbGUuIFJhdGlvbmFsZTogQVJM
-						4oCZcyBvcmdhbml6YXRpb25hbCBH
-						aXRIdWIgc2l0ZSBzZXJ2ZXMgYm90
-						aCBhcyBhIHN0b3JhZ2UgbG9jYXRp
-						b24gYW5kIGFuIGluZGV4IG9mIGFs
-						bCBvZiBBUkzigJlzIE9wZW4gU291
-						cmNlIHNvZnR3YXJlIHByb2plY3Rz
-						LiAgRXh0ZXJuYWwgcGFydGllcyBj
-						YW4gc2ltcGx5IGxpbmsgdG8gQVJM
-						4oCZcyBHaXRIdWIgc2l0ZSwgYW5k
-						IGtub3cgdGhhdCB0aGV5IHdpbGwg
-						dGhlbiBoYXZlIGFuIHVwLXRvLWRh
-						dGUgbGlzdGluZyBvZiBhbGwgb2Yg
-						QVJM4oCZcyBPcGVuIFNvdXJjZSBT
-						b2Z0d2FyZS4gIFRoZSBjb2RlLmpz
-						b24gZmlsZSBpcyByZXF1aXJlZCBm
-						b3IgYXV0b21hdGVkIGluZGV4aW5n
-						IG9mIGFsbCBvZiBBUkzigJlzIHNv
-						ZnR3YXJlLiAgQnkga2VlcGluZyBp
-						dCB1cGRhdGUgdG8gZGF0ZSBhbmQg
-						b24gQVJM4oCZcyBHaXRIdWIgc2l0
-						ZSwgYXV0b21hdGVkIHRvb2xzIGNh
-						biBhbHNvIGluZGV4IGFsbCBvZiBB
-						UkzigJlzIHNvZnR3YXJlLgoKICAg
-						IEJveCAyLiBJZiB0aGUgcHJvamVj
-						dCBpcyBzdGlsbCB1bmRlciBhY3Rp
-						dmUgZGV2ZWxvcG1lbnQsIGFuZCBp
-						dCBoYXMgYmVlbiBvbmUgb3IgbW9y
-						ZSB5ZWFycyBzaW5jZSB0aGUgbGFz
-						dCBtYWpvciByZXZpZXcsIHRoZW4g
-						aXQgbXVzdCBiZSByZXZpZXdlZCBh
-						Z2Fpbi4gIFJhdGlvbmFsZTogSW5j
-						cmVtZW50YWwgY2hhbmdlcyBjYW4g
-						YnVpbGQgdXAgdG8gYmVjb21lIG1h
-						am9yIGNoYW5nZXMsIHNvbWV0aW1l
-						cyB3aXRob3V0IHRoZSBjb25zY2lv
-						dXMgcmVhbGl6YXRpb24gb2YgdGhl
-						IHByaW5jaXBhbCBkZXZlbG9wZXJz
-						LiAgUGVyaW9kaWMgcmV2aWV3cyBj
-						YW4gY2F0Y2ggdGhlc2UgY2hhbmdl
-						cywgd2hpY2ggY2FuIHNvbWV0aW1l
-						cyBiZSBzaWduaWZpY2FudC6GhAJp
-						SQGB+QGShISEDE5TRGljdGlvbmFy
-						eQCUhAFpA5KElpYHTlNDb2xvcoaS
-						hISEB05TQ29sb3IAlIQBYwGEBGZm
-						ZmYAAAABhpKElpYQTlNQYXJhZ3Jh
-						cGhTdHlsZYaShISEF05TTXV0YWJs
-						ZVBhcmFncmFwaFN0eWxlAISEEE5T
-						UGFyYWdyYXBoU3R5bGUAlIQEQ0NA
-						UwAAhISEB05TQXJyYXkAlJkMkoSE
-						hAlOU1RleHRUYWIAlIQCQ2YAHIaS
-						hKOiADiGkoSjogBUhpKEo6IAcIaS
-						hKOiAIGMAIaShKOiAIGoAIaShKOi
-						AIHEAIaShKOiAIHgAIaShKOiAIH8
-						AIaShKOiAIEYAYaShKOiAIE0AYaS
-						hKOiAIFQAYaGAIaShJaWBk5TRm9u
-						dIaShISEBk5TRm9udB6UmRyEBVsy
-						OGNdBgAAABQAAAD//kgAZQBsAHYA
-						ZQB0AGkAYwBhAIQBZgybAJsBmwCb
-						AIaGlwIfkoSYmQOSmZKakpySnZKv
-						koSxmSiEBVs0MGNdBgAAAB4AAAD/
-						/kgAZQBsAHYAZQB0AGkAYwBhAC0A
-						QgBvAGwAZAAAAKUMmwCbAZsAmwCG
-						hpcBNJcCFJcDPJKEmJkCkpySnZKv
-						krCGlwIElwQGkoSYmQKSnJKdkq+S
-						s4aXA1aXBSeShJiZA5KZkoSbmwOE
-						AmZmAAGGkpySnZKvkrCGlwNNlwE7
-						lwYkkoSYmQWShJaWBk5TS2VyboaS
-						hISECE5TTnVtYmVyAISEB05TVmFs
-						dWUAlIQBKoSEAWSrAIaSr5KEsZkk
-						hAVbMzZjXQYAAAAcAAAA//5IAGUA
-						bAB2AGUAdABpAGMAYQBOAGUAdQBl
-						AKUMmwCbAZsAmwCGkoSWlhFOU0Jh
-						Y2tncm91bmRDb2xvcoaShJubAZwB
-						g1L+fz+Dbv9/PwGGkpySnZKZkoSb
-						mwGcAACDUIl/PwGGhpcHCJKEmJkF
-						krmSupKvkr6SmZKakpySnZK/ksCG
-						lwEBlwNJlwEBlwYklwcDlwgKkoSY
-						mQWSuZK6kq+ShLGZNIQFWzUyY10G
-						AAAAKgAAAP/+SABlAGwAdgBlAHQA
-						aQBjAGEATgBlAHUAZQAtAEkAdABh
-						AGwAaQBjAAAApQybAJsBmwCbAIaS
-						mZKakpySnZK/ksCGlweB8gCXAwKX
-						AgSXBAaXA4HXAJcFAZcDAZcCBJcE
-						B5cDgbAAlwkKkoSYmQOSmZKakpyS
-						nZKvkoSxmSyEBVs0NGNdBgAAACQA
-						AAD//kgAZQBsAHYAZQB0AGkAYwBh
-						AC0ATwBiAGwAaQBxAHUAZQClDJsA
-						mwGbAJsAhoaXAYHZAJcDApcEB5cC
-						DZcDaZcKJJKEmJkDkpmShJubAZwA
-						AAEBhpKckp2Sr5KwhpcBgV4BlwkK
-						lwGB1gGXAgqXAYGTAJcJCpcBgdIA
-						hg==
+						b2Nlc3MuICBJbnN0cnVjdGlvbnMg
+						Zm9yIHdyaXRpbmcgdGhlIGFic3Ry
+						YWN0IGFyZSBnaXZlbiBpbiB0aGUg
+						aW5zdHJ1Y3Rpb25zIGZvciBTZWN0
+						aW9uIDEsIFBhcnQgQywgQm94Mi4g
+						IEFsbCBkZXZlbG9wZXJzIGxpc3Rl
+						ZCBpbiB0aGUgYWJzdHJhY3Qgd2ls
+						bCBiZSBoZWxkIGVxdWFsbHkgYWNj
+						b3VudGFibGUgZm9yIGVuc3VyaW5n
+						IHRoYXQgYWxsIHJlcXVpcmVtZW50
+						cyBvZiB0aGUgRGV2ZWxvcGVy4oCZ
+						cyBDaGVja2xpc3QgaW4gU2VjdGlv
+						biAxLCBQYXJ0IEMgYXJlIG1ldC4g
+						IFRoZSBsZWFkIGRldmVsb3BlciBp
+						cyByZXNwb25zaWJsZSBmb3IgcHVz
+						aGluZyB0aGUgY29tcGxldGUgZm9y
+						bSB0aHJvdWdoIHRoZSBwcm9jZXNz
+						IGFuZCBvYnRhaW5pbmcgYWxsIHJl
+						cXVpcmVkIHNpZ25hdHVyZXMuCgog
+						ICAgICAgICAgICAgICAgICAgU2Vj
+						dGlvbiAxLiBUbyBiZSBjb21wbGV0
+						ZWQgYnkgdGhlIGxlYWQgQVJMIGRl
+						dmVsb3BlciBvciBDT1IuCgpQYXJ0
+						IEEuCgogICAgQm94IDEuIEVudGVy
+						IHRoZSBkYXRlIHRoZSBmb3JtIGlz
+						IGNvbXBsZXRlZCBpbiBtbS9kZC95
+						eXl5IGZvcm1hdC4KCiAgICBCb3gg
+						Mi4gRW50ZXIgdGhlIG9mZmljaWFs
+						IG5hbWUgb2YgdGhlIHByb2plY3Qu
+						ICBBbGwgcHJvamVjdCBuYW1lcyBt
+						dXN0IGJlIHByZWZpeGVkIHdpdGgg
+						4oCYQVJM4oCZLCBhbmQgbXVzdCBu
+						b3QgaGF2ZSBzcGFjZXMgaW4gdGhl
+						IG5hbWUuICBGb3IgZXhhbXBsZSwg
+						dGhlIHByb2plY3Qg4oCYSGVsbG8g
+						V29ybGTigJkgbXVzdCBiZSBjYWxs
+						ZWQg4oCYQVJMX0hlbGxvX1dvcmxk
+						4oCZLiAgSWYgdGhpcyBpcyBhIG5l
+						dyBwcm9qZWN0IChvbmUgdGhhdCBp
+						c27igJl0IGFscmVhZHkgbGlzdGVk
+						IGF0IGh0dHBzOi8vZ2l0aHViLmNv
+						bS91c2FybXlyZXNlYXJjaGxhYiks
+						IHRoZW4gdGhlIG5hbWUgY2hvc2Vu
+						IG11c3Qgbm90IGNvbmZsaWN0IHdp
+						dGggYW55IHJlcG9zaXRvcmllcyBh
+						bHJlYWR5IGxpc3RlZCBhdCAKaHR0
+						cHM6Ly9naXRodWIuY29tL3VzYXJt
+						eXJlc2VhcmNobGFiLiAgUmF0aW9u
+						YWxlOiDigJhBUkzigJkgaXMgYSB0
+						cmFkZW1hcmtlZCB3b3JrLiAgSWYg
+						bWFsaWNpb3VzIGFjdG9ycyBpbnNl
+						cnQgZGFtYWdpbmcgbWF0ZXJpYWwg
+						aW50byBhIGNvcHkgb2YgdGhlIHBy
+						b2plY3QsIEFSTOKAmXMgcXVpY2tl
+						c3QgY291cnNlIG9mIGFjdGlvbiBp
+						cyB0byBkZW1hbmQgdGhhdCB0aGV5
+						IGNlYXNlIHVzaW5nIHRoZSDigJhB
+						UkzigJkgdHJhZGVtYXJrLiAgVGhp
+						cyBwcm92aWRlcyBhIGxpbWl0ZWQg
+						YW1vdW50IG9mIGRhbWFnZSBjb250
+						cm9sLgoKICAgIEJveCAzLiBFbnRl
+						ciB0aGUgbG9jYXRpb24gb2YgdGhl
+						IHByb2plY3TigJlzIHJlcG9zaXRv
+						cnkuICBUaGlzIG1heSBiZSBhIFVS
+						TCB0byB0aGUgcHJvamVjdCByZXBv
+						c2l0b3J5LCB0aGUgcGF0aCB0byBh
+						IHNoYXJlZCBkcml2ZSwgb3Igc29t
+						ZSBvdGhlciBsb2NhdGlvbi4gIEl0
+						IG11c3QgYmUgYWNjZXNzaWJsZSB0
+						byBhbGwgcGVyc29ubmVsIHRoYXQg
+						bmVlZCB0byBzaWduIHRoaXMgZm9y
+						bS4KCiAgICBCb3ggNC4gRW50ZXIg
+						dGhlIG5hbWUgb2YgdGhlIGxlYWQg
+						ZGV2ZWxvcGVyIGhlcmUuICBUaGUg
+						bGVhZCBkZXZlbG9wZXIgbXVzdCBi
+						ZSBhbiBBUkwgR292ZXJubWVudCBl
+						bXBsb3llZS4gIE5vdGUgdGhhdCBh
+						bGwgcHJpbmNpcGFsIGRldmVsb3Bl
+						cnMgbXVzdCBiZSBsaXN0ZWQgb24g
+						dGhlIGF0dGFjaGVkIGFic3RyYWN0
+						LiBSYXRpb25hbGU6IFRoZSBsZWFk
+						IGRldmVsb3BlciBpcyB0aGUgaW5k
+						aXZpZHVhbCB0aGF0IGlzIGJlc3Qg
+						cXVhbGlmaWVkIHRvIGFuc3dlciBx
+						dWVzdGlvbnMgcmVnYXJkaW5nIHRo
+						ZSBwcm9qZWN0LiAgQmVjYXVzZSBz
+						b21lIHF1ZXN0aW9ucyBjYW5ub3Qg
+						YmUgbGVnYWxseSBhc2tlZCBvZiBj
+						b250cmFjdG9ycywgdGhlIGxlYWQg
+						ZGV2ZWxvcGVyIG11c3QgYmUgYSBH
+						b3Zlcm5tZW50IGVtcGxveWVlLgoK
+						UGFydCBCLgoKICAgIEJveCAxLiBJ
+						ZiBib3ggMSBpcyBjaGVja2VkLCBh
+						IHJlcG9zaXRvcnkgd2lsbCBiZSBj
+						cmVhdGVkIGZvciB0aGUgcHJvamVj
+						dCBvbiBBUkzigJlzIG9yZ2FuaXph
+						dGlvbmFsIEdpdEh1YiBzaXRlIGF0
+						IGh0dHBzOi8vZ2l0aHViLmNvbS91
+						c2FybXlyZXNlYXJjaGxhYi4gSWYg
+						cHJvamVjdCBkZXZlbG9wZXJzIHdp
+						c2ggdG8gdXNlIGEgZGlmZmVyZW50
+						IGxvY2F0aW9uIGZvciB0aGVpciBy
+						ZXBvc2l0b3J5LCB0aGVuIHRoZXkg
+						c2hvdWxkIHVwbG9hZCBib3RoIGEg
+						UkVBRE1FLm1kIGZpbGUgdG8gdGhl
+						IEdpdEh1YiBzaXRlIHRoYXQgZXhw
+						bGFpbnMgd2hlcmUgdGhlIHByb2pl
+						Y3QgbWF0ZXJpYWwgYWN0dWFsbHkg
+						cmVzaWRlcywgYW5kIHRoZSBjb2Rl
+						Lmpzb24gZmlsZSB0aGF0IGluZGV4
+						ZXMgdGhlaXIgcHJvamVjdC4gIFNl
+						ZSB0aGUgaW5zdHJ1Y3Rpb25zIGZv
+						ciBTZWN0aW9uIDEsIFBhcnQgQywg
+						Qm94IDFkIGZvciBtb3JlIGluZm9y
+						bWF0aW9uIG9uIHRoZSBjb2RlLmpz
+						b24gZmlsZS4gUmF0aW9uYWxlOiBB
+						UkzigJlzIG9yZ2FuaXphdGlvbmFs
+						IEdpdEh1YiBzaXRlIHNlcnZlcyBi
+						b3RoIGFzIGEgc3RvcmFnZSBsb2Nh
+						dGlvbiBhbmQgYW4gaW5kZXggb2Yg
+						YWxsIG9mIEFSTOKAmXMgT3BlbiBT
+						b3VyY2Ugc29mdHdhcmUgcHJvamVj
+						dHMuICBFeHRlcm5hbCBwYXJ0aWVz
+						IGNhbiBzaW1wbHkgbGluayB0byBB
+						UkzigJlzIEdpdEh1YiBzaXRlLCBh
+						bmQga25vdyB0aGF0IHRoZXkgd2ls
+						bCB0aGVuIGhhdmUgYW4gdXAtdG8t
+						ZGF0ZSBsaXN0aW5nIG9mIGFsbCBv
+						ZiBBUkzigJlzIE9wZW4gU291cmNl
+						IFNvZnR3YXJlLiAgVGhlIGNvZGUu
+						anNvbiBmaWxlIGlzIHJlcXVpcmVk
+						IGZvciBhdXRvbWF0ZWQgaW5kZXhp
+						bmcgb2YgYWxsIG9mIEFSTOKAmXMg
+						c29mdHdhcmUuICBCeSBrZWVwaW5n
+						IGl0IHVwZGF0ZSB0byBkYXRlIGFu
+						ZCBvbiBBUkzigJlzIEdpdEh1YiBz
+						aXRlLCBhdXRvbWF0ZWQgdG9vbHMg
+						Y2FuIGFsc28gaW5kZXggYWxsIG9m
+						IEFSTOKAmXMgc29mdHdhcmUuCgog
+						ICAgQm94IDIuIElmIHRoZSBwcm9q
+						ZWN0IGlzIHN0aWxsIHVuZGVyIGFj
+						dGl2ZSBkZXZlbG9wbWVudCwgYW5k
+						IGl0IGhhcyBiZWVuIG9uZSBvciBt
+						b3JlIHllYXJzIHNpbmNlIHRoZSBs
+						YXN0IG1ham9yIHJldmlldywgdGhl
+						biBpdCBtdXN0IGJlIHJldmlld2Vk
+						IGFnYWluLiAgUmF0aW9uYWxlOiBJ
+						bmNyZW1lbnRhbCBjaGFuZ2VzIGNh
+						biBidWlsZCB1cCB0byBiZWNvbWUg
+						bWFqb3IgY2hhbmdlcywgc29tZXRp
+						bWVzIHdpdGhvdXQgdGhlIGNvbnNj
+						aW91cyByZWFsaXphdGlvbiBvZiB0
+						aGUgcHJpbmNpcGFsIGRldmVsb3Bl
+						cnMuICBQZXJpb2RpYyByZXZpZXdz
+						IGNhbiBjYXRjaCB0aGVzZSBjaGFu
+						Z2VzLCB3aGljaCBjYW4gc29tZXRp
+						bWVzIGJlIHNpZ25pZmljYW50LoaE
+						AmlJAYFkApKEhIQMTlNEaWN0aW9u
+						YXJ5AJSEAWkDkoSWlgdOU0NvbG9y
+						hpKEhIQHTlNDb2xvcgCUhAFjAYQE
+						ZmZmZgAAAAGGkoSWlhBOU1BhcmFn
+						cmFwaFN0eWxlhpKEhIQXTlNNdXRh
+						YmxlUGFyYWdyYXBoU3R5bGUAhIQQ
+						TlNQYXJhZ3JhcGhTdHlsZQCUhARD
+						Q0BTAACEhIQHTlNBcnJheQCUmQyS
+						hISECU5TVGV4dFRhYgCUhAJDZgAc
+						hpKEo6IAOIaShKOiAFSGkoSjogBw
+						hpKEo6IAgYwAhpKEo6IAgagAhpKE
+						o6IAgcQAhpKEo6IAgeAAhpKEo6IA
+						gfwAhpKEo6IAgRgBhpKEo6IAgTQB
+						hpKEo6IAgVABhoYAhpKElpYGTlNG
+						b250hpKEhIQGTlNGb250HpSZHIQF
+						WzI4Y10GAAAAFAAAAP/+SABlAGwA
+						dgBlAHQAaQBjAGEAhAFmDJsAmwGb
+						AJsAhoaXAh+ShJiZA5KZkpqSnJKd
+						kq+ShLGZKIQFWzQwY10GAAAAHgAA
+						AP/+SABlAGwAdgBlAHQAaQBjAGEA
+						LQBCAG8AbABkAAAApQybAJsBmwCb
+						AIaGlwE0lwIUlwM8koSYmQKSnJKd
+						kq+SsIaXAgSXBAaShJiZApKckp2S
+						r5KzhpcDVpcFJ5KEmJkDkpmShJub
+						A4QCZmYAAYaSnJKdkq+SsIaXA02X
+						ATuXBiSShJiZBZKElpYGTlNLZXJu
+						hpKEhIQITlNOdW1iZXIAhIQHTlNW
+						YWx1ZQCUhAEqhIQBZKsAhpKvkoSx
+						mSSEBVszNmNdBgAAABwAAAD//kgA
+						ZQBsAHYAZQB0AGkAYwBhAE4AZQB1
+						AGUApQybAJsBmwCbAIaShJaWEU5T
+						QmFja2dyb3VuZENvbG9yhpKEm5sB
+						nAGDUv5/P4Nu/38/AYaSnJKdkpmS
+						hJubAZwAAINQiX8/AYaGlwcIkoSY
+						mQWSuZK6kq+SvpKZkpqSnJKdkr+S
+						wIaXAQGXA0mXAQGXBiSXBwOXCAqS
+						hJiZBZK5krqSr5KEsZk0hAVbNTJj
+						XQYAAAAqAAAA//5IAGUAbAB2AGUA
+						dABpAGMAYQBOAGUAdQBlAC0ASQB0
+						AGEAbABpAGMAAAClDJsAmwGbAJsA
+						hpKZkpqSnJKdkr+SwIaXB4HyAJcD
+						ApcCBJcEBpcDgdcAlwUBlwMBlwIE
+						lwQHlwOBsACXCQqShJiZA5KZkpqS
+						nJKdkq+ShLGZLIQFWzQ0Y10GAAAA
+						JAAAAP/+SABlAGwAdgBlAHQAaQBj
+						AGEALQBPAGIAbABpAHEAdQBlAKUM
+						mwCbAZsAmwCGhpcBgdkAlwMClwQH
+						lwINlwNplwokkoSYmQOSmZKEm5sB
+						nAAAAQGGkpySnZKvkrCGlwGBXgGX
+						CQqXAYHWAZcCCpcBgZMAlwkKlwGB
+						0gCG
 						</data>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
@@ -12512,7 +12491,7 @@ by \cf2 \expnd0\expndtw0\kerning0
 \csgenericrgb\c0\c0\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf2 The lead ARL developer or COR is responsible for ensuring that the project abstract required for a complete package is attached to this form, and for ensuring that Section 1 is completed before initiating the formal process.  All developers listed in the abstract will be held equally accountable for ensuring that all requirements of the Developer\'92s Checklist in Section 1, Part C are met.  The lead developer is responsible for pushing the form through the process and obtaining all required signatures.
+\f0\fs24 \cf2 The lead ARL developer or COR is responsible for ensuring that the project abstract required for a complete package is attached to this form, and for ensuring that Section 1 is completed before initiating the formal process.  Instructions for writing the abstract are given in the instructions for Section 1, Part C, Box2.  All developers listed in the abstract will be held equally accountable for ensuring that all requirements of the Developer\'92s Checklist in Section 1, Part C are met.  The lead developer is responsible for pushing the complete form through the process and obtaining all required signatures.
 \b \
 \
                    Section 1.
@@ -13802,7 +13781,7 @@ Questions regarding how to write a \'91LICENSE.txt\'92 file should be directed t
 						BAtzdHJlYW10eXBlZIHoA4QBQISE
 						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
 						hIQITlNPYmplY3QAhZKEhIQITlNT
-						dHJpbmcBlIQBK4FJDyAgICAgQm94
+						dHJpbmcBlIQBK4HWDCAgICAgQm94
 						IDFlLiBFbnN1cmUgdGhhdCB0aGUg
 						cHJvamVjdCBoYXMgYSBmaWxlIG5h
 						bWVkIOKAmFJFQURNRS5tZOKAmSBp
@@ -13884,165 +13863,126 @@ Questions regarding how to write a \'91LICENSE.txt\'92 file should be directed t
 						dCBjb250YWluaW5nIGFsbCB0aGUg
 						ZWxlbWVudHMgbGlzdGVkIGluIFNl
 						Y3Rpb24gMSwgUGFydCBDLCBCb3gg
-						Mi4gIFRoZSBuYW1lIGFuZCBkZXNj
-						cmlwdGlvbiBtYXkgYmUgY29waWVk
-						IGZyb20gdGhlIHByb2plY3TigJlz
-						IOKAmFJFQURNRS5tZOKAmSBmaWxl
-						LiAgVGhlIGxpc3Qgb2YgY29udHJp
-						YnV0b3JzIGluIHRoZSBhYnN0cmFj
-						dCBtdXN0IGluY2x1ZGUgYWxsIGlu
-						ZGl2aWR1YWxzIGFuZCBjb3Jwb3Jh
-						dGlvbnMgdGhhdCBoYXZlIHByb3Zp
-						ZGVkIG1vcmUgdGhhbiDigJhkZSBt
-						aW5pbXVz4oCZIGNvbnRyaWJ1dGlv
-						bnMgdGhhdCBhcmUgYmVpbmcgZGlz
-						dHJpYnV0ZWQgaW4gdGhlIHByb2pl
-						Y3QuICBJZiB0aGUgbGVhZCBkZXZl
-						bG9wZXIgYWxzbyBtYWRlIGNvbnRy
-						aWJ1dGlvbnMgdG8gdGhlIHByb2pl
-						Y3QsIHRoZW4gaGUgb3Igc2hlIG11
-						c3QgYmUgaW5jbHVkZWQgaW4gdGhp
-						cyBsaXN0LiAgRm9yIGVhY2ggY29u
-						dHJpYnV0b3IsIGxpc3QgdGhlaXIg
-						ZnVsbCBuYW1lIChMYXN0LCBGaXJz
-						dCwgTWlkZGxlIEluaXRpYWwpLCBF
-						bWFpbCBBZGRyZXNzLCBHaXRIdWIg
-						bG9naW5zIChpZiBhcHBsaWNhYmxl
-						KSwgYW5kIEVtcGxveW1lbnQgQWZm
-						aWxpYXRpb24uICAgRm9yIGEgY29y
-						cG9yYXRpb24sIGxpc3QgYSBjb3Jw
-						b3JhdGUgY29udGFjdC4gRXhhbXBs
-						ZSBhYnN0cmFjdHMgY2FuIGJlIGZv
-						dW5kIGF0IGh0dHBzOi8vZ2l0aHVi
-						LmNvbS9VU0FybXlSZXNlYXJjaExh
-						Yi9BUkwtT3Blbi1Tb3VyY2UtR3Vp
-						ZGFuY2UtYW5kLUluc3RydWN0aW9u
-						cy4gIFJhdGlvbmFsZTogVGhlIEFS
-						TCBDaGllZiBDb3Vuc2Vs4oCZcyBP
-						ZmZpY2UgbXVzdCB2ZXJpZnkgdGhh
-						dCBBUkwgaGFzIHRoZSBuZWNlc3Nh
-						cnkgcmlnaHRzIHRvIHJlZGlzdHJp
-						YnV0ZSB0aGUgbWF0ZXJpYWwgaW4g
-						dGhlIHByb2plY3QuICBUaGlzIGNh
-						biBvbmx5IGJlIGRvbmUgaWYgZWFj
-						aCBjb250cmlidXRvciBpcyBrbm93
-						biBhbmQgdGhlaXIgY29udHJhY3R1
-						YWwgb2JsaWdhdGlvbnMgY2FuIGJl
-						IHZlcmlmaWVkLiAKCiAgICAgICAg
-						ICAgICAgICAgICBTZWN0aW9uIDIu
-						IFRvIGJlIGNvbXBsZXRlZCBieSB0
-						aGUgT1BTRUMvVGVjaG5pY2FsIFJl
-						dmlld2VyCgpPUFNFQy9UZWNobmlj
-						YWwgcmV2aWV3ZXJzIG11c3QgYmUg
-						TGV2ZWwgMSBPUFNFQyByZXZpZXdl
-						cnMgdGhhdCBhcmUgYWxzbyB0ZWNo
-						bmljYWxseSBjb21wZXRlbnQgdG8g
-						cmV2aWV3IHRoZSBtYXRlcmlhbCBi
-						ZWluZyBzdWJtaXR0ZWQuICBBIHJl
-						dmlld2VyIG1heSBub3QgcmV2aWV3
-						IG1hdGVyaWFsIHRoYXQgaGUgb3Ig
-						c2hlIHBlcnNvbmFsbHkgY3JlYXRl
-						ZC4gIElmIG5lY2Vzc2FyeSwgbW9y
-						ZSB0aGFuIG9uZSByZXZpZXdlciBt
-						YXkgc2lnbiB0aGlzIGZvcm07IGVh
-						Y2ggcmV2aWV3ZXIgd2lsbCBiZSBy
-						ZXNwb25zaWJsZSBmb3IgdGhlIG1h
-						dGVyaWFsIHRoYXQgaGUgb3Igc2hl
-						IGRpZCBub3QgcGVyc29uYWxseSBj
-						cmVhdGUuICBSZXZpZXdlcnMgYXJl
-						IG5vdCByZXF1aXJlZCB0byByZXZp
-						ZXcgbWF0ZXJpYWwgdGhhdCBoYXMg
-						YWxyZWFkeSBiZWVuIHJldmlld2Vk
-						IGFuZCBhcHByb3ZlZCwgbm9yIGFy
-						ZSB0aGV5IHJlc3BvbnNpYmxlIGZv
-						ciBzdWNoIG1hdGVyaWFsLiAgVGhl
-						IG1hdGVyaWFsIGJlaW5nIGRpc2N1
-						c3NlZCBpcyBiZWluZyBwcm9wb3Nl
-						ZCBmb3IgcmVsZWFzZSB3aXRoIHRo
-						ZSBlcXVpdmFsZW50IG9mIOKAnERJ
-						U1RSSUJVVElPTiBTVEFURU1FTlQg
-						QS4gQXBwcm92ZWQgZm9yIHB1Ymxp
-						YyByZWxlYXNlOyBkaXN0cmlidXRp
-						b24gaXMgdW5saW1pdGVkLuKAnSBv
-						biBBUkwgRm9ybSAxLiAgSWYgYW55
-						IHBvcnRpb24gb2YgdGhlIG1hdGVy
-						aWFsIGNhbm5vdCBiZSBwdWJsaWNs
-						eSByZWxlYXNlZCwgZG8gbm90IHNp
-						Z24gdGhpcyBmb3JtLiAgSWYgaXQg
-						aXMgc2FmZSB0byBlbWFpbCB0aGUg
-						bGVhZCBkZXZlbG9wZXIgdGhlIHJl
-						YXNvbnMgd2h5IGl0IGNhbuKAmXQg
-						YmUgcmVsZWFzZWQsIGRvIHNvLiAg
-						T3RoZXJ3aXNlLCBjYWxsIGEgbWVl
-						dGluZyBhdCB0aGUgZWFybGllc3Qg
-						Y29udmVuaWVudCB0aW1lIHdpdGgg
-						dGhlIGxlYWQgZGV2ZWxvcGVyIGxp
-						c3RlZCBpbiBTZWN0aW9uIDEsIFBh
-						cnQgQSwgQm94IDQgYW5kIHRoZSBz
-						dXBlcnZpc29yIGxpc3RlZCBpbiBT
-						ZWN0aW9uIDMgdG8gZGlzY3VzcyB0
-						aGUgcmVhc29ucyB3aHkgdGhlIG1h
-						dGVyaWFsIGNhbm5vdCBiZSByZWxl
-						YXNlZCBhcy1pcywgYXMgd2VsbCBh
-						cyB0byBkaXNjdXNzIHJlbWVkaWF0
-						aW9uIHN0ZXBzIHRoYXQgbWF5IGFs
-						bG93IHRoZSBtYXRlcmlhbCwgb3Ig
-						cG9ydGlvbnMgb2YgdGhlIG1hdGVy
-						aWFsLCB0byBiZSByZWxlYXNlZC6G
-						hAJpSQENkoSEhAxOU0RpY3Rpb25h
-						cnkAlIQBaQOShJaWB05TQ29sb3KG
-						koSEhAdOU0NvbG9yAJSEAWMBhARm
-						ZmZmAAAAAYaShJaWEE5TUGFyYWdy
-						YXBoU3R5bGWGkoSEhBdOU011dGFi
-						bGVQYXJhZ3JhcGhTdHlsZQCEhBBO
-						U1BhcmFncmFwaFN0eWxlAJSEBEND
-						QFMAAISEhAdOU0FycmF5AJSZDJKE
-						hIQJTlNUZXh0VGFiAJSEAkNmAByG
-						koSjogA4hpKEo6IAVIaShKOiAHCG
-						koSjogCBjACGkoSjogCBqACGkoSj
-						ogCBxACGkoSjogCB4ACGkoSjogCB
-						/ACGkoSjogCBGAGGkoSjogCBNAGG
-						koSjogCBUAGGhgCGkoSWlgZOU0Zv
-						bnSGkoSEhAZOU0ZvbnQelJkohAVb
-						NDBjXQYAAAAeAAAA//5IAGUAbAB2
-						AGUAdABpAGMAYQAtAEIAbwBsAGQA
-						AACEAWYMmwCbAZsAmwCGhpcCgdQA
-						koSYmQOSmZKakpySnZKvkoSxmRyE
-						BVsyOGNdBgAAABQAAAD//kgAZQBs
-						AHYAZQB0AGkAYwBhAKUMmwCbAZsA
-						mwCGhpcDHpKEmJkDkpmShJubAZyD
-						za/mOIPNr+Y6g1mLfz8BhpKckoSe
-						nwAAhKGZDJKikqSSpZKmkqeSqJKp
-						kqqSq5Kskq2SroYAhpKvkrOGlwI1
-						lwEBlwKBjgKXBIFLApKEmJkDkpmS
-						hJubAZwAAAABhpKckoSenwAAhKGZ
-						DJKikqSSpZKmkqeSqJKpkqqSq5Ks
-						kq2SroYAhpKvkoSxmSCEBVszMmNd
-						BgAAABYAAAD//kEAbgBkAGEAbABl
-						AE0AbwBuAG8AAAClCpsAmwGbAJsA
-						hoaXAQmXAoEnApcFgbsAkoSYmQKS
-						nJKEnp8AAIShmQySopKkkqWSppKn
-						kqiSqZKqkquSrJKtkq6GAIaSr5KE
-						sZkkhAVbMzZjXQYAAAAcAAAA//5I
-						AGUAbAB2AGUAdABpAGMAYQBOAGUA
-						dQBlAKUMmwCbAZsAmwCGhpcGTpKE
-						mJkDkpmShJubAZyDAIDoOIMAuOY6
-						gz6Lfz8BhpKckr6Sr5LAhpcFA5cH
-						C5KEmJkDkpmSmpKckp2Sr5KEsZks
-						hAVbNDRjXQYAAAAkAAAA//5IAGUA
-						bAB2AGUAdABpAGMAYQAtAE8AYgBs
-						AGkAcQB1AGUApQybAJsBmwCbAIaG
-						lwKB4gCXAR6XAoGXAZcIgYgAkoSY
-						mQKSnJKdkq+Ss4aXAlOXCIFeAoY=
+						Mi4gIAoKVGhlIG5hbWUgYW5kIGRl
+						c2NyaXB0aW9uIG1heSBiZSBjb3Bp
+						ZWQgZnJvbSB0aGUgcHJvamVjdOKA
+						mXMg4oCYUkVBRE1FLm1k4oCZIGZp
+						bGUuICBUaGUgZGVzY3JpcHRpb24g
+						b2YgdGhlIHByb2plY3Qgc2hvdWxk
+						IGJlIGJyaWVmLCBjb3ZlcmluZyB0
+						aGUgbWFqb3IgdXNlcyBhbmQgZ29h
+						bHMgb2YgdGhlIHByb2plY3QuCgpU
+						aGUgbGlzdCBvZiBjb250cmlidXRv
+						cnMgaW4gdGhlIGFic3RyYWN0IG11
+						c3QgaW5jbHVkZSBhbGwgaW5kaXZp
+						ZHVhbHMgYW5kIGNvcnBvcmF0aW9u
+						cyB0aGF0IGhhdmUgcHJvdmlkZWQg
+						bW9yZSB0aGFuIOKAmGRlIG1pbmlt
+						dXPigJkgY29udHJpYnV0aW9ucyB0
+						byB0aGUgcHJvamVjdCBzaW5jZSB0
+						aGUgbGFzdCBtYWpvciByZXZpZXcu
+						ICBJZiB0aGUgbGVhZCBkZXZlbG9w
+						ZXIgYWxzbyBtYWRlIGNvbnRyaWJ1
+						dGlvbnMgdG8gdGhlIHByb2plY3Qs
+						IHRoZW4gaGUgb3Igc2hlIG11c3Qg
+						YmUgaW5jbHVkZWQgaW4gdGhpcyBs
+						aXN0LiAgRm9yIGVhY2ggY29udHJp
+						YnV0b3IsIGxpc3QgdGhlaXIgZnVs
+						bCBuYW1lIChMYXN0LCBGaXJzdCwg
+						TWlkZGxlIEluaXRpYWwpLCBFbWFp
+						bCBBZGRyZXNzLCBHaXRIdWIgbG9n
+						aW5zIChpZiBhcHBsaWNhYmxlKSwg
+						YW5kIEVtcGxveW1lbnQgQWZmaWxp
+						YXRpb24uICAgRm9yIGEgY29ycG9y
+						YXRpb24sIGxpc3QgYSBjb3Jwb3Jh
+						dGUgY29udGFjdC4gIOKAmERlIG1p
+						bmltdXPigJkgaXMgYSBsZWdhbCB0
+						ZXJtOyBpZiB0aGVyZSBhcmUgcXVl
+						c3Rpb25zIGFib3V0IHdoZXRoZXIg
+						b3Igbm90IGEgY29udHJpYnV0aW9u
+						IG1lZXRzIHRoaXMgc3RhbmRhcmQs
+						IGNvbnN1bHQgdGhlIEFSTCBDaGll
+						ZiBDb3Vuc2Vs4oCZcyBPZmZpY2Uu
+						CgpJZiB0aGUgZGV2ZWxvcGVycyBh
+						cmUgY2xhaW1pbmcgdGhhdCB0aGVy
+						ZSB3ZXJlIHNpZ25pZmljYW50IGFj
+						Y29tcGxpc2htZW50cywgbGlzdCBl
+						YWNoIGVhY2ggYWNjb21wbGlzaG1l
+						bnQgc2VwYXJhdGVseSwgYW5kIGV4
+						cGxhaW4gd2h5IGl0IHdhcyBhIG1h
+						am9yIGFjY29tcGxpc2htZW50LiAg
+						V3JpdGUgdGhlbSBpbiB0aGUgc2Ft
+						ZSBzdHlsZSBhcyB5b3Ugd291bGQg
+						dXNlIGZvciBsaXN0aW5nIHlvdXIg
+						eWVhci1lbmQgYWNjb21wbGlzaG1l
+						bnRzLiAgSWYgbm8gYWNjb21wbGlz
+						aG1lbnRzIGFyZSBiZWluZyBjbGFp
+						bWVkLCBjb3B5IHRoZSB0ZXh0IOKA
+						nFRoZXJlIHdlcmUgbm8gc2lnbmlm
+						aWNhbnQgYWNjb21wbGlzaG1lbnRz
+						IHNpbmNlIHRoZSBsYXN0IG1ham9y
+						IHJldmlld+KAnSBpbnRvIHlvdXIg
+						YWJzdHJhY3QuCgpUaGUgbGlzdCBv
+						ZiBpbnZlbnRpb25zIG11c3QgaW5j
+						bHVkZSBhbGwgaW52ZW50aW9ucyB0
+						aGF0IGFyZSBwb3RlbnRpYWxseSBw
+						YXRlbnRhYmxlLiAgRm9yIGVhY2gg
+						aW52ZW50aW9uLCBicmllZmx5IGV4
+						cGxhaW4gd2h5IGl0IGlzIGluIEFS
+						TOKAmXMgYmVzdCBpbnRlcmVzdCB0
+						byBub3QgcHVyc3VlIHBhdGVudCBw
+						cm90ZWN0aW9uLiAgUG9zc2libGUg
+						cmVhc29ucyBpbmNsdWRlIGVuY291
+						cmFnaW5nIHJlc2VhcmNoIGluIGEg
+						Z2l2ZW4gYXJlYSwgdGhlIG9idmlv
+						dXNuZXNzIG9mIHRoZSBpbnZlbnRp
+						b25zLCBvciB0aGUgaW1wcmFjdGlj
+						YWxpdHkgb2YgdGhlIGludmVudGlv
+						bi6GhAJpSQENkoSEhAxOU0RpY3Rp
+						b25hcnkAlIQBaQOShJaWB05TQ29s
+						b3KGkoSEhAdOU0NvbG9yAJSEAWMB
+						hARmZmZmAAAAAYaShJaWEE5TUGFy
+						YWdyYXBoU3R5bGWGkoSEhBdOU011
+						dGFibGVQYXJhZ3JhcGhTdHlsZQCE
+						hBBOU1BhcmFncmFwaFN0eWxlAJSE
+						BENDQFMAAISEhAdOU0FycmF5AJSZ
+						DJKEhIQJTlNUZXh0VGFiAJSEAkNm
+						AByGkoSjogA4hpKEo6IAVIaShKOi
+						AHCGkoSjogCBjACGkoSjogCBqACG
+						koSjogCBxACGkoSjogCB4ACGkoSj
+						ogCB/ACGkoSjogCBGAGGkoSjogCB
+						NAGGkoSjogCBUAGGhgCGkoSWlgZO
+						U0ZvbnSGkoSEhAZOU0ZvbnQelJko
+						hAVbNDBjXQYAAAAeAAAA//5IAGUA
+						bAB2AGUAdABpAGMAYQAtAEIAbwBs
+						AGQAAACEAWYMmwCbAZsAmwCGhpcC
+						gdQAkoSYmQOSmZKakpySnZKvkoSx
+						mRyEBVsyOGNdBgAAABQAAAD//kgA
+						ZQBsAHYAZQB0AGkAYwBhAKUMmwCb
+						AZsAmwCGhpcDHpKEmJkDkpmShJub
+						AZyDza/mOIPNr+Y6g1mLfz8BhpKc
+						koSenwAAhKGZDJKikqSSpZKmkqeS
+						qJKpkqqSq5Kskq2SroYAhpKvkrOG
+						lwI1lwEBlwKBjgKXBIFLApKEmJkD
+						kpmShJubAZwAAAABhpKckoSenwAA
+						hKGZDJKikqSSpZKmkqeSqJKpkqqS
+						q5Kskq2SroYAhpKvkoSxmSCEBVsz
+						MmNdBgAAABYAAAD//kEAbgBkAGEA
+						bABlAE0AbwBuAG8AAAClCpsAmwGb
+						AJsAhoaXAQmXAoGNApcFgS8BkoSY
+						mQKSnJKEnp8AAIShmQySopKkkqWS
+						ppKnkqiSqZKqkquSrJKtkq6GAIaS
+						r5KEsZkkhAVbMzZjXQYAAAAcAAAA
+						//5IAGUAbAB2AGUAdABpAGMAYQBO
+						AGUAdQBlAKUMmwCbAZsAmwCGhpcC
+						gTkBlwRHlwIUlwWBRwGG
 						</data>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 AndaleMono;\f2\fnil\fcharset0 HelveticaNeue;
 }
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue255;\red0\green0\blue255;
-}
-{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c0;\csgenericrgb\c11\c176\c99822;\cssrgb\c1680\c19835\c100000;
-}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue255;}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c0;\csgenericrgb\c11\c176\c99822;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\b\fs24 \cf2      Box 1e. 
@@ -14063,16 +14003,20 @@ Questions regarding how to write a \'91LICENSE.txt\'92 file should be directed t
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\b\fs24 \cf2    Box 2.
-\b0  The lead developer or COR is responsible for writing a brief abstract containing all the elements listed in Section 1, Part C, Box 2.  The name and description may be copied from the project\'92s \'91README.md\'92 file.  The list of contributors in the abstract must include all individuals and corporations that have provided more than \'91de minimus\'92 contributions that are being distributed in the project.  If the lead developer also made contributions to the project, then he or she must be included in this list.  For each contributor, list their full name
-\f2 \cf0  (Last, First, Middle Initial), Email Address, GitHub logins (if applicable), and Employment Affiliation.   For a corporation, list a corporate contact. Example abstracts can be found at \cf4 https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions\cf0 .  
-\f0\i \cf2 Rationale: 
-\i0 The ARL Chief Counsel\'92s Office must verify that ARL has the necessary rights to redistribute the material in the project.  This can only be done if each contributor is known and their contractual obligations can be verified. \
-
-\b \
-                   Section 2.
-\b0  To be completed by the OPSEC/Technical Reviewer\
+\b0  The lead developer or COR is responsible for writing a brief abstract containing all the elements listed in Section 1, Part C, Box 2.  \
 \
-OPSEC/Technical reviewers must be Level 1 OPSEC reviewers that are also technically competent to review the material being submitted.  A reviewer may not review material that he or she personally created.  If necessary, more than one reviewer may sign this form; each reviewer will be responsible for the material that he or she did not personally create.  \cf0 Reviewers are not required to review material that has already been reviewed and approved, nor are they responsible for such material.  \cf2 The material being discussed is being proposed for release with the equivalent of \'93\cf0 DISTRIBUTION STATEMENT A. Approved for public release; distribution is unlimited.\'94 on ARL Form 1.  If any portion of the material cannot be publicly released, do not sign this form.  If it is safe to email the lead developer the reasons why it can\'92t be released, do so.  Otherwise, call a meeting at the earliest convenient time with the lead developer listed in Section 1, Part A, Box 4 and the supervisor listed in Section 3 to discuss the reasons why the material cannot be released as-is, as well as to discuss remediation steps that may allow the material, or portions of the material, to be released.}</string>
+The name and description may be copied from the project\'92s \'91README.md\'92 file.  The description of the project should be brief, covering the major uses and goals of the project.\
+\
+The list of contributors in the abstract must include all individuals and corporations that have provided more than \'91de minimus\'92 contributions to the project since the last major review.  If the lead developer also made contributions to the project, then he or she must be included in this list.  For each contributor, list their full name
+\f2 \cf0  (Last, First, Middle Initial), Email Address, GitHub logins (if applicable), and Employment Affiliation.   For a corporation, list a corporate contact.  \'91De minimus\'92 is a legal term; if there are questions about whether or not a contribution meets this standard, consult the ARL Chief Counsel\'92s Office.
+\f0 \cf2 \
+\
+If the developers are claiming that there were significant accomplishments, list each each accomplishment separately, and explain why it was a major accomplishment.  Write them in the same style as you would use for listing your year-end accomplishments.  If no accomplishments are being claimed, copy the text 
+\f1\fs20 \cf2 \'93There were no significant accomplishments since the last major review\'94
+\f0\fs24 \cf2  into your abstract.
+\f2 \cf0 \
+\
+The list of inventions must include all inventions that are potentially patentable.  For each invention, briefly explain why it is in ARL\'92s best interest to not pursue patent protection.  Possible reasons include encouraging research in a given area, the obviousness of the inventions, or the impracticality of the invention.}</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -14296,69 +14240,68 @@ OPSEC/Technical reviewers must be Level 1 OPSEC reviewers that are also technica
 						BAtzdHJlYW10eXBlZIHoA4QBQISE
 						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
 						hIQITlNPYmplY3QAhZKEhIQITlNT
-						dHJpbmcBlIQBK4FdDEluc3RydWN0
-						aW9ucyBmb3IgY2hlY2tib3ggOC4g
-						VGVjaG5pY2FsIHJldmlldyBvZiBz
-						b2Z0d2FyZSBpcyBzaW1pbGFyIHRv
-						IGEgdGVjaG5pY2FsL2VkaXRvcmlh
-						bCByZXZpZXcgb2YgYSBwYXBlcjsg
-						dGhlIHJldmlld2VyIGlzIGNoZWNr
-						aW5nIHRoYXQgdGhlIHNvZnR3YXJl
-						IGNhbiBjb21waWxlIGFuZCBydW4g
-						b24gYSBuZXcgbWFjaGluZSB1c2lu
-						ZyB0aGUgaW5zdHJ1Y3Rpb25zIHBy
-						b3ZpZGVkIHdpdGggdGhlIHByb2pl
-						Y3QsIGFuZCB0aGF0IHJlYXNvbmFi
-						bGUgZWZmb3J0cyBoYXZlIGJlZW4g
-						bWFkZSB0byBtZWV0IHNvZnR3YXJl
-						IGVuZ2luZWVyaW5nIGJlc3QgcHJh
-						Y3RpY2VzLiAgVXNlIHRoZSBEZXZl
-						bG9wZXLigJlzIENoZWNrbGlzdCBp
-						biBTZWN0aW9uIDEsIFBhcnQgQywg
-						Y2hlY2tib3ggMSwgYW5kIHRoZSBp
-						bnN0cnVjdGlvbnMgZm9yIHRoYXQg
-						c2VjdGlvbiBhcyBhIGd1aWRlIHdo
-						ZW4gcGVyZm9ybWluZyB0aGUgdGVj
-						aG5pY2FsIHJldmlldy4KCkluc3Ry
-						dWN0aW9ucyBmb3IgY2hlY2tib3gg
-						OS4gU29mdHdhcmUgdGhhdCBpcyBj
-						b25zaWRlcmVkIHRvIE1vZGVsaW5n
-						IGFuZCBTaW11bGF0aW9uIChNJlMp
-						IHNvZnR3YXJlIHVuZGVyIHRoZSB0
-						ZXJtcyBvZiBBcm15IFJlZ3VsYXRp
-						b24gNS0xMSBNYW5hZ2VtZW50IG9m
-						IEFybXkgTW9kZWxpbmcgYW5kIFNp
-						bXVsYXRpb24KCiAgICAgICAgICAg
-						ICAgICAgICBTZWN0aW9uIDMuIFRv
+						dHJpbmcBlIQBK4EwDlRoZSBsaXN0
+						IG9mIGV4dGVybmFsbHkgZGV2ZWxv
+						cGVkIHNvZnR3YXJlIHNob3VsZCBv
+						bmx5IGluY2x1ZGUgc29mdHdhcmUg
+						dGhhdCBpcyBiZWluZyBkaXJlY3Rs
+						eSBkaXN0cmlidXRlZCB3aXRoIHRo
+						ZSBwcm9qZWN0LiAgRG8gbm8gaW5j
+						bHVkZSBtYXRlcmlhbCB0aGF0IGlz
+						IGxpbmtlZCB0byBvciBvdGhlcndp
+						c2UgcmVmZXJlbmNlZCwgYnV0IG5v
+						dCBkaXN0cmlidXRlZCB3aXRoIHRo
+						ZSBzb2Z0d2FyZS4gIEZvciBleGFt
+						cGxlLCBwcm9qZWN0cyBtYXkgbGlu
+						ayB0byBzeXN0ZW0gbGlicmFyaWVz
+						IHRoYXQgYXJlIG5vdCBkaXN0cmli
+						dXRlZCB3aXRoIHRoZSBwcm9qZWN0
+						LiAgRG8gbm90IGxpc3QgdGhlc2Ug
+						bGlicmFyaWVzLgoKRXhhbXBsZSBh
+						YnN0cmFjdHMgY2FuIGJlIGZvdW5k
+						IGF0IGh0dHBzOi8vZ2l0aHViLmNv
+						bS9VU0FybXlSZXNlYXJjaExhYi9B
+						UkwtT3Blbi1Tb3VyY2UtR3VpZGFu
+						Y2UtYW5kLUluc3RydWN0aW9ucy4g
+						IFJhdGlvbmFsZTogVGhlIEFSTCBD
+						aGllZiBDb3Vuc2Vs4oCZcyBPZmZp
+						Y2UgbXVzdCB2ZXJpZnkgdGhhdCBB
+						UkwgaGFzIHRoZSBuZWNlc3Nhcnkg
+						cmlnaHRzIHRvIHJlZGlzdHJpYnV0
+						ZSB0aGUgbWF0ZXJpYWwgaW4gdGhl
+						IHByb2plY3QuICBUaGlzIGNhbiBv
+						bmx5IGJlIGRvbmUgaWYgZWFjaCBj
+						b250cmlidXRvciBpcyBrbm93biBh
+						bmQgdGhlaXIgY29udHJhY3R1YWwg
+						b2JsaWdhdGlvbnMgY2FuIGJlIHZl
+						cmlmaWVkLiAKCiAgICAgICAgICAg
+						ICAgICAgICBTZWN0aW9uIDIuIFRv
 						IGJlIGNvbXBsZXRlZCBieSB0aGUg
-						bGVhZCBkZXZlbG9wZXLigJlzIHN1
-						cGVydmlzb3IKClRoZSBsZWFkIGRl
-						dmVsb3BlcuKAmXMgZmlyc3QtbGlu
-						ZSBzdXBlcnZpc29yIHJldmlld3Mg
-						dGhpcyBkb2N1bWVudCBmb3IgY29y
-						cmVjdG5lc3MsIGFuZCB0byBlbnN1
-						cmUgdGhhdCB0aGUgbWF0ZXJpYWwg
-						aXMgYXBwcm9wcmlhdGUgZm9yIHJl
-						bGVhc2UgYXMgT3BlbiBTb3VyY2Ug
-						c29mdHdhcmUuICBJbiBhZGRpdGlv
-						biwgaWYgY2hlY2tib3ggMyBpbiBT
-						ZWN0aW9uIDEsIFBhcnQgQiBpcyBj
-						aGVja2VkLCB0aGVuIHRoZSBzdXBl
-						cnZpc29yIGlzIHJlc3BvbnNpYmxl
-						IGZvciBldmFsdWF0aW5nIHRoZSBj
-						bGFpbXMgaW4gdGhlIGFic3RyYWN0
-						IGFuZCByYXRpbmcgdGhlbS4gIFRo
-						ZSBzdXBlcnZpc29yIGlzIGFsc28g
-						cmVzcG9uc2libGUgZm9yIGFwcG9y
-						dGlvbmluZyBjcmVkaXQgZm9yIGFj
-						Y29tcGxpc2htZW50cyBiZXR3ZWVu
-						IGFsbCBwcmluY2lwYWwgZGV2ZWxv
-						cGVycyBsaXN0ZWQgaW4gdGhlIGFi
-						c3RyYWN0IGZvciB0aGUgcHVycG9z
-						ZXMgb2YgcmF0aW5ncyBhdCB0aGUg
-						ZW5kIG9mIHRoZSB5ZWFyLgoKICAg
-						ICAgICAgICAgICAgICAgU2VjdGlv
-						biA0LiBTZWN1cml0eQoKVGhlIG1h
+						T1BTRUMvVGVjaG5pY2FsIFJldmll
+						d2VyCgpPUFNFQy9UZWNobmljYWwg
+						cmV2aWV3ZXJzIG11c3QgYmUgTGV2
+						ZWwgMSBPUFNFQyByZXZpZXdlcnMg
+						dGhhdCBhcmUgYWxzbyB0ZWNobmlj
+						YWxseSBjb21wZXRlbnQgdG8gcmV2
+						aWV3IHRoZSBtYXRlcmlhbCBiZWlu
+						ZyBzdWJtaXR0ZWQuICBBIHJldmll
+						d2VyIG1heSBub3QgcmV2aWV3IG1h
+						dGVyaWFsIHRoYXQgaGUgb3Igc2hl
+						IHBlcnNvbmFsbHkgY3JlYXRlZC4g
+						IElmIG5lY2Vzc2FyeSwgbW9yZSB0
+						aGFuIG9uZSByZXZpZXdlciBtYXkg
+						c2lnbiB0aGlzIGZvcm07IGVhY2gg
+						cmV2aWV3ZXIgd2lsbCBiZSByZXNw
+						b25zaWJsZSBmb3IgdGhlIG1hdGVy
+						aWFsIHRoYXQgaGUgb3Igc2hlIGRp
+						ZCBub3QgcGVyc29uYWxseSBjcmVh
+						dGUuICBSZXZpZXdlcnMgYXJlIG5v
+						dCByZXF1aXJlZCB0byByZXZpZXcg
+						bWF0ZXJpYWwgdGhhdCBoYXMgYWxy
+						ZWFkeSBiZWVuIHJldmlld2VkIGFu
+						ZCBhcHByb3ZlZCwgbm9yIGFyZSB0
+						aGV5IHJlc3BvbnNpYmxlIGZvciBz
+						dWNoIG1hdGVyaWFsLiAgVGhlIG1h
 						dGVyaWFsIGJlaW5nIGRpc2N1c3Nl
 						ZCBpcyBiZWluZyBwcm9wb3NlZCBm
 						b3IgcmVsZWFzZSB3aXRoIHRoZSBl
@@ -14372,169 +14315,187 @@ OPSEC/Technical reviewers must be Level 1 OPSEC reviewers that are also technica
 						IGNhbm5vdCBiZSBwdWJsaWNseSBy
 						ZWxlYXNlZCwgZG8gbm90IHNpZ24g
 						dGhpcyBmb3JtLiAgSWYgaXQgaXMg
-						c2FmZSB0byBlbWFpbCB0aGUgcHJp
-						bmNpcGFsIGRldmVsb3BlcnMgdGhl
-						IHJlYXNvbnMgd2h5IGl0IGNhbuKA
-						mXQgYmUgcmVsZWFzZWQsIGRvIHNv
-						LiAgT3RoZXJ3aXNlLCBjYWxsIGEg
-						bWVldGluZyBhdCB0aGUgZWFybGll
-						c3QgY29udmVuaWVudCB0aW1lIHdp
-						dGggdGhlIGxlYWQgZGV2ZWxvcGVy
-						IGxpc3RlZCBpbiBTZWN0aW9uIDEs
-						IFBhcnQgQSwgQm94IDQsIHRoZSBP
-						UFNFQy90ZWNobmljYWwgcmV2aWV3
-						ZXIocykgbGlzdGVkIGluIFNlY3Rp
-						b24gMiwgYW5kIHRoZSBzdXBlcnZp
-						c29yIGxpc3RlZCBpbiBTZWN0aW9u
-						IDMgdG8gZGlzY3VzcyB0aGUgcmVh
-						c29ucyB3aHkgdGhlIG1hdGVyaWFs
-						IGNhbm5vdCBiZSByZWxlYXNlZCBh
-						cy1pcywgYXMgd2VsbCBhcyB0byBk
-						aXNjdXNzIHJlbWVkaWF0aW9uIHN0
-						ZXBzIHRoYXQgbWF5IGFsbG93IHRo
-						ZSBtYXRlcmlhbCwgb3IgcG9ydGlv
-						bnMgb2YgdGhlIG1hdGVyaWFsLCB0
-						byBiZSByZWxlYXNlZC4KCiAgICAg
-						ICAgICAgICAgICAgIFNlY3Rpb24g
-						NS4gVG8gYmUgY29tcGxldGVkIGJ5
-						IHRoZSBBUkwgQ2hpZWYgQ291bnNl
-						bOKAmXMgb2ZmaWNlCgpSZXZpZXcg
-						dGhlIGVsZW1lbnRzIG9mIHRoZSBj
-						aGVja2xpc3RzIGluIFNlY3Rpb24g
-						NC4gIFRoZSBjaGVja2xpc3RzIGFy
-						ZSBhIHNldCBvZiBndWlkZWxpbmVz
-						IHRvIGJlIGNvbnNpZGVyZWQgd2hp
-						bGUgcGVyZm9ybWluZyB0aGUgbGVn
-						YWwgcmV2aWV3OyBpZiBvdGhlciBs
-						ZWdhbCBtYXR0ZXJzIGFyaXNlIGlu
-						IGEgcGFydGljdWxhciBjYXNlLCBy
-						ZXZpZXcgdGhlbSBhcyBuZWVkZWQu
-						ICAgICAgICAgCgogICAgICAgICAg
-						ICAgICAgICBTZWN0aW9uIDYuIFRv
-						IGJlIGNvbXBsZXRlZCBieSBhIG1l
-						bWJlciBvZiB0aGUgSW52ZW50aW9u
-						IEV2YWx1YXRpb24gQ29tbWl0dGVl
-						IChJRUMpCgpSZXZpZXcgdGhlIGlu
-						dmVudGlvbnMgZGlzY2xvc2VkIGlu
-						IHRoZSBhYnN0cmFjdCBhY2NvbXBh
-						bnlpbmcgdGhpcyBmb3JtLiAgSWYg
-						aW4geW91ciBvcGluaW9uIGl0IGlz
-						IGluIHRoZSBiZXN0IGludGVyZXN0
-						IG9mIHRoZSBnb3Zlcm5tZW50IHRv
-						IHdhaXZlIGFueSBhbmQgYWxsIHBh
-						dGVudCByaWdodHMgQVJMIG1heSBi
-						ZSBhYmxlIHRvIGFzc2VydCBvciBl
-						c3RhYmxpc2ggaW4gdGhlIHNvZnR3
-						YXJlLCB0aGVuIHNpZ24gdGhpcyBk
-						b2N1bWVudC4gIElmIHlvdSBiZWxp
-						ZXZlIHRoYXQgQVJMIHNob3VsZCBw
-						dXJzdWUgcGF0ZW50aW5nIGFueSBv
-						ZiB0aGUgZGlzY2xvc2VkIGludmVu
-						dGlvbnMsIGRvIG5vdCBzaWduIHRo
-						aXMgZG9jdW1lbnQuICBUZWxsIHRo
-						ZSBsZWFkIGRldmVsb3BlciB3aGlj
-						aCBpbnZlbnRpb24ocykgeW91IGJl
-						bGlldmUgYXJlIHdvcnRoIHB1cnN1
-						aW5nIGEgcGF0ZW50IG9uLCBhbmQg
-						aW5mb3JtIHRoZSBJRUMgY2hhaXIg
-						YWJvdXQgeW91ciBkZWNpc2lvbi4g
-						IE5vdGU6IElmIHlvdSBkbyBub3Qg
-						c2lnbiB0aGlzIGRvY3VtZW50LCB0
-						aGVuIEFSTCBleHBlY3RzIGEgc2Vy
-						aW91cyBlZmZvcnQgdG8gcGF0ZW50
-						IHRoZSBpbnZlbnRpb24ocykgdG8g
-						YmUgdW5kZXJ0YWtlbiwgYW5kIGV4
-						cGVjdHMgdGhhdCB0aGVyZSBpcyBh
-						IGhpZ2ggcHJvYmFiaWxpdHkgdGhh
-						dCB0aGUgcGF0ZW50IHdpbGwgYmUg
-						aXNzdWVkLoaEAmlJAR2ShISEDE5T
-						RGljdGlvbmFyeQCUhAFpApKElpYQ
-						TlNQYXJhZ3JhcGhTdHlsZYaShISE
-						F05TTXV0YWJsZVBhcmFncmFwaFN0
-						eWxlAISEEE5TUGFyYWdyYXBoU3R5
-						bGUAlIQEQ0NAUwAAhISEB05TQXJy
-						YXkAlJkMkoSEhAlOU1RleHRUYWIA
-						lIQCQ2YAHIaShKCfADiGkoSgnwBU
-						hpKEoJ8AcIaShKCfAIGMAIaShKCf
-						AIGoAIaShKCfAIHEAIaShKCfAIHg
-						AIaShKCfAIH8AIaShKCfAIEYAYaS
-						hKCfAIE0AYaShKCfAIFQAYaGAIaS
-						hJaWBk5TRm9udIaShISEBk5TRm9u
-						dB6UmSyEBVs0NGNdBgAAACQAAAD/
-						/kgAZQBsAHYAZQB0AGkAYwBhAC0A
-						TwBiAGwAaQBxAHUAZQCEAWYMhAFj
-						AKMBowCjAIaGlwKBxwGShJiZApKZ
-						kpqSrJKErpkchAVbMjhjXQYAAAAU
-						AAAA//5IAGUAbAB2AGUAdABpAGMA
-						YQCiDKMAowGjAKMAhoaXARyXAoGa
-						AJcDHpKEmJkDkoSWlgdOU0NvbG9y
-						hpKEhIQHTlNDb2xvcgCUowGEBGZm
-						ZmYAAAABhpKZkpqSrJKErpkohAVb
-						NDBjXQYAAAAeAAAA//5IAGUAbAB2
-						AGUAdABpAGMAYQAtAEIAbwBsAGQA
-						AACiDKMAowGjAKMAhoaXBIEzApKE
-						mJkDkrKSs5KZkpqSrJKwhpcDHJcE
-						XpcCgZwClwUckoSYmQOSspKEtKMB
-						pgAAAAGGkpmShJucAACEnpkMkp+S
-						oZKikqOSpJKlkqaSp5KokqmSqpKr
-						hoEAAoQEWzFmXSSGkqyStYaXBoEN
-						AZKEmJkDkrKSuJKZkrmSrJKwhpcF
-						CZcGAZcDHZcESZcGgYoAlweBaAGS
-						hJiZBZKElpYGTlNLZXJuhpKEhIQI
-						TlNOdW1iZXIAhIQHTlNWYWx1ZQCU
-						hAEqhIQBZKwAhpKskrCSspK4kpmS
-						hJucAACEnpkMkp+SoZKikqOSpJKl
-						kqaSp5KokqmSqpKrhoEAAqgkhpKE
-						lpYRTlNCYWNrZ3JvdW5kQ29sb3KG
-						koS0owGmAYNS/n8/g27/fz8BhoaX
-						CAWShJiZBZK9kr6SrJKtkrKSuJKZ
-						ksKSxJLFhpcHgb4Ahg==
+						c2FmZSB0byBlbWFpbCB0aGUgbGVh
+						ZCBkZXZlbG9wZXIgdGhlIHJlYXNv
+						bnMgd2h5IGl0IGNhbuKAmXQgYmUg
+						cmVsZWFzZWQsIGRvIHNvLiAgT3Ro
+						ZXJ3aXNlLCBjYWxsIGEgbWVldGlu
+						ZyBhdCB0aGUgZWFybGllc3QgY29u
+						dmVuaWVudCB0aW1lIHdpdGggdGhl
+						IGxlYWQgZGV2ZWxvcGVyIGxpc3Rl
+						ZCBpbiBTZWN0aW9uIDEsIFBhcnQg
+						QSwgQm94IDQgYW5kIHRoZSBzdXBl
+						cnZpc29yIGxpc3RlZCBpbiBTZWN0
+						aW9uIDMgdG8gZGlzY3VzcyB0aGUg
+						cmVhc29ucyB3aHkgdGhlIG1hdGVy
+						aWFsIGNhbm5vdCBiZSByZWxlYXNl
+						ZCBhcy1pcywgYXMgd2VsbCBhcyB0
+						byBkaXNjdXNzIHJlbWVkaWF0aW9u
+						IHN0ZXBzIHRoYXQgbWF5IGFsbG93
+						IHRoZSBtYXRlcmlhbCwgb3IgcG9y
+						dGlvbnMgb2YgdGhlIG1hdGVyaWFs
+						LCB0byBiZSByZWxlYXNlZC4KCklu
+						c3RydWN0aW9ucyBmb3IgY2hlY2ti
+						b3ggOC4gVGVjaG5pY2FsIHJldmll
+						dyBvZiBzb2Z0d2FyZSBpcyBzaW1p
+						bGFyIHRvIGEgdGVjaG5pY2FsL2Vk
+						aXRvcmlhbCByZXZpZXcgb2YgYSBw
+						YXBlcjsgdGhlIHJldmlld2VyIGlz
+						IGNoZWNraW5nIHRoYXQgdGhlIHNv
+						ZnR3YXJlIGNhbiBjb21waWxlIGFu
+						ZCBydW4gb24gYSBuZXcgbWFjaGlu
+						ZSB1c2luZyB0aGUgaW5zdHJ1Y3Rp
+						b25zIHByb3ZpZGVkIHdpdGggdGhl
+						IHByb2plY3QsIGFuZCB0aGF0IHJl
+						YXNvbmFibGUgZWZmb3J0cyBoYXZl
+						IGJlZW4gbWFkZSB0byBtZWV0IHNv
+						ZnR3YXJlIGVuZ2luZWVyaW5nIGJl
+						c3QgcHJhY3RpY2VzLiAgVXNlIHRo
+						ZSBEZXZlbG9wZXLigJlzIENoZWNr
+						bGlzdCBpbiBTZWN0aW9uIDEsIFBh
+						cnQgQywgY2hlY2tib3ggMSwgYW5k
+						IHRoZSBpbnN0cnVjdGlvbnMgZm9y
+						IHRoYXQgc2VjdGlvbiBhcyBhIGd1
+						aWRlIHdoZW4gcGVyZm9ybWluZyB0
+						aGUgdGVjaG5pY2FsIHJldmlldy4K
+						Ckluc3RydWN0aW9ucyBmb3IgY2hl
+						Y2tib3ggOS4gU29mdHdhcmUgdGhh
+						dCBpcyBjb25zaWRlcmVkIHRvIE1v
+						ZGVsaW5nIGFuZCBTaW11bGF0aW9u
+						IChNJlMpIHNvZnR3YXJlIHVuZGVy
+						IHRoZSB0ZXJtcyBvZiBBcm15IFJl
+						Z3VsYXRpb24gNS0xMSBNYW5hZ2Vt
+						ZW50IG9mIEFybXkgTW9kZWxpbmcg
+						YW5kIFNpbXVsYXRpb24gcmVxdWly
+						ZXMgc3BlY2lhbCBoYW5kbGluZy4g
+						IEZpcnN0LCBjb25zdWx0IEFSTC1N
+						LTUtMiwgUmVsZWFzZSBvZiBNb2Rl
+						bHMgYW5kIFNpbXVsYXRpb25zIE91
+						dHNpZGUgQVJMOyBpZiB0aGUgbWF0
+						ZXJpYWwgaXMgY292ZXJlZCBieSBh
+						dCBsZWFzdCBvbmUgb2YgdGhlIGxp
+						c3RlZCBjYXRlZ29yaWVzLCB0aGVu
+						IGl0IG1heSBiZSByZWxlYXNlZCBv
+						dXRzaWRlIG9mIEFSTCB3aXRob3V0
+						IGZ1cnRoZXIgYXBwcm92YWwgZnJv
+						bSB0aGUgQXJteSBNb2RlbGluZyBh
+						bmQgU2ltdWxhdGlvbiBPZmZpY2Ug
+						KEFNU08pLiAgSWYgaXQgaXMgbm90
+						IGNvdmVyZWQgYnkgYW55IG9mIHRo
+						ZSBsaXN0ZWQgY2F0ZWdvcmllcywg
+						Y29uc3VsdCB3aXRoIHRoZSBBUkwg
+						Q2hpZWYgQ291bnNlbOKAmXMgT2Zm
+						aWNlLgoKICAgICAgICAgICAgICAg
+						ICAgIFNlY3Rpb24gMy4gVG8gYmUg
+						Y29tcGxldGVkIGJ5IHRoZSBsZWFk
+						IGRldmVsb3BlcuKAmXMgc3VwZXJ2
+						aXNvcgoKVGhlIGxlYWQgZGV2ZWxv
+						cGVy4oCZcyBmaXJzdC1saW5lIHN1
+						cGVydmlzb3IgcmV2aWV3cyB0aGlz
+						IGRvY3VtZW50IGZvciBjb3JyZWN0
+						bmVzcywgYW5kIHRvIGVuc3VyZSB0
+						aGF0IHRoZSBtYXRlcmlhbCBpcyBh
+						cHByb3ByaWF0ZSBmb3IgcmVsZWFz
+						ZSBhcyBPcGVuIFNvdXJjZSBzb2Z0
+						d2FyZS4gIEluIGFkZGl0aW9uLCBp
+						ZiBjaGVja2JveCAzIGluIFNlY3Rp
+						b24gMSwgUGFydCBCIGlzIGNoZWNr
+						ZWQsIHRoZW4gdGhlIHN1cGVydmlz
+						b3IgaXMgcmVzcG9uc2libGUgZm9y
+						IGV2YWx1YXRpbmcgdGhlIGNsYWlt
+						cyBpbiB0aGUgYWJzdHJhY3QgYW5k
+						IHJhdGluZyB0aGVtLiAgVGhlIHN1
+						cGVydmlzb3IgaXMgYWxzbyByZXNw
+						b25zaWJsZSBmb3IgYXBwb3J0aW9u
+						aW5nIGNyZWRpdCBmb3IgYWNjb21w
+						bGlzaG1lbnRzIGJldHdlZW4gYWxs
+						IHByaW5jaXBhbCBkZXZlbG9wZXJz
+						IGxpc3RlZCBpbiB0aGUgYWJzdHJh
+						Y3QgZm9yIHRoZSBwdXJwb3NlcyBv
+						ZiByYXRpbmdzIGF0IHRoZSBlbmQg
+						b2YgdGhlIHllYXIuhoQCaUkBgYYB
+						koSEhAxOU0RpY3Rpb25hcnkAlIQB
+						aQKShJaWEE5TUGFyYWdyYXBoU3R5
+						bGWGkoSEhBdOU011dGFibGVQYXJh
+						Z3JhcGhTdHlsZQCEhBBOU1BhcmFn
+						cmFwaFN0eWxlAJSEBENDQFMAAISE
+						hAdOU0FycmF5AJSZDJKEhIQJTlNU
+						ZXh0VGFiAJSEAkNmAByGkoSgnwA4
+						hpKEoJ8AVIaShKCfAHCGkoSgnwCB
+						jACGkoSgnwCBqACGkoSgnwCBxACG
+						koSgnwCB4ACGkoSgnwCB/ACGkoSg
+						nwCBGAGGkoSgnwCBNAGGkoSgnwCB
+						UAGGhgCGkoSWlgZOU0ZvbnSGkoSE
+						hAZOU0ZvbnQelJkkhAVbMzZjXQYA
+						AAAcAAAA//5IAGUAbAB2AGUAdABp
+						AGMAYQBOAGUAdQBlAIQBZgyEAWMA
+						owGjAKMAhoaXAk6ShJiZA5KElpYH
+						TlNDb2xvcoaShISEB05TQ29sb3IA
+						lKMBhARmZmZmg82v5jiDza/mOoNZ
+						i38/AYaSmZKEm5wAAISemQySn5Kh
+						kqKSo5KkkqWSppKnkqiSqZKqkquG
+						AIaSrJKthpcBA5cDC5KEmJkDkrCS
+						hLKjAaUAAAABhpKZkoSbnAAAhJ6Z
+						DJKfkqGSopKjkqSSpZKmkqeSqJKp
+						kqqSq4YAhpKskoSumSyEBVs0NGNd
+						BgAAACQAAAD//kgAZQBsAHYAZQB0
+						AGkAYwBhAC0ATwBiAGwAaQBxAHUA
+						ZQCiDKMAowGjAKMAhoaXBIHiAJKE
+						mJkDkrCStpKZkreSrJKErpkchAVb
+						MjhjXQYAAAAUAAAA//5IAGUAbAB2
+						AGUAdABpAGMAYQCiDKMAowGjAKMA
+						hoaXBR6ShJiZA5KwkraSmZK3kqyS
+						hK6ZKIQFWzQwY10GAAAAHgAAAP/+
+						SABlAGwAdgBlAHQAaQBjAGEALQBC
+						AG8AbABkAAAAogyjAKMBowCjAIaG
+						lwSBlwGXBoGIAJKEmJkCkpmSt5Ks
+						kruGlwRTlwaBXgKXBx+ShJiZApKZ
+						kreSrJK5hpcGgccBlwcclwaBxQCX
+						CIHDAJKEmJkFkoSWlgZOU0tlcm6G
+						koSEhAhOU051bWJlcgCEhAdOU1Zh
+						bHVlAJSEASqEhAFkrACGkoSWlgpO
+						U0xpZ2F0dXJlhpKEw6uEhAFxrQCG
+						kqySu5KZkoSbnAAAhJ6ZDJKfkqGS
+						opKjkqSSpZKmkqeSqJKpkqqSq4YA
+						hpKwkoSyowGlAAAAAYaGlwaBlQCX
+						BR6XBIExAoY=
 						</data>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;}
-{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c0;\cssrgb\c100000\c100000\c100000;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue255;\red0\green0\blue0;\red0\green0\blue0;
+}
+{\*\expandedcolortbl;;\csgenericrgb\c11\c176\c99822;\csgenericrgb\c0\c0\c0;\cssrgb\c0\c0\c0;
+}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\i\fs24 \cf0 Instructions for checkbox 8. 
+\f0\fs24 \cf0 The list of externally developed software should only include software that is being directly distributed with the project.  Do no include material that is linked to or otherwise referenced, but not distributed with the software.  For example, projects may link to system libraries that are not distributed with the project.  Do not list these libraries.\
+\
+Example abstracts can be found at \cf2 https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions\cf0 .  
+\f1\i \cf3 Rationale: 
+\i0 The ARL Chief Counsel\'92s Office must verify that ARL has the necessary rights to redistribute the material in the project.  This can only be done if each contributor is known and their contractual obligations can be verified. \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\b \cf3 \
+                   Section 2.
+\b0  To be completed by the OPSEC/Technical Reviewer\
+\
+OPSEC/Technical reviewers must be Level 1 OPSEC reviewers that are also technically competent to review the material being submitted.  A reviewer may not review material that he or she personally created.  If necessary, more than one reviewer may sign this form; each reviewer will be responsible for the material that he or she did not personally create.  \cf0 Reviewers are not required to review material that has already been reviewed and approved, nor are they responsible for such material.  \cf3 The material being discussed is being proposed for release with the equivalent of \'93\cf0 DISTRIBUTION STATEMENT A. Approved for public release; distribution is unlimited.\'94 on ARL Form 1.  If any portion of the material cannot be publicly released, do not sign this form.  If it is safe to email the lead developer the reasons why it can\'92t be released, do so.  Otherwise, call a meeting at the earliest convenient time with the lead developer listed in Section 1, Part A, Box 4 and the supervisor listed in Section 3 to discuss the reasons why the material cannot be released as-is, as well as to discuss remediation steps that may allow the material, or portions of the material, to be released.
+\i \
+\
+Instructions for checkbox 8. 
 \i0 Technical review of software is similar to a technical/editorial review of a paper; the reviewer is checking that the software can compile and run on a new machine using the instructions provided with the project, and that reasonable efforts have been made to meet software engineering best practices.  Use the Developer\'92s Checklist in Section 1, Part C, checkbox 1, and the instructions for that section as a guide when performing the technical review.\
 \
 
 \i Instructions for checkbox 9.
-\i0  Software that is considered to Modeling and Simulation (M&amp;S) software under the terms of Army Regulation 5-11 Management of Army Modeling and Simulation\
+\i0  Software that is considered to Modeling and Simulation (M&amp;S) software under the terms of Army Regulation 5-11 Management of Army Modeling and Simulation requires special handling.  First, consult \cf4 \expnd0\expndtw0\kerning0
+\CocoaLigature0 ARL-M-5-2, Release of Models and Simulations Outside ARL; if the material is covered by at least one of the listed categories, then it may be released outside of ARL without further approval from\cf0 \kerning1\expnd0\expndtw0 \CocoaLigature1  the Army Modeling and Simulation Office (AMSO).  If it is not covered by any of the listed categories, consult with the ARL Chief Counsel\'92s Office.\
 
-\b \cf2 \
+\b \cf3 \
                    Section 3.
 \b0  To be completed by the lead developer\'92s supervisor\
 \
-The lead developer\'92s first-line supervisor reviews this document for correctness, and to ensure that the material is appropriate for release as Open Source software.  In addition, if checkbox 3 in Section 1, Part B is checked, then the supervisor is responsible for evaluating the claims in the abstract and rating them.  The supervisor is also responsible for apportioning credit for accomplishments between all principal developers listed in the abstract for the purposes of ratings at the end of the year.\
-\
-
-\b                   Section 4.
-\b0  Security\
-\
-The material being discussed is being proposed for release with the equivalent of \'93\cf0 DISTRIBUTION STATEMENT A. Approved for public release; distribution is unlimited.\'94 on ARL Form 1.  If any portion of the material cannot be publicly released, do not sign this form.  If it is safe to email the principal developers the reasons why it can\'92t be released, do so.  Otherwise, call a meeting at the earliest convenient time with the lead developer listed in Section 1, Part A, Box 4, the OPSEC/technical reviewer(s) listed in Section 2, and the supervisor listed in Section 3 to discuss the reasons why the material cannot be released as-is, as well as to discuss remediation steps that may allow the material, or portions of the material, to be released.\
-\
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\pardirnatural\partightenfactor0
-
-\b \cf2                   Section 5.
-\b0  To be completed by the ARL Chief Counsel\'92s office\
-\
-Review the elements of the checklists in Section 4.  The checklists are a set of guidelines to be considered while performing the legal review; if other legal matters arise in a particular case, review them as needed.
-\b          
-\b0 \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-
-\b \cf2 \
-                  Section 6.
-\b0  To be completed by a member of the Invention Evaluation Committee (IEC)\
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\pardirnatural\partightenfactor0
-\cf2 \
-Review the inventions disclosed in the abstract accompanying this form.  If in your opinion it is in the best interest of the government \cb3 \expnd0\expndtw0\kerning0
-to waive any and all patent rights ARL may be able to assert or establish in the software, then sign this document.  If you believe that ARL should pursue patenting any of the disclosed inventions, do not sign this document.  Tell the lead developer which invention(s) you believe are worth pursuing a patent on, and inform the IEC chair about your decision.  
-\i Note:
-\i0  If you do not sign this document, then ARL expects a serious effort to patent the invention(s) to be undertaken, and expects that there is a high probability that the patent will be issued.}</string>
+The lead developer\'92s first-line supervisor reviews this document for correctness, and to ensure that the material is appropriate for release as Open Source software.  In addition, if checkbox 3 in Section 1, Part B is checked, then the supervisor is responsible for evaluating the claims in the abstract and rating them.  The supervisor is also responsible for apportioning credit for accomplishments between all principal developers listed in the abstract for the purposes of ratings at the end of the year.}</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -14758,90 +14719,221 @@ to waive any and all patent rights ARL may be able to assert or establish in the
 						BAtzdHJlYW10eXBlZIHoA4QBQISE
 						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
 						hIQITlNPYmplY3QAhZKEhIQITlNT
-						dHJpbmcBlIQBK4HSAiAgICAgICAg
-						ICAgICAgICAgICBTZWN0aW9uIDcu
-						IFRvIGJlIGNvbXBsZXRlZCBieSB0
-						aGUgVGVjaG5vbG9neSBUcmFuc2Zl
-						ciBPZmZpY2UKCkVuc3VyZSB0aGF0
-						IHRoZSBwcm9qZWN0IG5hbWUgZm9s
-						bG93cyB0aGUgaW5zdHJ1Y3Rpb25z
-						IGZvciBTZWN0aW9uIDEsIFBhcnQg
-						QSwgQm94IDIuICBJZiBjaGVja2Jv
-						eCAxIGluIFNlY3Rpb24gMSwgUGFy
-						dCBCIGlzIGNoZWNrZWQsIGNyZWF0
-						ZSBhIG5ldyByZXBvc2l0b3J5IGF0
-						IGh0dHBzOi8vZ2l0aHViLmNvbS91
-						c2FybXlyZXNlYXJjaGxhYiwgYW5k
-						IG1ha2UgZWFjaCBvZiB0aGUgZGV2
-						ZWxvcGVycyBsaXN0ZWQgaW4gU2Vj
-						dGlvbiAxLCBQYXJ0IEEsIEJveCAz
-						IGNvLW93bmVycyBvZiB0aGUgcmVw
-						b3NpdG9yeS4gIEFSTCBtdXN0IHJl
-						dGFpbiBvd25lcnNoaXAgb2YgdGhl
-						IHJlcG9zaXRvcnk7IGRlc2lnbmF0
-						ZWQgb2ZmaWNlcnMgd2l0aGluIHRo
-						ZSBUZWNobm9sb2d5IFRyYW5zZmVy
-						IE9mZmljZSB3aWxsIGJlIHJlc3Bv
-						bnNpYmxlIGZvciBtYWludGFpbmlu
-						ZyB0aGUgb3duZXJzaGlwIGFuZCBj
-						b250cm9sIG9mIHRoZSByZXBvc2l0
-						b3J5IG9uIGJlaGFsZiBvZiBBUkwu
-						ICBXcml0ZSB0aGUgVVJMIG9mIHRo
-						ZSByZXBvc2l0b3J5IGluIFNlY3Rp
-						b24gNywgUGFydCBBLiAgU2lnbiB0
-						aGUgZm9ybSwgYW5kIHJldHVybiBh
-						IGNvcHkgdG8gdGhlIGxlYWQgZGV2
-						ZWxvcGVyIGxpc3RlZCBpbiBTZWN0
-						aW9uIDEsIFBhcnQgQSwgQm94IDMu
-						hoQCaUkBHZKEhIQMTlNEaWN0aW9u
-						YXJ5AJSEAWkDkoSWlgdOU0NvbG9y
-						hpKEhIQHTlNDb2xvcgCUhAFjAYQE
-						ZmZmZgAAAAGGkoSWlhBOU1BhcmFn
-						cmFwaFN0eWxlhpKEhIQXTlNNdXRh
-						YmxlUGFyYWdyYXBoU3R5bGUAhIQQ
-						TlNQYXJhZ3JhcGhTdHlsZQCUhARD
-						Q0BTAACEhIQHTlNBcnJheQCUmQyS
-						hISECU5TVGV4dFRhYgCUhAJDZgAc
-						hpKEo6IAOIaShKOiAFSGkoSjogBw
-						hpKEo6IAgYwAhpKEo6IAgagAhpKE
-						o6IAgcQAhpKEo6IAgeAAhpKEo6IA
-						gfwAhpKEo6IAgRgBhpKEo6IAgTQB
-						hpKEo6IAgVABhoaBAAKEBFsxZl0k
-						hpKElpYGTlNGb250hpKEhIQGTlNG
-						b250HpSZKIQFWzQwY10GAAAAHgAA
-						AP/+SABlAGwAdgBlAHQAaQBjAGEA
-						LQBCAG8AbABkAAAAhAFmDJsAmwGb
-						AJsAhoaXAoHTAJKEmJkDkpmSmpKc
-						kp2Sr5KEsZkchAVbMjhjXQYAAAAU
-						AAAA//5IAGUAbAB2AGUAdABpAGMA
-						YQCmDJsAmwGbAJsAhoaXAySShJiZ
-						BZKElpYGTlNLZXJuhpKEhIQITlNO
-						dW1iZXIAhIQHTlNWYWx1ZQCUhAEq
-						hIQBZKsAhpKvkoSxmSSEBVszNmNd
-						BgAAABwAAAD//kgAZQBsAHYAZQB0
-						AGkAYwBhAE4AZQB1AGUApgybAJsB
-						mwCbAIaShJaWEU5TQmFja2dyb3Vu
+						dHJpbmcBlIQBK4FACiAgICAgICAg
+						ICAgICAgICAgIFNlY3Rpb24gNC4g
+						U2VjdXJpdHkKClRoZSBtYXRlcmlh
+						bCBiZWluZyBkaXNjdXNzZWQgaXMg
+						YmVpbmcgcHJvcG9zZWQgZm9yIHJl
+						bGVhc2Ugd2l0aCB0aGUgZXF1aXZh
+						bGVudCBvZiDigJxESVNUUklCVVRJ
+						T04gU1RBVEVNRU5UIEEuIEFwcHJv
+						dmVkIGZvciBwdWJsaWMgcmVsZWFz
+						ZTsgZGlzdHJpYnV0aW9uIGlzIHVu
+						bGltaXRlZC7igJ0gb24gQVJMIEZv
+						cm0gMS4gIElmIGFueSBwb3J0aW9u
+						IG9mIHRoZSBtYXRlcmlhbCBjYW5u
+						b3QgYmUgcHVibGljbHkgcmVsZWFz
+						ZWQsIGRvIG5vdCBzaWduIHRoaXMg
+						Zm9ybS4gIElmIGl0IGlzIHNhZmUg
+						dG8gZW1haWwgdGhlIHByaW5jaXBh
+						bCBkZXZlbG9wZXJzIHRoZSByZWFz
+						b25zIHdoeSBpdCBjYW7igJl0IGJl
+						IHJlbGVhc2VkLCBkbyBzby4gIE90
+						aGVyd2lzZSwgY2FsbCBhIG1lZXRp
+						bmcgYXQgdGhlIGVhcmxpZXN0IGNv
+						bnZlbmllbnQgdGltZSB3aXRoIHRo
+						ZSBsZWFkIGRldmVsb3BlciBsaXN0
+						ZWQgaW4gU2VjdGlvbiAxLCBQYXJ0
+						IEEsIEJveCA0LCB0aGUgT1BTRUMv
+						dGVjaG5pY2FsIHJldmlld2VyKHMp
+						IGxpc3RlZCBpbiBTZWN0aW9uIDIs
+						IGFuZCB0aGUgc3VwZXJ2aXNvciBs
+						aXN0ZWQgaW4gU2VjdGlvbiAzIHRv
+						IGRpc2N1c3MgdGhlIHJlYXNvbnMg
+						d2h5IHRoZSBtYXRlcmlhbCBjYW5u
+						b3QgYmUgcmVsZWFzZWQgYXMtaXMs
+						IGFzIHdlbGwgYXMgdG8gZGlzY3Vz
+						cyByZW1lZGlhdGlvbiBzdGVwcyB0
+						aGF0IG1heSBhbGxvdyB0aGUgbWF0
+						ZXJpYWwsIG9yIHBvcnRpb25zIG9m
+						IHRoZSBtYXRlcmlhbCwgdG8gYmUg
+						cmVsZWFzZWQuCgogICAgICAgICAg
+						ICAgICAgICBTZWN0aW9uIDUuIFRv
+						IGJlIGNvbXBsZXRlZCBieSB0aGUg
+						QVJMIENoaWVmIENvdW5zZWzigJlz
+						IG9mZmljZQoKUmV2aWV3IHRoZSBl
+						bGVtZW50cyBvZiB0aGUgY2hlY2ts
+						aXN0cyBpbiBTZWN0aW9uIDQuICBU
+						aGUgY2hlY2tsaXN0cyBhcmUgYSBz
+						ZXQgb2YgZ3VpZGVsaW5lcyB0byBi
+						ZSBjb25zaWRlcmVkIHdoaWxlIHBl
+						cmZvcm1pbmcgdGhlIGxlZ2FsIHJl
+						dmlldzsgaWYgb3RoZXIgbGVnYWwg
+						bWF0dGVycyBhcmlzZSBpbiBhIHBh
+						cnRpY3VsYXIgY2FzZSwgcmV2aWV3
+						IHRoZW0gYXMgbmVlZGVkLiAgICAg
+						ICAgIAoKICAgICAgICAgICAgICAg
+						ICAgU2VjdGlvbiA2LiBUbyBiZSBj
+						b21wbGV0ZWQgYnkgYSBtZW1iZXIg
+						b2YgdGhlIEludmVudGlvbiBFdmFs
+						dWF0aW9uIENvbW1pdHRlZSAoSUVD
+						KQoKUmV2aWV3IHRoZSBpbnZlbnRp
+						b25zIGRpc2Nsb3NlZCBpbiB0aGUg
+						YWJzdHJhY3QgYWNjb21wYW55aW5n
+						IHRoaXMgZm9ybS4gIElmIGluIHlv
+						dXIgb3BpbmlvbiBpdCBpcyBpbiB0
+						aGUgYmVzdCBpbnRlcmVzdCBvZiB0
+						aGUgZ292ZXJubWVudCB0byB3YWl2
+						ZSBhbnkgYW5kIGFsbCBwYXRlbnQg
+						cmlnaHRzIEFSTCBtYXkgYmUgYWJs
+						ZSB0byBhc3NlcnQgb3IgZXN0YWJs
+						aXNoIGluIHRoZSBzb2Z0d2FyZSwg
+						dGhlbiBzaWduIHRoaXMgZG9jdW1l
+						bnQuICBJZiB5b3UgYmVsaWV2ZSB0
+						aGF0IEFSTCBzaG91bGQgcHVyc3Vl
+						IHBhdGVudGluZyBhbnkgb2YgdGhl
+						IGRpc2Nsb3NlZCBpbnZlbnRpb25z
+						LCBkbyBub3Qgc2lnbiB0aGlzIGRv
+						Y3VtZW50LiAgVGVsbCB0aGUgbGVh
+						ZCBkZXZlbG9wZXIgd2hpY2ggaW52
+						ZW50aW9uKHMpIHlvdSBiZWxpZXZl
+						IGFyZSB3b3J0aCBwdXJzdWluZyBh
+						IHBhdGVudCBvbiwgYW5kIGluZm9y
+						bSB0aGUgSUVDIGNoYWlyIGFib3V0
+						IHlvdXIgZGVjaXNpb24uICBOb3Rl
+						OiBJZiB5b3UgZG8gbm90IHNpZ24g
+						dGhpcyBkb2N1bWVudCwgdGhlbiBB
+						UkwgZXhwZWN0cyBhIHNlcmlvdXMg
+						ZWZmb3J0IHRvIHBhdGVudCB0aGUg
+						aW52ZW50aW9uKHMpIHRvIGJlIHVu
+						ZGVydGFrZW4sIGFuZCBleHBlY3Rz
+						IHRoYXQgdGhlcmUgaXMgYSBoaWdo
+						IHByb2JhYmlsaXR5IHRoYXQgdGhl
+						IHBhdGVudCB3aWxsIGJlIGlzc3Vl
+						ZC4KCiAgICAgICAgICAgICAgICAg
+						ICBTZWN0aW9uIDcuIFRvIGJlIGNv
+						bXBsZXRlZCBieSB0aGUgVGVjaG5v
+						bG9neSBUcmFuc2ZlciBPZmZpY2UK
+						CkVuc3VyZSB0aGF0IHRoZSBwcm9q
+						ZWN0IG5hbWUgZm9sbG93cyB0aGUg
+						aW5zdHJ1Y3Rpb25zIGZvciBTZWN0
+						aW9uIDEsIFBhcnQgQSwgQm94IDIu
+						ICBJZiBjaGVja2JveCAxIGluIFNl
+						Y3Rpb24gMSwgUGFydCBCIGlzIGNo
+						ZWNrZWQsIGNyZWF0ZSBhIG5ldyBy
+						ZXBvc2l0b3J5IGF0IGh0dHBzOi8v
+						Z2l0aHViLmNvbS91c2FybXlyZXNl
+						YXJjaGxhYiwgYW5kIG1ha2UgZWFj
+						aCBvZiB0aGUgZGV2ZWxvcGVycyBs
+						aXN0ZWQgaW4gU2VjdGlvbiAxLCBQ
+						YXJ0IEEsIEJveCAzIGNvLW93bmVy
+						cyBvZiB0aGUgcmVwb3NpdG9yeS4g
+						IEFSTCBtdXN0IHJldGFpbiBvd25l
+						cnNoaXAgb2YgdGhlIHJlcG9zaXRv
+						cnk7IGRlc2lnbmF0ZWQgb2ZmaWNl
+						cnMgd2l0aGluIHRoZSBUZWNobm9s
+						b2d5IFRyYW5zZmVyIE9mZmljZSB3
+						aWxsIGJlIHJlc3BvbnNpYmxlIGZv
+						ciBtYWludGFpbmluZyB0aGUgb3du
+						ZXJzaGlwIGFuZCBjb250cm9sIG9m
+						IHRoZSByZXBvc2l0b3J5IG9uIGJl
+						aGFsZiBvZiBBUkwuICBXcml0ZSB0
+						aGUgVVJMIG9mIHRoZSByZXBvc2l0
+						b3J5IGluIFNlY3Rpb24gNywgUGFy
+						dCBBLiAgU2lnbiB0aGUgZm9ybSwg
+						YW5kIHJldHVybiBhIGNvcHkgdG8g
+						dGhlIGxlYWQgZGV2ZWxvcGVyIGxp
+						c3RlZCBpbiBTZWN0aW9uIDEsIFBh
+						cnQgQSwgQm94IDMuhoQCaUkBHJKE
+						hIQMTlNEaWN0aW9uYXJ5AJSEAWkD
+						koSWlgdOU0NvbG9yhpKEhIQHTlND
+						b2xvcgCUhAFjAYQEZmZmZgAAAAGG
+						koSWlhBOU1BhcmFncmFwaFN0eWxl
+						hpKEhIQXTlNNdXRhYmxlUGFyYWdy
+						YXBoU3R5bGUAhIQQTlNQYXJhZ3Jh
+						cGhTdHlsZQCUhARDQ0BTAACEhIQH
+						TlNBcnJheQCUmQyShISECU5TVGV4
+						dFRhYgCUhAJDZgAchpKEo6IAOIaS
+						hKOiAFSGkoSjogBwhpKEo6IAgYwA
+						hpKEo6IAgagAhpKEo6IAgcQAhpKE
+						o6IAgeAAhpKEo6IAgfwAhpKEo6IA
+						gRgBhpKEo6IAgTQBhpKEo6IAgVAB
+						hoYAhpKElpYGTlNGb250hpKEhIQG
+						TlNGb250HpSZKIQFWzQwY10GAAAA
+						HgAAAP/+SABlAGwAdgBlAHQAaQBj
+						AGEALQBCAG8AbABkAAAAhAFmDJsA
+						mwGbAJsAhoaXAl6ShJiZA5KZkpqS
+						nJKdkq+ShLGZHIQFWzI4Y10GAAAA
+						FAAAAP/+SABlAGwAdgBlAHQAaQBj
+						AGEApQybAJsBmwCbAIaGlwOBnAKS
+						hJiZApKckp2Sr5KzhpcEHJKEmJkD
+						kpmShJubAZwAAAABhpKckoSenwAA
+						hKGZDJKikqSSpZKmkqeSqJKpkqqS
+						q5Kskq2SroaBAAKEBFsxZl0khpKv
+						krCGlwWBDQGShJiZA5KZkraSnJK3
+						kq+Ss4aXBAmXBQGXAR2XAkmXBYGK
+						AJcGgWgBkoSYmQWShJaWBk5TS2Vy
+						boaShISECE5TTnVtYmVyAISEB05T
+						VmFsdWUAlIQBKoSEAWSrAIaSr5Kz
+						kpmStpKckoSenwAAhKGZDJKikqSS
+						pZKmkqeSqJKpkqqSq5Kskq2SroaB
+						AAKnJIaShJaWEU5TQmFja2dyb3Vu
 						ZENvbG9yhpKEm5sBnAGDUv5/P4Nu
-						/38/AYaSnJKEnp8AAIShmQySopKk
-						kqWSppKnkqiSqZKqkquSrJKtkq6G
-						gQACoySGkpmShJubAZwAAINQiX8/
-						AYaGlwKBvgGG
+						/38/AYaGlwcFkoSYmQWSu5K8kq+S
+						hLGZLIQFWzQ0Y10GAAAAJAAAAP/+
+						SABlAGwAdgBlAHQAaQBjAGEALQBP
+						AGIAbABpAHEAdQBlAKUMmwCbAZsA
+						mwCGkpmStpKcksCSwpLDhpcGgcAA
+						lwQdlwWB0wCXCCSShJiZBZK7kryS
+						r5KEsZkkhAVbMzZjXQYAAAAcAAAA
+						//5IAGUAbAB2AGUAdABpAGMAYQBO
+						AGUAdQBlAKUMmwCbAZsAmwCGksKS
+						hJubAZwBg1L+fz+Dbv9/PwGGkpyS
+						hJ6fAACEoZkMkqKSpJKlkqaSp5Ko
+						kqmSqpKrkqySrZKuhoEAAqckhpKZ
+						koSbmwGcAACDUIl/PwGGhpcFgb4B
+						hg==
 						</data>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue255;\red255\green255\blue255;
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;\red0\green0\blue255;
 }
-{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c0;\csgenericrgb\c0\c0\c99819;\cssrgb\c100000\c100000\c100000;
+{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c0;\cssrgb\c100000\c100000\c100000;\csgenericrgb\c0\c0\c99819;
 }
-\deftab720
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\b\fs24 \cf2                   Section 4.
+\b0  Security\
+\
+The material being discussed is being proposed for release with the equivalent of \'93\cf0 DISTRIBUTION STATEMENT A. Approved for public release; distribution is unlimited.\'94 on ARL Form 1.  If any portion of the material cannot be publicly released, do not sign this form.  If it is safe to email the principal developers the reasons why it can\'92t be released, do so.  Otherwise, call a meeting at the earliest convenient time with the lead developer listed in Section 1, Part A, Box 4, the OPSEC/technical reviewer(s) listed in Section 2, and the supervisor listed in Section 3 to discuss the reasons why the material cannot be released as-is, as well as to discuss remediation steps that may allow the material, or portions of the material, to be released.\
+\
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\pardirnatural\partightenfactor0
 
-\f0\b\fs24 \cf2                    Section 7.
+\b \cf2                   Section 5.
+\b0  To be completed by the ARL Chief Counsel\'92s office\
+\
+Review the elements of the checklists in Section 4.  The checklists are a set of guidelines to be considered while performing the legal review; if other legal matters arise in a particular case, review them as needed.
+\b          
+\b0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\b \cf2 \
+                  Section 6.
+\b0  To be completed by a member of the Invention Evaluation Committee (IEC)\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\pardirnatural\partightenfactor0
+\cf2 \
+Review the inventions disclosed in the abstract accompanying this form.  If in your opinion it is in the best interest of the government \cb3 \expnd0\expndtw0\kerning0
+to waive any and all patent rights ARL may be able to assert or establish in the software, then sign this document.  If you believe that ARL should pursue patenting any of the disclosed inventions, do not sign this document.  Tell the lead developer which invention(s) you believe are worth pursuing a patent on, and inform the IEC chair about your decision.  
+\i Note:
+\i0  If you do not sign this document, then ARL expects a serious effort to patent the invention(s) to be undertaken, and expects that there is a high probability that the patent will be issued.\
+\
+
+\b \cb1 \kerning1\expnd0\expndtw0                    Section 7.
 \b0  To be completed by the Technology Transfer Office\
 \
 Ensure that the project name follows the instructions for Section 1, Part A, Box 2.  If checkbox 1 in Section 1, Part B is checked, create a new repository at 
-\f1 \cf3 \cb4 \expnd0\expndtw0\kerning0
+\f1 \cf4 \cb3 \expnd0\expndtw0\kerning0
 https://github.com/usarmyresearchlab
 \f0 \cf2 \cb1 \kerning1\expnd0\expndtw0 , and make each of the developers listed in Section 1, Part A, Box 3 co-owners of the repository.  ARL must retain ownership of the repository; designated officers within the Technology Transfer Office will be responsible for maintaining the ownership and control of the repository on behalf of ARL.  Write the URL of the repository in Section 7, Part A.  Sign the form, and return a copy to the lead developer listed in Section 1, Part A, Box 3.}</string>
 					</dict>
@@ -15330,7 +15422,7 @@ Principal developer
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>10</integer>
+		<integer>0</integer>
 		<key>Expanded_Canvases</key>
 		<array>
 			<string>Canvas 7</string>

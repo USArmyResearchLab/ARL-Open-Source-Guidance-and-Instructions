@@ -28,7 +28,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2018-02-15 17:16:45 +0000</string>
+	<string>2018-02-15 17:23:40 +0000</string>
 	<key>Modifier</key>
 	<string>Cem Karan</string>
 	<key>NotesVisible</key>
@@ -14710,7 +14710,7 @@ The lead developer\'92s first-line supervisor reviews this document for correctn
 						BAtzdHJlYW10eXBlZIHoA4QBQISE
 						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
 						hIQITlNPYmplY3QAhZKEhIQITlNT
-						dHJpbmcBlIQBK4FACiAgICAgICAg
+						dHJpbmcBlIQBK4HWCiAgICAgICAg
 						ICAgICAgICAgIFNlY3Rpb24gNC4g
 						U2VjdXJpdHkKClRoZSBtYXRlcmlh
 						bCBiZWluZyBkaXNjdXNzZWQgaXMg
@@ -14801,95 +14801,102 @@ The lead developer\'92s first-line supervisor reviews this document for correctn
 						IHRoYXQgdGhlcmUgaXMgYSBoaWdo
 						IHByb2JhYmlsaXR5IHRoYXQgdGhl
 						IHBhdGVudCB3aWxsIGJlIGlzc3Vl
-						ZC4KCiAgICAgICAgICAgICAgICAg
-						ICBTZWN0aW9uIDcuIFRvIGJlIGNv
-						bXBsZXRlZCBieSB0aGUgVGVjaG5v
-						bG9neSBUcmFuc2ZlciBPZmZpY2UK
-						CkVuc3VyZSB0aGF0IHRoZSBwcm9q
-						ZWN0IG5hbWUgZm9sbG93cyB0aGUg
-						aW5zdHJ1Y3Rpb25zIGZvciBTZWN0
-						aW9uIDEsIFBhcnQgQSwgQm94IDIu
-						ICBJZiBjaGVja2JveCAxIGluIFNl
-						Y3Rpb24gMSwgUGFydCBCIGlzIGNo
-						ZWNrZWQsIGNyZWF0ZSBhIG5ldyBy
-						ZXBvc2l0b3J5IGF0IGh0dHBzOi8v
-						Z2l0aHViLmNvbS91c2FybXlyZXNl
-						YXJjaGxhYiwgYW5kIG1ha2UgZWFj
-						aCBvZiB0aGUgZGV2ZWxvcGVycyBs
-						aXN0ZWQgaW4gU2VjdGlvbiAxLCBQ
-						YXJ0IEEsIEJveCAzIGNvLW93bmVy
-						cyBvZiB0aGUgcmVwb3NpdG9yeS4g
-						IEFSTCBtdXN0IHJldGFpbiBvd25l
-						cnNoaXAgb2YgdGhlIHJlcG9zaXRv
-						cnk7IGRlc2lnbmF0ZWQgb2ZmaWNl
-						cnMgd2l0aGluIHRoZSBUZWNobm9s
-						b2d5IFRyYW5zZmVyIE9mZmljZSB3
-						aWxsIGJlIHJlc3BvbnNpYmxlIGZv
-						ciBtYWludGFpbmluZyB0aGUgb3du
-						ZXJzaGlwIGFuZCBjb250cm9sIG9m
-						IHRoZSByZXBvc2l0b3J5IG9uIGJl
-						aGFsZiBvZiBBUkwuICBXcml0ZSB0
-						aGUgVVJMIG9mIHRoZSByZXBvc2l0
-						b3J5IGluIFNlY3Rpb24gNywgUGFy
-						dCBBLiAgU2lnbiB0aGUgZm9ybSwg
-						YW5kIHJldHVybiBhIGNvcHkgdG8g
-						dGhlIGxlYWQgZGV2ZWxvcGVyIGxp
-						c3RlZCBpbiBTZWN0aW9uIDEsIFBh
-						cnQgQSwgQm94IDMuhoQCaUkBHJKE
-						hIQMTlNEaWN0aW9uYXJ5AJSEAWkD
-						koSWlgdOU0NvbG9yhpKEhIQHTlND
-						b2xvcgCUhAFjAYQEZmZmZgAAAAGG
-						koSWlhBOU1BhcmFncmFwaFN0eWxl
-						hpKEhIQXTlNNdXRhYmxlUGFyYWdy
-						YXBoU3R5bGUAhIQQTlNQYXJhZ3Jh
-						cGhTdHlsZQCUhARDQ0BTAACEhIQH
-						TlNBcnJheQCUmQyShISECU5TVGV4
-						dFRhYgCUhAJDZgAchpKEo6IAOIaS
-						hKOiAFSGkoSjogBwhpKEo6IAgYwA
-						hpKEo6IAgagAhpKEo6IAgcQAhpKE
-						o6IAgeAAhpKEo6IAgfwAhpKEo6IA
-						gRgBhpKEo6IAgTQBhpKEo6IAgVAB
-						hoYAhpKElpYGTlNGb250hpKEhIQG
-						TlNGb250HpSZKIQFWzQwY10GAAAA
-						HgAAAP/+SABlAGwAdgBlAHQAaQBj
-						AGEALQBCAG8AbABkAAAAhAFmDJsA
-						mwGbAJsAhoaXAl2ShJiZA5KZkpqS
-						nJKdkq+ShLGZHIQFWzI4Y10GAAAA
-						FAAAAP/+SABlAGwAdgBlAHQAaQBj
-						AGEApQybAJsBmwCbAIaGlwMBkoSY
-						mQOSmZKEm5sBnAAAAAGGkpyShJ6f
-						AACEoZkMkqKSpJKlkqaSp5KokqmS
-						qpKrkqySrZKuhgCGkq+ShLGZIIQF
-						WzMyY10GAAAAFgAAAP/+QQBuAGQA
-						YQBsAGUATQBvAG4AbwAAAKUKmwCb
-						AZsAmwCGhpcEUpKEmJkCkpySnZKv
-						kriGlwWBSgKShJiZApKckp2Sr5Kz
-						hpcGHJKEmJkDkpmShJubAZwAAAAB
-						hpKckoSenwAAhKGZDJKikqSSpZKm
-						kqeSqJKpkqqSq5Kskq2SroaBAAKE
-						BFsxZl0khpKvkrCGlweBDQGShJiZ
-						A5KZkrySnJK9kq+Ss4aXBgmXBwGX
-						AR2XAkmXB4GKAJcIgWgBkoSYmQWS
-						hJaWBk5TS2VyboaShISECE5TTnVt
-						YmVyAISEB05TVmFsdWUAlIQBKoSE
-						AWSsAIaSr5KzkpmSvJKckoSenwAA
-						hKGZDJKikqSSpZKmkqeSqJKpkqqS
-						q5Kskq2SroaBAAKoJIaShJaWEU5T
-						QmFja2dyb3VuZENvbG9yhpKEm5sB
-						nAGDUv5/P4Nu/38/AYaGlwkFkoSY
-						mQWSwZLCkq+ShLGZLIQFWzQ0Y10G
-						AAAAJAAAAP/+SABlAGwAdgBlAHQA
-						aQBjAGEALQBPAGIAbABpAHEAdQBl
-						AKUMmwCbAZsAmwCGkpmSvJKcksaS
-						yJLJhpcIgcAAlwYdlweB0wCXCiSS
-						hJiZBZLBksKSr5KEsZkkhAVbMzZj
-						XQYAAAAcAAAA//5IAGUAbAB2AGUA
-						dABpAGMAYQBOAGUAdQBlAKUMmwCb
-						AZsAmwCGksiShJubAZwBg1L+fz+D
-						bv9/PwGGkpyShJ6fAACEoZkMkqKS
-						pJKlkqaSp5KokqmSqpKrkqySrZKu
-						hoEAAqgkhpKZkoSbmwGcAACDUIl/
-						PwGGhpcHgb4Bhg==
+						ZC4gIFJhdGlvbmFsZTogSW52ZW50
+						aW9ucyBjYW4gYmUgdmFsdWFibGUg
+						aW50ZWxsZWN0dWFsIHByb3BlcnR5
+						LiAgV2hpbGUgdGhlIHByaW5jaXBh
+						bCBkZXZlbG9wZXJzIG1heSBiZWxp
+						ZXZlIHRoYXQgdGhlIGludmVudGlv
+						bnMgYXJlIG5vdCB3b3J0aCBwYXRl
+						bnRpbmcKCiAgICAgICAgICAgICAg
+						ICAgICBTZWN0aW9uIDcuIFRvIGJl
+						IGNvbXBsZXRlZCBieSB0aGUgVGVj
+						aG5vbG9neSBUcmFuc2ZlciBPZmZp
+						Y2UKCkVuc3VyZSB0aGF0IHRoZSBw
+						cm9qZWN0IG5hbWUgZm9sbG93cyB0
+						aGUgaW5zdHJ1Y3Rpb25zIGZvciBT
+						ZWN0aW9uIDEsIFBhcnQgQSwgQm94
+						IDIuICBJZiBjaGVja2JveCAxIGlu
+						IFNlY3Rpb24gMSwgUGFydCBCIGlz
+						IGNoZWNrZWQsIGNyZWF0ZSBhIG5l
+						dyByZXBvc2l0b3J5IGF0IGh0dHBz
+						Oi8vZ2l0aHViLmNvbS91c2FybXly
+						ZXNlYXJjaGxhYiwgYW5kIG1ha2Ug
+						ZWFjaCBvZiB0aGUgZGV2ZWxvcGVy
+						cyBsaXN0ZWQgaW4gU2VjdGlvbiAx
+						LCBQYXJ0IEEsIEJveCAzIGNvLW93
+						bmVycyBvZiB0aGUgcmVwb3NpdG9y
+						eS4gIEFSTCBtdXN0IHJldGFpbiBv
+						d25lcnNoaXAgb2YgdGhlIHJlcG9z
+						aXRvcnk7IGRlc2lnbmF0ZWQgb2Zm
+						aWNlcnMgd2l0aGluIHRoZSBUZWNo
+						bm9sb2d5IFRyYW5zZmVyIE9mZmlj
+						ZSB3aWxsIGJlIHJlc3BvbnNpYmxl
+						IGZvciBtYWludGFpbmluZyB0aGUg
+						b3duZXJzaGlwIGFuZCBjb250cm9s
+						IG9mIHRoZSByZXBvc2l0b3J5IG9u
+						IGJlaGFsZiBvZiBBUkwuICBXcml0
+						ZSB0aGUgVVJMIG9mIHRoZSByZXBv
+						c2l0b3J5IGluIFNlY3Rpb24gNywg
+						UGFydCBBLiAgU2lnbiB0aGUgZm9y
+						bSwgYW5kIHJldHVybiBhIGNvcHkg
+						dG8gdGhlIGxlYWQgZGV2ZWxvcGVy
+						IGxpc3RlZCBpbiBTZWN0aW9uIDEs
+						IFBhcnQgQSwgQm94IDMuhoQCaUkB
+						HJKEhIQMTlNEaWN0aW9uYXJ5AJSE
+						AWkDkoSWlgdOU0NvbG9yhpKEhIQH
+						TlNDb2xvcgCUhAFjAYQEZmZmZgAA
+						AAGGkoSWlhBOU1BhcmFncmFwaFN0
+						eWxlhpKEhIQXTlNNdXRhYmxlUGFy
+						YWdyYXBoU3R5bGUAhIQQTlNQYXJh
+						Z3JhcGhTdHlsZQCUhARDQ0BTAACE
+						hIQHTlNBcnJheQCUmQyShISECU5T
+						VGV4dFRhYgCUhAJDZgAchpKEo6IA
+						OIaShKOiAFSGkoSjogBwhpKEo6IA
+						gYwAhpKEo6IAgagAhpKEo6IAgcQA
+						hpKEo6IAgeAAhpKEo6IAgfwAhpKE
+						o6IAgRgBhpKEo6IAgTQBhpKEo6IA
+						gVABhoYAhpKElpYGTlNGb250hpKE
+						hIQGTlNGb250HpSZKIQFWzQwY10G
+						AAAAHgAAAP/+SABlAGwAdgBlAHQA
+						aQBjAGEALQBCAG8AbABkAAAAhAFm
+						DJsAmwGbAJsAhoaXAl2ShJiZA5KZ
+						kpqSnJKdkq+ShLGZHIQFWzI4Y10G
+						AAAAFAAAAP/+SABlAGwAdgBlAHQA
+						aQBjAGEApQybAJsBmwCbAIaGlwMB
+						koSYmQOSmZKEm5sBnAAAAAGGkpyS
+						hJ6fAACEoZkMkqKSpJKlkqaSp5Ko
+						kqmSqpKrkqySrZKuhgCGkq+ShLGZ
+						IIQFWzMyY10GAAAAFgAAAP/+QQBu
+						AGQAYQBsAGUATQBvAG4AbwAAAKUK
+						mwCbAZsAmwCGhpcEUpKEmJkCkpyS
+						nZKvkriGlwWBSgKShJiZApKckp2S
+						r5KzhpcGHJKEmJkDkpmShJubAZwA
+						AAABhpKckoSenwAAhKGZDJKikqSS
+						pZKmkqeSqJKpkqqSq5Kskq2SroaB
+						AAKEBFsxZl0khpKvkrCGlweBDQGS
+						hJiZA5KZkrySnJK9kq+Ss4aXBgmX
+						BwGXAR2XAkmXB4GKAJcIgWgBkoSY
+						mQWShJaWBk5TS2VyboaShISECE5T
+						TnVtYmVyAISEB05TVmFsdWUAlIQB
+						KoSEAWSsAIaSr5KzkpmSvJKckoSe
+						nwAAhKGZDJKikqSSpZKmkqeSqJKp
+						kqqSq5Kskq2SroaBAAKoJIaShJaW
+						EU5TQmFja2dyb3VuZENvbG9yhpKE
+						m5sBnAGDUv5/P4Nu/38/AYaGlwkF
+						koSYmQWSwZLCkq+ShLGZLIQFWzQ0
+						Y10GAAAAJAAAAP/+SABlAGwAdgBl
+						AHQAaQBjAGEALQBPAGIAbABpAHEA
+						dQBlAKUMmwCbAZsAmwCGkpmSvJKc
+						ksaSyJLJhpcIgcAAlwkJlwiBjQCX
+						Bh2XB4HTAJcKJJKEmJkFksGSwpKv
+						koSxmSSEBVszNmNdBgAAABwAAAD/
+						/kgAZQBsAHYAZQB0AGkAYwBhAE4A
+						ZQB1AGUApQybAJsBmwCbAIaSyJKE
+						m5sBnAGDUv5/P4Nu/38/AYaSnJKE
+						np8AAIShmQySopKkkqWSppKnkqiS
+						qZKqkquSrJKtkq6GgQACqCSGkpmS
+						hJubAZwAAINQiX8/AYaGlweBvgGG
 						</data>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
@@ -14926,7 +14933,9 @@ Review the elements of the checklists in Section 4.  The checklists are a set of
 Review the inventions disclosed in the abstract accompanying this form.  If in your opinion it is in the best interest of the government \cb3 \expnd0\expndtw0\kerning0
 to waive any and all patent rights ARL may be able to assert or establish in the software, then sign this document.  If you believe that ARL should pursue patenting any of the disclosed inventions, do not sign this document.  Tell the lead developer which invention(s) you believe are worth pursuing a patent on, and inform the IEC chair about your decision.  
 \i Note:
-\i0  If you do not sign this document, then ARL expects a serious effort to patent the invention(s) to be undertaken, and expects that there is a high probability that the patent will be issued.\
+\i0  If you do not sign this document, then ARL expects a serious effort to patent the invention(s) to be undertaken, and expects that there is a high probability that the patent will be issued.  
+\i Rationale
+\i0 : Inventions can be valuable intellectual property.  While the principal developers may believe that the inventions are not worth patenting\
 \
 
 \b \cb1 \kerning1\expnd0\expndtw0                    Section 7.
@@ -15159,7 +15168,7 @@ https://github.com/usarmyresearchlab
 						BAtzdHJlYW10eXBlZIHoA4QBQISE
 						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
 						hIQITlNPYmplY3QAhZKEhIQITlNT
-						dHJpbmcBlIQBK4FtBCAgICAgICAg
+						dHJpbmcBlIQBK4FYBCAgICAgICAg
 						ICAgICAgICAgICAgICAgICAgICAg
 						ICAgICAgICAgICAgICAgICAgICAg
 						ICAgICAgICAgICAgICAgICAgICAg
@@ -15201,19 +15210,18 @@ https://github.com/usarmyresearchlab
 						b3BlciwgYnV0IGlzIG5vdCByZXF1
 						aXJlZCB0byBiZS4gIEluIHBhcnRp
 						Y3VsYXIsIAoKUHJpbmNpcGFsIGRl
-						dmVsb3BlciAtIFRoZSBpbmRpdmlk
-						dWFscyBpZGVudGlmaWVkIGluIFNl
-						Y3Rpb24gMSwgUGFydCBBLCBib3gg
-						My4gIFRoZXNlIGluZGl2aWR1YWxz
-						IHdpbGwgc2hhcmUgY3JlZGl0IGZv
-						ciB0aGUgZGV2ZWxvcG1lbnQgb2Yg
-						dGhlIG1hdGVyaWFsIGJlaW5nIHJl
-						bGVhc2VkLiAgQWxsIGluZGl2aWR1
-						YWxzIHRoYXQgY29udHJpYnV0ZSBt
-						b3JlIHRoYW4gYSAiZGUgbWluaW11
-						cyIgY29udHJpYnV0aW9uIGFyZSBj
-						b25zaWRlcmVkIHByaW5jaXBhbCBk
-						ZXZlbG9wZXJzLgoKhoQCaUkBUpKE
+						dmVsb3BlciAtIEFsbCBpbmRpdmlk
+						dWFscyB0aGF0IGNvbnRyaWJ1dGUg
+						bW9yZSB0aGFuIGEgImRlIG1pbmlt
+						dXMiIGNvbnRyaWJ1dGlvbiBhcmUg
+						Y29uc2lkZXJlZCBwcmluY2lwYWwg
+						ZGV2ZWxvcGVycy4gIFRoZXNlIGlu
+						ZGl2aWR1YWxzIG1heSBiZSBBUkwg
+						ZW1wbG95ZWVzLCBjb250cmFjdG9y
+						cywgZXh0ZXJuYWwgY29udHJpYnV0
+						b3JzLCBvciBvdGhlcnMuICBBbGwg
+						bXVzdCBiZSBsaXN0ZWQgb24gdGhl
+						IGFic3RyYWN0LgoKhoQCaUkBUpKE
 						hIQMTlNEaWN0aW9uYXJ5AJSEAWkD
 						koSWlgdOU0NvbG9yhpKEhIQHTlND
 						b2xvcgCUhAFjAYQEZmZmZgAAAAGG
@@ -15236,7 +15244,7 @@ https://github.com/usarmyresearchlab
 						FAAAAP/+SABlAGwAdgBlAHQAaQBj
 						AGEApQybAJsBmwCbAIaGlwESlwJ2
 						lwERlwKBEAGXARCXAoFAAZcBFZcC
-						gcEAlwM+koSYmQOShJaWBk5TS2Vy
+						L5cDgbsAkoSYmQOShJaWBk5TS2Vy
 						boaShISECE5TTnVtYmVyAISEB05T
 						VmFsdWUAlIQBKoSEAWSqAIaSnJKE
 						np8AAIShmQySopKkkqWSppKnkqiS
@@ -15267,8 +15275,8 @@ Lead developer
 \b \
 \
 Principal developer
-\b0  - The individuals identified in Section 1, Part A, box 3.  These individuals will share credit for the development of the material being released.  All individuals that contribute more than a \cf0 \expnd0\expndtw0\kerning0
-"de minimus" contribution are considered principal developers.\cf2 \kerning1\expnd0\expndtw0 \
+\b0  - All individuals that contribute more than a \cf0 \expnd0\expndtw0\kerning0
+"de minimus" contribution are considered principal developers.  These individuals may be ARL employees, contractors, external contributors, or others.  All must be listed on the abstract.\cf2 \kerning1\expnd0\expndtw0 \
 \
 }</string>
 					</dict>
@@ -15430,7 +15438,7 @@ Principal developer
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>12</integer>
+		<integer>11</integer>
 		<key>Expanded_Canvases</key>
 		<array>
 			<string>Canvas 7</string>
@@ -15452,7 +15460,7 @@ Principal developer
 		<key>TopSlabHeight</key>
 		<real>1411</real>
 		<key>VisibleRegion</key>
-		<string>{{-174, 0}, {925, 698}}</string>
+		<string>{{-174, 16.5}, {925, 698}}</string>
 		<key>Zoom</key>
 		<real>2</real>
 		<key>ZoomValues</key>

@@ -28,7 +28,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2018-02-27 14:12:13 +0000</string>
+	<string>2018-02-27 14:30:09 +0000</string>
 	<key>Modifier</key>
 	<string>Cem Karan</string>
 	<key>NotesVisible</key>
@@ -1432,7 +1432,7 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
-\f0\b\fs32 \cf0 Major Software Review - DRAFT 0.5.0}</string>
+\f0\b\fs32 \cf0 Major Software Review - DRAFT 0.5.1}</string>
 					</dict>
 				</dict>
 				<dict>
@@ -15772,7 +15772,7 @@ Principal developer
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>10</integer>
+		<integer>0</integer>
 		<key>Expanded_Canvases</key>
 		<array>
 			<string>Canvas 7</string>

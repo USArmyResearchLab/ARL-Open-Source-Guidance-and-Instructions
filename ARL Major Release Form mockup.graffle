@@ -28,7 +28,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2018-02-15 19:17:52 +0000</string>
+	<string>2018-02-27 14:12:13 +0000</string>
 	<key>Modifier</key>
 	<string>Cem Karan</string>
 	<key>NotesVisible</key>
@@ -14243,7 +14243,7 @@ If the developers are claiming that there were significant accomplishments, list
 						BAtzdHJlYW10eXBlZIHoA4QBQISE
 						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
 						hIQITlNPYmplY3QAhZKEhIQITlNT
-						dHJpbmcBlIQBK4EnDlRoZSBsaXN0
+						dHJpbmcBlIQBK4EoDlRoZSBsaXN0
 						IG9mIGludmVudGlvbnMgbXVzdCBp
 						bmNsdWRlIGFsbCBpbnZlbnRpb25z
 						IHRoYXQgYXJlIHBvdGVudGlhbGx5
@@ -14275,211 +14275,211 @@ If the developers are claiming that there were significant accomplishments, list
 						b2Z0d2FyZSB0aGF0IGlzIGJlaW5n
 						IGRpcmVjdGx5IGRpc3RyaWJ1dGVk
 						IHdpdGggdGhlIHByb2plY3QuICBE
-						byBubyBpbmNsdWRlIG1hdGVyaWFs
-						IHRoYXQgaXMgbGlua2VkIHRvIG9y
-						IG90aGVyd2lzZSByZWZlcmVuY2Vk
-						LCBidXQgbm90IGRpc3RyaWJ1dGVk
-						IHdpdGggdGhlIHNvZnR3YXJlLiAg
-						Rm9yIGV4YW1wbGUsIHByb2plY3Rz
-						IG1heSBsaW5rIHRvIHN5c3RlbSBs
-						aWJyYXJpZXMgdGhhdCBhcmUgbm90
-						IGRpc3RyaWJ1dGVkIHdpdGggdGhl
-						IHByb2plY3QuICBEbyBub3QgbGlz
-						dCB0aGVzZSBsaWJyYXJpZXMuICBS
-						YXRpb25hbGU6IE1hdGVyaWFsIHRo
-						YXQgaXMgZGlyZWN0bHkgaW5jbHVk
-						ZWQgd2l0aCB0aGUgcHJvamVjdCBt
-						YXkgaGF2ZSBsaWNlbnNlcyB0aGF0
-						IG1ha2UgaXQgZGlmZmljdWx0IG9y
-						IGltcG9zc2libGUgZm9yIEFSTCB0
-						byBsZWdhbGx5IGRpc3RyaWJ1dGUg
-						aXQuICBUaGUgQVJMIENoaWVmIENv
-						dW5zZWzigJlzIE9mZmljZSB3aWxs
-						IG5lZWQgdG8gcmV2aWV3IHRoZSBs
-						aWNlbnNlcyBmb3IgdGhlIG1hdGVy
-						aWFsIHRvIGRldGVybWluZSB3aGF0
-						IGNhbiBiZSByZWxlYXNlZCBhbmQg
-						d2hhdCBjYW7igJl0LgoKRXhhbXBs
-						ZSBhYnN0cmFjdHMgY2FuIGJlIGZv
-						dW5kIGF0IGh0dHBzOi8vZ2l0aHVi
-						LmNvbS9VU0FybXlSZXNlYXJjaExh
-						Yi9BUkwtT3Blbi1Tb3VyY2UtR3Vp
-						ZGFuY2UtYW5kLUluc3RydWN0aW9u
-						cy4gIAoKICAgICAgICAgICAgICAg
-						ICAgIFNlY3Rpb24gMi4gVG8gYmUg
-						Y29tcGxldGVkIGJ5IHRoZSBPUFNF
-						Qy9UZWNobmljYWwgUmV2aWV3ZXIK
-						Ck9QU0VDL1RlY2huaWNhbCByZXZp
-						ZXdlcnMgbXVzdCBiZSBMZXZlbCAx
-						IE9QU0VDIHJldmlld2VycyB0aGF0
-						IGFyZSBhbHNvIHRlY2huaWNhbGx5
-						IGNvbXBldGVudCB0byByZXZpZXcg
-						dGhlIG1hdGVyaWFsIGJlaW5nIHN1
-						Ym1pdHRlZC4gIEEgcmV2aWV3ZXIg
-						bWF5IG5vdCByZXZpZXcgbWF0ZXJp
-						YWwgdGhhdCBoZSBvciBzaGUgcGVy
-						c29uYWxseSBjcmVhdGVkLiAgSWYg
-						bmVjZXNzYXJ5LCBtb3JlIHRoYW4g
-						b25lIHJldmlld2VyIG1heSBzaWdu
-						IHRoaXMgZm9ybTsgZWFjaCByZXZp
-						ZXdlciB3aWxsIGJlIHJlc3BvbnNp
-						YmxlIGZvciB0aGUgbWF0ZXJpYWwg
-						dGhhdCBoZSBvciBzaGUgZGlkIG5v
-						dCBwZXJzb25hbGx5IGNyZWF0ZS4g
-						IFJldmlld2VycyBhcmUgbm90IHJl
-						cXVpcmVkIHRvIHJldmlldyBtYXRl
-						cmlhbCB0aGF0IGhhcyBhbHJlYWR5
-						IGJlZW4gcmV2aWV3ZWQgYW5kIGFw
-						cHJvdmVkLCBub3IgYXJlIHRoZXkg
-						cmVzcG9uc2libGUgZm9yIHN1Y2gg
-						bWF0ZXJpYWwuICBUaGUgbWF0ZXJp
-						YWwgYmVpbmcgZGlzY3Vzc2VkIGlz
-						IGJlaW5nIHByb3Bvc2VkIGZvciBy
-						ZWxlYXNlIHdpdGggdGhlIGVxdWl2
-						YWxlbnQgb2Yg4oCcRElTVFJJQlVU
-						SU9OIFNUQVRFTUVOVCBBLiBBcHBy
-						b3ZlZCBmb3IgcHVibGljIHJlbGVh
-						c2U7IGRpc3RyaWJ1dGlvbiBpcyB1
-						bmxpbWl0ZWQu4oCdIG9uIEFSTCBG
-						b3JtIDEuICBJZiBhbnkgcG9ydGlv
-						biBvZiB0aGUgbWF0ZXJpYWwgY2Fu
-						bm90IGJlIHB1YmxpY2x5IHJlbGVh
-						c2VkLCBkbyBub3Qgc2lnbiB0aGlz
-						IGZvcm0uICBJZiBpdCBpcyBzYWZl
-						IHRvIGVtYWlsIHRoZSBsZWFkIGRl
-						dmVsb3BlciB0aGUgcmVhc29ucyB3
-						aHkgaXQgY2Fu4oCZdCBiZSByZWxl
-						YXNlZCwgZG8gc28uICBPdGhlcndp
-						c2UsIGNhbGwgYSBtZWV0aW5nIGF0
-						IHRoZSBlYXJsaWVzdCBjb252ZW5p
-						ZW50IHRpbWUgd2l0aCB0aGUgbGVh
-						ZCBkZXZlbG9wZXIgbGlzdGVkIGlu
-						IFNlY3Rpb24gMSwgUGFydCBBLCBC
-						b3ggNCBhbmQgdGhlIHN1cGVydmlz
-						b3IgbGlzdGVkIGluIFNlY3Rpb24g
-						MyB0byBkaXNjdXNzIHRoZSByZWFz
-						b25zIHdoeSB0aGUgbWF0ZXJpYWwg
-						Y2Fubm90IGJlIHJlbGVhc2VkIGFz
-						LWlzLCBhcyB3ZWxsIGFzIHRvIGRp
-						c2N1c3MgcmVtZWRpYXRpb24gc3Rl
-						cHMgdGhhdCBtYXkgYWxsb3cgdGhl
-						IG1hdGVyaWFsLCBvciBwb3J0aW9u
-						cyBvZiB0aGUgbWF0ZXJpYWwsIHRv
-						IGJlIHJlbGVhc2VkLgoKSW5zdHJ1
-						Y3Rpb25zIGZvciBjaGVja2JveCA4
-						LiBUZWNobmljYWwgcmV2aWV3IG9m
-						IHNvZnR3YXJlIGlzIHNpbWlsYXIg
-						dG8gYSB0ZWNobmljYWwvZWRpdG9y
-						aWFsIHJldmlldyBvZiBhIHBhcGVy
-						OyB0aGUgcmV2aWV3ZXIgaXMgY2hl
-						Y2tpbmcgdGhhdCB0aGUgc29mdHdh
-						cmUgY2FuIGNvbXBpbGUgYW5kIHJ1
-						biBvbiBhIG5ldyBtYWNoaW5lIHVz
-						aW5nIHRoZSBpbnN0cnVjdGlvbnMg
-						cHJvdmlkZWQgd2l0aCB0aGUgcHJv
-						amVjdCwgYW5kIHRoYXQgcmVhc29u
-						YWJsZSBlZmZvcnRzIGhhdmUgYmVl
-						biBtYWRlIHRvIG1lZXQgc29mdHdh
-						cmUgZW5naW5lZXJpbmcgYmVzdCBw
-						cmFjdGljZXMuICBVc2UgdGhlIERl
-						dmVsb3BlcuKAmXMgQ2hlY2tsaXN0
-						IGluIFNlY3Rpb24gMSwgUGFydCBD
-						LCBjaGVja2JveCAxLCBhbmQgdGhl
-						IGluc3RydWN0aW9ucyBmb3IgdGhh
-						dCBzZWN0aW9uIGFzIGEgZ3VpZGUg
-						d2hlbiBwZXJmb3JtaW5nIHRoZSB0
-						ZWNobmljYWwgcmV2aWV3LgoKSW5z
-						dHJ1Y3Rpb25zIGZvciBjaGVja2Jv
-						eCA5LiBTb2Z0d2FyZSB0aGF0IGlz
-						IGNvbnNpZGVyZWQgdG8gYmUgTW9k
-						ZWxpbmcgYW5kIFNpbXVsYXRpb24g
-						KE0mUykgc29mdHdhcmUgdW5kZXIg
-						dGhlIHRlcm1zIG9mIEFybXkgUmVn
-						dWxhdGlvbiA1LTExIE1hbmFnZW1l
-						bnQgb2YgQXJteSBNb2RlbGluZyBh
-						bmQgU2ltdWxhdGlvbiByZXF1aXJl
-						cyBzcGVjaWFsIGhhbmRsaW5nLiAg
-						Rmlyc3QsIGNvbnN1bHQgQVJMLU0t
-						NS0yLCBSZWxlYXNlIG9mIE1vZGVs
-						cyBhbmQgU2ltdWxhdGlvbnMgT3V0
-						c2lkZSBBUkw7IGlmIHRoZSBtYXRl
-						cmlhbCBpcyBjb3ZlcmVkIGJ5IGF0
-						IGxlYXN0IG9uZSBvZiB0aGUgbGlz
-						dGVkIGNhdGVnb3JpZXMsIHRoZW4g
-						aXQgbWF5IGJlIHJlbGVhc2VkIG91
-						dHNpZGUgb2YgQVJMIHdpdGhvdXQg
-						ZnVydGhlciBhcHByb3ZhbCBmcm9t
-						IHRoZSBBcm15IE1vZGVsaW5nIGFu
-						ZCBTaW11bGF0aW9uIE9mZmljZSAo
-						QU1TTykuICBJZiBpdCBpcyBub3Qg
-						Y292ZXJlZCBieSBhbnkgb2YgdGhl
-						IGxpc3RlZCBjYXRlZ29yaWVzLCBj
-						b25zdWx0IHdpdGggdGhlIEFSTCBD
-						aGllZiBDb3Vuc2Vs4oCZcyBPZmZp
-						Y2UuhoQCaUkBgUYBkoSEhAxOU0Rp
-						Y3Rpb25hcnkAlIQBaQKShJaWEE5T
-						UGFyYWdyYXBoU3R5bGWGkoSEhBdO
-						U011dGFibGVQYXJhZ3JhcGhTdHls
-						ZQCEhBBOU1BhcmFncmFwaFN0eWxl
-						AJSEBENDQFMAAISEhAdOU0FycmF5
-						AJSZDJKEhIQJTlNUZXh0VGFiAJSE
-						AkNmAByGkoSgnwA4hpKEoJ8AVIaS
-						hKCfAHCGkoSgnwCBjACGkoSgnwCB
-						qACGkoSgnwCBxACGkoSgnwCB4ACG
-						koSgnwCB/ACGkoSgnwCBGAGGkoSg
-						nwCBNAGGkoSgnwCBUAGGhgCGkoSW
-						lgZOU0ZvbnSGkoSEhAZOU0ZvbnQe
-						lJkkhAVbMzZjXQYAAAAcAAAA//5I
-						AGUAbAB2AGUAdABpAGMAYQBOAGUA
-						dQBlAIQBZgyEAWMAowGjAKMAhoaX
-						AgmShJiZApKZkpqSrJKErpk0hAVb
-						NTJjXQYAAAAqAAAA//5IAGUAbAB2
-						AGUAdABpAGMAYQBOAGUAdQBlAC0A
-						SQB0AGEAbABpAGMAAACiDKMAowGj
-						AKMAhoaXAYEoApcCCZcBgTYBlwNO
-						koSYmQOShJaWB05TQ29sb3KGkoSE
-						hAdOU0NvbG9yAJSjAYQEZmZmZoPN
-						r+Y4g82v5jqDWYt/PwGGkpmShJuc
-						AACEnpkMkp+SoZKikqOSpJKlkqaS
-						p5KokqmSqpKrhgCGkqySrYaXAQOX
-						BAGShJiZA5KykoS0owGmAAAAAYaS
-						mZKEm5wAAISemQySn5KhkqKSo5Kk
-						kqWSppKnkqiSqZKqkquGAIaSrJKE
-						rpkchAVbMjhjXQYAAAAUAAAA//5I
-						AGUAbAB2AGUAdABpAGMAYQCiDKMA
-						owGjAKMAhoaXBR6ShJiZA5KykriS
-						mZK5kqyShK6ZKIQFWzQwY10GAAAA
-						HgAAAP/+SABlAGwAdgBlAHQAaQBj
-						AGEALQBCAG8AbABkAAAAogyjAKMB
-						owCjAIaGlwSBlwGXBoGIAJKEmJkC
-						kpmSuZKskruGlwRSlwcBkoSYmQOS
-						spKEtKMBpgAAAAGGkpmShJucAACE
-						npkMkp+SoZKikqOSpJKlkqaSp5Ko
-						kqmSqpKrhgCGkqyShK6ZIIQFWzMy
-						Y10GAAAAFgAAAP/+QQBuAGQAYQBs
-						AGUATQBvAG4AbwAAAKIKowCjAaMA
-						owCGhpcIUpKEmJkCkpmSuZKsksOG
-						lwaBDAKXCR+ShJiZApKZkrmSrJKE
-						rpkshAVbNDRjXQYAAAAkAAAA//5I
-						AGUAbAB2AGUAdABpAGMAYQAtAE8A
-						YgBsAGkAcQB1AGUAogyjAKMBowCj
-						AIaGlwaBxwGXCRyXBoHIAJcKgcMA
-						koSYmQWShJaWBk5TS2VyboaShISE
-						CE5TTnVtYmVyAISEB05TVmFsdWUA
-						lIQBKoSEAWSuAIaShJaWCk5TTGln
-						YXR1cmWGkoTKrYSEAXGvAIaSrJK7
-						kpmShJucAACEnpkMkp+SoZKikqOS
-						pJKlkqaSp5KokqmSqpKrhgCGkrKS
-						hLSjAaYAAAABhoaXBoGUAIY=
+						byBub3QgaW5jbHVkZSBtYXRlcmlh
+						bCB0aGF0IGlzIGxpbmtlZCB0byBv
+						ciBvdGhlcndpc2UgcmVmZXJlbmNl
+						ZCwgYnV0IG5vdCBkaXN0cmlidXRl
+						ZCB3aXRoIHRoZSBzb2Z0d2FyZS4g
+						IEZvciBleGFtcGxlLCBwcm9qZWN0
+						cyBtYXkgbGluayB0byBzeXN0ZW0g
+						bGlicmFyaWVzIHRoYXQgYXJlIG5v
+						dCBkaXN0cmlidXRlZCB3aXRoIHRo
+						ZSBwcm9qZWN0LiAgRG8gbm90IGxp
+						c3QgdGhlc2UgbGlicmFyaWVzLiAg
+						UmF0aW9uYWxlOiBNYXRlcmlhbCB0
+						aGF0IGlzIGRpcmVjdGx5IGluY2x1
+						ZGVkIHdpdGggdGhlIHByb2plY3Qg
+						bWF5IGhhdmUgbGljZW5zZXMgdGhh
+						dCBtYWtlIGl0IGRpZmZpY3VsdCBv
+						ciBpbXBvc3NpYmxlIGZvciBBUkwg
+						dG8gbGVnYWxseSBkaXN0cmlidXRl
+						IGl0LiAgVGhlIEFSTCBDaGllZiBD
+						b3Vuc2Vs4oCZcyBPZmZpY2Ugd2ls
+						bCBuZWVkIHRvIHJldmlldyB0aGUg
+						bGljZW5zZXMgZm9yIHRoZSBtYXRl
+						cmlhbCB0byBkZXRlcm1pbmUgd2hh
+						dCBjYW4gYmUgcmVsZWFzZWQgYW5k
+						IHdoYXQgY2Fu4oCZdC4KCkV4YW1w
+						bGUgYWJzdHJhY3RzIGNhbiBiZSBm
+						b3VuZCBhdCBodHRwczovL2dpdGh1
+						Yi5jb20vVVNBcm15UmVzZWFyY2hM
+						YWIvQVJMLU9wZW4tU291cmNlLUd1
+						aWRhbmNlLWFuZC1JbnN0cnVjdGlv
+						bnMuICAKCiAgICAgICAgICAgICAg
+						ICAgICBTZWN0aW9uIDIuIFRvIGJl
+						IGNvbXBsZXRlZCBieSB0aGUgT1BT
+						RUMvVGVjaG5pY2FsIFJldmlld2Vy
+						CgpPUFNFQy9UZWNobmljYWwgcmV2
+						aWV3ZXJzIG11c3QgYmUgTGV2ZWwg
+						MSBPUFNFQyByZXZpZXdlcnMgdGhh
+						dCBhcmUgYWxzbyB0ZWNobmljYWxs
+						eSBjb21wZXRlbnQgdG8gcmV2aWV3
+						IHRoZSBtYXRlcmlhbCBiZWluZyBz
+						dWJtaXR0ZWQuICBBIHJldmlld2Vy
+						IG1heSBub3QgcmV2aWV3IG1hdGVy
+						aWFsIHRoYXQgaGUgb3Igc2hlIHBl
+						cnNvbmFsbHkgY3JlYXRlZC4gIElm
+						IG5lY2Vzc2FyeSwgbW9yZSB0aGFu
+						IG9uZSByZXZpZXdlciBtYXkgc2ln
+						biB0aGlzIGZvcm07IGVhY2ggcmV2
+						aWV3ZXIgd2lsbCBiZSByZXNwb25z
+						aWJsZSBmb3IgdGhlIG1hdGVyaWFs
+						IHRoYXQgaGUgb3Igc2hlIGRpZCBu
+						b3QgcGVyc29uYWxseSBjcmVhdGUu
+						ICBSZXZpZXdlcnMgYXJlIG5vdCBy
+						ZXF1aXJlZCB0byByZXZpZXcgbWF0
+						ZXJpYWwgdGhhdCBoYXMgYWxyZWFk
+						eSBiZWVuIHJldmlld2VkIGFuZCBh
+						cHByb3ZlZCwgbm9yIGFyZSB0aGV5
+						IHJlc3BvbnNpYmxlIGZvciBzdWNo
+						IG1hdGVyaWFsLiAgVGhlIG1hdGVy
+						aWFsIGJlaW5nIGRpc2N1c3NlZCBp
+						cyBiZWluZyBwcm9wb3NlZCBmb3Ig
+						cmVsZWFzZSB3aXRoIHRoZSBlcXVp
+						dmFsZW50IG9mIOKAnERJU1RSSUJV
+						VElPTiBTVEFURU1FTlQgQS4gQXBw
+						cm92ZWQgZm9yIHB1YmxpYyByZWxl
+						YXNlOyBkaXN0cmlidXRpb24gaXMg
+						dW5saW1pdGVkLuKAnSBvbiBBUkwg
+						Rm9ybSAxLiAgSWYgYW55IHBvcnRp
+						b24gb2YgdGhlIG1hdGVyaWFsIGNh
+						bm5vdCBiZSBwdWJsaWNseSByZWxl
+						YXNlZCwgZG8gbm90IHNpZ24gdGhp
+						cyBmb3JtLiAgSWYgaXQgaXMgc2Fm
+						ZSB0byBlbWFpbCB0aGUgbGVhZCBk
+						ZXZlbG9wZXIgdGhlIHJlYXNvbnMg
+						d2h5IGl0IGNhbuKAmXQgYmUgcmVs
+						ZWFzZWQsIGRvIHNvLiAgT3RoZXJ3
+						aXNlLCBjYWxsIGEgbWVldGluZyBh
+						dCB0aGUgZWFybGllc3QgY29udmVu
+						aWVudCB0aW1lIHdpdGggdGhlIGxl
+						YWQgZGV2ZWxvcGVyIGxpc3RlZCBp
+						biBTZWN0aW9uIDEsIFBhcnQgQSwg
+						Qm94IDQgYW5kIHRoZSBzdXBlcnZp
+						c29yIGxpc3RlZCBpbiBTZWN0aW9u
+						IDMgdG8gZGlzY3VzcyB0aGUgcmVh
+						c29ucyB3aHkgdGhlIG1hdGVyaWFs
+						IGNhbm5vdCBiZSByZWxlYXNlZCBh
+						cy1pcywgYXMgd2VsbCBhcyB0byBk
+						aXNjdXNzIHJlbWVkaWF0aW9uIHN0
+						ZXBzIHRoYXQgbWF5IGFsbG93IHRo
+						ZSBtYXRlcmlhbCwgb3IgcG9ydGlv
+						bnMgb2YgdGhlIG1hdGVyaWFsLCB0
+						byBiZSByZWxlYXNlZC4KCkluc3Ry
+						dWN0aW9ucyBmb3IgY2hlY2tib3gg
+						OC4gVGVjaG5pY2FsIHJldmlldyBv
+						ZiBzb2Z0d2FyZSBpcyBzaW1pbGFy
+						IHRvIGEgdGVjaG5pY2FsL2VkaXRv
+						cmlhbCByZXZpZXcgb2YgYSBwYXBl
+						cjsgdGhlIHJldmlld2VyIGlzIGNo
+						ZWNraW5nIHRoYXQgdGhlIHNvZnR3
+						YXJlIGNhbiBjb21waWxlIGFuZCBy
+						dW4gb24gYSBuZXcgbWFjaGluZSB1
+						c2luZyB0aGUgaW5zdHJ1Y3Rpb25z
+						IHByb3ZpZGVkIHdpdGggdGhlIHBy
+						b2plY3QsIGFuZCB0aGF0IHJlYXNv
+						bmFibGUgZWZmb3J0cyBoYXZlIGJl
+						ZW4gbWFkZSB0byBtZWV0IHNvZnR3
+						YXJlIGVuZ2luZWVyaW5nIGJlc3Qg
+						cHJhY3RpY2VzLiAgVXNlIHRoZSBE
+						ZXZlbG9wZXLigJlzIENoZWNrbGlz
+						dCBpbiBTZWN0aW9uIDEsIFBhcnQg
+						QywgY2hlY2tib3ggMSwgYW5kIHRo
+						ZSBpbnN0cnVjdGlvbnMgZm9yIHRo
+						YXQgc2VjdGlvbiBhcyBhIGd1aWRl
+						IHdoZW4gcGVyZm9ybWluZyB0aGUg
+						dGVjaG5pY2FsIHJldmlldy4KCklu
+						c3RydWN0aW9ucyBmb3IgY2hlY2ti
+						b3ggOS4gU29mdHdhcmUgdGhhdCBp
+						cyBjb25zaWRlcmVkIHRvIGJlIE1v
+						ZGVsaW5nIGFuZCBTaW11bGF0aW9u
+						IChNJlMpIHNvZnR3YXJlIHVuZGVy
+						IHRoZSB0ZXJtcyBvZiBBcm15IFJl
+						Z3VsYXRpb24gNS0xMSBNYW5hZ2Vt
+						ZW50IG9mIEFybXkgTW9kZWxpbmcg
+						YW5kIFNpbXVsYXRpb24gcmVxdWly
+						ZXMgc3BlY2lhbCBoYW5kbGluZy4g
+						IEZpcnN0LCBjb25zdWx0IEFSTC1N
+						LTUtMiwgUmVsZWFzZSBvZiBNb2Rl
+						bHMgYW5kIFNpbXVsYXRpb25zIE91
+						dHNpZGUgQVJMOyBpZiB0aGUgbWF0
+						ZXJpYWwgaXMgY292ZXJlZCBieSBh
+						dCBsZWFzdCBvbmUgb2YgdGhlIGxp
+						c3RlZCBjYXRlZ29yaWVzLCB0aGVu
+						IGl0IG1heSBiZSByZWxlYXNlZCBv
+						dXRzaWRlIG9mIEFSTCB3aXRob3V0
+						IGZ1cnRoZXIgYXBwcm92YWwgZnJv
+						bSB0aGUgQXJteSBNb2RlbGluZyBh
+						bmQgU2ltdWxhdGlvbiBPZmZpY2Ug
+						KEFNU08pLiAgSWYgaXQgaXMgbm90
+						IGNvdmVyZWQgYnkgYW55IG9mIHRo
+						ZSBsaXN0ZWQgY2F0ZWdvcmllcywg
+						Y29uc3VsdCB3aXRoIHRoZSBBUkwg
+						Q2hpZWYgQ291bnNlbOKAmXMgT2Zm
+						aWNlLoaEAmlJAYFGAZKEhIQMTlNE
+						aWN0aW9uYXJ5AJSEAWkCkoSWlhBO
+						U1BhcmFncmFwaFN0eWxlhpKEhIQX
+						TlNNdXRhYmxlUGFyYWdyYXBoU3R5
+						bGUAhIQQTlNQYXJhZ3JhcGhTdHls
+						ZQCUhARDQ0BTAACEhIQHTlNBcnJh
+						eQCUmQyShISECU5TVGV4dFRhYgCU
+						hAJDZgAchpKEoJ8AOIaShKCfAFSG
+						koSgnwBwhpKEoJ8AgYwAhpKEoJ8A
+						gagAhpKEoJ8AgcQAhpKEoJ8AgeAA
+						hpKEoJ8AgfwAhpKEoJ8AgRgBhpKE
+						oJ8AgTQBhpKEoJ8AgVABhoYAhpKE
+						lpYGTlNGb250hpKEhIQGTlNGb250
+						HpSZJIQFWzM2Y10GAAAAHAAAAP/+
+						SABlAGwAdgBlAHQAaQBjAGEATgBl
+						AHUAZQCEAWYMhAFjAKMBowCjAIaG
+						lwIJkoSYmQKSmZKEm5wAAISemQyS
+						n5KhkqKSo5KkkqWSppKnkqiSqZKq
+						kquGAIaSrJKErpk0hAVbNTJjXQYA
+						AAAqAAAA//5IAGUAbAB2AGUAdABp
+						AGMAYQBOAGUAdQBlAC0ASQB0AGEA
+						bABpAGMAAACiDKMAowGjAKMAhoaX
+						AYEpApcCCZcBgTYBlwNOkoSYmQOS
+						hJaWB05TQ29sb3KGkoSEhAdOU0Nv
+						bG9yAJSjAYQEZmZmZoPNr+Y4g82v
+						5jqDWYt/PwGGkpmShJucAACEnpkM
+						kp+SoZKikqOSpJKlkqaSp5KokqmS
+						qpKrhgCGkqySrYaXAQOXBAGShJiZ
+						A5K0koS2owGmAAAAAYaSmZKEm5wA
+						AISemQySn5KhkqKSo5KkkqWSppKn
+						kqiSqZKqkquGAIaSrJKErpkchAVb
+						MjhjXQYAAAAUAAAA//5IAGUAbAB2
+						AGUAdABpAGMAYQCiDKMAowGjAKMA
+						hoaXBR6ShJiZA5K0krqSmZK7kqyS
+						hK6ZKIQFWzQwY10GAAAAHgAAAP/+
+						SABlAGwAdgBlAHQAaQBjAGEALQBC
+						AG8AbABkAAAAogyjAKMBowCjAIaG
+						lwSBlwGXBoGIAJKEmJkCkpmSu5Ks
+						kr2GlwRSlwcBkoSYmQOStJKEtqMB
+						pgAAAAGGkpmShJucAACEnpkMkp+S
+						oZKikqOSpJKlkqaSp5KokqmSqpKr
+						hgCGkqyShK6ZIIQFWzMyY10GAAAA
+						FgAAAP/+QQBuAGQAYQBsAGUATQBv
+						AG4AbwAAAKIKowCjAaMAowCGhpcI
+						UpKEmJkCkpmShJucAACEnpkMkp+S
+						oZKikqOSpJKlkqaSp5KokqmSqpKr
+						hgCGkqySxYaXBoEMApcJH5KEmJkC
+						kpmSx5KskoSumSyEBVs0NGNdBgAA
+						ACQAAAD//kgAZQBsAHYAZQB0AGkA
+						YwBhAC0ATwBiAGwAaQBxAHUAZQCi
+						DKMAowGjAKMAhoaXBoHHAZcJHJcG
+						gcgAlwqBwwCShJiZBZKElpYKTlNM
+						aWdhdHVyZYaShISECE5TTnVtYmVy
+						AISEB05TVmFsdWUAlIQBKoSEAXGu
+						AIaShJaWBk5TS2VyboaShM6thIQB
+						ZK8AhpKskr2SmZLHkrSShLajAaYA
+						AAABhoaXBoGUAIY=
 						</data>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fswiss\fcharset0 Helvetica;\f2\fnil\fcharset0 AndaleMono;
 }
-{\colortbl;\red255\green255\blue255;\red0\green0\blue255;\red0\green0\blue0;\red0\green0\blue0;
-}
-{\*\expandedcolortbl;;\csgenericrgb\c11\c176\c99822;\csgenericrgb\c0\c0\c0;\cssrgb\c0\c0\c0;
-}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgenericrgb\c11\c176\c99822;\csgenericrgb\c0\c0\c0;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0 The list of inventions must include all inventions that are potentially patentable.  For each invention, briefly explain why it is in ARL\'92s best interest to not pursue patent protection.  Possible reasons include encouraging research in a given area, the obviousness of the inventions, or the impracticality of the invention. 
@@ -14487,7 +14487,7 @@ If the developers are claiming that there were significant accomplishments, list
 \i0 : The IEC representative reviewing the inventions may not be an expert in a\
 given field.  By giving reasons why an invention is not worth patenting, developers help the IEC in making a decision.\
 \
-The list of externally developed software should only include software that is being directly distributed with the project.  Do no include material that is linked to or otherwise referenced, but not distributed with the software.  For example, projects may link to system libraries that are not distributed with the project.  Do not list these libraries.  
+The list of externally developed software should only include software that is being directly distributed with the project.  Do not include material that is linked to or otherwise referenced, but not distributed with the software.  For example, projects may link to system libraries that are not distributed with the project.  Do not list these libraries.  
 \i Rationale
 \i0 : Material that is directly included with the project may have licenses that make it difficult or impossible for ARL to legally distribute it.  The ARL Chief Counsel\'92s Office will need to review the licenses for the material to determine what can be released and what can\'92t.\
 \
@@ -14507,9 +14507,10 @@ OPSEC/Technical reviewers must be Level 1 OPSEC reviewers that are also technica
 Instructions for checkbox 8. 
 \i0 Technical review of software is similar to a technical/editorial review of a paper; the reviewer is checking that the software can compile and run on a new machine using the instructions provided with the project, and that reasonable efforts have been made to meet software engineering best practices.  Use the Developer\'92s Checklist in Section 1, Part C, checkbox 1, and the instructions for that section as a guide when performing the technical review.\
 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\i Instructions for checkbox 9.
-\i0  Software that is considered to be Modeling and Simulation (M&amp;S) software under the terms of Army Regulation 5-11 Management of Army Modeling and Simulation requires special handling.  First, consult \cf4 \expnd0\expndtw0\kerning0
+\i \cf0 Instructions for checkbox 9.
+\i0  Software that is considered to be Modeling and Simulation (M&amp;S) software under the terms of Army Regulation 5-11 Management of Army Modeling and Simulation requires special handling.  First, consult \cf3 \expnd0\expndtw0\kerning0
 \CocoaLigature0 ARL-M-5-2, Release of Models and Simulations Outside ARL; if the material is covered by at least one of the listed categories, then it may be released outside of ARL without further approval from\cf0 \kerning1\expnd0\expndtw0 \CocoaLigature1  the Army Modeling and Simulation Office (AMSO).  If it is not covered by any of the listed categories, consult with the ARL Chief Counsel\'92s Office.}</string>
 					</dict>
 					<key>TextPlacement</key>
@@ -15771,13 +15772,13 @@ Principal developer
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>11</integer>
+		<integer>10</integer>
 		<key>Expanded_Canvases</key>
 		<array>
 			<string>Canvas 7</string>
-			<string>Canvas 1</string>
-			<string>Canvas 4</string>
 			<string>Canvas 3</string>
+			<string>Canvas 4</string>
+			<string>Canvas 1</string>
 			<string>Canvas 2</string>
 		</array>
 		<key>Frame</key>

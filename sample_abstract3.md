@@ -1,5 +1,4 @@
-ARL_rapid_form_maker
---------------------
+# ARL_rapid_form_maker
 
 ARL_rapid_form_maker is an internal tool to rapidly create forms via a web
 interface.  Form designers can drag and drop various interface elements onto a
@@ -37,39 +36,7 @@ transparent to the end user.  This would allow "Individual" and "Person name"
 to be fused as "Person name", while marking "Child name" as unfuseable,
 keeping the distinction between parents and children.
 
-Reason for review
------------------
-
-Significant engineering work has been done since the last major review that
-the authors want documented for their performance metrics.
-
-Primary accomplishment of this release
---------------------------------------
-
-This is the second release of ARL_rapid_form_maker.  It does not add any new
-features.  Instead, it is a collection of bug fixes and engineering changes
-that makes ARL_rapid_form_maker significantly more stable, and able to be
-expanded to the entire ARL workforce.  Since the last release, 297 issues were
-resolved, including 45 that would crash the system or cause a loss of data. As
-ARL_rapid_form_maker has been transitioned to numerous users, becoming a tool
-that is used in day-to-day work, this engineering work has been critical in
-ensuring that users have no downtime.
-
-Impact
-------
-
-* Significant improvement in ARL's internal paperwork processing.
-  Administrative staff regularly cite it as being one of the most useful tools
-  they've encountered.
-* Cited by __Government IT Worker Magazine__ as one of the most innovative new
-  developments in IT in the past 15 years.
-* Transitioned to multiple partners including the U.S. Department of Veterans
-  Affairs, the U.S. Department of the Army, Defense Advanced Research Projects
-  Agency, the United States Social Security Administration, and the
-  United States Department of Energy.
-
-List of contributors:
----------------------
+## List of contributors
 
 Alice B. Chandler, alice.b.chandler.civ@mail.mil, US Army Research Laboratory
     Lead developer.  Was a US Government employee during all development of
@@ -91,8 +58,30 @@ Jacob K. Lang, jacob.k.lang@gmail.com, employer unknown.  Bug fixes,
     documentation fixes, etc. Executed ARL Form 266 before his contributions
     were allowed into the project.
 
-List of external code:
-----------------------
+## Primary accomplishment of this release
+
+This is the second release of ARL_rapid_form_maker.  It does not add any new
+features.  Instead, it is a collection of bug fixes and engineering changes
+that makes ARL_rapid_form_maker significantly more stable, and able to be
+expanded to the entire ARL workforce.  Since the last release, 297 issues were
+resolved, including 45 that would crash the system or cause a loss of data. As
+ARL_rapid_form_maker has been transitioned to numerous users, becoming a tool
+that is used in day-to-day work, this engineering work has been critical in
+ensuring that users have no downtime.
+
+### Impact
+
+* Significant improvement in ARL's internal paperwork processing.
+  Administrative staff regularly cite it as being one of the most useful tools
+  they've encountered.
+* Cited by __Government IT Worker Magazine__ as one of the most innovative new
+  developments in IT in the past 15 years.
+* Transitioned to multiple partners including the U.S. Department of Veterans
+  Affairs, the U.S. Department of the Army, Defense Advanced Research Projects
+  Agency, the United States Social Security Administration, and the
+  United States Department of Energy.
+
+## List of external code
 
 The following code samples were copied from
 [Stack Overflow](https://stackoverflow.com/).  Code may be copied from
@@ -117,16 +106,7 @@ The following libraries are included with the distribution
   Distributed under the Apache 2.0 license, which can be found at
   https://github.com/USArmyResearchLab/ARL_libintrusive/blob/master/LICENSE.txt
 
-
-OSI-approved license:
----------------------
-
-ARL_rapid_form_maker is distributed under the Apache 2.0 license,
-which can be found at
-https://github.com/USArmyResearchLab/ARL_rapid_form_maker/blob/master/LICENSE.txt.
-
-List of inventions:
--------------------
+## List of inventions
 
 There are no new inventions in this release; all inventions were disclosed in
 prior releases.

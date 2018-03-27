@@ -1,63 +1,18 @@
-ARL_libmobile_network_simulator
--------------------------------
+# ARL_libmobile_network_simulator
 
 ARL_libmobile_network_simulator is an event-based simulator for simulating the
 communications between swarms of robots as they move through a dynamically
 changing environment.  This review is for the third major release of the
 library.
 
-Reason for review
------------------
+This library is most useful for researchers in the area of mobile ad-hoc
+networks (MANET) simulating large swarms of robots.
+ARL_libmobile_network_simulator has successfully simulated 11,000,000 robots
+over a heterogenous network of 300 computers at approximately 15 times faster
+than real time.  To the best of the principal developers' knowledge, no other
+simulator is capable of this sort of execution.
 
-Numerous new features have been added that the authors believe are major
-accomplishments that should be documented.
-
-Primary accomplishments of this release
----------------------------------------
-
-Since the last major review, the following features have been added:
-
-* Dynamically distributed to heterogeneous computational assets. Version 2 of
-  ARL_libmobile_network_simulator introduced distributed  simulation, but
-  required all computational assets to be the same to gain the most benefit
-  from distribution.  Version 3 has relaxed this requirement such that assets
-  as diverse as supercomputers and smart phones can all be added to the pool
-  of workers and still gain benefit from distributed simulation.
-* Vastly improved serialization and deserialization of executing  simulations.
-  Version 1 of ARL_libmobile_network_simulator provided the ability to capture
-  simulation data at the end of a run, and Version 2 provided the ability to
-  take snapshots at user-defined points in time (e.g. once per minute).
-  However, both of these methods fell short; in version 1, if a crash
-  occurred, then all simulation results were lost. In Version 2, the user had
-  to guess how long to wait between taking snapshots; too short a time frame
-  meant that an excessive amount of time was spent taking snapshots, while too
-  long a time frame meant that users would have to roll back a significant
-  time period to restart the simulation. In Version 3,
-  ARL_libmobile_network_simulator we have rewritten how events are state data
-  are stored so that it is possible to log state in a distributed manner.
-  Should any (or even all) the nodes in a simulation fail, it is possible to
-  recover the last known good state rapidly; in tests on up to 300 simulation
-  nodes the maximum loss suffered was 10.3 seconds of simulation time.The
-  techniques used could be patented, but we believe that it would be better to
-  waive all rights to them and release them to the community.
-* Significant software engineering improvements.  Critical components of the
-  library were rewritten in Rust from C++, solving certain race conditions
-  that were hard to find and eliminate in C++.  Documentation was improved,
-  including the addition of 25 new example projects showing how to use the
-  library.
-
-Impact
-------
-
-* 53 papers written, including 12 peer reviewed journal papers since the last
-  major review.
-* Directly cited in at least 315 papers.
-* Transitioned to AMRDEC and TARDEC for their own purposes.
-* Over 15,000 individual external contributions, with 8,000 being done since
-  the last major review.
-
-List of contributors:
----------------------
+## List of contributors
 
 Alice B. Chandler, alice.b.chandler.civ@mail.mil, US Army Research Laboratory
     Lead developer.  Was a US Government employee during all development of
@@ -79,8 +34,49 @@ Jacob K. Lang, jacob.k.lang@gmail.com, employer unknown.  Bug fixes,
     documentation fixes, etc. Executed ARL Form 266 before his contributions
     were allowed into the project.
 
-List of external code:
-----------------------
+## Primary accomplishments of this release
+
+Since the last major review, the following features have been added:
+
+* Dynamically distributed to heterogeneous computational assets. Version 2 of
+  ARL_libmobile_network_simulator introduced distributed simulation, but
+  required all computational assets to be the same to gain the most benefit
+  from distribution.  Version 3 has relaxed this requirement such that assets
+  as diverse as supercomputers and smart phones can all be added to the pool
+  of workers and still gain benefit from distributed simulation.
+* Vastly improved serialization and deserialization of executing simulations.
+  Version 1 of ARL_libmobile_network_simulator provided the ability to capture
+  simulation data at the end of a run, and Version 2 provided the ability to
+  take snapshots at user-defined points in time (e.g. once per minute).
+  However, both of these methods fell short; in version 1, if a crash
+  occurred, then all simulation results were lost. In Version 2, the user had
+  to guess how long to wait between taking snapshots; too short a time frame
+  meant that an excessive amount of time was spent taking snapshots, while too
+  long a time frame meant that users would have to roll back a significant
+  time period to restart the simulation. In Version 3, we have rewritten how
+  events and state data are stored so that it is possible to log state in a
+  distributed manner. Should any (or even all) the nodes in a simulation fail,
+  it is possible to recover the last known good state rapidly; in tests on up
+  to 300 simulation nodes the maximum loss suffered was 10.3 seconds of
+  simulation time.  The techniques used could be patented, but we believe that
+  it would be better to waive all rights to them and release them to the
+  community.
+* Significant software engineering improvements.  Critical components of the
+  library were rewritten in Rust from C++, solving certain race conditions
+  that were hard to find and eliminate in C++.  Documentation was improved,
+  including the addition of 25 new example projects showing how to use the
+  library.
+
+### Impact
+
+* 53 papers written, including 12 peer reviewed journal papers since the last
+  major review.
+* Directly cited in at least 315 papers.
+* Transitioned to AMRDEC and TARDEC for their own purposes.
+* Over 15,000 individual external contributions, with 8,000 being done since
+  the last major review.
+
+## List of external code
 
 The following code samples were copied from
 [Stack Overflow](https://stackoverflow.com/).  Code may be copied from
@@ -105,16 +101,7 @@ The following libraries are included with the distribution
   Distributed under the Apache 2.0 license, which can be found at
   https://github.com/USArmyResearchLab/ARL_libintrusive/blob/master/LICENSE.txt
 
-
-OSI-approved license:
----------------------
-
-ARL_libmobile_network_simulator is distributed under the Apache 2.0 license,
-which can be found at
-https://github.com/USArmyResearchLab/ARL_libmobile_network_simulator/blob/master/LICENSE.txt.
-
-List of inventions:
--------------------
+## List of inventions
 
 We (Drs. Chandler, Frauhofer, and Incredible) have co-invented a new method of
 resolving conflicts in distributed databases that leverages work on conflict

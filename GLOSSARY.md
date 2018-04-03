@@ -64,6 +64,13 @@ Regulations (ITAR)** Regulations controlling the export and import of defense-
 related articles and services on the United States Munitions List.  See
 https://www.pmddtc.state.gov/regulations_laws/itar.html for more information.
 
+<a name="3EFA4DA6375711E89041003EE1B763F8"></a>**Lead Developer** The person
+tasked with completing the process to release the material.  Acts as a point
+of contact for any questions from those individuals that must sign this form.
+May be a principal developer, but is not required to be one provided he or she
+can answer all questions regarding the material being released.  MUST be an
+ARL government employee.
+
 <a name="8ECF3030C17C11E699E6003EE1B763F8"></a>**Operational security
 (OPSEC)** Practices and procedures put in place to protect U.S. national
 security interests.
@@ -77,10 +84,8 @@ release under this process.  These developers have all contributed more than a
 "de minimus" contribution to the project.  These may be ARL employees,
 contractors, or external persons.
 
-<a name="91933F1EC17C11E6AE5A003EE1B763F8"></a>**Point of contact (POC)** The
-PD or PDs that serve as contacts for questions regarding the project.  In
-general, all persons listed on the ARL Form 1 as authors will also be POCs for
-the project.
+<a name="91933F1EC17C11E6AE5A003EE1B763F8"></a>**Point of contact (POC)** A
+synonym for lead developer.
 
 <a name="BEA2CBDA037011E78D93003EE1B763F8"></a>**Release** A release is any
 publication of code and related artifacts to an externally visible site such

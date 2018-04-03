@@ -8,33 +8,36 @@ will be filled into that element.  An example would be a text box with the tag
 database; users can search for all people with the "Person name" of "Alice" in
 the database.
 
-The problem with this approach is that different form designers may use
-different tags for the same information; for example "Child name", "Person
-name", and "Individual" are all reasonable tags for information concerning a
-person's name.  When this happens, it becomes difficult to cross-correlate
-information across forms.  If everyone used uniform tags for the same pieces
-of information across all forms, then it would be possible to flow information
-from one form into the next form; it would even be possible for users to have
-personal databases that would fill out the form contents automatically when
-the form was first brought up.  Unfortunately, developing a uniform set of
-tags for all possible situations is practically impossible; there are too many
-possible situations that require new tags, and the list would be unmanageably
-large.
+This type of program is available as commercial software, but it has a
+problem; different form designers may use different tags for the same
+information. For example, "Child name", "Person name", and "Individual" are
+all reasonable tags for information concerning a person's name.  When this
+happens, it becomes difficult to cross-correlate information across forms.  If
+everyone used uniform tags for the same pieces of information across all
+forms, then it would be possible to flow information from one form into the
+next form; it would even be possible for users to have personal databases that
+would fill out the form contents automatically when the form was first brought
+up.  Unfortunately, developing a uniform set of tags for all possible
+situations is practically impossible; there are too many possible situations
+that require new tags, and the list would be unmanageably large.
 
 ARL_rapid_form_maker has a pragmatic solution to the above problem, which is
 why it is different from all the other tools on the market.
 ARL_rapid_form_maker has an automatic background machine learning process that
 scans the data entered into all forms in the system.  If it notices that the
 same or similar data keeps being entered into fields with different tags, it
-will notify form designers that created the tags of their similarity and ask
-them if the tags should be fused.  The designers can then work together to
-decide which, if any, of the set of tags should be fused together.  Tags can
-also be marked as "unfuseable", so that  the system not only won't fuse them,
-it won't ask about fusing them again in the future.  Sets of tags that are
-fused are then replaced with one commonly agreed upon tag in a manner that is
-transparent to the end user.  This would allow "Individual" and "Person name"
-to be fused as "Person name", while marking "Child name" as unfuseable,
-keeping the distinction between parents and children.
+will notify the form designers that created the tags of their similarity and
+ask them if the tags should be fused.  For example, if "Alice" is entered into
+the fields "Child name", "Person name", and "Individual", ARL_rapid_form_maker
+would notice the similarity of information, and inform the various form
+designers.  The designers can then work together to decide which, if any, of
+the set of tags should be fused together.  Tags can also be marked as
+"unfuseable", so that  the system not only won't fuse them, it won't ask about
+fusing them again in the future.  Sets of tags that are fused are then
+replaced with one commonly agreed upon tag in a manner that is transparent to
+the end user.  This would allow "Individual" and "Person name" to be fused as
+"Person name", while marking "Child name" as unfuseable, keeping the
+distinction between parents and children.
 
 ## List of contributors
 
@@ -51,10 +54,11 @@ Douglas E. Fraunhofer, douglas.e.fraunhofer@some.company.com, Some Company, Inc.
 
 Grant H. Incredible, grant.h.incredible@university.edu, postdoctoral researcher.
     Algorithm design.  Worked as a postdoctoral researcher under ORAU
-    contract 54321.  Signed an addendum to his contract to assign all
-    copyright in his contributions to ARL.
+    contract 54321.  Has not assigned copyright to the government, but has
+    signed ARL Form 266, licensing his work to the government under the
+    project's license.
 
-Jacob K. Lang, jacob.k.lang@gmail.com, employer unknown.  Bug fixes,
+Jacob K. Lang, jacob.k.lang@newmail.com, employer unknown.  Bug fixes,
     documentation fixes, etc. Executed ARL Form 266 before his contributions
     were allowed into the project.
 

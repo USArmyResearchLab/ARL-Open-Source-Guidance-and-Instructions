@@ -30,20 +30,31 @@ Grant H. Incredible, grant.h.incredible@university.edu, postdoctoral researcher.
     contract 54321.  Signed an addendum to his contract to assign all
     copyright in his contributions to ARL.
 
-Jacob K. Lang, jacob.k.lang@gmail.com, employer unknown.  Bug fixes,
+Jacob K. Lang, jacob.k.lang@newmail.com, employer unknown.  Bug fixes,
     documentation fixes, etc. Executed ARL Form 266 before his contributions
     were allowed into the project.
+
+Mallory N. Oppenheimer.  MNOppenheimer@evilevilevil.com, employer unknown.
+    Bug fixes, significant new contributions of code, API improvements.
+    Executed ARL Form 266 before his contributions were allowed into the
+    project.
+
+Paulita Q. Robertson.  paulita.q.robertson@university.edu, graduate assistant.
+    Employed by University.  Bug fixes, significant new contributions of code,
+    API improvements.  Executed ARL Form 266 before her contributions were
+    allowed into the project.
 
 ## Primary accomplishments of this release
 
 Since the last major review, the following features have been added:
 
-* Dynamically distributed to heterogeneous computational assets. Version 2 of
-  ARL_libmobile_network_simulator introduced distributed simulation, but
-  required all computational assets to be the same to gain the most benefit
-  from distribution.  Version 3 has relaxed this requirement such that assets
-  as diverse as supercomputers and smart phones can all be added to the pool
-  of workers and still gain benefit from distributed simulation.
+* ARL_libmobile_network_simulator now dynamically distributes and balances the
+  work load across a potentially heterogeneous pool of computational assets.
+  Version 2 of ARL_libmobile_network_simulator introduced distributed
+  simulation, but required all computational assets to be the same to gain the
+  most benefit from distribution.  Version 3 has relaxed this requirement such
+  that assets as diverse as supercomputers and smart phones can all be added
+  to the pool of workers and still gain benefit from distributed simulation.
 * Vastly improved serialization and deserialization of executing simulations.
   Version 1 of ARL_libmobile_network_simulator provided the ability to capture
   simulation data at the end of a run, and Version 2 provided the ability to
@@ -69,9 +80,9 @@ Since the last major review, the following features have been added:
 
 ### Impact
 
-* 53 papers written, including 12 peer reviewed journal papers since the last
+* 5 papers written, including 2 peer reviewed journal papers since the last
   major review.
-* Directly cited in at least 315 papers.
+* 315 new citations since the last major review.
 * Transitioned to AMRDEC and TARDEC for their own purposes.
 * Over 15,000 individual external contributions, with 8,000 being done since
   the last major review.

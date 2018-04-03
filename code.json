@@ -33,12 +33,49 @@
                 "usageType": "openSource",
                 "exemptionText": null
             },
-            "laborHours": 477,
+            "laborHours": 350,
+            "version": "1.0.0",
+            "date": {
+                "created": "2017-02-28",
+                "lastModified": "2017-02-28",
+                "metadataLastUpdated": "2017-02-28"
+            },
+            "disclaimerText": "",
+            "disclaimerURL": ""
+        },
+        {
+            "name": "The U.S. Army Research Laboratory (ARL) Software Release Process for Unrestricted Public Release",
+            "organization": "US Army Research Laboratory",
+            "description": "This document provides procedures that ARL Government personnel MUST follow when releasing software source code and software-related material to the public, and for accepting software-related contributions from the general public.",
+            "tags": [
+                "policy"
+            ],
+            "contact": {
+                "email": "usarmy.adelphi.rdecom-arl.mbx.ARL-Open-Source-policy@mail.mil"
+            },
+            "status": "Production",
+            "vcs": "git",
+            "downloadURL": "https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions",
+            "repositoryURL": "https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions",
+            "homepageURL": "https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions",
+            "languages": [],
+            "partners": [],
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/LICENSE.txt",
+                        "name": "CC0 + Apache 2.0"
+                    }
+                ],
+                "usageType": "openSource",
+                "exemptionText": null
+            },
+            "laborHours": 490,
             "version": "2.0.0",
             "date": {
                 "created": "2017-08-30",
-                "lastModified": "2017-09-06",
-                "metadataLastUpdated": "2017-09-06"
+                "lastModified": "2018-04-03",
+                "metadataLastUpdated": "2018-04-03"
             },
             "disclaimerText": "",
             "disclaimerURL": ""

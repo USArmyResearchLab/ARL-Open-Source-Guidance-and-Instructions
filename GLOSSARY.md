@@ -22,10 +22,11 @@ private company or university to work together on research and development.
 
 <a name="82768998C17C11E68A44003EE1B763F8"></a>**Contributor License Agreement
 (CLA)** A legally binding contract that a contributor signs that describes the
-rights being transferred with the work that a contributor is giving.
+rights being licensed and/or transferred with the work that a contributor is
+giving.
 
 <a name="836F8E9CC17C11E6910F003EE1B763F8"></a>**Creative Commons Zero (CC0)**
-license A license that, as far as is legally permitted in a jurisdiction,
+license. A license that, as far as is legally permitted in a jurisdiction,
 places a work in the public domain.
 
 <a name="84E523E4C17C11E6B04B003EE1B763F8"></a>**Department of Defense (DOD)**
@@ -55,7 +56,8 @@ Committee (IEC)** The committee at ARL charged with deciding if patent
 protection should be pursued for an invention.
 
 <a name="8D39E250C17C11E6BD62003EE1B763F8"></a>**Intellectual property (IP)**
-Anything that can be trademarked, copyrighted, or patented under U.S. law.
+Anything that can be trademarked, copyrighted, patented or treated as a trade
+secret under U.S. law.
 
 <a name="8DEFC60CC17C11E6A55D003EE1B763F8"></a>**International Traffic in Arms
 Regulations (ITAR)** Regulations controlling the export and import of defense-
@@ -71,7 +73,9 @@ The office at ARL responsible for presenting ARL to the public.
 
 <a name="90A678DEC17C11E68CD0003EE1B763F8"></a>**Principal developer (PD)**
 The developer or developers of a software package that is being proposed for
-release under this process.
+release under this process.  These developers have all contributed more than a
+"de minimus" contribution to the project.  These may be ARL employees,
+contractors, or external persons.
 
 <a name="91933F1EC17C11E6AE5A003EE1B763F8"></a>**Point of contact (POC)** The
 PD or PDs that serve as contacts for questions regarding the project.  In

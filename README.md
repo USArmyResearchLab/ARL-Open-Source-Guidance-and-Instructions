@@ -14,40 +14,8 @@ become part of a future official policy.
 ARL is providing this policy on GitHub both to guide ARL's employees, and to
 make the policy itself available for other agencies that are developing their
 own policy.  Please feel free to fork and modify this policy to meet your own
-agency's needs.  If you reference this policy in your papers or other works,
-please cite it via the DOI (TBD).
-
-# Table of Contents
-
-* [Definitions](#20721692C17C11E69585003EE1B763F8)
-* [Goals and Rationale](#21147298C17C11E6BA7B003EE1B763F8)
-    * [Why Releasing Software is Important](#22AFD814C17C11E6BAC9003EE1B763F8)
-    * [Issues Related to Releasing Source Code](#25060DEEC17C11E6B53F003EE1B763F8)
-        * [OPSEC and Security](#267B9930C17C11E6AAEE003EE1B763F8)
-        * [Intellectual Property Issues](#29EF7A14C17C11E69F71003EE1B763F8)
-        * [Liability and Fitness for Purpose](#2D0B7162C17C11E6BD34003EE1B763F8)
-        * [Licensing and the ARL Contributor License Agreement (ARL CLA)](#2DF49A4AC17C11E69E3A003EE1B763F8)
-* [Release Instructions](#32B21988C17C11E687F7003EE1B763F8)
-    * [Major Reviews](#3449D4BEC17C11E68DD1003EE1B763F8)
-        * [Informal Approval](#37D9C8B4C17C11E6AE38003EE1B763F8)
-        * [Code Cleanup and Release Preparation](#3981656EC17C11E6B2AE003EE1B763F8)
-        * [File an ARL Form 1](#4066B47EC17C11E6BFC7003EE1B763F8)
-        * [Intellectual Property Review](#45A6CE62C17C11E6A6C0003EE1B763F8)
-        * [Obtain Invention Evaluation Committee (IEC) Approval](#433214A2C17C11E6952E003EE1B763F8)
-        * [Distribution Methods](#476F65D4C17C11E69E2F003EE1B763F8)
-        * [Final Release and Principal Developer Responsibilities](#49715508C17C11E69019003EE1B763F8)
-    * [Minor Reviews](#4ADBEADCC17C11E6B9BC003EE1B763F8)
-    * [Incorporating External Contributions](#4D5F4B34C17C11E6ADBB003EE1B763F8)
-    * [A Note on Impact and Metrics](#A_Note_on_Impact_and_Metrics)
-        * [Evidence of Impact](#5092761CC17C11E6B23A003EE1B763F8)
-        * [Software Maturity and Software Engineering](#53A23266C17C11E6BEEE003EE1B763F8)
-* [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](#55B06322C17C11E6920E003EE1B763F8)
-* [Contributor License Agreement (CLA)](#D3DC705AC3C411E6BBB4003EE1B763F8)
-* [Legal Analysis - Software Protection & Release Mechanisms](#D18EB61EC23E11E692E5003EE1B763F8)
-* [Glossary](#CDCCBA76C23E11E6AB7D003EE1B763F8)
-* [Footnotes](#93338EDCC17C11E6B720003EE1B763F8)
-
-# <a name="20721692C17C11E69585003EE1B763F8"></a>Definitions
+agency's or component's needs.  If you reference this policy in your papers or
+other works, please cite it via the DOI (TBD).
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD",
 "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be
@@ -55,6 +23,53 @@ interpreted as described in RFC 2119.  See RFC 2119 "Key words for use in RFCs
 to Indicate Requirement Levels", Request for Comments: 2119; Internet
 Engineering Task Force, March 1997 (https://tools.ietf.org/html/rfc2119) for
 the complete definitions.
+
+Complete instructions for how to release software and related materials under
+this policy are in the document [INSTRUCTIONS.md](INSTRUCTIONS.md).
+Individuals that wish to release material under this policy MUST follow the
+instructions in [INSTRUCTIONS.md](INSTRUCTIONS.md).
+
+Goals and rationale for this policy can be found in the
+[RATIONALE.md](RATIONALE.md) document.  The information in that document is
+for informational purposes only.  While it isn't required reading, reading it
+may clarify why the policy has been written as it has been.
+
+# Suggesting Changes To This Policy
+
+Change requests generally fall into one of three categories, which are
+compatible with the [Semantic Versioning
+2.0.0](https://semver.org/spec/v2.0.0.html) standard:
+
+* Patch - These are usually spelling or grammar fixes that do not change the meaning of any part of the policy.
+* Minor - These modify the policy such that it no longer has the same meaning as it originally did.  The changes 'add to' the current policy in a manner that is fully compatible with the original policy.
+* Major - These modify the policy such that the new policy no longer has the same meaning as the original policy, and which are incompatible with the original policy.
+
+If a change request is a patch, it can generally be applied immediately by the
+policy maintainers.  Other requests will require review by ARL management.
+**If the request is major or minor, you MUST read the current policy in full
+before making the request!** This policy was written to address the legal and
+regulatory issues affecting ARL, as well as to advance its own goals.
+Suggestions that would cause ARL to be in violation of the laws and
+regulations it operates under WILL be rejected immediately; suggestions that
+violate the goals may or may not be rejected, but will depend on ARL
+management for a final decision.
+
+To make the request, you MAY do one of the following:
+
+* File an issue on the [issues page](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/issues) on GitHub.com outlining the issue and asking the policy maintainers to fix it themselves.
+* Fork the policy, fix the issue yourself, and then file a pull request.  Note that this option will require you to execute and return a copy of [ARL Form 266](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/ARL%20Form%20-%20266.pdf) before your changes will be accepted.
+
+# Comments and Suggestions For Other Agencies and Components
+
+As mentioned earlier, this policy was written to meet ARL's goals and legal
+requirements.  As such, it may not be an ideal fit for other agencies, or even
+other US Department of Defense (DOD) components.  Before adopting it for your
+own agency or component, consult with your local legal counsel for advice on
+how to adapt it to your own needs.  You MAY contact ARL for suggestions, but
+your own legal counsel's advice MUST take precedence over any suggestions
+offered by ARL.
+
+* [Footnotes](#93338EDCC17C11E6B720003EE1B763F8)
 
 # <a name="21147298C17C11E6BA7B003EE1B763F8"></a>Goals and Rationale
 

@@ -201,12 +201,12 @@ theoretically possible for ARL to hold contributors to account for any
 contribution they give to ARL; this include liability, warranty, and support
 for their contribution.
 
-For this reason, ARL has created ARL Form 266, the [ARL Contributor License
-Agreement (CLA)](ARL Form - 266.pdf).  This form both settles all IP and
-payment questions regarding contributions from external contributors, and
-releases external contributors from having to support their contributions.
-All external contributors MUST execute and return a CLA to ARL before their
-contributions can be accepted by any project.
+For this reason, ARL has created ARL Form 266, the
+[ARL Contributor License Agreement (CLA)](ARL%20Form%20-%20266.pdf).  This
+form both settles all IP and payment questions regarding contributions from
+external contributors, and releases external contributors from having to
+support their contributions. All external contributors MUST execute and return
+a CLA to ARL before their contributions can be accepted by any project.
 
 # <a name="93338EDCC17C11E6B720003EE1B763F8"></a>Footnotes
 

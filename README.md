@@ -18,10 +18,14 @@ to Indicate Requirement Levels", Request for Comments: 2119; Internet
 Engineering Task Force, March 1997 (https://tools.ietf.org/html/rfc2119) for
 the complete definitions.
 
+# Instructions
+
 Complete instructions for how to release software and related materials under
 this policy are in the document [INSTRUCTIONS.md](INSTRUCTIONS.md).
 Individuals that wish to release material under this policy MUST follow the
 instructions in [INSTRUCTIONS.md](INSTRUCTIONS.md).
+
+# Goals and Rationale
 
 Goals and rationale for this policy can be found in the
 [RATIONALE.md](RATIONALE.md) document.  The information in that document is

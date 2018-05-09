@@ -54,7 +54,7 @@ of others, and protect the Intellectual Property (IP) rights of ARL.
 
 ARL faces a number of issues when defining a software release process.
 Legal and regulatory issues are fully outlined in [Legal Analysis - Software
-Protection & Release Mechanisms](#D18EB61EC23E11E692E5003EE1B763F8), while
+Protection & Release Mechanisms](LEGAL_ANALYSIS.md), while
 other issues are summarized here.
 
 ### <a name="267B9930C17C11E6AAEE003EE1B763F8"></a>OPSEC and Security
@@ -112,7 +112,7 @@ use can imply to a consumer that a trademark owner is providing or endorsing a
 product when they are not.  Provided no such implication is made when using
 trademarks owned by others, ARL should be relatively safe.  More on various
 trademark issues can be found in [Legal Analysis - Software Protection &
-Release Mechanisms](#D18EB61EC23E11E692E5003EE1B763F8).
+Release Mechanisms](LEGAL_ANALYSIS.md).
 
 #### Copyright
 

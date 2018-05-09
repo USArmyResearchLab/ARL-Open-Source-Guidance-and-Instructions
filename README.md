@@ -294,6 +294,12 @@ The major review process MUST be followed if any of the following are true:
 * The project's scope has changed sufficiently that any of the principal
   developers, their OPSEC officers, or anyone in their chains of command
   believe a new one ought to be filed.
+* There are legal issues that need to be reviewed.
+* New inventions (inventions that have not already been disclosed in a prior
+  major review) are being described.
+* The project is being archived.  In this case, this is likely to be the final
+  review of the project.
+* A project that was archived is being restarted.
 
 ### <a name="37D9C8B4C17C11E6AE38003EE1B763F8"></a>Informal Approval
 
@@ -307,30 +313,33 @@ consult ARL's Chief Counsel's Office for help.  Projects that cannot be given
 a release statement of "Approved for public release; distribution unlimited"
 MUST NOT go through this process.
 
-### <a name="3981656EC17C11E6B2AE003EE1B763F8"></a>Code Cleanup and Release Preparation
+### <a name="FBD310E6377C11E891F1003EE1B763F8"></a>Complete ARL Form TBD
 
-Fast-moving projects often accumulate useless, nonfunctional, or otherwise
-undesirable code and other material that needs to be cleaned up.  Before
-moving forward with the formal portions of the process, the project MUST be
-cleaned up to ensure it meets certain minimum standards.  Remember that a
-formal review can only be done on what is actually being released, so cleaning
-up the code after the formal review is not an option.  If a project is being
-formulated, but does not yet have any code associated with it, this section
-SHOULD be used as a guide for how to write the software.
+ARL Form TBD is used to perform a Major Review.  The guidance in this section
+supplements the instructions in that form.
+
+#### <a name="3981656EC17C11E6B2AE003EE1B763F8"></a>Code Cleanup and Release Preparation
 
 This section applies to everything that is being released, including any older
 commits in any repositories.  By design, repositories preserve history, which
 can include material that should not be published.  It is the responsibility
 of the project's developers to ensure that both the current code and any
 history in any repositories that are proposed for release have been properly
-scrubbed before the material is reviewed for release.
+scrubbed before the material is reviewed for release.  Remember that a formal
+review can only be done on what is actually being released, so cleaning up the
+code after the formal review is not an option.  If a project is being
+formulated, but does not yet have any code associated with it, this section
+SHOULD be used as a guide for how to write the software.
 
-Software that is released to the public is similar to a publication and SHOULD
-be treated like one.  The developer(s) MUST ensure that there is no
-embarrassing, disparaging, or otherwise unprofessional language in what is
-released. Language that would not be used in a professional journal MUST NOT
-be used in software.  Direct any questions about this to the ARL Public
-Affairs Office (PAO).
+Fast-moving projects often accumulate useless, nonfunctional, or otherwise
+undesirable code and other material that needs to be cleaned up.  Before
+moving forward with the rest of the process, the project MUST be cleaned up to
+ensure it meets certain minimum standards.  Software that is released to the
+public is similar to a publication and SHOULD be treated like one.  The
+developer(s) MUST ensure that there is no embarrassing, disparaging, or
+otherwise unprofessional language in what is released. Language that would not
+be used in a professional journal MUST NOT be used in software.  Direct any
+questions about this to the ARL Public Affairs Office (PAO).
 
 Where possible, it is wise to follow best practices in software engineering.
 Because of the wide variety of programming languages in use, project goals,
@@ -357,14 +366,14 @@ for clarification.
 Once the license is chosen, the developer(s) MUST provide copies of the
 license text in a file named `LICENSE.txt` at the root of the project's
 repository. This MUST contain both the text of the OSI-approved license and
-the CC0 license.  The `LICENSE.txt` MUST also contain a notice that those
+the CC0 license.  The `LICENSE.txt` file MUST also contain a notice that those
 portions of the material that do not have copyright attached within the
 jurisdiction of the United States of America are distributed under the terms
 of the CC0 license, and that all other portions of the work are distributed
 under the terms of the OSI-approved license in the `LICENSE.txt` file.  An
 example of how this can be done for the CC0 license and the [Apache
 2.0](http://apache.org/licenses/LICENSE-2.0) license is given in the
-[LICENSE.txt](LICENSE.txt) file.
+[LICENSE.txt](LICENSE.txt) file of this guidance.
 
 The `LICENSE.txt` file MUST be a plain-text file in either ASCII or UTF-8
 encoding.  The README file (described below) MUST state the name of the file
@@ -428,7 +437,7 @@ file MUST follow the schema described
 example of a correctly formatted `code.json` file is provided
 [here](code.json).  Download and modify it to fit your project.
 
-### <a name="4066B47EC17C11E6BFC7003EE1B763F8"></a>File an ARL Form 1
+#### <a name="4066B47EC17C11E6BFC7003EE1B763F8"></a>File an ARL Form 1
 
 An ARL Form 1 MUST be filed.  In the process described in this document, the
 primary purpose of the ARL Form 1 is for OPSEC review, but it also serves the
@@ -514,7 +523,7 @@ either. To be cleared for release, the project as a whole MUST receive an
 
 No one is permitted to OPSEC-approve material that he or she created.
 
-### <a name="45A6CE62C17C11E6A6C0003EE1B763F8"></a>Intellectual Property Review
+#### <a name="45A6CE62C17C11E6A6C0003EE1B763F8"></a>Intellectual Property Review
 
 Although ARL MAY choose to waive ARL's rights to any IP established in
 software, if a developer has incorporated contributions from others, those
@@ -551,7 +560,7 @@ it may not be possible to release the software.
 
 This step MAY be done in parallel with the steps described below.
 
-### <a name="433214A2C17C11E6952E003EE1B763F8"></a>Obtain Invention Evaluation Committee (IEC) Approval
+#### <a name="433214A2C17C11E6952E003EE1B763F8"></a>Obtain Invention Evaluation Committee (IEC) Approval
 
 ARL may have IP interests in the software.  Before the software can be
 released, the IEC MUST determine that it is in the best interest of the

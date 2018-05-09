@@ -11,14 +11,14 @@ public.  The `master` branch of this repository is the only official document;
 all other branches are for discussion and development only, and may or may not
 become part of a future official policy.
 
+# Instructions
+
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD",
 "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be
 interpreted as described in RFC 2119.  See RFC 2119 "Key words for use in RFCs
 to Indicate Requirement Levels", Request for Comments: 2119; Internet
 Engineering Task Force, March 1997 (https://tools.ietf.org/html/rfc2119) for
 the complete definitions.
-
-# Instructions
 
 Complete instructions for how to release software and related materials under
 this policy are in the document [INSTRUCTIONS.md](INSTRUCTIONS.md).

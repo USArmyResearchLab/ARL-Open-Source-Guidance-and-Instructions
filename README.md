@@ -44,9 +44,14 @@ Change requests generally fall into one of three categories, which are
 compatible with the [Semantic Versioning
 2.0.0](https://semver.org/spec/v2.0.0.html) standard:
 
-* Patch - These are usually spelling or grammar fixes that do not change the meaning of any part of the policy.
-* Minor - These modify the policy such that it no longer has the same meaning as it originally did.  The changes 'add to' the current policy in a manner that is fully compatible with the original policy.
-* Major - These modify the policy such that the new policy no longer has the same meaning as the original policy, and which are incompatible with the original policy.
+* Patch - These are usually spelling or grammar fixes that do not change the
+  meaning of any part of the policy.
+* Minor - These modify the policy such that it no longer has the same meaning
+  as it originally did.  The changes 'add to' the current policy in a manner
+  that is fully compatible with the original policy.
+* Major - These modify the policy such that the new policy no longer has the
+  same meaning as the original policy, and which are incompatible with the
+  original policy.
 
 If a change request is a patch, it can generally be applied immediately by the
 policy maintainers.  Other requests will require review by ARL management.
@@ -60,8 +65,14 @@ management for a final decision.
 
 To make the request, you MAY do one of the following:
 
-* File an issue on the [issues page](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/issues) on GitHub.com outlining the issue and asking the policy maintainers to fix it themselves.
-* Fork the policy, fix the issue yourself, and then file a pull request.  Note that this option will require you to execute and return a copy of [ARL Form 266](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/blob/master/ARL%20Form%20-%20266.pdf) before your changes will be accepted.
+* File an issue on the
+  [issues page](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions/issues)
+  on GitHub.com outlining the issue and asking the policy maintainers to fix
+  it themselves.
+* Fork the policy, fix the issue yourself, and then file a pull request.  Note
+  that this option will require you to execute and return a copy of
+  [ARL Form 266](ARL%20Form%20-%20266.pdf) before your changes will be
+  accepted.
 
 # Comments and Suggestions For Other Agencies and Components
 

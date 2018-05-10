@@ -6,11 +6,10 @@
     * [Major Reviews](#3449D4BEC17C11E68DD1003EE1B763F8)
         * [Informal Approval](#37D9C8B4C17C11E6AE38003EE1B763F8)
         * [Code Cleanup and Release Preparation](#3981656EC17C11E6B2AE003EE1B763F8)
-        * [Distribution Methods](#476F65D4C17C11E69E2F003EE1B763F8)
         * [Final Release and Principal Developer Responsibilities](#49715508C17C11E69019003EE1B763F8)
     * [Minor Reviews](#4ADBEADCC17C11E6B9BC003EE1B763F8)
     * [Incorporating External Contributions](#4D5F4B34C17C11E6ADBB003EE1B763F8)
-    * [A Note on Impact and Metrics](#A_Note_on_Impact_and_Metrics)
+    * [A Note on Impact and Metrics](#E35C9838545611E88F19A8968AF26C7C)
         * [Evidence of Impact](#5092761CC17C11E6B23A003EE1B763F8)
         * [Software Maturity and Software Engineering](#53A23266C17C11E6BEEE003EE1B763F8)
 * [Contributor License Agreement (CLA)](#D3DC705AC3C411E6BBB4003EE1B763F8)
@@ -60,15 +59,15 @@ MUST NOT go through this process.
 
 ### <a name="FBD310E6377C11E891F1003EE1B763F8"></a>Complete ARL Form TBD
 
-[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.0.pdf) is used to perform a
+[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf) is used to perform a
 Major Review.  **The guidance in this section supplements the instructions in
 that form.**  The guidance here is intended to explain and expand
-understanding, it is not intended to replace the instructions in [ARL Form
-TBD](ARL%20Major%20Release%20Form%200.6.0.pdf).
+understanding, it is not intended to replace the instructions in
+[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf).
 
 #### <a name="3981656EC17C11E6B2AE003EE1B763F8"></a>Code Cleanup and Release Preparation
 
-On [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.0.pdf), Part C, Box
+On [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf), Part C, Box
 1a and 1b applies to everything that is being released, including any older
 commits in any repositories.  By design, repositories preserve history, which
 can include material that should not be published.  It is the responsibility
@@ -100,21 +99,19 @@ etc., ARL wants to avoid forcing a single process on any developers or group.
 For this reason, ARL has chosen a minimal set of requirements and provides
 some best practice suggestions.  Individual implementation of the voluntary
 portions is RECOMMENDED as they may have an effect on impact and performance
-metrics.  See [A Note on Impact and Metrics](#A_Note_on_Impact_and_Metrics)
+metrics.  See [A Note on Impact and Metrics](#E35C9838545611E88F19A8968AF26C7C)
 for details on performance metrics.
 
-As discussed at [Licensing and the ARL Contributor License Agreement (ARL
-CLA)](#2DF49A4AC17C11E69E3A003EE1B763F8), all projects will have their
-material licensed under both the CC0 license, and a license that is both
-approved by OSI and the ARL Chief Counsel's Office. The developer(s) MUST
-consult with the ARL Chief Counsel's Office when selecting an OSI-approved
-license. All contributions that have copyright attached MUST be licensed to
-ARL under the OSI-approved license chosen by the project's developer(s), and
-they MUST be redistributed under the same license when the software is
-redistributed. Works that do not have copyright attached MUST be accepted and
-redistributed under the CC0 + patent waiver license. All contributions MUST be
-irrevocable under the given license.  Questions about this can be directed to
-ARL Legal for clarification.
+All projects will have their material licensed under both the CC0 license, and
+a license that is both approved by OSI and the ARL Chief Counsel's Office. The
+developer(s) MUST consult with the ARL Chief Counsel's Office when selecting
+an OSI-approved license. All contributions that have copyright attached MUST
+be licensed to ARL under the OSI-approved license chosen by the project's
+developer(s), and they MUST be redistributed under the same license when the
+software is redistributed. Works that do not have copyright attached MUST be
+accepted and redistributed under the CC0 + patent waiver license. All
+contributions MUST be irrevocable under the given license.  Questions about
+this can be directed to ARL Legal for clarification.
 
 Once the license is chosen, the developer(s) MUST provide copies of the
 license text in a file named `LICENSE.txt` at the root of the project's
@@ -138,10 +135,10 @@ has a webpage, the licenses being used MUST be stated somewhere on the
 webpage, with a link pointing to the project's `LICENSE.txt` file.
 
 A "README" file MUST be created in the top level directory of the project. The
-"README" file MUST be a plain-text file in either ASCII or UTF-8 encoding. The
-file may be named "README", "README.txt", or "README.md".  As a note, if the
+README file MUST be a plain-text file in either ASCII or UTF-8 encoding. The
+file may be named `README`, `README.txt`, or `README.md`.  As a note, if the
 developers choose to use [GitHub](https://github.com) as the distribution
-method, it is RECOMMENDED that the file be named "README.md", and that the
+method, it is RECOMMENDED that the file be named `README.md`, and that the
 file be written in [GitHub-flavored
 Markdown](https://guides.github.com/features/mastering-markdown/).  Throughout
 this document the file will be called "README" regardless of what suffix is
@@ -153,7 +150,7 @@ following in it:
 * A note pointing to the license or contract covering the software.
 * At least some basic documentation on how to build and use the software.
 * A verbatim copy of the text given in the instructions for
-  [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.0.pdf), Part C, Box 1e.
+  [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf), Part C, Box 1e.
   See [Incorporating External Contributions](#4D5F4B34C17C11E6ADBB003EE1B763F8)
   for more information.
 
@@ -197,11 +194,11 @@ your project.  You MAY use the official [code.gov](https://code.gov)
 [schema validation tool](https://code.gov/#/policy-guide/docs/compliance/inventory-code/tools/validate-schema)
 to verify that your `code.json` file is written correctly.
 
-#### <a name="4066B47EC17C11E6BFC7003EE1B763F8"></a>Write An Abstract To Be Filed with [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.0.pdf)
+#### <a name="4066B47EC17C11E6BFC7003EE1B763F8"></a>Write An Abstract To Be Filed with [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf)
 
-An [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.0.pdf) MUST be filed.
-The abstract allows developers to expand on their answers to questions in [ARL
-Form TBD](ARL%20Major%20Release%20Form%200.6.0.pdf), as well as provide
+An [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf) MUST be filed.
+The abstract allows developers to expand on their answers to questions in
+[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf), as well as provide
 evidence of the impact that their project has had.  This can have an effect on
 the developer's performance reviews. The abstract SHOULD be relatively short,
 and provide the following information:
@@ -214,17 +211,18 @@ and provide the following information:
 * The list of all individuals and corporations that have made more than a 'de
   minimus' contribution to this release.'De minimus' is a legal term meaning
   'more than a minimum'; if there are questions about what meets this bar,
-  consult with the ARL Chief Counsel's Office.See the instructions for [ARL
-  Form TBD](ARL%20Major%20Release%20Form%200.6.0.pdf), Part C, Box 2 for more
-  information on what needs to be listed here.This list can include, but is
-  not limited to ARL employees, contractors, postdocs, external contributors,
-  and external corportations.  If you are unsure if an entity should be listed
-  here, consult with the ARL Chief Counsel's Office to make a determination.
+  consult with the ARL Chief Counsel's Office.See the instructions for
+  [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf), Part C, Box 2 for
+  more information on what needs to be listed here.This list can include, but
+  is not limited to ARL employees, contractors, postdocs, external
+  contributors, and external corportations.If you are unsure if an entity
+  should be listed here, consult with the ARL Chief Counsel's Office to make a
+  determination.
 * Any significant accomplishments since the last time a
-  [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.0.pdf) was filed for this
+  [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf) was filed for this
   project.  If this is the first time that a
-  [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.0.pdf) is being filed,
-  then you MAY put in a short explanation similar to "This is the first
+  [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf) is being filed,
+  then you SHOULD put in a short explanation similar to "This is the first
   public release of this project, therefore this section is not applicable."
 * A list of all material that is being distributed with the project that was
   not developed by the individuals and corporations listed earlier. This
@@ -252,13 +250,17 @@ will be used throughout the rest of this process, so it MUST be as accurate
 and complete as possible.
 
 As noted above, if this is not the first major review of this project then
-developers should document the major accomplishments of this project since the
+developers SHOULD document the major accomplishments of this project since the
 last major review was done.  This documentation provides supervisors the
 information they need to give proper credit on performance reviews.  Note that
 while ARL wants to credit developers for the impact the software has made, it
 will not "double count" what developers have done by including the impact from
 earlier major reviews.  Only the impact made since the last time the major
-review process was completed for the project MAY be included.
+review process was completed for the project MAY be included.  See
+[A Note on Impact and Metrics](#E35C9838545611E88F19A8968AF26C7C) for more
+information about the kinds of impact statements ARL is looking for.
+
+#### <a name="FD7CE8AE545511E8A015A8968AF26C7C"></a> OPSEC Review
 
 This abstract, along with everything planned on being released (software,
 source code, documentation, etc.), MUST be fully reviewed by a level 1 OPSEC
@@ -272,10 +274,41 @@ either. To be cleared for release, the project as a whole MUST receive an
 
 No one is permitted to OPSEC-approve material that he or she created.  This is
 why there are two OPSEC signature lines in
-[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.0.pdf), Section 2.  If one
+[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf), Section 2.  If one
 of the OPSEC reviewers is also a developer on the project, then he or she MAY
 NOT review material that he or she created; a second OPSEC reviewer must
 review and sign off on that material.
+
+ARL encourages all developers to become level 1 OPSEC reviewers.  This allows
+developers to engage in modified pair or group programming, with one person
+creating content and another person on the same team verifying it as it is
+produced.  See the section on
+[Minor Reviews](#4ADBEADCC17C11E6B9BC003EE1B763F8) for more information.
+
+#### <a name="EDD1767A545711E8B3C0A8968AF26C7C"></a> Supervisor Review
+
+The lead developer's first-line supervisor reviews the form and attached abstract
+for the following:
+
+* To ensure that the form and abstract have been completed correctly.
+* To certify that the material being proposed for release can, to the best of
+  the supervisor's knowledge, be legally released.
+* To rate the impact of the project since the last time an
+  [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf) was filled out for
+  this project.
+
+Certification of the release is similar to signing an ARL Form 1; it is a
+check that the proper steps have been taken.  Supervisors MUST review the
+[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf) and attached
+abstract. Supervisors MAY review the material proposed for release, but are
+not required to.
+
+To rate the impact of a project, review the evidence presented by the
+developers in the attached abstract.  The rating SHOULD only cover the impact
+since the last time an [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf)
+was filed for this project.  If this is the first time the project is being
+released, select the `N/A` checkbox.  More information can be found in the
+section [A Note on Impact and Metrics](#E35C9838545611E88F19A8968AF26C7C).
 
 #### <a name="45A6CE62C17C11E6A6C0003EE1B763F8"></a>Intellectual Property Review
 
@@ -287,97 +320,91 @@ the following questions MUST be addressed:
 
 * Has every part of the proposed release been generated by Government
   employees in the course of their duties?
-* If not, is there permission from every other rights holder to release all of
-  the other parts under the project's license?
+* If not, is there permission from all of the other rights holders to release
+  all of the other parts under the project's license?
 
-The principal developer(s) MUST consult with ARL Legal to perform an IP review
-(this review MAY be done by email or any other convenient and legal means).
-If there are external contributions that were not contributed under the
-project's license, then the principal developer(s) MUST determine the license
-and copyright information for each contribution. Provide these to ARL Legal
-for review and final determination if the licenses are compatible with the
-license or contract under which the software is being released.  If ARL Legal
-determines that there are impediments to releasing the software, whatever
-permissions are necessary MUST be obtained before the software is released.
-If it is not possible to obtain the necessary permissions, then the software
-MUST NOT be released.  Do not continue with the rest of this process.  If ARL
-Legal agrees that there are no IP impediments to releasing the software, then
-ARL Legal MUST send a digitally signed email to the principal developer(s)
-stating so.
+The lead developer MUST consult with ARL Legal to perform an IP review (this
+review MAY be done by email or any other convenient and legal means). If there
+are external contributions that were not contributed under the project's
+license, then the lead developer MUST determine the license and copyright
+information for each contribution. Provide these to ARL Legal for review and
+final determination if the licenses are compatible with the license or
+contract under which the software is being released.  If ARL Legal determines
+that there are impediments to releasing the software, whatever permissions are
+necessary MUST be obtained before the software is released. If it is not
+possible to obtain the necessary permissions, then the software MUST NOT be
+released.  Do not continue with the rest of this process.
 
 Note that copyright protection attaches to all literary works, including
 software, when they are created<sup>[3](#Footnote_3)</sup>.  This includes
 software copied off of blogs, sites like http://stackoverflow.com/, and any
 other sources.  If such code or documentation has been copied into a project
 without permission and permission from the rights holder cannot be obtained,
-it may not be possible to release the software.
-
-This step MAY be done in parallel with the steps described below.
+it may not be possible to release the software as-is.  If it is possible to
+remove or rewrite the offending material, then it may be possible to release
+the project.
 
 #### <a name="433214A2C17C11E6952E003EE1B763F8"></a>Obtain Invention Evaluation Committee (IEC) Approval
 
 ARL may have IP interests in the software.  Before the software can be
 released, the IEC MUST determine that it is in the best interest of the
 Government and ARL to waive any IP rights that ARL might have and release them
-to the public.  To do so, the principal developer(s) MUST inform the current
-chair of the IEC (or the chair's delegate) of the intention to release the
-software by sending the chair a digitally signed email that contains the
-following:
+to the public.  For the IEC to perform this duty, the abstract must contain a
+complete list of inventions that have been created since the last time a
+[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf).  For each invention,
+briefly explain what the invention is, why it is novel and could be patented,
+and then explain why it is in ARL's best interest to not pursue a patent
+application on the invention.  Developers only need to list those inventions
+that have been created since the last time an
+[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf) was filed.  If there
+are no inventions being declared, then this section should have a phrase
+similar to "There are no new inventions to declare in this work" to show to
+IEC member that this step wasn't forgotten.
 
-* The abstract that was submitted as a part of the ARL Form 1 process above.
-  The related software is not sent to the IEC chair (or the chair's delegate)
-  unless he or she requests it. As explained in the section
-  [File an ARL Form 1](#4066B47EC17C11E6BFC7003EE1B763F8) This MUST contain a
-  list of all software-related inventions that the principal developer(s) and
-  his or her supervisor believe are contained in the
-  work<sup>[2](#Footnote_2)</sup>.  If there are no inventions, then this MUST
-  be noted as well so that the IEC will know that this requirement was not
-  skipped.
-* For each invention, an explanation of why the principal developer(s) and
-  their supervisor(s) believe that it is in the best interest of ARL and
-  Government to waive ARL's IP rights and place the inventions irrevocably
-  into the public domain.
-
-If the chair (or the chair's delegate) agrees that ARL should waive any patent
-or other IP interests ARL may have, then the chair (or the chair's delegate)
-will reply back with a digitally signed email with a statement similar to the
-following:
-
-`<<Software name>> is to be released to the public in the manner (open source
-and/or public domain) proposed for promoting its commercial and non-commercial
-use. It is in the best interest of the government to waive any and all patent
-rights ARL may be able to assert or establish in the software.`
-
-If the principal developer(s) has received approval from IEC chair (or the
-chair's delegate), then the principal developer(s) MAY continue with the rest
-of this process.
+Once the list has been created as above, and all prior steps have been
+completed, give the [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf)
+and abstract to your directorates IEC representative for review and signing.
+The current list of IEC members can be found on ARLInside
+[here](https://arlinside.arl.army.mil/inside/labops/ChiefCounsel/documents/IEC-Member-Listing.doc)<sup>[4](#Footnote_4)</sup>.
 
 If the IEC chair (or the chair's delegate) believes that ARL has IP interests
-that ARL wants protected, then the principal developer(s) and the chair (or
-the chair's delegate) MUST discuss the issues to determine how to move
-forward.  This discussion MAY be performed by email, telephone, or any other
-convenient and legal means. Records of the final determination MUST be kept by
-the principal developer(s).  If it is determined to be in the best interests
-of ARL and the Government to seek patent protection, then the rest of this
-process does not apply.  Do not continue with the rest of this process.
+that ARL wants protected, then the lead developer and the chair (or the
+chair's delegate) MUST discuss the issues to determine how to move forward.
+This discussion MAY be performed by email, telephone, or any other convenient
+and legal means. Records of the final determination MUST be kept by the lead
+developer.  If it is determined to be in the best interests of ARL and the
+Government to seek patent protection, then the rest of this process does not
+apply.  Do not continue with the rest of this
+process<sup>[5](#Footnote_5)</sup>.
 
-To determine the appropriate person to contact within the IEC, consult ARL
-Legal.
+If the IEC chair (or the chair's delegate) agrees that it is in ARL's best
+interest to waive all patent rights that ARL may have in the inventions, then
+that person MUST sign the
+[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf).
 
-### <a name="476F65D4C17C11E69E2F003EE1B763F8"></a>Distribution Methods
+#### <a name="3F226F34548511E8AE39A8968AF26C7C"></a>Repository Creation on GitHub
 
-There are many different ways of distributing software.  The ARL GitHub site
-is the RECOMMENDED method, but is not the only method.  The principal
-developers MAY choose to distribute by FTP, email, another website, or other
-means, in addition to or in place of GitHub.  For any and all distribution
-methods chosen, the principal developer(s) are responsible for creating their
-own accounts.  If the distribution method uses email addresses as part of the
-sign up process, then the principal developer(s) MUST use their Government
-email addresses.  All login accounts MUST be reported to the principal
-developer(s)' supervisors.  Passwords MUST be kept secret.  If a site uses
-cryptographic authentication such as public/private key pairs, principal
-developer(s) MAY choose to use this facility in addition to, or instead of,
-passwords.  Private keys MUST be treated like passwords and kept secret.
+If a repository for the project does not already exist on
+[ARL's organizational site](https://github.com/usarmyresearchlab), then the
+Technology Transfer Office will create a repository for the project.
+Ownership of the repository will be shared with the lead developer and
+designated officers within the Technology Transfer Office. Further individuals
+MAY be added or removed as needed by either the lead developer or the
+Technology Transfer office.
+
+Project owners are not required to host their projects on GitHub; they may
+choose to host the material on any legal site, and distribute by any legal
+means.  However, if project owners choose not to use GitHub, they MUST still
+create a minimal project on GitHub consisting of the following:
+
+* A `README.md` file as described [above](#3981656EC17C11E6B2AE003EE1B763F8),
+  that gives a link to where the real repository can be found.
+* A `LICENSE.txt` file as described [above](#3981656EC17C11E6B2AE003EE1B763F8).
+* A `code.json` file as described [above](#3981656EC17C11E6B2AE003EE1B763F8).
+
+The reason for this skeleton project is to simplify automated indexing of
+ARL's projects by [code.gov](http://code.gov/) and
+[code.mil](https://www.code.mil/).
 
 Where possible, it is strongly RECOMMENDED that projects be distributed via
 the ARL GitHub site.  This will make it significantly easier to gauge the
@@ -386,41 +413,23 @@ and by a supervisor, which will impact performance metrics.  This will also
 simplify compliance with
 [M-16-21 MEMORANDUM FOR THE HEADS OF DEPARTMENTS AND AGENCIES](https://code.gov/#/policy-guide/policy/introduction).
 
-### <a name="49715508C17C11E69019003EE1B763F8"></a>Final Release and Principal Developer Responsibilities
-
-If the software is approved for final release and there is not yet a project
-for it on GitHub, then the T2O2 will generate a project on the [ARL GitHub
-organization site](https://github.com/USArmyResearchLab).  If there is already
-a project on the ARL GitHub organization for the software, then the T2O2 will
-note the release for metrics purposes, but will take no other action.  If a
-developer chooses not to use the ARL GitHub organization site, he or she MAY
-request that the T2O2 not create a project.  However, as mentioned in
-Distribution Methods, it is strongly RECOMMENDED that GitHub be used to
-distribute software.
-
-The principal developer(s) SHOULD put their software on their project's site.
-The T2O2 will publicize this site on behalf of the principal developer(s). The
-software MAY also be distributed by any and all other methods the principal
-developer(s) see fit.  The principal developer(s) MAY promote their projects
-on their own, but SHOULD do so in consultation with the T2O2, to both ensure
-that all promotions are professional in nature and minimize any duplication of
-effort.
-
 If the principal developer(s) choose to use GitHub as a distribution method
-for their software, then the principal developer(s) are responsible for
-generating a digital object identifier (DOI) for the release.  The
-instructions to do so are at
-https://guides.github.com/activities/citable-code/.
-It is RECOMMENDED that all releases have a DOI associated with them to
-facilitate citations of the software.
+for their software, then they are responsible for generating a digital object
+identifier (DOI) for the release.  The instructions to do so are at
+https://guides.github.com/activities/citable-code/.  If the principal
+developer(s) choose to use a different method of distribution, they still
+SHOULD create a DOI for their releases.  Contact either the T2O2 or ARL's Open
+Source Software policy team for suggestions on how to do this.  It is
+RECOMMENDED that all releases have a DOI associated with them to facilitate
+citations of the software.
 
 ## <a name="4ADBEADCC17C11E6B9BC003EE1B763F8"></a>Minor Reviews
 
 Minor reviews are for the publication of any material that the principal
 developer(s), their OPSEC officer(s), and their supervisor(s) do not believe
 require a major review.  These include bug fixes and minor updates.  A level-1
-OPSEC officer must review the material before it is published.  These reviews
-are called "minor reviews" and are subject to the following:
+OPSEC officer MUST review the material before it is published.  These reviews
+are subject to the following:
 
 * The OPSEC officer MAY also be the technical reviewer for the release.
 * Only if the project as a whole, including the minor changes being proposed
@@ -429,7 +438,9 @@ are called "minor reviews" and are subject to the following:
 
 The process for a minor release is as follows:
 
-* The person who created the material sends it to the OPSEC reviewer.
+* The person who created the material either sends it to the level 1 OPSEC
+  reviewer directly, or gives the location where the material can be found to
+  the level 1 OPSEC reviewer.
 * The OPSEC reviewer reviews the material and sends a digitally signed email
   back to the creator stating whether or not it may be released.
 * If the material may be released, then the creator pushes the material out to
@@ -437,11 +448,11 @@ The process for a minor release is as follows:
 
 Note that there are numerous methods of sending the material.  If the material
 is stored under git, and both the creator and the OPSEC officer have access to
-the same private repository<sup>[4](#Footnote_4)</sup>, then the creator MAY
-choose to push to the private repository and ask the OPSEC officer to pull it
-and review the changes.  Alternatively, git bundles MAY be used, or one could
-even email text files.  Regardless of the method chosen, there are two
-requirements that MUST be met:
+the same private repository<sup>[6](#Footnote_6)</sup>, then the creator MAY
+choose to push the changes to the private repository and ask the OPSEC officer
+to pull it and review the changes.  Alternatively, git bundles MAY be used, or
+one could even email text files.  Regardless of the method chosen, there are
+two requirements that MUST be met:
 
 * The chosen method MUST uniquely identify the set of changes under
   discussion.  Examples include the complete git commit hash under discussion,
@@ -468,14 +479,27 @@ External contributions do not need to undergo OPSEC review as they are assumed
 to be public at the time of contribution.  They SHOULD be reviewed for quality
 purposes before being accepted into a project to ensure that they are
 professional in nature and perform as expected.  All external contributors
-MUST have a CLA (see [ARL CLA](#2DF49A4AC17C11E69E3A003EE1B763F8)) on file
-before their contributions are accepted into the project.  A CLA only needs to
-be executed once by each legal entity for a given project.  Project owners
-MUST turn over executed CLAs to the T2O2 for record keeping.  Project owners
-MUST explain in the README file that external contributors MUST execute a CLA
-before their contributions will be accepted.
+MUST have a CLA (see
+[Contributor License Agreement (CLA)](#D3DC705AC3C411E6BBB4003EE1B763F8)) on
+file before their contributions are accepted into the project.  A CLA only
+needs to be executed once by each legal entity for a given project.  Project
+owners MUST turn over executed CLAs to the T2O2 for record keeping.  Project
+owners MUST explain in the README file that external contributors MUST execute
+a CLA before their contributions will be accepted; this is done by copying the
+following text into their `README.md` file verbatim:
 
-## <a name="A_Note_on_Impact_and_Metrics"></a>A Note on Impact and Metrics
+```text
+This is an Open Source project sponsored by the U.S. Army Research Laboratory.
+If you choose to contribute to this project, you must execute and return a
+copy of ARL Form 266, the ARL Contributor License Agreement, prior to your
+first contribution to this project (you are not required to execute ARL Form
+266 more than once for a particular project). All contributions you make will
+only be accepted under the terms in the "LICENSE.txt" file accompanying this
+project.  Your providing any contributions to this project is affirmative
+acceptance of all terms in the "LICENSE.txt" file.
+```
+
+## <a name="E35C9838545611E88F19A8968AF26C7C"></a>A Note on Impact and Metrics
 
 Publishing software as a regular business practice is new territory for ARL,
 and how to measure a project's impact is still a matter for debate.  While
@@ -524,6 +548,11 @@ changes since the project was last filed.
 Below are some examples of evidence principal developer(s) MAY wish to
 consider giving:
 
+* Customers that are using the software, provided they permit their names to
+  be listed.  Army customers are especially important as ARL is the **Army**
+  Research Laboratory.
+* Letters of acknowledgment, thanks, or other forms of recognition.  This is
+  especially important if the letters come from Army customers.
 * The number of citations of different releases.  It is possible to cite
   releases on GitHub just as papers might be cited.  See
   https://guides.github.com/activities/citable-code/ for more information on
@@ -531,13 +560,10 @@ consider giving:
 * If a project is a library or something else that is intended to be
   incorporated into other projects, list those projects and describe their
   importance.
-* Customers that are using the software, provided they permit their names to
-  be listed.
 * The number of followers, including the level of interest as measured by
   issues opened and persons contacting the principal developer(s).
 * The number of forks.
 * The number of contributions from outside (non-ARL) sources.
-* Letters of acknowledgment, thanks, or other forms of recognition.
 * Software maturity.
 
 The principal developer(s) should not feel that they are limited to these
@@ -549,11 +575,16 @@ will make the final decision on how heavily to weight the chosen metrics.  For
 example, the number of citations for a software project is more important than
 the number of downloads it has. If a project is a library, then the number and
 importance of projects using the library will have greater weight than the
-number of people that have forked the project<sup>[5](#Footnote_5)</sup>.
+number of people that have forked the project<sup>[7](#Footnote_7)</sup>.
 
 In general, supervisors will want to know how a project has made a difference
 in the world and how important that difference has been since its last major
 review.  The better evidence provided, the easier this becomes.
+
+Finally, note that your accomplishments are also ARL's accomplishments; ARL
+senior leadership may showcase your projects to leaders even further up the
+chain of command.  For this reason, evidence of positive impact on the US Army
+is given extra weight over other types of evidence.
 
 ### <a name="53A23266C17C11E6BEEE003EE1B763F8"></a>Software Maturity and Software Engineering
 
@@ -587,7 +618,7 @@ relates to performance metrics.
 # <a name="D3DC705AC3C411E6BBB4003EE1B763F8"></a>Contributor License Agreement (CLA)
 
 The ARL Contributor License Agreement (ARL Form 266) can be found
-[here](ARL%20Form%20-%20266.pdf)<sup>[6](#Footnote_6)</sup>. Each external
+[here](ARL%20Form%20-%20266.pdf)<sup>[8](#Footnote_8)</sup>. Each external
 contributor must execute and return a copy for each project that he or she
 intends to contribute to.  Once ARL receives the executed form, it will remain
 in force permanently.  Thus, external contributors need only execute the form
@@ -606,14 +637,23 @@ contains the license.
 <sup><a name="Footnote_3">3</a></sup> Excluding works generated by Government
 employees in the course of their duties.
 
-<sup><a name="Footnote_4">4</a></sup> A private repository is only accessible
+<sup><a name="Footnote_4">4</a></sup> This link will only work if you are able
+to log in to ARLInside.
+
+<sup><a name="Footnote_5">5</a></sup> If the IEC member delegated to sign this
+form refuses to on the basis that one or more inventions should be patented,
+then ARL expects that reasonable efforts be made to patent the inventions;
+refusing to sign this form and refusing to assist in pursuing a patent will
+lead to serious questions being asked of the IEC member.
+
+<sup><a name="Footnote_6">6</a></sup> A private repository is only accessible
 from within ARL; it MUST NOT be publicly accessible!
 
-<sup><a name="Footnote_5">5</a></sup> As an example, if a library is only
+<sup><a name="Footnote_7">7</a></sup> As an example, if a library is only
 used within the Linux kernel, it will have been used by very few projects, but
 will have an extraordinary impact.
 
-<sup><a name="Footnote_6">6</a></sup> This form may not preview correctly in
+<sup><a name="Footnote_8">8</a></sup> This form may not preview correctly in
 your browser.  If you have trouble opening the file, or if the file has a
 phrase similar to "Please wait... If this message is not eventually replaced
 by...", then try downloading the form and opening it in the latest version of

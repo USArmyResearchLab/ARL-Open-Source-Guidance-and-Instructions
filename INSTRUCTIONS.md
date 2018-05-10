@@ -1,12 +1,11 @@
+# Instructions
+
 # Table of Contents
 
 * [Release Instructions](#32B21988C17C11E687F7003EE1B763F8)
     * [Major Reviews](#3449D4BEC17C11E68DD1003EE1B763F8)
         * [Informal Approval](#37D9C8B4C17C11E6AE38003EE1B763F8)
         * [Code Cleanup and Release Preparation](#3981656EC17C11E6B2AE003EE1B763F8)
-        * [File an ARL Form 1](#4066B47EC17C11E6BFC7003EE1B763F8)
-        * [Intellectual Property Review](#45A6CE62C17C11E6A6C0003EE1B763F8)
-        * [Obtain Invention Evaluation Committee (IEC) Approval](#433214A2C17C11E6952E003EE1B763F8)
         * [Distribution Methods](#476F65D4C17C11E69E2F003EE1B763F8)
         * [Final Release and Principal Developer Responsibilities](#49715508C17C11E69019003EE1B763F8)
     * [Minor Reviews](#4ADBEADCC17C11E6B9BC003EE1B763F8)
@@ -61,12 +60,16 @@ MUST NOT go through this process.
 
 ### <a name="FBD310E6377C11E891F1003EE1B763F8"></a>Complete ARL Form TBD
 
-ARL Form TBD is used to perform a Major Review.  The guidance in this section
-supplements the instructions in that form.
+[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.0.pdf) is used to perform a
+Major Review.  **The guidance in this section supplements the instructions in
+that form.**  The guidance here is intended to explain and expand
+understanding, it is not intended to replace the instructions in [ARL Form
+TBD](ARL%20Major%20Release%20Form%200.6.0.pdf).
 
 #### <a name="3981656EC17C11E6B2AE003EE1B763F8"></a>Code Cleanup and Release Preparation
 
-This section applies to everything that is being released, including any older
+On [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.0.pdf), Part C, Box
+1a and 1b applies to everything that is being released, including any older
 commits in any repositories.  By design, repositories preserve history, which
 can include material that should not be published.  It is the responsibility
 of the project's developers to ensure that both the current code and any
@@ -74,18 +77,22 @@ history in any repositories that are proposed for release have been properly
 scrubbed before the material is reviewed for release.  Remember that a formal
 review can only be done on what is actually being released, so cleaning up the
 code after the formal review is not an option.  If a project is being
-formulated, but does not yet have any code associated with it, this section
-SHOULD be used as a guide for how to write the software.
+formulated, but does not yet have any code associated with it, then these
+questions SHOULD be used as a guide for how to write the material that is
+planned for release.
 
-Fast-moving projects often accumulate useless, nonfunctional, or otherwise
-undesirable code and other material that needs to be cleaned up.  Before
-moving forward with the rest of the process, the project MUST be cleaned up to
-ensure it meets certain minimum standards.  Software that is released to the
-public is similar to a publication and SHOULD be treated like one.  The
-developer(s) MUST ensure that there is no embarrassing, disparaging, or
-otherwise unprofessional language in what is released. Language that would not
-be used in a professional journal MUST NOT be used in software.  Direct any
-questions about this to the ARL Public Affairs Office (PAO).
+All material that cannot receive a distribution statement of "Approved for
+public release; distribution is unlimited" MUST be removed before continuing
+with the rest of the process.  Material that SHOULD be removed includes
+useless, nonfunctional, or otherwise undesirable code and other material that
+shouldn't be released to the public.  Before moving forward with the rest of
+the process, the project MUST be cleaned up to ensure it meets certain minimum
+standards.  Software that is released to the public is similar to a
+publication and SHOULD be treated like one.  The developer(s) MUST ensure that
+there is no embarrassing, disparaging, or otherwise unprofessional language in
+what is released. Language that would not be used in a professional journal
+MUST NOT be used in software.  Direct any questions about this to the ARL
+Public Affairs Office (PAO).
 
 Where possible, it is wise to follow best practices in software engineering.
 Because of the wide variety of programming languages in use, project goals,
@@ -105,9 +112,9 @@ license. All contributions that have copyright attached MUST be licensed to
 ARL under the OSI-approved license chosen by the project's developer(s), and
 they MUST be redistributed under the same license when the software is
 redistributed. Works that do not have copyright attached MUST be accepted and
-redistributed under the CC0 license. All contributions MUST be irrevocable
-under the given license.  Questions about this can be directed to ARL Legal
-for clarification.
+redistributed under the CC0 + patent waiver license. All contributions MUST be
+irrevocable under the given license.  Questions about this can be directed to
+ARL Legal for clarification.
 
 Once the license is chosen, the developer(s) MUST provide copies of the
 license text in a file named `LICENSE.txt` at the root of the project's
@@ -119,7 +126,10 @@ of the CC0 license, and that all other portions of the work are distributed
 under the terms of the OSI-approved license in the `LICENSE.txt` file.  An
 example of how this can be done for the CC0 license and the [Apache
 2.0](http://apache.org/licenses/LICENSE-2.0) license is given in the
-[LICENSE.txt](LICENSE.txt) file of this guidance.
+[LICENSE.txt](LICENSE.txt) file of this guidance.  Preapproved licenses can be
+found in the [preapproved_licenses](preapproved_licenses) directory.  Follow
+the directions in the [README](preapproved_licenses/README.md) in that
+directory for how to use the licenses.
 
 The `LICENSE.txt` file MUST be a plain-text file in either ASCII or UTF-8
 encoding.  The README file (described below) MUST state the name of the file
@@ -138,12 +148,13 @@ this document the file will be called "README" regardless of what suffix is
 used on the actual file.  The "README" file must contain at least the
 following in it:
 
-* The intended purpose of the software.
+* The name of the project
+* A description of the project's purpose.
 * A note pointing to the license or contract covering the software.
 * At least some basic documentation on how to build and use the software.
-* An explanation that external contributors MUST execute a CLA before their
-  contributions will be accepted.  See
-  [Incorporating External Contributions](#4D5F4B34C17C11E6ADBB003EE1B763F8)
+* A verbatim copy of the text given in the instructions for
+  [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.0.pdf), Part C, Box 1e.
+  See [Incorporating External Contributions](#4D5F4B34C17C11E6ADBB003EE1B763F8)
   for more information.
 
 In addition, the "README" SHOULD describe what valuable contributions the
@@ -179,56 +190,48 @@ manner adds some degree of trademark protection to a project.
 
 Create a file called `code.json` in the root directory of your project.  This
 file MUST follow the schema described
-[here](https://code.gov/#/policy-guide/docs/compliance/inventory-code). An
-example of a correctly formatted `code.json` file is provided
-[here](code.json).  Download and modify it to fit your project.
+[here](https://code.gov/#/policy-guide/docs/compliance/inventory-code).
+An example of a correctly formatted
+`code.json` file is provided [here](code.json).  Download and modify it to fit
+your project.  You MAY use the official [code.gov](https://code.gov)
+[schema validation tool](https://code.gov/#/policy-guide/docs/compliance/inventory-code/tools/validate-schema)
+to verify that your `code.json` file is written correctly.
 
-#### <a name="4066B47EC17C11E6BFC7003EE1B763F8"></a>File an ARL Form 1
+#### <a name="4066B47EC17C11E6BFC7003EE1B763F8"></a>Write An Abstract To Be Filed with [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.0.pdf)
 
-An ARL Form 1 MUST be filed.  In the process described in this document, the
-primary purpose of the ARL Form 1 is for OPSEC review, but it also serves the
-secondary purposes of describing releases for publicity and metrics.  To
-support this, a short abstract describing the software MUST be written.  The
-abstract SHOULD be at most one page in length and provide the following
-information:
+An [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.0.pdf) MUST be filed.
+The abstract allows developers to expand on their answers to questions in [ARL
+Form TBD](ARL%20Major%20Release%20Form%200.6.0.pdf), as well as provide
+evidence of the impact that their project has had.  This can have an effect on
+the developer's performance reviews. The abstract SHOULD be relatively short,
+and provide the following information:
 
-* The name of the project.
+* The name of the project.  This MAY be copied directly from the project's
+  `README.md`.
 * A description of the project.  This includes what it does and what its
-  intended purpose is.  This SHOULD be as complete as is reasonably possible.
-  Portions of the "README" file MAY be copied here.
-* If this is not the first time that this project has undergone a major
-  review, list what necessitated the current review.  Reasons might be simple
-  such as "annual review", or may be more complicated, such as the scope of a
-  project changing sufficiently that a security review is warranted.  Major
-  accomplishments are also a good reason for a review as a major review is the
-  only way to document performance for performance metrics (see
-  [A Note on Impact and Metrics](#A_Note_on_Impact_and_Metrics) for more
-  information).
-* Answers to the following questions so that the ARL Chief Counsel's Office
-  can do an intellectual property review (see
-  [Intellectual Property Review](#45A6CE62C17C11E6A6C0003EE1B763F8) for more
-  information):
-    * A list of all contributors and their employment affiliation at the time
-      of their contribution.  Note that a contribution is material given to
-      the project directly; it doesn't include code copied by the project's
-      owners from external sources.
-      * If there is more than one contributor, did they each intend to merge
-        their contributions at the time they made them into a unified joint
-        work? (yes/no).  If you have questions about this, consult the ARL
-        Chief Counsel's office.
-    * Does the software contain, or is it based on, code not owned by the U.S.
-      Government?  (e.g., an ARL contractor, an Open Source contributor, code
-      copied from external sites).  If the project does contain code not owned
-      by the US Government, list out the code and code's owner.  If the code
-      was downloaded under a license (e.g., the Linux kernel, which is
-      distributed under the GPL version 2), list the code and the license
-      instead of the contributors.  If the software was provided by an ARL
-      contractor, provide the contract number.  In general, provide enough
-      information so that the ownership and licensing of all code not owned by
-      the US Government can be determined.
-    * Has any version of the software been previously distributed outside of
-      ARL?  If yes, please explain the circumstances.
-    * Which OSI-approved license is the code being released under.
+  intended purpose is.  This SHOULD be reasonably complete without being
+  excessively verbose.  Portions of the "README" file MAY be copied here.
+* The list of all individuals and corporations that have made more than a 'de
+  minimus' contribution to this release.'De minimus' is a legal term meaning
+  'more than a minimum'; if there are questions about what meets this bar,
+  consult with the ARL Chief Counsel's Office.See the instructions for [ARL
+  Form TBD](ARL%20Major%20Release%20Form%200.6.0.pdf), Part C, Box 2 for more
+  information on what needs to be listed here.This list can include, but is
+  not limited to ARL employees, contractors, postdocs, external contributors,
+  and external corportations.  If you are unsure if an entity should be listed
+  here, consult with the ARL Chief Counsel's Office to make a determination.
+* Any significant accomplishments since the last time a
+  [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.0.pdf) was filed for this
+  project.  If this is the first time that a
+  [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.0.pdf) is being filed,
+  then you MAY put in a short explanation similar to "This is the first
+  public release of this project, therefore this section is not applicable."
+* A list of all material that is being distributed with the project that was
+  not developed by the individuals and corporations listed earlier. This
+  material is often material downloaded or copied from the internet, or may be
+  copied from old code that developers had available. The licenses that govern
+  each piece of material must be given so that the ARL Chief Counsel's Office
+  can review it.
 * A list of all software-related inventions that the developers believe
   patents could be pursued for, and reasons for why ARL should waive its
   rights to pursue a patent on each.  This will help the Invention Evaluation
@@ -251,11 +254,11 @@ and complete as possible.
 As noted above, if this is not the first major review of this project then
 developers should document the major accomplishments of this project since the
 last major review was done.  This documentation provides supervisors the
-information they need to give proper credit on performance reviews.   Note
-that while ARL wants to credit developers for the impact the software has
-made, it will not "double count" what developers have done by including the
-impact from earlier major reviews.  Only the impact made since the last time
-the major review process was completed for the project MAY be included.
+information they need to give proper credit on performance reviews.  Note that
+while ARL wants to credit developers for the impact the software has made, it
+will not "double count" what developers have done by including the impact from
+earlier major reviews.  Only the impact made since the last time the major
+review process was completed for the project MAY be included.
 
 This abstract, along with everything planned on being released (software,
 source code, documentation, etc.), MUST be fully reviewed by a level 1 OPSEC
@@ -267,7 +270,12 @@ cannot be cleared for release, then the changes are not cleared for release
 either. To be cleared for release, the project as a whole MUST receive an
 "Approved for public release; distribution unlimited" statement.
 
-No one is permitted to OPSEC-approve material that he or she created.
+No one is permitted to OPSEC-approve material that he or she created.  This is
+why there are two OPSEC signature lines in
+[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.0.pdf), Section 2.  If one
+of the OPSEC reviewers is also a developer on the project, then he or she MAY
+NOT review material that he or she created; a second OPSEC reviewer must
+review and sign off on that material.
 
 #### <a name="45A6CE62C17C11E6A6C0003EE1B763F8"></a>Intellectual Property Review
 

@@ -21,8 +21,6 @@
 * [Instructions for Contractors](#F0D2571854AC11E89E58A8968AF26C7C)
 * [Instructions for External Contributors](#722E5CD854B111E8B298A8968AF26C7C)
 * [ARL Contributor License Agreement (CLA)](#D3DC705AC3C411E6BBB4003EE1B763F8)
-* [Legal Analysis - Software Protection & Release Mechanisms](LEGAL_ANALYSIS.md)
-* [Glossary](GLOSSARY.md)
 * [Footnotes](#93338EDCC17C11E6B720003EE1B763F8)
 
 # <a name="32B21988C17C11E687F7003EE1B763F8"></a>Instructions for Government Employees

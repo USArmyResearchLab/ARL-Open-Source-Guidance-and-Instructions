@@ -2,22 +2,30 @@
 
 # Table of Contents
 
-* [Release Instructions](#32B21988C17C11E687F7003EE1B763F8)
+* [Instructions for Government Employees](#32B21988C17C11E687F7003EE1B763F8)
     * [Major Reviews](#3449D4BEC17C11E68DD1003EE1B763F8)
         * [Informal Approval](#37D9C8B4C17C11E6AE38003EE1B763F8)
-        * [Code Cleanup and Release Preparation](#3981656EC17C11E6B2AE003EE1B763F8)
-        * [Final Release and Principal Developer Responsibilities](#49715508C17C11E69019003EE1B763F8)
+        * [Complete ARL Form TBD](#FBD310E6377C11E891F1003EE1B763F8)
+            * [Code Cleanup and Release Preparation](#3981656EC17C11E6B2AE003EE1B763F8)
+            * [Write An Abstract To Be Filed with ARL Form TBD](#4066B47EC17C11E6BFC7003EE1B763F8)
+            * [Level 1 OPSEC Review](#FD7CE8AE545511E8A015A8968AF26C7C)
+            * [Supervisor Review](#EDD1767A545711E8B3C0A8968AF26C7C)
+            * [Intellectual Property Review](#45A6CE62C17C11E6A6C0003EE1B763F8)
+            * [Invention Evaluation Committee (IEC) Approval](#433214A2C17C11E6952E003EE1B763F8)
+            * [Repository Creation on GitHub](#3F226F34548511E8AE39A8968AF26C7C)
     * [Minor Reviews](#4ADBEADCC17C11E6B9BC003EE1B763F8)
     * [Incorporating External Contributions](#4D5F4B34C17C11E6ADBB003EE1B763F8)
     * [A Note on Impact and Metrics](#E35C9838545611E88F19A8968AF26C7C)
         * [Evidence of Impact](#5092761CC17C11E6B23A003EE1B763F8)
         * [Software Maturity and Software Engineering](#53A23266C17C11E6BEEE003EE1B763F8)
-* [Contributor License Agreement (CLA)](#D3DC705AC3C411E6BBB4003EE1B763F8)
+* [Instructions for Contractors](#F0D2571854AC11E89E58A8968AF26C7C)
+* [Instructions for External Contributors](#722E5CD854B111E8B298A8968AF26C7C)
+* [ARL Contributor License Agreement (CLA)](#D3DC705AC3C411E6BBB4003EE1B763F8)
 * [Legal Analysis - Software Protection & Release Mechanisms](LEGAL_ANALYSIS.md)
 * [Glossary](GLOSSARY.md)
 * [Footnotes](#93338EDCC17C11E6B720003EE1B763F8)
 
-# <a name="32B21988C17C11E687F7003EE1B763F8"></a>Release Instructions
+# <a name="32B21988C17C11E687F7003EE1B763F8"></a>Instructions for Government Employees
 
 These instructions MUST be followed when ARL personnel release software to, or
 accept contributions from, the general public.  If a project does not yet have
@@ -103,25 +111,30 @@ metrics.  See [A Note on Impact and Metrics](#E35C9838545611E88F19A8968AF26C7C)
 for details on performance metrics.
 
 All projects will have their material licensed under both the CC0 license, and
-a license that is both approved by OSI and the ARL Chief Counsel's Office. The
-developer(s) MUST consult with the ARL Chief Counsel's Office when selecting
-an OSI-approved license. All contributions that have copyright attached MUST
-be licensed to ARL under the OSI-approved license chosen by the project's
-developer(s), and they MUST be redistributed under the same license when the
-software is redistributed. Works that do not have copyright attached MUST be
-accepted and redistributed under the CC0 + patent waiver license. All
-contributions MUST be irrevocable under the given license.  Questions about
+a license that is both approved by the
+[Open Source Initiative (OSI)](https://opensource.org/) and the ARL Chief
+
+Counsel's Office. The developer(s) MUST consult with the ARL Chief Counsel's
+Office when selecting an
+[OSI-approved license](https://opensource.org/licenses). All contributions
+that have copyright attached MUST be licensed to ARL under the
+[OSI-approved license](https://opensource.org/licenses) chosen by the
+project's developer(s), and they MUST be redistributed under the same license
+when the software is redistributed. Works that do not have copyright attached
+MUST be accepted and redistributed under the CC0 + patent waiver license. All
+contributions MUST be irrevocable under the given license. Questions about
 this can be directed to ARL Legal for clarification.
 
 Once the license is chosen, the developer(s) MUST provide copies of the
 license text in a file named `LICENSE.txt` at the root of the project's
-repository. This MUST contain both the text of the OSI-approved license and
-the CC0 license.  The `LICENSE.txt` file MUST also contain a notice that those
-portions of the material that do not have copyright attached within the
-jurisdiction of the United States of America are distributed under the terms
-of the CC0 license, and that all other portions of the work are distributed
-under the terms of the OSI-approved license in the `LICENSE.txt` file.  An
-example of how this can be done for the CC0 license and the [Apache
+repository. This MUST contain both the text of the  [OSI-approved
+license](https://opensource.org/licenses) and the CC0 license.  The
+`LICENSE.txt` file MUST also contain a notice that those portions of the
+material that do not have copyright attached within the jurisdiction of the
+United States of America are distributed under the terms of the CC0 license,
+and that all other portions of the work are distributed under the terms of the
+[OSI-approved license](https://opensource.org/licenses) in the `LICENSE.txt`
+file.  An example of how this can be done for the CC0 license and the [Apache
 2.0](http://apache.org/licenses/LICENSE-2.0) license is given in the
 [LICENSE.txt](LICENSE.txt) file of this guidance.  Preapproved licenses can be
 found in the [preapproved_licenses](preapproved_licenses) directory.  Follow
@@ -260,7 +273,7 @@ review process was completed for the project MAY be included.  See
 [A Note on Impact and Metrics](#E35C9838545611E88F19A8968AF26C7C) for more
 information about the kinds of impact statements ARL is looking for.
 
-#### <a name="FD7CE8AE545511E8A015A8968AF26C7C"></a> OPSEC Review
+#### <a name="FD7CE8AE545511E8A015A8968AF26C7C"></a> Level 1 OPSEC Review
 
 This abstract, along with everything planned on being released (software,
 source code, documentation, etc.), MUST be fully reviewed by a level 1 OPSEC
@@ -344,7 +357,7 @@ it may not be possible to release the software as-is.  If it is possible to
 remove or rewrite the offending material, then it may be possible to release
 the project.
 
-#### <a name="433214A2C17C11E6952E003EE1B763F8"></a>Obtain Invention Evaluation Committee (IEC) Approval
+#### <a name="433214A2C17C11E6952E003EE1B763F8"></a>Invention Evaluation Committee (IEC) Approval
 
 ARL may have IP interests in the software.  Before the software can be
 released, the IEC MUST determine that it is in the best interest of the
@@ -615,7 +628,65 @@ software, but just as with any other claims of impact, supervisors will have
 the final say in determining how important the impact actually is as it
 relates to performance metrics.
 
-# <a name="D3DC705AC3C411E6BBB4003EE1B763F8"></a>Contributor License Agreement (CLA)
+# <a name="F0D2571854AC11E89E58A8968AF26C7C"></a>Instructions for Contractors
+
+These instructions are general suggestions and guidance only; in all cases a
+contractor's contract comes first.  When in doubt, consult your contract.
+
+In general, a contractor's works have copyright attached at the time of
+creation. This is useful as the issues regarding the lack of copyright
+protection on U.S. Government works within the jurisdiction of the United
+States discussed in [Code Cleanup and Release
+Preparation](#3981656EC17C11E6B2AE003EE1B763F8) don't apply, and the material
+can be licensed under any of the standard [OSI-approved
+license](https://opensource.org/licenses).  However, there are some potential
+pitfalls to contractor-developed code.  In particular, unless the contract
+gives the Government the necessary rights to redistribute the code, it will
+not be possible to Open Source the work.  Given this, there are several
+possibilities that may exist.
+
+First, you may have assigned your intellectual property rights to another
+party (often your employer).  In this case, your employer must agree to either
+assign the Government the necessary rights, or it must execute the
+[ARL Contributor License Agreement](#D3DC705AC3C411E6BBB4003EE1B763F8) so that
+the material can be contributed to an ARL sponsored Open Source project.
+
+Second, you may own the rights to any intellectual property you create.  This
+case is similar to the case above, except that you would choose to either
+assign the rights to the Government, or execute the
+[ARL Contributor License Agreement](#D3DC705AC3C411E6BBB4003EE1B763F8).
+
+In both cases, the simplest procedure is to execute the
+[ARL Contributor License Agreement](#D3DC705AC3C411E6BBB4003EE1B763F8); where
+this is legally and contractually possible, this is the preferred method.  If
+this is possible, then the you and your contracting officer representative
+(COR) (or advisor for postdocs) MAY follow the following procedure.
+
+# <a name="722E5CD854B111E8B298A8968AF26C7C"></a>Instructions for External Contributors
+
+Assuming that you own all intellectual property (IP) rights to the material
+that you wish to contribute, then the procedure is relatively simple:
+
+* Execute the
+  [ARL Contributor License Agreement](#D3DC705AC3C411E6BBB4003EE1B763F8) for
+  the project you wish to contribute to.  You only need to do this once per
+  project.
+* If you wish to contribute immediately, contact the owner of the project you
+  wish to contribute to and send them a copy of your executed
+  [ARL Contributor License Agreement](#D3DC705AC3C411E6BBB4003EE1B763F8). This
+  may be faster than going through the email address in the instructions for
+  the [ARL Contributor License Agreement](#D3DC705AC3C411E6BBB4003EE1B763F8).
+* Issue pull requests, patches, etc. to the project owners.  The project
+  owners will ultimately decide if they wish to accept your contribution.
+
+Note that it is in your best interest to execute and return a copy of the
+[ARL Contributor License Agreement](#D3DC705AC3C411E6BBB4003EE1B763F8).  The
+agreement not only protects the Government from false claims for compensation,
+it also protects you from the Government demanding future unpaid support for
+your contribution by putting the Government on notice that your contributions
+are 'AS-IS' without implication of warranty or acceptance of liability.
+
+# <a name="D3DC705AC3C411E6BBB4003EE1B763F8"></a>ARL Contributor License Agreement (CLA)
 
 The ARL Contributor License Agreement (ARL Form 266) can be found
 [here](ARL%20Form%20-%20266.pdf)<sup>[8](#Footnote_8)</sup>. Each external

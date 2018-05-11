@@ -66,15 +66,15 @@ MUST NOT go through this process.
 
 ### <a name="FBD310E6377C11E891F1003EE1B763F8"></a>Complete ARL Form TBD
 
-[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf) is used to perform a
+[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.2.pdf) is used to perform a
 Major Review.  **The guidance in this section supplements the instructions in
 that form.**  The guidance here is intended to explain and expand
 understanding, it is not intended to replace the instructions in
-[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf).
+[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.2.pdf).
 
 #### <a name="3981656EC17C11E6B2AE003EE1B763F8"></a>Code Cleanup and Release Preparation
 
-On [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf), Part C, Box
+On [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.2.pdf), Part C, Box
 1a and 1b applies to everything that is being released, including any older
 commits in any repositories.  By design, repositories preserve history, which
 can include material that should not be published.  It is the responsibility
@@ -162,7 +162,7 @@ following in it:
 * A note pointing to the license or contract covering the software.
 * At least some basic documentation on how to build and use the software.
 * A verbatim copy of the text given in the instructions for
-  [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf), Part C, Box 1e.
+  [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.2.pdf), Part C, Box 1e.
   See [Incorporating External Contributions](#4D5F4B34C17C11E6ADBB003EE1B763F8)
   for more information.
 
@@ -206,11 +206,11 @@ your project.  You MAY use the official [code.gov](https://code.gov)
 [schema validation tool](https://code.gov/#/policy-guide/docs/compliance/inventory-code/tools/validate-schema)
 to verify that your `code.json` file is written correctly.
 
-#### <a name="4066B47EC17C11E6BFC7003EE1B763F8"></a>Write An Abstract To Be Filed with [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf)
+#### <a name="4066B47EC17C11E6BFC7003EE1B763F8"></a>Write An Abstract To Be Filed with [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.2.pdf)
 
-An [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf) MUST be filed.
+An [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.2.pdf) MUST be filed.
 The abstract allows developers to expand on their answers to questions in
-[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf), as well as provide
+[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.2.pdf), as well as provide
 evidence of the impact that their project has had.  This can have an effect on
 the developer's performance reviews. The abstract SHOULD be relatively short,
 and provide the following information:
@@ -224,16 +224,16 @@ and provide the following information:
   minimus' contribution to this release.'De minimus' is a legal term meaning
   'more than a minimum'; if there are questions about what meets this bar,
   consult with the ARL Chief Counsel's Office.See the instructions for
-  [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf), Part C, Box 2 for
+  [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.2.pdf), Part C, Box 2 for
   more information on what needs to be listed here.This list can include, but
   is not limited to ARL employees, contractors, postdocs, external
   contributors, and external corportations.If you are unsure if an entity
   should be listed here, consult with the ARL Chief Counsel's Office to make a
   determination.
 * Any significant accomplishments since the last time a
-  [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf) was filed for this
+  [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.2.pdf) was filed for this
   project.  If this is the first time that a
-  [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf) is being filed,
+  [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.2.pdf) is being filed,
   then you SHOULD put in a short explanation similar to "This is the first
   public release of this project, therefore this section is not applicable."
 * A list of all material that is being distributed with the project that was
@@ -286,7 +286,7 @@ either. To be cleared for release, the project as a whole MUST receive an
 
 No one is permitted to OPSEC-approve material that he or she created.  This is
 why there are two OPSEC signature lines in
-[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf), Section 2.  If one
+[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.2.pdf), Section 2.  If one
 of the OPSEC reviewers is also a developer on the project, then he or she MAY
 NOT review material that he or she created; a second OPSEC reviewer must
 review and sign off on that material.
@@ -306,18 +306,18 @@ for the following:
 * To certify that the material being proposed for release can, to the best of
   the supervisor's knowledge, be legally released.
 * To rate the impact of the project since the last time an
-  [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf) was filled out for
+  [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.2.pdf) was filled out for
   this project.
 
 Certification of the release is similar to signing an ARL Form 1; it is a
 check that the proper steps have been taken.  Supervisors MUST review the
-[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf) and attached
+[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.2.pdf) and attached
 abstract. Supervisors MAY review the material proposed for release, but are
 not required to.
 
 To rate the impact of a project, review the evidence presented by the
 developers in the attached abstract.  The rating SHOULD only cover the impact
-since the last time an [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf)
+since the last time an [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.2.pdf)
 was filed for this project.  If this is the first time the project is being
 released, select the `N/A` checkbox.  More information can be found in the
 section [A Note on Impact and Metrics](#E35C9838545611E88F19A8968AF26C7C).
@@ -363,18 +363,18 @@ released, the IEC MUST determine that it is in the best interest of the
 Government and ARL to waive any IP rights that ARL might have and release them
 to the public.  For the IEC to perform this duty, the abstract must contain a
 complete list of inventions that have been created since the last time a
-[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf).  For each invention,
+[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.2.pdf).  For each invention,
 briefly explain what the invention is, why it is novel and could be patented,
 and then explain why it is in ARL's best interest to not pursue a patent
 application on the invention.  Developers only need to list those inventions
 that have been created since the last time an
-[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf) was filed.  If there
+[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.2.pdf) was filed.  If there
 are no inventions being declared, then this section should have a phrase
 similar to "There are no new inventions to declare in this work" to show to
 IEC member that this step wasn't forgotten.
 
 Once the list has been created as above, and all prior steps have been
-completed, give the [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf)
+completed, give the [ARL Form TBD](ARL%20Major%20Release%20Form%200.6.2.pdf)
 and abstract to your directorates IEC representative for review and signing.
 The current list of IEC members can be found on ARLInside
 [here](https://arlinside.arl.army.mil/inside/labops/ChiefCounsel/documents/IEC-Member-Listing.doc)<sup>[4](#Footnote_4)</sup>.
@@ -392,7 +392,7 @@ process<sup>[5](#Footnote_5)</sup>.
 If the IEC chair (or the chair's delegate) agrees that it is in ARL's best
 interest to waive all patent rights that ARL may have in the inventions, then
 that person MUST sign the
-[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.1.pdf).
+[ARL Form TBD](ARL%20Major%20Release%20Form%200.6.2.pdf).
 
 #### <a name="3F226F34548511E8AE39A8968AF26C7C"></a>Repository Creation on GitHub
 

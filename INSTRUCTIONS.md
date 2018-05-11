@@ -22,6 +22,7 @@
 * [Instructions for External Contributors](#722E5CD854B111E8B298A8968AF26C7C)
 * [ARL Contributor License Agreement (CLA)](#D3DC705AC3C411E6BBB4003EE1B763F8)
 * [Footnotes](#93338EDCC17C11E6B720003EE1B763F8)
+* [Glossary](#81FF232254B411E8B256A8968AF26C7C)
 
 # <a name="32B21988C17C11E687F7003EE1B763F8"></a>Instructions for Government Employees
 
@@ -728,3 +729,7 @@ phrase similar to "Please wait... If this message is not eventually replaced
 by...", then try downloading the form and opening it in the latest version of
 Adobe® Acrobat Reader.  ARL is aware of the issue, and is working to correct
 the problem.
+
+# <a name="81FF232254B411E8B256A8968AF26C7C"></a>Glossary
+
+See the [glossary](GLOSSARY.md) for a glossary of terms.

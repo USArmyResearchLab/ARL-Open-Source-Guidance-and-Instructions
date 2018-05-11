@@ -13,6 +13,7 @@
     * [Liability and Fitness for Purpose](#2D0B7162C17C11E6BD34003EE1B763F8)
     * [Licensing and the ARL Contributor License Agreement (ARL CLA)](#2DF49A4AC17C11E69E3A003EE1B763F8)
 * [Footnotes](#93338EDCC17C11E6B720003EE1B763F8)
+* [Glossary](#52ACE78A54B411E88A0FA8968AF26C7C)
 
 # <a name="F52D6B9E54B211E89ABCA8968AF26C7C"></a>Goals
 
@@ -246,3 +247,7 @@ are.
 <sup><a name="Footnote_4">4</a></sup> At the time of this writing, this has
 not been litigated in Federal Court.  Consult the ARL Chief Counsel's Office
 to determine what the current laws are.
+
+# <a name="52ACE78A54B411E88A0FA8968AF26C7C"></a>Glossary
+
+See the [glossary](GLOSSARY.md) for a glossary of terms.
